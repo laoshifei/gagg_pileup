@@ -1,0 +1,15 @@
+{
+  "created": "2026-10-26T13:01:20.762587+08:00",
+  "test_fits_started": false,
+  "paired_aggregate_uncertainty": "Stratified bootstrap of native replicate//2 blocks: resample first20 and last20 blocks separately; share weights across energies, gaps, conditions and methods",
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 276990001,
+  "eligibility": "Point mean uses only pairs with both truth Q>=500; denominator bootstrapped with numerator",
+  "point_intervals": "Wilson95; not pooled independent exposures",
+  "no_test_time_method_or_gate_selection": true,
+  "figures": [
+    "0004-63-1",
+    "0004-63-2",
+    "0004-64-1"
+  ]
+}

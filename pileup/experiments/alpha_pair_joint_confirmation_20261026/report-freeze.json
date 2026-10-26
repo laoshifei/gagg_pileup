@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-26T13:45:10.638380+08:00",
+  "files": {
+    "report-source/alpha_pair_joint_confirmation_notebook.py": "e3a234255a58c37de8b7fb1ed4fff350acb72ea2f92ec5726c48025623bcb0a7",
+    "report-source/alpha_pair_joint_confirmation_report.py": "edb887b649a8668d8c7b20f0f8c3ba8e422d4fef594e66443242bbc2214e565c",
+    "report.py": "598c6ebcb1fa083e117314081c9132f8f048bb9942e6755e9a084b54eb1a0609",
+    "report-plan.json": "7cee63db680062a0bfa54519f64fb8b5ab644bb7e3f671df934cb61e157b067e"
+  },
+  "inference_freeze_sha256": "2b23043a8611c1bf9ebe0cd61d6b4f578a0295e39db3e853ddb0e1dacef17a29"
+}

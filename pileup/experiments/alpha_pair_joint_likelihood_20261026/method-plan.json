@@ -1,0 +1,35 @@
+{
+  "created": "2026-10-26T12:29:18.112037+08:00",
+  "variants": {
+    "old_mean_nll": {
+      "mean": "old",
+      "conserve": false,
+      "kappa": 0.0
+    },
+    "joint_conserved_nll": {
+      "mean": "conserved",
+      "conserve": true,
+      "kappa": 0.95
+    }
+  },
+  "model": "Gaussian surrogate after fixed electronics AR3 transform; first3 samples marginalized",
+  "covariance": "Candidate shot activity times calibrated gain, nearest-neighbor correlation, joint cross correlation; electronics AR3 band plus dark band; optional rank2 charge conditioning",
+  "full_likelihood": "r^T C^-1 r + logdet C; constant omitted; NLL may be negative",
+  "mean_area": "Conserved variant: every full conditional component integrates to Q times13.618501389mVns/pe",
+  "conditioning": "0.95 fixed conservative fraction; training moments of area-conserved components near0.995",
+  "gate": "Raw NLL improvement, plus-one heldout native-single rank <=0.025; fitted-Q edges1500/5000/12500pe",
+  "selection": {
+    "control_extra_fraction_max": 0.05,
+    "single_success_min": 0.95,
+    "median_abs_charge_bias_max": 0.05,
+    "weak_average_must_exceed_both_legacy_blind_methods": true,
+    "strong_max_drop_percentage_points": 2.0
+  },
+  "search": "Raw voltage0/1/2 starts; legacy tangent residual4 starts; best4 NLL gap/share starts;20iteration screening then70iteration polish of best2",
+  "attribution": "Mean, normalization, covariance, score and ranking change together; old_mean_nll is a partial ablation",
+  "training_mothers": 280,
+  "gate_mothers": 280,
+  "exposed_validation_mothers": 320,
+  "inference_frames": 1880,
+  "independent_test_not_started": true
+}
