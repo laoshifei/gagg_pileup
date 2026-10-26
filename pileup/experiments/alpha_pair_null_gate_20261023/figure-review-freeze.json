@@ -1,0 +1,9 @@
+{
+  "created": "2026-10-23T19:16:20.915383+08:00",
+  "files": {
+    "postprocessing-source/alpha_pair_null_calibration_figure.py": "b9a968ac3232a13d4e9eadc9fdab3e706f4853fcffbfb732fd6d15550c8528ff",
+    "correct_figure.py": "c0cb67b114d0fab827dd48cb621ece78d98ce4e7e92f4bed44cf848f837e2d1d"
+  },
+  "inference_unchanged": true,
+  "reason": "Match displayed empirical rank to plus-one and conservative ties"
+}

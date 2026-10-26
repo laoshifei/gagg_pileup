@@ -80,6 +80,12 @@ cd g4/build
 <a id="ml-multimethod-20261014"></a>
 同日扩展为[五种流程的共同测试](pileup/experiments/alpha_ml_multimethod_20261014/README.md)：新增U-Net、局部Transformer及CNN＋物理拟合，保留原CNN与盲拟合；两网络各训练2400步，22个新独立窗口覆盖八档源率，原17窗作回归。算法参数仅由验证集选择，完整电压输入和足够动态范围前提保持。不同率的改善并不一致，受控近邻、幅度外推失败及高密度偶然匹配均原样记录；详见[独立Notebook第二轮](jupyter/codex_0004_Alpha_Pileup_ML_Comparison_20261014.ipynb#ml-multimethod-20261014)和[采用记录L21](docs/literature-use.md#ml-multimethod-20261014)。
 
+2026-10-22 完成[条件响应与相关重拟合的独立检验](pileup/experiments/alpha_pair_conditional_20261022/README.md)：利用旧母样本标定电荷／邻居相关响应，冻结参数后另生成240个单α光学母ROOT，构造2320帧共同微胞双事件及空／单控制。中／中电荷、8 ns间隔的整对成功由旧固定模板混合的0/40提高至新GLS混合的40/40，两个冻结网络种子均如此；低Q偏差和先强后弱漏检仍明显，不能推广成普适8 ns分辨率或最高计数率。完整比较、误报控制及限制见[采用记录L50](docs/literature-use.md#alpha-pair-conditional-20261022)，本地codex_0004第41–44节保留带编号图和完整波形。
+
+2026-10-23 完成[相关权重正则化与残差新增候选](pileup/experiments/alpha_pair_residual_20261023/README.md)的独立检验：240个新光学母ROOT、2320帧、14条处理流程，网络权重保持不变。同批低Q单事件的匹配后电荷偏差中位数由原GLS的-13.59%变为-3.82%；相对原来同样允许未知K选择的条件拟合，先强后弱40 ns整对成功由0/40变为39/40、200 ns由37/40变为40/40。低Q单事件额外输出8/80；主方案未通过全部预设控制要求，完整新流程暂不替换默认方案。结果限于纯α、固定双τ、局部K≤2，详见[采用记录L51](docs/literature-use.md#alpha-pair-residual-20261023)；本地codex_0004第45–48节保存编号图与完整波形。
+
+2026-10-23 完成[真实弱α与经验增峰筛选](pileup/experiments/alpha_pair_null_gate_20261023/README.md)的独立检验：另生成320个新母ROOT、3200帧；约700 pe原生单事件Q偏差中位由-9.74%变为-0.89%，低Q单事件额外输出6/80→0/80。本批空／单控制全部通过预定要求，真实弱双事件仍有明显失败区间；原方法、仅权重调整、经验筛选及已知K诊断全部保留。范围仍限纯α、固定双τ和局部K≤2，详见[采用记录L52](docs/literature-use.md#alpha-pair-null-gate-20261023)；本地codex_0004第49–52节保留编号图与分量分轴的完整波形。
+
 <a id="alpha-gamma-mixed-20261015"></a>
 2026-10-15 新增 [α/轫致辐射 γ](pileup/experiments/alpha_gamma_brems_fit_20261015/README.md) 与 [α/661.657 keV γ](pileup/experiments/alpha_gamma_mono662_fit_20261015/README.md) 的盲拟合：α 注入 1/10 MHz、γ 均为 10 MHz，各条件 8 个独立原生共享微胞窗口。拟合未知脉冲数、时刻、电荷和类型，保持完整含噪电压输入；另有147次空/单/双脉冲控制。以下恢复要求真值Q≥500 p.e.、时间误差≤10 ns、类型正确及电荷误差≤20%，不是能量分辨率。
 

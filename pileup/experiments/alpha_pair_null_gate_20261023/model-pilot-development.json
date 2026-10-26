@@ -1,0 +1,46 @@
+{
+  "created": "2026-10-23T18:21:12.478866+08:00",
+  "reason": "Observed-pilot GLS gives about-10% weak-single charge bias; model pilot fixes the exploratory bias",
+  "pilot": "Conditional-mean OLS single fit from observation; one fixed precision for every K trial",
+  "changed_detector_parameters": false,
+  "inherited_mean": true,
+  "rho": 0.9,
+  "frames": 3120,
+  "old_pairs_per_point_per_campaign": 10,
+  "sources": [
+    {
+      "dataset": "exposed_validation",
+      "files": {
+        "jupyter/artifacts/alpha_pair_residual_20261023/validation.waveforms.npz": "8a0adaff70574c1e45ed443e148eb51e0c3f862b960901e4bf51e3833b45cdac",
+        "jupyter/artifacts/alpha_pair_residual_20261023/validation.truth.npz": "a0e0f3d96b2cf3f7dcc65d0312ae744eb8c5138f6a37d3459f501bd297f118f2",
+        "jupyter/artifacts/alpha_pair_residual_20261023/validation.cases.json": "aba87005b77a0d1bcb5524af4d3ea174c5c172633187f4a55cc206244477420f",
+        "jupyter/artifacts/alpha_pair_residual_20261023/validation.predictions.jsonl": "104649e8fb7d8c5f67b2427a189aec819b3b796faf119b00e92d9f855d8b2427"
+      }
+    },
+    {
+      "dataset": "exposed_test",
+      "files": {
+        "jupyter/artifacts/alpha_pair_residual_20261023/test.waveforms.npz": "586b07259333bb1aebafd4049990ca4d5ad53c9e098fc66349f0fd7f2b8bc259",
+        "jupyter/artifacts/alpha_pair_residual_20261023/test.truth.npz": "466cbdf7e70df8c5ce028861c68469c2dc10197a3e15689eb0136d00b64392ae",
+        "jupyter/artifacts/alpha_pair_residual_20261023/test.cases.json": "72785772dfe36a3275bf307b79d6a303fbb20770668db458f5aa5dc68f0fdc7f",
+        "jupyter/artifacts/alpha_pair_residual_20261023/test.predictions.jsonl": "5e9c98025cdf53d86b064e70a47a0e9bc4cf4a7f1443569c12683a3ae24815bb"
+      }
+    },
+    {
+      "dataset": "development",
+      "files": {
+        "jupyter/artifacts/alpha_pair_null_gate_20261023/development/observations.npz": "f42df3bb0e00e444b280685d0ab7867cb6114f17c6ed6429514e4f6e9061db27",
+        "jupyter/artifacts/alpha_pair_null_gate_20261023/development/labels.truth.npz": "177302a123db1ddbfe1462732577ec47e87713b0730a8b5bc868ab2ce1d3934f",
+        "jupyter/artifacts/alpha_pair_null_gate_20261023/development/labels.cases.json": "c7b2513e67403cc70b11abf94d3216823b18005d3550e89442b8cf72b3f367db",
+        "jupyter/artifacts/alpha_pair_null_gate_20261023/development/predictions.jsonl": "bb987b700d2115fb930555aeebc27ff1e851e398c8c45b7a75b934ec6bf09cda"
+      }
+    }
+  ],
+  "gate_candidates": [
+    "relative_residual",
+    "relative_signal"
+  ],
+  "alpha": 0.025,
+  "selection": "All control constraints; equal weight for strong-pair and weak-pair mean success",
+  "no_new_test_started": true
+}

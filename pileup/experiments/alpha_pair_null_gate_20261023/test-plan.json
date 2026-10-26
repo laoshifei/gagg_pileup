@@ -1,0 +1,71 @@
+{
+  "created": "2026-10-23T18:34:35.028967+08:00",
+  "source_energies_MeV": [
+    1.625,
+    2.5,
+    5.486,
+    8.0
+  ],
+  "native_roots_per_energy": 80,
+  "native_roots": 320,
+  "source_seed_start": 265000000,
+  "digitizer_seed_start": 265500000,
+  "conditions": [
+    "low_low",
+    "mid_mid",
+    "high_high",
+    "low_high",
+    "high_low",
+    "low_weak",
+    "weak_low",
+    "high_weak",
+    "weak_high",
+    "weak_weak"
+  ],
+  "gaps_ns": [
+    4.0,
+    8.0,
+    12.0,
+    20.0,
+    40.0,
+    80.0,
+    200.0
+  ],
+  "pairs_per_point": 40,
+  "empty_frames": 80,
+  "expected_frames": 3200,
+  "fixed_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "local_maximum_K": 2,
+  "observation": "Analog mV, 1024 samples at2ns; sufficient dynamic range",
+  "selected_method": "model_relative_residual",
+  "calibration_alpha": 0.025,
+  "birth_selection": "Empirical post-search rank replaces fixed birth penalty; unchanged zero/single detection",
+  "metrics": "Both true Q>=500pe, each Q within20%, each t within min(10ns,gap/4), no extra output",
+  "below_threshold": "Retain all generated frames; separately report how many do not have two Q>=500pe events",
+  "controls": {
+    "extra_fraction_max": 0.05,
+    "single_success_min": 0.95,
+    "abs_median_charge_bias_max": 0.05
+  },
+  "time_definition": "First photon inside active SiPM plane; not source emission or pulse maximum",
+  "examples_predeclared": [
+    {
+      "condition": "high_weak",
+      "replicate": 0,
+      "gap_ns": 40.0
+    },
+    {
+      "condition": "high_weak",
+      "replicate": 0,
+      "gap_ns": 200.0
+    }
+  ],
+  "inference_truth_inputs": [],
+  "models_retrained": false,
+  "new_test_generation_started": false,
+  "independence": "Fresh optical parents; reused across gaps/conditions; no pooled independent exposure claim",
+  "scope": "Pure central-incidence alpha and fixed lifetimes; no alpha/gamma or random high-rate claim"
+}

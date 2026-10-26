@@ -19,7 +19,7 @@ jupyter/
 *.zip
 
 # Local experiment executables, trained weights, and numerical arrays
-/pileup/experiments/*/bin/
+/pileup/experiments/**/bin/
 /pileup/experiments/**/*.pt
 /pileup/experiments/**/*.pth
 /pileup/experiments/**/*.npz

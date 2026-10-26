@@ -1,0 +1,5 @@
+{
+  "source_energy_MeV": 1.625,
+  "reason": "Initial1.5MeV median422.8pe and1.75MeV median1034.1pe bracket750pe; add midpoint",
+  "initial_report_sha256": "b68f03028069df94ab8e5bee4ab81668af2fa86da497e62927136c3a4b209e83"
+}

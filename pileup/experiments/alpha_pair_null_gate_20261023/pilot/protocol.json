@@ -1,0 +1,13 @@
+{
+  "stage": "pilot",
+  "energies_MeV": [
+    1.5,
+    1.75,
+    2.0
+  ],
+  "repetitions": 4,
+  "source_seed_start": 264000000,
+  "snapshot": "../source",
+  "inference_truth_inputs": [],
+  "physics_sha256": "7aaac8f8dd7ef13229a85512506a3b0959156be4fb3a0c32bcca960f06559294"
+}

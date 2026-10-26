@@ -1,0 +1,32 @@
+{
+  "question": "Reduce false births without deleting true 500-1000pe second events",
+  "inherited_response_and_search": true,
+  "neural_networks_retrained": false,
+  "old_tests_exposed_for_development": true,
+  "pilot_source_energies_MeV": [
+    1.5,
+    1.75,
+    2.0
+  ],
+  "pilot_per_energy": 4,
+  "pilot_seed_start": 264000000,
+  "gate_scores": [
+    "relative_residual",
+    "relative_signal"
+  ],
+  "gate_alpha": 0.025,
+  "observable_single_fit_charge_edges_pe": [
+    1500.0,
+    5000.0,
+    12500.0
+  ],
+  "calibration": "All single controls from two exposed parent campaigns plus new weak singles",
+  "source_energy_choice": "Choose pilot energy with median native Q closest to750pe; no photon scaling",
+  "validation": "Exposed old pairs plus newly simulated weak-pair development; independent test after freezing",
+  "controls": {
+    "extra_fraction_max": 0.05,
+    "single_success_min": 0.95,
+    "abs_median_charge_bias_max": 0.05
+  },
+  "scope": "Pure alpha, fixed95/351ns, local unknown K<=2, analog mV, sufficient dynamic range"
+}
