@@ -1,0 +1,81 @@
+{
+  "created": "2026-10-23T10:18:39.187475+08:00",
+  "gaps_ns": [
+    4.0,
+    8.0,
+    12.0,
+    20.0,
+    30.0,
+    40.0,
+    60.0,
+    80.0,
+    120.0,
+    200.0
+  ],
+  "energies_MeV": [
+    2.5,
+    5.486,
+    8.0
+  ],
+  "roots_per_energy": 80,
+  "pairs_per_condition_gap": 40,
+  "empty_frames": 80,
+  "source_seed_start": 263500000,
+  "digitizer_seed_start": 263510000,
+  "conditions": [
+    "low_low",
+    "mid_mid",
+    "high_high",
+    "low_high",
+    "high_low"
+  ],
+  "observation": "Analog mV, 2 ns x1024 samples, known baseline, adequate dynamic range",
+  "inference_truth_inputs": [],
+  "fixed_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "parent_independence": "Fresh optical ROOTs; parents reused across gaps/conditions, not independent exposures",
+  "metrics": "Both Q within20%, both t within min(10ns,gap/4), no extra output; Q>=500pe",
+  "q_units": "Realized avalanche-equivalent pe, not energy",
+  "false_output_budget": 0.05,
+  "count": "Unknown local0/1/2; no source-rate or true count input",
+  "validation_selection": "pileup/experiments/alpha_pair_residual_20261023/residual-selection.json",
+  "test_not_started": true,
+  "limits": "Pure alpha, fixed lifetimes; no mixed alpha/gamma or K>=3 claim",
+  "purpose": "Regularized precision and residual count expansion",
+  "selected_policy": "rho90",
+  "policies": {
+    "original": {
+      "fraction": 0.0,
+      "rho": null
+    },
+    "rho90": {
+      "fraction": 0.0,
+      "rho": 0.9
+    },
+    "rho80": {
+      "fraction": 0.0,
+      "rho": 0.8
+    }
+  },
+  "new_timing_search_radius_ns": 24.0,
+  "original_baseline_radius_ns": 16.0,
+  "examples_predeclared": [
+    {
+      "condition": "high_low",
+      "replicate": 0,
+      "gap_ns": 40.0
+    },
+    {
+      "condition": "high_low",
+      "replicate": 0,
+      "gap_ns": 200.0
+    }
+  ],
+  "development_input_sha256": "8428f2e2d214d1fe93c8258a448d9167a4905439e13632c52ba0686346b58479",
+  "development_predictions_sha256": "104649e8fb7d8c5f67b2427a189aec819b3b796faf119b00e92d9f855d8b2427",
+  "neural_runtime_preflight_sha256": "44b3b5daee0f886a88d30e01e6a28d7f96bdba8d750305754b7427b9f4a0b1d9",
+  "time_definition": "First photon inside the SiPM active plane; pair gap is between these arrivals, not emission times or maxima",
+  "single_crop_jitter": "Previous deterministic index pattern, not optical or SiPM RNG reuse"
+}

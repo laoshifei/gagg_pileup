@@ -1,0 +1,2116 @@
+{
+  "penalty": 0.003,
+  "fitting_only_penalty": 0.003,
+  "count_selection": {
+    "candidates": {
+      "chosen": {
+        "penalty": 0.003,
+        "success_fraction": 0.77,
+        "false_fractions": {
+          "all": 0.0,
+          "low": 0.025,
+          "mid": 0.0,
+          "high": 0.0
+        },
+        "eligible": true
+      },
+      "grid": [
+        {
+          "penalty": 0.0,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 1e-05,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 3e-05,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.0001,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.0003,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.001,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.003,
+          "success_fraction": 0.77,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.01,
+          "success_fraction": 0.759,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.03,
+          "success_fraction": 0.682,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.1,
+          "success_fraction": 0.62,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        }
+      ]
+    },
+    "fitting_only_candidates": {
+      "chosen": {
+        "penalty": 0.003,
+        "success_fraction": 0.552,
+        "false_fractions": {
+          "all": 0.0,
+          "low": 0.025,
+          "mid": 0.0,
+          "high": 0.0
+        },
+        "eligible": true
+      },
+      "grid": [
+        {
+          "penalty": 0.0,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 1e-05,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 3e-05,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.0001,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.0003,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.001,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.003,
+          "success_fraction": 0.552,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.025,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.01,
+          "success_fraction": 0.544,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.03,
+          "success_fraction": 0.5,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "penalty": 0.1,
+          "success_fraction": 0.497,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        }
+      ]
+    }
+  },
+  "gates": {
+    "1": {
+      "chosen": {
+        "mode": "correlated_hybrids",
+        "gap_threshold_ns": 0.0,
+        "max_log_charge_change": 10.0,
+        "success_fraction": 0.696,
+        "false_fractions": {
+          "all": 0.0,
+          "low": 0.0,
+          "mid": 0.0,
+          "high": 0.0
+        },
+        "eligible": true
+      },
+      "grid": [
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.356,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.461,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.588,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.616,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.609,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.355,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.459,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.584,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.61,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.608,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.351,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.455,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.592,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.624,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.624,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.35,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.438,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.567,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.597,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.597,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.35,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.421,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.523,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.545,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.545,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.382,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.425,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.432,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.432,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.354,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.468,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.644,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.694,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.696,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.352,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.447,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.605,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.634,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.634,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.434,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.58,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.607,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.607,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.422,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.554,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.58,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.58,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.41,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.517,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.536,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.536,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.378,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.425,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.43,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.43,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.349,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        }
+      ]
+    },
+    "2": {
+      "chosen": {
+        "mode": "correlated_hybrids",
+        "gap_threshold_ns": 0.0,
+        "max_log_charge_change": 10.0,
+        "success_fraction": 0.721,
+        "false_fractions": {
+          "all": 0.0,
+          "low": 0.0,
+          "mid": 0.0,
+          "high": 0.0
+        },
+        "eligible": true
+      },
+      "grid": [
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.358,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.418,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.587,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.632,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.617,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.358,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.417,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.585,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.631,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.624,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.418,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.583,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.636,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.636,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.408,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.547,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.585,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.585,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.392,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.498,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.525,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.525,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.381,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.451,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.463,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.463,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "mean_only_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.429,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.62,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.702,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 0.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.721,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.425,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.601,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.663,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 8.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.665,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.416,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.564,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.619,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 16.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.619,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.408,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.536,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.568,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 24.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.568,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.398,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.494,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.516,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 40.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.516,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.385,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.451,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.461,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 80.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.461,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.1,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.25,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 0.5,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 1.0,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        },
+        {
+          "mode": "correlated_hybrids",
+          "gap_threshold_ns": 1000000000.0,
+          "max_log_charge_change": 10.0,
+          "success_fraction": 0.357,
+          "false_fractions": {
+            "all": 0.0,
+            "low": 0.0,
+            "mid": 0.0,
+            "high": 0.0
+          },
+          "eligible": true
+        }
+      ]
+    }
+  },
+  "selection": "Validation parents only; mean pair success equally weights five conditions and ten gaps",
+  "false_output_budget": 0.05,
+  "truth_inputs_at_inference": [],
+  "frozen_at": "2026-10-22T18:16:03.959562+08:00"
+}
