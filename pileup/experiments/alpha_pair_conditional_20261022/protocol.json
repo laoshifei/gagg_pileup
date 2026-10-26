@@ -1,0 +1,46 @@
+{
+  "created": "2026-10-22T18:19:06.408097+08:00",
+  "gaps_ns": [
+    4.0,
+    8.0,
+    12.0,
+    20.0,
+    30.0,
+    40.0,
+    60.0,
+    80.0,
+    120.0,
+    200.0
+  ],
+  "energies_MeV": [
+    2.5,
+    5.486,
+    8.0
+  ],
+  "roots_per_energy": 80,
+  "pairs_per_condition_gap": 40,
+  "empty_frames": 80,
+  "source_seed_start": 262300000,
+  "digitizer_seed_start": 262310000,
+  "conditions": [
+    "low_low",
+    "mid_mid",
+    "high_high",
+    "low_high",
+    "high_low"
+  ],
+  "observation": "Analog mV, 2 ns x1024 samples, known baseline, adequate dynamic range",
+  "inference_truth_inputs": [],
+  "fixed_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "parent_independence": "Fresh optical ROOTs; parents reused across gaps/conditions, not independent exposures",
+  "metrics": "Both Q within20%, both t within min(10ns,gap/4), no extra output; Q>=500pe",
+  "q_units": "Realized avalanche-equivalent pe, not energy",
+  "false_output_budget": 0.05,
+  "count": "Unknown local0/1/2; no source-rate or true count input",
+  "validation_selection": "pileup/experiments/alpha_pair_conditional_20261022/selection.json",
+  "test_not_started": true,
+  "limits": "Pure alpha, fixed lifetimes; no mixed alpha/gamma or K>=3 claim"
+}
