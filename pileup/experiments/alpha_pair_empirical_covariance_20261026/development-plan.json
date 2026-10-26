@@ -1,0 +1,61 @@
+{
+  "created": "2026-10-26T10:50:30.354315+08:00",
+  "variants": {
+    "diagonal": {
+      "rank": 0,
+      "fraction": 0.0
+    },
+    "rank16_half": {
+      "rank": 16,
+      "fraction": 0.5
+    },
+    "rank16_full": {
+      "rank": 16,
+      "fraction": 0.9
+    },
+    "rank32_full": {
+      "rank": 32,
+      "fraction": 0.9
+    }
+  },
+  "covariance_training_parents": 280,
+  "gate_calibration_parents": 280,
+  "development_validation_parents": 320,
+  "development_frames": 1600,
+  "covariance_split": "Even native replicate; disjoint odd replicates for gate ranks",
+  "response_unchanged": true,
+  "neural_training": false,
+  "fixed_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "relative_covariance_grid_ns": [
+    -64.0,
+    2112.0,
+    2.0
+  ],
+  "maximum_rank": 32,
+  "covariance": "Centered native single residuals; regularized diagonal plus empirical modes",
+  "interpolation": "Linear 2ns alignment; electronic variance floor0.01mV^2; no empirical mean added to template",
+  "covariance_at_inference": "Fixed from observation-only OLS single pilot Q/t for every candidate in a frame",
+  "gate": {
+    "score": "relative_residual",
+    "alpha": 0.025,
+    "edges_pe": [
+      1500.0,
+      5000.0,
+      12500.0
+    ],
+    "require_birth_penalty": false
+  },
+  "selection": {
+    "extra_fraction_max": 0.05,
+    "single_success_min": 0.95,
+    "abs_median_charge_bias_max": 0.05,
+    "weak_mean_must_exceed_both_prior_blind_methods": true,
+    "strong_max_drop_percentage_points": 2.0
+  },
+  "development_data": "Previous null-gate independent test is exposed development; not independent evidence",
+  "control_scope": "Control acceptance uses point estimates; not a simultaneous population guarantee",
+  "scope": "Pure alpha, fixed lifetimes, local unknown K<=2; no high-rate or energy-spectrum claim"
+}

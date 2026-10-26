@@ -1,0 +1,16 @@
+{
+  "component_rows": 2120,
+  "frames": 1120,
+  "ridge": 0.03,
+  "smooth_sigma_ns": 4.0,
+  "mean_features": 9,
+  "residual_calibration": {
+    "electronic_sigma_mV": 0.1,
+    "dark_variance_mV2": 0.01,
+    "shot_coefficient_mV": 0.31276432919154346,
+    "rho": 0.9783026738158357
+  },
+  "component_relative_rmse": 0.0007514331768224392,
+  "truth_used": "Development calibration only: component ancestry, Q, first-active time",
+  "covariance": "Empirical heteroscedastic AR(1), frozen from observed pilot per frame"
+}
