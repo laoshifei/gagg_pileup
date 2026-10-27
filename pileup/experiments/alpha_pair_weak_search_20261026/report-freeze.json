@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-26T16:14:46.686054+08:00",
+  "inference_freeze_sha256": "6c2b49b6f50e4eeebda240b3b348f33444b766081fc2afa038ff48f1be8b10cd",
+  "files": {
+    "report.py": "83a87f57ea09b730726ca82c06474586bfbbeacb97d1d30ea32d315a27bd446d",
+    "report-source/alpha_pair_weak_search_report.py": "e2a72fedabc477f14c46f3c9ad77c27c035bf89c32b90693fddb8e3a67b409fe",
+    "report-source/alpha_pair_weak_search_notebook.py": "958d33d1b75b0394a3a4e93cf1007afbd7b3276d1751d4dbbf0a9aeb30d05a89"
+  },
+  "role": "Report and notebook snapshot; inference snapshot and prespecified selection unchanged; candidate selection/rank audits are posthoc descriptions"
+}

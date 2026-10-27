@@ -1,0 +1,11 @@
+{
+  "created": "2026-10-26T17:01:10.563863+08:00",
+  "inference_freeze_sha256": "6c2b49b6f50e4eeebda240b3b348f33444b766081fc2afa038ff48f1be8b10cd",
+  "previous_report_freeze_sha256": "3f9e06f96311edcd60a2bc821dda6e5b6450206b901fdbd3e3b75bbb508f6daf",
+  "files": {
+    "report_v2.py": "baf6562a9ba44cf1d682257370a7a04c751506090a224c75572ee3b5ad206e6b",
+    "report-source-v2/alpha_pair_weak_search_report.py": "41479b24b6459869b49a67f58d8e1aa41d255cb1fe756374583655809503a5ff",
+    "report-source-v2/alpha_pair_weak_search_notebook.py": "76566d950bf392ad86592612a156d88b03037d4378e3fedfde6d9069224a84f0"
+  },
+  "reason": "Add required subplot letters to figures 68-1 and 68-2, explain the verified rejection of the three correct 40ns candidates, and state the unrun next diagnostic. Inference, protocol, scoring, and selection unchanged; v1 source and delivery preserved."
+}

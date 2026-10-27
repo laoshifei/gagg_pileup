@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-26T10:14:03.582167+00:00",
+  "inference_freeze_sha256": "96482551131a5cf8076d0c356f0a97781dc8f45903eeb3cff5fb1d0887ed7279",
+  "files": {
+    "report-source/alpha_pair_model_closure_notebook.py": "43082ae517fbd789656c9cf1ed24dd73445f1dcb8b9ec79ad68a232a5816ec96",
+    "report-source/alpha_pair_model_closure_report.py": "5f1b74a23bdba544338c27020d0a8fb131a832e1dbfdc58a50a3779f70c637ef",
+    "report.py": "da4d76d381e14989a0e75b9f6b27486c8e0cafc882ff8d6b7a7760988726b694"
+  },
+  "stage": "Reporting snapshot after completed inference; analysis design was frozen in protocol.json before simulation"
+}
