@@ -1,0 +1,12 @@
+{
+  "files": {
+    "report-source-v3/alpha_pair_risk_documents.py": "4f8fd089e74763c0558747e2357e4c36da8bc3a141693e91e4fec2865a6eeff3",
+    "report-source-v3/alpha_pair_risk_notebook.py": "49b62126b421f376a2670c7c7d26c65cecd022c3c0ee87b9ddb691d887dab938",
+    "report-source-v3/alpha_pair_risk_report.py": "860895208fd334daf0ef8a3045b390c9ab361ed257f96f97bcfd21cccd85fdc8",
+    "report-source-v3/alpha_pair_risk_validate.py": "efb1f31aedc6b28450bd17d6a408311ce849f1e6c060072ac72a281e9e128ddc",
+    "report_v3.py": "fa2287b3d5dd7b037005645cf4b16b36f33271986000332f9d5e521d085f04e9"
+  },
+  "created": "2026-10-27T04:11:25.397916+00:00",
+  "purpose": "Final float64 objective replay and subplot-labelled delivery; no model/training/protocol changes",
+  "previous_report_freeze_sha256": "303d29a7393b6d53bd0d6d5bc16811f1b1f4a604581bdbf21e0036223459dbc5"
+}

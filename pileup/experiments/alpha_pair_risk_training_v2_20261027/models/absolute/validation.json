@@ -1,0 +1,17 @@
+{
+  "metrics": {
+    "forced_pair_success": 0.30333333333333334,
+    "median_abs_logQ": 0.1518500835352684,
+    "count_BCE": 0.20711557567119598,
+    "key": [
+      0.30333333333333334,
+      -0.1518500835352684,
+      -0.20711557567119598
+    ]
+  },
+  "regularization_sigma_logQ": [
+    0.25877760408554096,
+    0.31227240737404655
+  ],
+  "regularization": "68th absolute logQ residual of every validation pair, including wrong times; floor.2; same-data penalty, not independent prior"
+}

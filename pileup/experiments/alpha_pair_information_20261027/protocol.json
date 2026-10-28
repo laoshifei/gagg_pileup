@@ -1,0 +1,55 @@
+{
+  "created": "2026-10-27T00:59:25.400587+00:00",
+  "question": "Separate selecting two outputs, locating both onsets, and estimating both charges; quantify local nuisance coupling",
+  "scope": "Pure alpha;95/351ns fixed;2ns x1024 analog voltage; adequate dynamic range; existing blind K<=2 results are unchanged",
+  "data": "760 exposed native and1520 matched evaluation frames from model closure;360 distinct numerical pair parameter points; no new waveform fits or ROOTs",
+  "truth": "All information calculations condition on true Q/t and K=2. Only evaluation and diagnosis, never a blind input or operational interval",
+  "coordinates": [
+    "t1/(10ns)",
+    "t2/(10ns)",
+    "ln(Q1/pe)",
+    "ln(Q2/pe)"
+  ],
+  "information": "Fij=mu_i.T inv(C) mu_j +0.5 tr(inv(C) C_i inv(C) C_j), for the1021-dimensional FIR marginal",
+  "reference": "Inverse expected Fisher information is a local regular/unbiased bound; finite, biased, selected, nonlinear and misspecified estimators need not attain it",
+  "conditioning": [
+    "All four parameters unknown",
+    "Both true times fixed: invert charge submatrix",
+    "Strong Q/t fixed: invert weak submatrix; strong stochastic noise remains"
+  ],
+  "derivatives": {
+    "initial_step": 0.001,
+    "primary_step": 0.0005,
+    "adaptive_steps": [
+      0.00025,
+      0.000125
+    ],
+    "maximum_relative_matrix_change": 0.02,
+    "maximum_sigma_fractional_change": 0.02,
+    "scope": "Step in scaled time and logQ; retain unresolved points and piecewise-template limitations"
+  },
+  "inverse": "No pseudoinverse/ridge; record nonpositive information or condition number>1e12 as unresolved",
+  "tasks": 444,
+  "native_points": 360,
+  "nominal_points": 80,
+  "phase_points": 4,
+  "nominal_grid": "Qstrong18000pe;Qweak500/700/1500/3000pe;gaps2/4/8/12/20/40/80/120/200/400ns;both orders;first onset160.37ns",
+  "nominal_warning": "Conditional model design coordinates, not new avalanche realizations or measured performance; single sampling phase",
+  "pilot_task_ids": [
+    0,
+    160,
+    280
+  ],
+  "empirical": "Reuse native240 and Gaussian480 truth-assisted pair fits; normalize known-K and true-start weak Q/t errors and fixed-time Q errors by local information",
+  "thresholds": "Both trueQ>=500pe,eachQ within20%,eacht within min(10ns,gap/4),no extra output; no gate retuning",
+  "reference_regions": "Chi-square2 95% radius and standard-normal95% interval are local Gaussian references, not calibrated confidence intervals",
+  "figures": [
+    "0004-77-1",
+    "0004-78-1",
+    "0004-79-1",
+    "0004-80-1",
+    "0004-80-2"
+  ],
+  "decision": "Diagnostic only; no automatic replacement or new independent production",
+  "literature": "Existing Liddick2012 notes: detection vs estimation; Fixsen2004 notes: conditional means/covariances. Fisher derivation is project mathematics, not a reported GAGG result."
+}

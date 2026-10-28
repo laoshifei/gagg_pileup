@@ -1,0 +1,12 @@
+{
+  "files": {
+    "report-source-v2/alpha_pair_risk_documents.py": "e68755e1aa7ffab1a81ba9b31bc90b71c857c22fa86b550669e358b405f54e18",
+    "report-source-v2/alpha_pair_risk_notebook.py": "b5931ffc4370eb73d21638577296708e070bad27d823723c53d7dbac244cc8ed",
+    "report-source-v2/alpha_pair_risk_report.py": "f533f7c04d5f2fa0c7cdc1b01d8e5e5d7dbb217040fe2b20d327db10815f4890",
+    "report-source-v2/alpha_pair_risk_validate.py": "a80dea8bd98eaea26187875a1fe5c5e2bb4377ab0097d5929163c5cea53ff5d8",
+    "report_v2.py": "402de61766099b55f8395213a467eddd5bb356f2da1fe62191aa63543d87b7b6"
+  },
+  "created": "2026-10-27T04:03:41.076529+00:00",
+  "purpose": "Add explicit subplot letters; original scientific scoring functions unchanged",
+  "previous_report_freeze_sha256": "ff26804632ccb735032cb885633efcbf49492eb192fb84556f80056042f56d04"
+}

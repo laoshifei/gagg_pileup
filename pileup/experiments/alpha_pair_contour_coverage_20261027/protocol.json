@@ -1,0 +1,68 @@
+{
+  "created": "2026-10-27T09:53:36.663332+00:00",
+  "question": "Resolve two changing contour boundaries before repeated-sampling coverage checks",
+  "scope": "Pure alpha,fixed95/351ns,1024x2ns full analog voltage,knownK2,ordered laterQ2. Same mean,covariance,logdet,charge50-50000pe and observed-trigger local time domain.",
+  "settings": {
+    "levels": [
+      1.0,
+      4.0,
+      9.0
+    ],
+    "bracket_fraction": 0.01,
+    "endpoint_fraction": 0.01,
+    "reference_tolerance": 0.01,
+    "max_rounds": 12,
+    "local": {
+      "starts": 6,
+      "maxiter": 250
+    },
+    "grid": {
+      "starts": 4,
+      "maxiter": 150
+    },
+    "verify": {
+      "starts": 8,
+      "maxiter": 300
+    }
+  },
+  "tasks": [
+    {
+      "domain": "continuous",
+      "index": 160
+    },
+    {
+      "domain": "continuous",
+      "index": 190
+    },
+    {
+      "domain": "native",
+      "index": 440
+    },
+    {
+      "domain": "native",
+      "index": 480
+    },
+    {
+      "domain": "continuous",
+      "index": 200
+    }
+  ],
+  "selection": "Two previously failed Gaussian middle cases160/190 plus first native40/native200/Gaussianlong controls440/480/200. Selected numerical diagnostics, not representative recovery statistics.",
+  "method": "Refit sampled crossing endpoints and minimum neighbours on unchanged grid; bisect crossings and minimum cells until logQ bracket width<=log1p(.01); verify boundary nodes with eight observed starts,300 iterations. Maximum12 rounds.",
+  "stop": "After stronger verification, every level has same component count and edge flags,endpoint factor<=1.01,reference gain<=.01,and all crossing brackets<=1%. Failure retained rather than forcing success.",
+  "diagnosis": "Compare same-grid refit gains with newly evaluated midpoint cost versus old logQ-linear interpolation; does not prove a unique physical cause or a global optimum.",
+  "coverage": "Only after all five diagnostics pass, freeze a separate model-only repeated-sampling protocol and source before generating fresh noise. No adaptive threshold chosen using that evaluation.",
+  "workers_limit": 8,
+  "blas_threads": 1,
+  "truth": "No truth/cases/ROOT access in primary workers; scoring only after hashes freeze.",
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "seed": null,
+  "seed_note": "PhaseA deterministic old-data refinement; later independent-noise design gets separate seed freeze.",
+  "figures": [
+    "0004-108-1",
+    "0004-109-1",
+    "0004-110-1",
+    "0004-111-1"
+  ]
+}

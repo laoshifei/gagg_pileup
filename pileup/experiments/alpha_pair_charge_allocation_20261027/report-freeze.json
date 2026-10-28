@@ -1,0 +1,10 @@
+{
+  "files": {
+    "report-source/alpha_pair_allocation_documents.py": "5452ea4e0cea5816acfa9299a0cc0d5c08a68277867147caea10f1a8fc52603f",
+    "report-source/alpha_pair_allocation_notebook.py": "9227a82dc3527b1b51b5378173696a1efbf819a602ee371c52e36b392539f20b",
+    "report-source/alpha_pair_allocation_report.py": "6a2ad6daff237c5fe636ab0c11ba03555b52bf67e54abbd3bfd9439995e3020e",
+    "report.py": "3d1655a8841ccffc2cb3606b998fe12fbc5bf087d2c61a6e0f1999e4222a4c08"
+  },
+  "inference_freeze_sha256": "124aec914f5e9623eabd35d9a9ad69792f8142f3590f557e5fa82996564eaa2d",
+  "purpose": "Frozen scoring, figures, executed notebook and documentation; computed using same core snapshot"
+}

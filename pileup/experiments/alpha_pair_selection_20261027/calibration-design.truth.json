@@ -1,0 +1,5378 @@
+[
+  {
+    "index": 0,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      0,
+      995
+    ]
+  },
+  {
+    "index": 1,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      1,
+      995
+    ]
+  },
+  {
+    "index": 2,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      2,
+      995
+    ]
+  },
+  {
+    "index": 3,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      3,
+      995
+    ]
+  },
+  {
+    "index": 4,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      4,
+      995
+    ]
+  },
+  {
+    "index": 5,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      5,
+      995
+    ]
+  },
+  {
+    "index": 6,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      6,
+      995
+    ]
+  },
+  {
+    "index": 7,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      7,
+      995
+    ]
+  },
+  {
+    "index": 8,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      8,
+      995
+    ]
+  },
+  {
+    "index": 9,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      9,
+      995
+    ]
+  },
+  {
+    "index": 10,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      10,
+      995
+    ]
+  },
+  {
+    "index": 11,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      11,
+      995
+    ]
+  },
+  {
+    "index": 12,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      12,
+      995
+    ]
+  },
+  {
+    "index": 13,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      13,
+      995
+    ]
+  },
+  {
+    "index": 14,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      14,
+      995
+    ]
+  },
+  {
+    "index": 15,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      15,
+      995
+    ]
+  },
+  {
+    "index": 16,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      16,
+      995
+    ]
+  },
+  {
+    "index": 17,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      17,
+      995
+    ]
+  },
+  {
+    "index": 18,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      18,
+      995
+    ]
+  },
+  {
+    "index": 19,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      19,
+      995
+    ]
+  },
+  {
+    "index": 20,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      20,
+      995
+    ]
+  },
+  {
+    "index": 21,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      21,
+      995
+    ]
+  },
+  {
+    "index": 22,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      22,
+      995
+    ]
+  },
+  {
+    "index": 23,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      23,
+      995
+    ]
+  },
+  {
+    "index": 24,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      24,
+      995
+    ]
+  },
+  {
+    "index": 25,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      25,
+      995
+    ]
+  },
+  {
+    "index": 26,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      26,
+      995
+    ]
+  },
+  {
+    "index": 27,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      27,
+      995
+    ]
+  },
+  {
+    "index": 28,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      28,
+      995
+    ]
+  },
+  {
+    "index": 29,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      29,
+      995
+    ]
+  },
+  {
+    "index": 30,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      30,
+      995
+    ]
+  },
+  {
+    "index": 31,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      31,
+      995
+    ]
+  },
+  {
+    "index": 32,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      32,
+      995
+    ]
+  },
+  {
+    "index": 33,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      33,
+      995
+    ]
+  },
+  {
+    "index": 34,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      34,
+      995
+    ]
+  },
+  {
+    "index": 35,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      35,
+      995
+    ]
+  },
+  {
+    "index": 36,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      36,
+      995
+    ]
+  },
+  {
+    "index": 37,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      37,
+      995
+    ]
+  },
+  {
+    "index": 38,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      38,
+      995
+    ]
+  },
+  {
+    "index": 39,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      39,
+      995
+    ]
+  },
+  {
+    "index": 40,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      40,
+      995
+    ]
+  },
+  {
+    "index": 41,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      41,
+      995
+    ]
+  },
+  {
+    "index": 42,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      42,
+      995
+    ]
+  },
+  {
+    "index": 43,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      43,
+      995
+    ]
+  },
+  {
+    "index": 44,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      44,
+      995
+    ]
+  },
+  {
+    "index": 45,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      45,
+      995
+    ]
+  },
+  {
+    "index": 46,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      46,
+      995
+    ]
+  },
+  {
+    "index": 47,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      47,
+      995
+    ]
+  },
+  {
+    "index": 48,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      48,
+      995
+    ]
+  },
+  {
+    "index": 49,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      49,
+      995
+    ]
+  },
+  {
+    "index": 50,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      50,
+      995
+    ]
+  },
+  {
+    "index": 51,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      51,
+      995
+    ]
+  },
+  {
+    "index": 52,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      52,
+      995
+    ]
+  },
+  {
+    "index": 53,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      53,
+      995
+    ]
+  },
+  {
+    "index": 54,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      54,
+      995
+    ]
+  },
+  {
+    "index": 55,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      55,
+      995
+    ]
+  },
+  {
+    "index": 56,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      56,
+      995
+    ]
+  },
+  {
+    "index": 57,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      57,
+      995
+    ]
+  },
+  {
+    "index": 58,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      58,
+      995
+    ]
+  },
+  {
+    "index": 59,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      59,
+      995
+    ]
+  },
+  {
+    "index": 60,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      60,
+      995
+    ]
+  },
+  {
+    "index": 61,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      61,
+      995
+    ]
+  },
+  {
+    "index": 62,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      62,
+      995
+    ]
+  },
+  {
+    "index": 63,
+    "split": "calibration",
+    "kind": "single",
+    "band": "800",
+    "condition": "800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      63,
+      995
+    ]
+  },
+  {
+    "index": 64,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      64,
+      995
+    ]
+  },
+  {
+    "index": 65,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      65,
+      995
+    ]
+  },
+  {
+    "index": 66,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      66,
+      995
+    ]
+  },
+  {
+    "index": 67,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      67,
+      995
+    ]
+  },
+  {
+    "index": 68,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      68,
+      995
+    ]
+  },
+  {
+    "index": 69,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      69,
+      995
+    ]
+  },
+  {
+    "index": 70,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      70,
+      995
+    ]
+  },
+  {
+    "index": 71,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      71,
+      995
+    ]
+  },
+  {
+    "index": 72,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      72,
+      995
+    ]
+  },
+  {
+    "index": 73,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      73,
+      995
+    ]
+  },
+  {
+    "index": 74,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      74,
+      995
+    ]
+  },
+  {
+    "index": 75,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      75,
+      995
+    ]
+  },
+  {
+    "index": 76,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      76,
+      995
+    ]
+  },
+  {
+    "index": 77,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      77,
+      995
+    ]
+  },
+  {
+    "index": 78,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      78,
+      995
+    ]
+  },
+  {
+    "index": 79,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      79,
+      995
+    ]
+  },
+  {
+    "index": 80,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      80,
+      995
+    ]
+  },
+  {
+    "index": 81,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      81,
+      995
+    ]
+  },
+  {
+    "index": 82,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      82,
+      995
+    ]
+  },
+  {
+    "index": 83,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      83,
+      995
+    ]
+  },
+  {
+    "index": 84,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      84,
+      995
+    ]
+  },
+  {
+    "index": 85,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      85,
+      995
+    ]
+  },
+  {
+    "index": 86,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      86,
+      995
+    ]
+  },
+  {
+    "index": 87,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      87,
+      995
+    ]
+  },
+  {
+    "index": 88,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      88,
+      995
+    ]
+  },
+  {
+    "index": 89,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      89,
+      995
+    ]
+  },
+  {
+    "index": 90,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      90,
+      995
+    ]
+  },
+  {
+    "index": 91,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      91,
+      995
+    ]
+  },
+  {
+    "index": 92,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      92,
+      995
+    ]
+  },
+  {
+    "index": 93,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      93,
+      995
+    ]
+  },
+  {
+    "index": 94,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      94,
+      995
+    ]
+  },
+  {
+    "index": 95,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      95,
+      995
+    ]
+  },
+  {
+    "index": 96,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      96,
+      995
+    ]
+  },
+  {
+    "index": 97,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      97,
+      995
+    ]
+  },
+  {
+    "index": 98,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      98,
+      995
+    ]
+  },
+  {
+    "index": 99,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      99,
+      995
+    ]
+  },
+  {
+    "index": 100,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      100,
+      995
+    ]
+  },
+  {
+    "index": 101,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      101,
+      995
+    ]
+  },
+  {
+    "index": 102,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      102,
+      995
+    ]
+  },
+  {
+    "index": 103,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      103,
+      995
+    ]
+  },
+  {
+    "index": 104,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      104,
+      995
+    ]
+  },
+  {
+    "index": 105,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      105,
+      995
+    ]
+  },
+  {
+    "index": 106,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      106,
+      995
+    ]
+  },
+  {
+    "index": 107,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      107,
+      995
+    ]
+  },
+  {
+    "index": 108,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      108,
+      995
+    ]
+  },
+  {
+    "index": 109,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      109,
+      995
+    ]
+  },
+  {
+    "index": 110,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      110,
+      995
+    ]
+  },
+  {
+    "index": 111,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      111,
+      995
+    ]
+  },
+  {
+    "index": 112,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      112,
+      995
+    ]
+  },
+  {
+    "index": 113,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      113,
+      995
+    ]
+  },
+  {
+    "index": 114,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      114,
+      995
+    ]
+  },
+  {
+    "index": 115,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      115,
+      995
+    ]
+  },
+  {
+    "index": 116,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      116,
+      995
+    ]
+  },
+  {
+    "index": 117,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      117,
+      995
+    ]
+  },
+  {
+    "index": 118,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      118,
+      995
+    ]
+  },
+  {
+    "index": 119,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      119,
+      995
+    ]
+  },
+  {
+    "index": 120,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      120,
+      995
+    ]
+  },
+  {
+    "index": 121,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      121,
+      995
+    ]
+  },
+  {
+    "index": 122,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      122,
+      995
+    ]
+  },
+  {
+    "index": 123,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      123,
+      995
+    ]
+  },
+  {
+    "index": 124,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      124,
+      995
+    ]
+  },
+  {
+    "index": 125,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      125,
+      995
+    ]
+  },
+  {
+    "index": 126,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      126,
+      995
+    ]
+  },
+  {
+    "index": 127,
+    "split": "calibration",
+    "kind": "single",
+    "band": "3000",
+    "condition": "3000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      127,
+      995
+    ]
+  },
+  {
+    "index": 128,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      128,
+      995
+    ]
+  },
+  {
+    "index": 129,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      129,
+      995
+    ]
+  },
+  {
+    "index": 130,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      130,
+      995
+    ]
+  },
+  {
+    "index": 131,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      131,
+      995
+    ]
+  },
+  {
+    "index": 132,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      132,
+      995
+    ]
+  },
+  {
+    "index": 133,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      133,
+      995
+    ]
+  },
+  {
+    "index": 134,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      134,
+      995
+    ]
+  },
+  {
+    "index": 135,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      135,
+      995
+    ]
+  },
+  {
+    "index": 136,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      136,
+      995
+    ]
+  },
+  {
+    "index": 137,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      137,
+      995
+    ]
+  },
+  {
+    "index": 138,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      138,
+      995
+    ]
+  },
+  {
+    "index": 139,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      139,
+      995
+    ]
+  },
+  {
+    "index": 140,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      140,
+      995
+    ]
+  },
+  {
+    "index": 141,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      141,
+      995
+    ]
+  },
+  {
+    "index": 142,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      142,
+      995
+    ]
+  },
+  {
+    "index": 143,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      143,
+      995
+    ]
+  },
+  {
+    "index": 144,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      144,
+      995
+    ]
+  },
+  {
+    "index": 145,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      145,
+      995
+    ]
+  },
+  {
+    "index": 146,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      146,
+      995
+    ]
+  },
+  {
+    "index": 147,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      147,
+      995
+    ]
+  },
+  {
+    "index": 148,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      148,
+      995
+    ]
+  },
+  {
+    "index": 149,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      149,
+      995
+    ]
+  },
+  {
+    "index": 150,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      150,
+      995
+    ]
+  },
+  {
+    "index": 151,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      151,
+      995
+    ]
+  },
+  {
+    "index": 152,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      152,
+      995
+    ]
+  },
+  {
+    "index": 153,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      153,
+      995
+    ]
+  },
+  {
+    "index": 154,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      154,
+      995
+    ]
+  },
+  {
+    "index": 155,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      155,
+      995
+    ]
+  },
+  {
+    "index": 156,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      156,
+      995
+    ]
+  },
+  {
+    "index": 157,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      157,
+      995
+    ]
+  },
+  {
+    "index": 158,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      158,
+      995
+    ]
+  },
+  {
+    "index": 159,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      159,
+      995
+    ]
+  },
+  {
+    "index": 160,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      160,
+      995
+    ]
+  },
+  {
+    "index": 161,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      161,
+      995
+    ]
+  },
+  {
+    "index": 162,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      162,
+      995
+    ]
+  },
+  {
+    "index": 163,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      163,
+      995
+    ]
+  },
+  {
+    "index": 164,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      164,
+      995
+    ]
+  },
+  {
+    "index": 165,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      165,
+      995
+    ]
+  },
+  {
+    "index": 166,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      166,
+      995
+    ]
+  },
+  {
+    "index": 167,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      167,
+      995
+    ]
+  },
+  {
+    "index": 168,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      168,
+      995
+    ]
+  },
+  {
+    "index": 169,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      169,
+      995
+    ]
+  },
+  {
+    "index": 170,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      170,
+      995
+    ]
+  },
+  {
+    "index": 171,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      171,
+      995
+    ]
+  },
+  {
+    "index": 172,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      172,
+      995
+    ]
+  },
+  {
+    "index": 173,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      173,
+      995
+    ]
+  },
+  {
+    "index": 174,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      174,
+      995
+    ]
+  },
+  {
+    "index": 175,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      175,
+      995
+    ]
+  },
+  {
+    "index": 176,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      176,
+      995
+    ]
+  },
+  {
+    "index": 177,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      177,
+      995
+    ]
+  },
+  {
+    "index": 178,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      178,
+      995
+    ]
+  },
+  {
+    "index": 179,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      179,
+      995
+    ]
+  },
+  {
+    "index": 180,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      180,
+      995
+    ]
+  },
+  {
+    "index": 181,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      181,
+      995
+    ]
+  },
+  {
+    "index": 182,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      182,
+      995
+    ]
+  },
+  {
+    "index": 183,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      183,
+      995
+    ]
+  },
+  {
+    "index": 184,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      184,
+      995
+    ]
+  },
+  {
+    "index": 185,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      185,
+      995
+    ]
+  },
+  {
+    "index": 186,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      186,
+      995
+    ]
+  },
+  {
+    "index": 187,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      187,
+      995
+    ]
+  },
+  {
+    "index": 188,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      188,
+      995
+    ]
+  },
+  {
+    "index": 189,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      189,
+      995
+    ]
+  },
+  {
+    "index": 190,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      190,
+      995
+    ]
+  },
+  {
+    "index": 191,
+    "split": "calibration",
+    "kind": "single",
+    "band": "8000",
+    "condition": "8000",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      191,
+      995
+    ]
+  },
+  {
+    "index": 192,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      192,
+      995
+    ]
+  },
+  {
+    "index": 193,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      193,
+      995
+    ]
+  },
+  {
+    "index": 194,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      194,
+      995
+    ]
+  },
+  {
+    "index": 195,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      195,
+      995
+    ]
+  },
+  {
+    "index": 196,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      196,
+      995
+    ]
+  },
+  {
+    "index": 197,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      197,
+      995
+    ]
+  },
+  {
+    "index": 198,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      198,
+      995
+    ]
+  },
+  {
+    "index": 199,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      199,
+      995
+    ]
+  },
+  {
+    "index": 200,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      200,
+      995
+    ]
+  },
+  {
+    "index": 201,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      201,
+      995
+    ]
+  },
+  {
+    "index": 202,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      202,
+      995
+    ]
+  },
+  {
+    "index": 203,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      203,
+      995
+    ]
+  },
+  {
+    "index": 204,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      204,
+      995
+    ]
+  },
+  {
+    "index": 205,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      205,
+      995
+    ]
+  },
+  {
+    "index": 206,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      206,
+      995
+    ]
+  },
+  {
+    "index": 207,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      207,
+      995
+    ]
+  },
+  {
+    "index": 208,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      208,
+      995
+    ]
+  },
+  {
+    "index": 209,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      209,
+      995
+    ]
+  },
+  {
+    "index": 210,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      210,
+      995
+    ]
+  },
+  {
+    "index": 211,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      211,
+      995
+    ]
+  },
+  {
+    "index": 212,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      212,
+      995
+    ]
+  },
+  {
+    "index": 213,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      213,
+      995
+    ]
+  },
+  {
+    "index": 214,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      214,
+      995
+    ]
+  },
+  {
+    "index": 215,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      215,
+      995
+    ]
+  },
+  {
+    "index": 216,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      216,
+      995
+    ]
+  },
+  {
+    "index": 217,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      217,
+      995
+    ]
+  },
+  {
+    "index": 218,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      218,
+      995
+    ]
+  },
+  {
+    "index": 219,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      219,
+      995
+    ]
+  },
+  {
+    "index": 220,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      220,
+      995
+    ]
+  },
+  {
+    "index": 221,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      221,
+      995
+    ]
+  },
+  {
+    "index": 222,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      222,
+      995
+    ]
+  },
+  {
+    "index": 223,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      223,
+      995
+    ]
+  },
+  {
+    "index": 224,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      224,
+      995
+    ]
+  },
+  {
+    "index": 225,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      225,
+      995
+    ]
+  },
+  {
+    "index": 226,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      226,
+      995
+    ]
+  },
+  {
+    "index": 227,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      227,
+      995
+    ]
+  },
+  {
+    "index": 228,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      228,
+      995
+    ]
+  },
+  {
+    "index": 229,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      229,
+      995
+    ]
+  },
+  {
+    "index": 230,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      230,
+      995
+    ]
+  },
+  {
+    "index": 231,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      231,
+      995
+    ]
+  },
+  {
+    "index": 232,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      232,
+      995
+    ]
+  },
+  {
+    "index": 233,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      233,
+      995
+    ]
+  },
+  {
+    "index": 234,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      234,
+      995
+    ]
+  },
+  {
+    "index": 235,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      235,
+      995
+    ]
+  },
+  {
+    "index": 236,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      236,
+      995
+    ]
+  },
+  {
+    "index": 237,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      237,
+      995
+    ]
+  },
+  {
+    "index": 238,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      238,
+      995
+    ]
+  },
+  {
+    "index": 239,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      239,
+      995
+    ]
+  },
+  {
+    "index": 240,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      240,
+      995
+    ]
+  },
+  {
+    "index": 241,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      241,
+      995
+    ]
+  },
+  {
+    "index": 242,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      242,
+      995
+    ]
+  },
+  {
+    "index": 243,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      243,
+      995
+    ]
+  },
+  {
+    "index": 244,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      244,
+      995
+    ]
+  },
+  {
+    "index": 245,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      245,
+      995
+    ]
+  },
+  {
+    "index": 246,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      246,
+      995
+    ]
+  },
+  {
+    "index": 247,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      247,
+      995
+    ]
+  },
+  {
+    "index": 248,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      248,
+      995
+    ]
+  },
+  {
+    "index": 249,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      249,
+      995
+    ]
+  },
+  {
+    "index": 250,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      250,
+      995
+    ]
+  },
+  {
+    "index": 251,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      251,
+      995
+    ]
+  },
+  {
+    "index": 252,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      252,
+      995
+    ]
+  },
+  {
+    "index": 253,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      253,
+      995
+    ]
+  },
+  {
+    "index": 254,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      254,
+      995
+    ]
+  },
+  {
+    "index": 255,
+    "split": "calibration",
+    "kind": "single",
+    "band": "18800",
+    "condition": "18800",
+    "gap_ns": 0.0,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "seed_words": [
+      202610272001,
+      1,
+      255,
+      995
+    ]
+  }
+]

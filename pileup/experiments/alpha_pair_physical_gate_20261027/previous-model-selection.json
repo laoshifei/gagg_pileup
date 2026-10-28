@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "chosen": "relative",
+  "selections": {
+    "absolute": {
+      "step": 3000,
+      "forced_pair_success": 0.30333333333333334,
+      "median_abs_logQ": 0.1518500835352684,
+      "count_BCE": 0.20711557567119598,
+      "key": [
+        0.30333333333333334,
+        -0.1518500835352684,
+        -0.20711557567119598
+      ]
+    },
+    "logarithmic": {
+      "step": 2500,
+      "forced_pair_success": 0.38,
+      "median_abs_logQ": 0.12077242180326801,
+      "count_BCE": 0.1880139708518982,
+      "key": [
+        0.38,
+        -0.12077242180326801,
+        -0.1880139708518982
+      ]
+    },
+    "relative": {
+      "step": 3000,
+      "forced_pair_success": 0.41,
+      "median_abs_logQ": 0.12308273875975806,
+      "count_BCE": 0.21895407140254974,
+      "key": [
+        0.41,
+        -0.12308273875975806,
+        -0.21895407140254974
+      ]
+    }
+  },
+  "files": {
+    "models/absolute/history.json": "7ddd67f16d71ae366fe6ad62c6041dc73c4efbdb9fb9e67123c762664ec40ee5",
+    "models/absolute/model.npz": "17168f0048b952f1728c7ed5ef19357f5d033fa5c7730e92b704dff59987f8b3",
+    "models/absolute/selection.json": "3bd851c7033c07301c0a38e7c3e9290b0cf1446e6f57f3299bc7a9dc796fdfc0",
+    "models/absolute/validation.json": "8cd942ed8d0fc94f986ea6abcaf37f0cc28b0264e783efe0262025458451208e",
+    "models/logarithmic/history.json": "79e20c82a3a39e86da70da40104454710a9b0d8fe48b42701db00484579532a0",
+    "models/logarithmic/model.npz": "b6bd62fd5b6ef9e1e90e8b92806021332043e01adea4063e47f84f6f166924c6",
+    "models/logarithmic/selection.json": "9b6928365e555ed53233539af9d563539d8ca67e97bb3b888fcf99be5083cef6",
+    "models/logarithmic/validation.json": "b54b0526286afd91ebc85aa1d27b34485644bd00e4767ea4eea6c4e0d7d158f0",
+    "models/relative/history.json": "93c89d46d870f4fc953a6502433c64f6c8d51c661f5502152ea9a8b8e689a21b",
+    "models/relative/model.npz": "eda5748400fe71838f6833bc5618f2729f66ddb97d137fbd0316c9a20432a60e",
+    "models/relative/selection.json": "6092a380e0bb14910c2948783e5d816bc09b321617a88ebbb4ea51175691a843",
+    "models/relative/validation.json": "1e4d89dd32dddbdd28bd3f34f472ac89012dc4ad2a997ba56442c2b02a6ea1df"
+  },
+  "frozen_at": "2026-10-27T03:22:27.027677+00:00",
+  "continuous_evaluation_generated": false,
+  "sigma": [
+    0.20801263325687447,
+    0.21970885078116778
+  ]
+}

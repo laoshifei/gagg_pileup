@@ -1,0 +1,29 @@
+{
+  "created": "2026-10-27T10:15:05.089622+00:00",
+  "frames": 44,
+  "pairs": 32,
+  "controls": 12,
+  "pairs_per_gap": 16,
+  "question": "How often do fixed1/4/9 numerical contours include the fixed true later charge under independent repetitions of the frozen model?",
+  "sampling": "16 independent draws at each gap40/200ns,Q=[18000,800]pe,t1=200.3ns. Four each empty,800pe single,18000pe single controls.",
+  "distribution": "Exact frozen JointNoise Gaussian in FIR innovations; conditional prefix residual zero; full float64 voltage. No ADC clipping or optical parents.",
+  "seeds": "NumPy default_rng SeedSequence[202610271801,10000+index,994], disjoint from previous simulation-design seeds. No reuse of a noise draw across gaps.",
+  "independence": "New noise only after code,model,design and numeric rules freeze. Fixed previously chosen parameter points; same calibrated simulator/likelihood, not independent physical validation. Pilot first case per gap is retained unchanged.",
+  "profile": "Initial33-log-grid plus observed-candidate nodes,4starts120iterations,forward/reverse; all midpoints4starts150; then frozen local adaptive contour routine. This complete finite algorithm, not previous curves, is what coverage tests.",
+  "evaluation": "All32 knownK2 frames, including numerical failures, stay in denominator. Separately show conditional subset passing numerical screen, not as the primary coverage estimate.",
+  "inference_inputs": "Observation, frozen response/noise/network, numeric settings and indices only. Truth/cases/ROOT blocked inside workers. TrueQ2 supplied only in downstream scoring probe after prediction hash freezes.",
+  "thresholds": [
+    1.0,
+    4.0,
+    9.0
+  ],
+  "threshold_selection": "No threshold tuning from this pilot; no68/95/99% interpretation. Exact binomial95% intervals describe sampling uncertainty in observed inclusion fractions, not event charge intervals.",
+  "control_check": "Original baseline unknownK selector and original native gate only; no recalibration.12controls are a smoke check, not a precise false-positive bound.",
+  "scope": "Purealpha fixed95/351ns,knownK2 ordered charge,1024x2ns full voltage; local observed-trigger time domain and50-50000pe charge limits unchanged.",
+  "recovery": "All complete-waveform profiles separately scored for Q/t accuracy,missing,extra,split,merge and sigma68; no claimed detection improvement.",
+  "numerical_gate_sha256": "c15cf25fffab83db8e75797c189ec3c2cd454a314756c9e1ed6ecc9b48b152a6",
+  "primary_freeze_sha256": "15f7343c9ec27be5d80d934f54c6b35d76bc6a5297db6ec7107b222079d39184",
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "estimated_mc_precision": "Only16 pairs per condition: empirical inclusion is preliminary and cannot validate nominal95% coverage."
+}

@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "method": "wide_nll",
+      "eligible": false,
+      "checks": {
+        "gain40": false,
+        "retain200": true,
+        "convergence": true,
+        "isolated": true
+      },
+      "change40": 0,
+      "change200": 0,
+      "isolated_change": 0,
+      "pair_convergence": 0.8125,
+      "pair_success": 12,
+      "median_absolute_logQ2_error": 0.17980775593156545
+    },
+    {
+      "method": "frozen_gls",
+      "eligible": false,
+      "checks": {
+        "gain40": false,
+        "retain200": true,
+        "convergence": true,
+        "isolated": true
+      },
+      "change40": 0,
+      "change200": 1,
+      "isolated_change": 0,
+      "pair_convergence": 1.0,
+      "pair_success": 13,
+      "median_absolute_logQ2_error": 0.17607557397127427
+    },
+    {
+      "method": "iterated_gls",
+      "eligible": false,
+      "checks": {
+        "gain40": false,
+        "retain200": true,
+        "convergence": true,
+        "isolated": true
+      },
+      "change40": 0,
+      "change200": 1,
+      "isolated_change": 0,
+      "pair_convergence": 0.9375,
+      "pair_success": 13,
+      "median_absolute_logQ2_error": 0.17596855203525608
+    }
+  ],
+  "chosen": null,
+  "independent_confirmation_required": false,
+  "no_default_change": true,
+  "scope": "Predeclared development gate,not proof of improvement.",
+  "report_sha256": "237d5ee0383adb4e48370b2319b80596ad149500395d51d0551fddf50bb17657",
+  "primary_sha256": "93f346240009dd733b07df83ce37c08043056c505809120b6b7b850f9bafc1c2"
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "report.py": "f603cc096982b6beb58de9ca603a4deba24d55824fb8ad06d130e07d2770b8a8",
+    "report-source/alpha_pair_risk_report.py": "860895208fd334daf0ef8a3045b390c9ab361ed257f96f97bcfd21cccd85fdc8",
+    "report-source/alpha_pair_stability_report.py": "98da5d23321c6143acf2e3a205dd54007b53489dfeed1c4a6e225b10c20fe0e8"
+  },
+  "created": "2026-10-27T08:17:53.067384+00:00"
+}

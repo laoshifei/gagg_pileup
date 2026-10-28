@@ -1,0 +1,227 @@
+{
+  "created": "2026-10-28T01:02:41.749682+00:00",
+  "question": "Separate finite-search failures,charge/time information and mean-only estimating equations before a new post-selection confirmation.",
+  "scope": "Purealpha,fixed95/351ns,complete1024x2ns analog voltage,ample dynamic range; unchanged calibrated mean and JointNoise covariance.",
+  "development": "Previously exposed selection confirmation data;systematic every4th pair:16 each40/200ns. Four each800/18800pe singles and four empties. This is development,not independent confirmation.",
+  "tasks": [
+    {
+      "index": 320,
+      "forced_K": 2
+    },
+    {
+      "index": 324,
+      "forced_K": 2
+    },
+    {
+      "index": 328,
+      "forced_K": 2
+    },
+    {
+      "index": 332,
+      "forced_K": 2
+    },
+    {
+      "index": 336,
+      "forced_K": 2
+    },
+    {
+      "index": 340,
+      "forced_K": 2
+    },
+    {
+      "index": 344,
+      "forced_K": 2
+    },
+    {
+      "index": 348,
+      "forced_K": 2
+    },
+    {
+      "index": 352,
+      "forced_K": 2
+    },
+    {
+      "index": 356,
+      "forced_K": 2
+    },
+    {
+      "index": 360,
+      "forced_K": 2
+    },
+    {
+      "index": 364,
+      "forced_K": 2
+    },
+    {
+      "index": 368,
+      "forced_K": 2
+    },
+    {
+      "index": 372,
+      "forced_K": 2
+    },
+    {
+      "index": 376,
+      "forced_K": 2
+    },
+    {
+      "index": 380,
+      "forced_K": 2
+    },
+    {
+      "index": 384,
+      "forced_K": 2
+    },
+    {
+      "index": 388,
+      "forced_K": 2
+    },
+    {
+      "index": 392,
+      "forced_K": 2
+    },
+    {
+      "index": 396,
+      "forced_K": 2
+    },
+    {
+      "index": 400,
+      "forced_K": 2
+    },
+    {
+      "index": 404,
+      "forced_K": 2
+    },
+    {
+      "index": 408,
+      "forced_K": 2
+    },
+    {
+      "index": 412,
+      "forced_K": 2
+    },
+    {
+      "index": 416,
+      "forced_K": 2
+    },
+    {
+      "index": 420,
+      "forced_K": 2
+    },
+    {
+      "index": 424,
+      "forced_K": 2
+    },
+    {
+      "index": 428,
+      "forced_K": 2
+    },
+    {
+      "index": 432,
+      "forced_K": 2
+    },
+    {
+      "index": 436,
+      "forced_K": 2
+    },
+    {
+      "index": 440,
+      "forced_K": 2
+    },
+    {
+      "index": 444,
+      "forced_K": 2
+    },
+    {
+      "index": 64,
+      "forced_K": 1
+    },
+    {
+      "index": 65,
+      "forced_K": 1
+    },
+    {
+      "index": 66,
+      "forced_K": 1
+    },
+    {
+      "index": 67,
+      "forced_K": 1
+    },
+    {
+      "index": 256,
+      "forced_K": 1
+    },
+    {
+      "index": 257,
+      "forced_K": 1
+    },
+    {
+      "index": 258,
+      "forced_K": 1
+    },
+    {
+      "index": 259,
+      "forced_K": 1
+    },
+    {
+      "index": 0,
+      "forced_K": 0
+    },
+    {
+      "index": 1,
+      "forced_K": 0
+    },
+    {
+      "index": 2,
+      "forced_K": 0
+    },
+    {
+      "index": 3,
+      "forced_K": 0
+    }
+  ],
+  "pilot_indices": [
+    320,
+    384,
+    64,
+    0
+  ],
+  "settings": {
+    "starts_per_metric": 3,
+    "maxiter": 150,
+    "max_outer": 12,
+    "damping": 0.5,
+    "charge_log_tolerance": 0.002,
+    "time_tolerance_ns": 0.02
+  },
+  "known_count": "forced_K explicitly provided for development benchmarks; no claim of blind count recovery. Workers block labels and use only observed starts. K0 unchanged.",
+  "algorithms": "Same coordinates,bounds,observed seed bank and L-BFGS-B budgets:wide full NLL;one fixed-C GLS;damped iterative GLS with C rebuilt only between solves. Baseline included. No logdet-dropping with varying C.",
+  "common_seeds": "Observed K1 anchor +/-4/8/16/32/64/128/256/512ns;chronological shares .01/.03/.1/.3/.5/.7/.9/.97/.99. Union of3 diverse seeds by each initial objective plus baseline. K1 uses +/-8ns and .9/1/1.1 charge.",
+  "time_domain": "Observed K1 trigger[-96,+512]ns,expanded only to contain cached observed candidate,clipped0..2046ns. Ordered times. Each Q50..50000pe.",
+  "irgls": "Start frozenGLS;up to12 outer steps,each current/baseline/wideNLL starts,150iteration solves. Try damping .5/.25/.125/.0625 with fixed-C descent. Stop when undamped proposal changes all lnQ<=.002 and times<=.02ns,optimizer converged. Failures retained.",
+  "oracle": "Only after primary predictions hash locks:fixed true times with observed Q starts;fixed true charges with observed time starts;truth-initialized free NLL;unfitted true parameters. Separate output,no feedback to primary.",
+  "advancement": {
+    "candidate_methods": [
+      "wide_nll",
+      "frozen_gls",
+      "iterated_gls"
+    ],
+    "minimum_40ns_strict_gain": 2,
+    "maximum_200ns_strict_loss": 1,
+    "minimum_pair_convergence_fraction": 0.8,
+    "maximum_isolated_strict_loss": 0,
+    "rank": "Eligible method with most strict successes in32pairs,then smaller all-pair median absolute ordered logQ2 error,then method order. Development choice only.",
+    "failure": "If no method qualifies,report failure and do not generate a fresh confirmation sample this round."
+  },
+  "future_confirmation": "Only after advancement passes:freeze chosen postfit before new112 Gaussian draws:16each empty,800/3000/8000/18800 singles,and18000/800 pairs40/200ns;t1=200.3ns. SeedSequence[202610280901,2,index,996].",
+  "confirmation_selection": "Original and matched .025 gates from previous study remain fixed and act on unchanged baseline candidates. Only accepted K2 estimates are postfit. Counts retained even when revisedQ<500,flag separately;no truth in selection.",
+  "metrics": "Strict bothQ errors<=20%,both times<=10ns,no extras;all known-K conditions marked. Also matched errors,sigma68,missed/extra/split/merge,boundary and convergence. Q is equivalentpe,not deposited energy;gap is not injection rate.",
+  "limitations": "Finite optimizers,small exposed development,fixed conditional Gaussian parameter points. No nominal interval coverage,native transfer,free tau,alpha-gamma orK>=3. No default change.",
+  "workers_limit": 8,
+  "workers": 2,
+  "blas_threads": 1,
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "seed": "No new randomness in PhaseA;conditional fresh design above only if advancement passes."
+}

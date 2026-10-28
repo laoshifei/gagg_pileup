@@ -1,0 +1,49 @@
+{
+  "created": "2026-10-27T13:57:49.546715+00:00",
+  "question": "Does event-count selection bias recovered weak charge and interval inclusion; can matched-null calibration improve detection without unacceptable extras?",
+  "scope": "Pure alpha,fixed95/351ns,full1024x2ns float64 voltage,ample dynamic range; unchanged waveform_candidates and select; local K<=2.",
+  "design": "256 calibration singles:64 each800/3000/8000/18800pe.448 independent confirmation:64 each empty,the four singles,pair40ns,pair200ns. Pairs18000/800pe,t1=200.3ns.",
+  "distribution": "Frozen response and candidate-dependent JointNoise Gaussian in FIR space,conditional first-three residual samples zero; no native photons or new ROOT.",
+  "calibration": "Same original observed fitted-Q bins1500/5000/12500pe; only calibration single predictions used. Matched calibration freezes before confirmation generation.",
+  "methods": [
+    "original_025",
+    "original_050",
+    "original_100",
+    "matched_025",
+    "matched_050",
+    "matched_100"
+  ],
+  "alphas": [
+    0.025,
+    0.05,
+    0.1
+  ],
+  "primary_comparison": [
+    "original_025",
+    "matched_025"
+  ],
+  "comparison": "Other four thresholds are prespecified tradeoffs, not selected using test truth. No default update. Rank alpha is a decision parameter, not a charge confidence level or a guaranteed FPR.",
+  "old_interval_data": "All32 previous pairs and their original interval sets are reused only for exploratory selection decomposition; no fresh interval coverage measurement.",
+  "denominators": "Report P(C),P(S),P(C|S),P(C and S),P(C|not S) separately; undefined conditional rates stay null, not zero.",
+  "recovery": "Both Q errors<=20%,times<=min(10ns,gap/4),no unmatched predictions. Also ordinary10ns matched Q/time errors,missed,extra,split,merge.",
+  "truth": "Simulation/scoring only; primary workers block truth,cases,ROOT. No true count/times/charges in fits or selection. All candidates fitted before labels are read.",
+  "limitations": "Fixed parameter points; empirical fitted-Q bin calibration is not uniform nuisance-parameter coverage; finite optimizer; no energy calibration,free tau,alpha-gamma,K>=3 or rate scan.",
+  "pilot_indices": [
+    0,
+    64,
+    128,
+    192
+  ],
+  "example_test_indices": [
+    320,
+    321,
+    384,
+    385
+  ],
+  "workers_limit": 8,
+  "blas_threads": 1,
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "fitter_changed": false,
+  "new_interval_profiles": 0
+}

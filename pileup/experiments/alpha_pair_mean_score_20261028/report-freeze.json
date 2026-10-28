@@ -1,0 +1,9 @@
+{
+  "created": "2026-10-28T01:18:18.929049+00:00",
+  "files": {
+    "report.py": "dfc9ace4e77de32174bd0ba842c0096c36ef2546872a5b4b84e65e66e1dc3486",
+    "source/pileup/analysis/alpha_pair_mean_score_report.py": "eb337d6217dfd8a4a20d9368a602855d0f69bac8fb9cb67be9bab9b438e3a226"
+  },
+  "numeric_freeze_sha256": "11b12bc00ce7a65e448b3ea014c17e0ab8942e1c996238bbfefd0dfc71e63303",
+  "revision": "Plot-only:common error axes,linear small-cost axis,single-step iteration markers. Prior source/figures retained in run record."
+}

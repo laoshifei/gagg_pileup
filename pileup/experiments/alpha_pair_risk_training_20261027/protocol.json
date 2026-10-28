@@ -1,0 +1,61 @@
+{
+  "created": "2026-10-27T03:02:14.465001+00:00",
+  "scope": "Pure alpha; fixed95/351ns; complete2ns x1024 analog; local unknownK<=2; ample dynamic range",
+  "design": "Same NumPy MLP, initialization, minibatch stream and continuous training data; absolute/logarithmic/relative charge risks compared",
+  "synthetic": "Exact frozen conditional Gaussian likelihood sampler; Q is a conditioning parameter, not newly digitized avalanche charge or deposited energy",
+  "training": {
+    "frames": 9600,
+    "validation": 960,
+    "counts": [
+      0.1,
+      0.3,
+      0.6
+    ],
+    "Q": "Single log-uniform500..25000pe; pairs half independent log-uniform500..25000, quarter weak500..3000 +strong6000..25000 in random order, quarter balanced common1000..16000 with ratio exp(uniform[-.35,.35]); reject any individual outside500..25000 or total>48000",
+    "gaps": "Equal mixture uniform4..320ns and log-uniform4..320ns; first onset uniform96..288ns",
+    "prior": "Declared continuous simulation-design distribution only; not a measured source spectrum or a prior fitted to exposed four-energy evaluation labels",
+    "seeds": {
+      "train": 270310001,
+      "validation": 270310002,
+      "evaluation": 270310003
+    },
+    "network_seed": 270310010,
+    "minibatch_seed": 270310011,
+    "steps": 3000,
+    "batch": 64,
+    "rate": 0.0007,
+    "hidden": [
+      128,
+      96
+    ],
+    "features": "1021 full FIR innovations +385 observed-single-aligned innovations +log pilotQ and pilot time; asinh(z/3), training-only mean/std, standardized clip[-8,8]",
+    "one_pilot": "Derivative start and integralQ; same single-hypothesis Gaussian NLL, radius24ns,max35 iterations; observed hypothesis, not true K",
+    "outputs": "Two chronological candidate times on -384..384ns/2ns relative grid, locally averaged within two bins of each mode; totalQ pilot*exp(.1*tanh(z)), allocation sigmoid; count2 logit",
+    "loss": "BCE(count2)+3*mean(pair charge risk)+.4*mean(pair time CE); charge risks ((Qhat-Q)/5000)^2,log(Qhat/Q)^2,(Qhat/Q-1)^2; targets used only during training",
+    "selection": "Every500 steps including zero: highest validation forced-K2 strict pair success, then smallest median absolute logQ error, then lowest common count BCE; not blind test performance"
+  },
+  "evaluation": {
+    "continuous": 1000,
+    "native": 760,
+    "native_gate": 280,
+    "targeted": "balanced/high_weak/weak_high x gap bands6..12,24..64,128..256ns x40 independent Gaussian draws; weak600..1500,strong12000..24000; balanced common3000..15000 times exp(+-uniform[0,.2])",
+    "prior_shift": "240 pairs: independent uniform500..23000pe and uniform4..320ns; changes training Q/gap distributions",
+    "controls": "80 empty and80 singles in each continuous Q bin500..1500,1500..5000,5000..12500,12500..25000",
+    "independence": "Continuous evaluation generated only after weight/selection freeze; new parameter/noise seeds; same calibrated mean/noise model, not fresh physical optical parents. Existing native760 frames are exposed transfer diagnostics only."
+  },
+  "gate": "Each output calibrates learned count2 logit on the same280 native singles, original fitted-singleQ bins1500/5000/12500; plus-one tie-preserving upper rank<=.025; candidates need eachQ>=500; preserve baselineK0/K1 presence",
+  "hybrids": "Choose risk by the same validation key only. Compare original-NLL refinement vs NLL plus learned-logQ penalty from that candidate; widths=max(.2,validation68th percentile absolute logQ errors) per chronological slot. Same waveform enters network and fit: data-dependent regularization, NOT independent Bayesian evidence.",
+  "hybrid_budget": "Original and learned two-component starts, each max70 iterations within24ns; preserve best initial candidate under the appropriate objective; all failures retained; count gate separately calibrated",
+  "selection": "Do not replace default. Development promise requires continuous pair strict success at least baseline+5pp, continuous and native single controls(extra<=5%,success>=95%,medianabsQbias<=5%), and no native pooled pair loss. All comparisons retained.",
+  "metrics": "Each trueQ>=500; eachQwithin20%; eachtwithinmin(10ns,gap/4); no extra outputs; also missing,extra,split,merge,Q bias/sigma68,t errors,forcedK2 and both-time matches",
+  "examples": "Native high_weak replicate0 at40 and200ns; full0..2048ns; selected outputs only; absent weak output=0",
+  "figures": [
+    "0004-87-1",
+    "0004-88-1",
+    "0004-89-1",
+    "0004-90-1",
+    "0004-90-2",
+    "0004-91-1"
+  ],
+  "literature": "Reuse Morad2024 detection/estimation separation and caution on trained scores vs likelihood; Kim2023(NIMA168492) supervision/weak-component and synthetic/physical distinction; project MLP, losses and regularization are not paper reproductions"
+}

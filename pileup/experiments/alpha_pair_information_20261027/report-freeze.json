@@ -1,0 +1,9 @@
+{
+  "files": {
+    "report-source/alpha_pair_information_notebook.py": "47affadd77e0b34207ba850ee9badc3e4b74b2eb34d95479900b13b328c61c33",
+    "report-source/alpha_pair_information_report.py": "7df44113647b9177ee931f48b633c59ac6ca33d13c74e52b8e1362b4decabe81",
+    "report.py": "21329ab8fe9fff17c5558c12a373d28fc5ed775c5e72e442ede4cfc4d3e4235e"
+  },
+  "inference_freeze_sha256": "a155f0ecdd16a5c226cc9676870c508f02b43e9f8760d844953060c4e19dc257",
+  "purpose": "Reproduce reports and notebook using frozen minimal inference dependency tree and cached inputs; no current source required"
+}

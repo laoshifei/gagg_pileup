@@ -1,0 +1,9 @@
+{
+  "files": {
+    "deliver.py": "61b93e88c13bc9e4a5acc76b8ada020206435797bd07f623f4b755df88693839",
+    "delivery-source/alpha_pair_stability_delivery.py": "8205c186e4c162dd39041f8d371ae796979b508fe999de1ab343860cefd9ab7a"
+  },
+  "created": "2026-10-27T09:42:30.861919+00:00",
+  "revision_reason": "Reporting-only interpretation clarification before first delivery; earlier unused draft preserved in run record.",
+  "previous_manifest": "jupyter/run_records/alpha_pair_profile_stability_20261027/delivery-draft-before-interpretation/delivery-freeze.json"
+}

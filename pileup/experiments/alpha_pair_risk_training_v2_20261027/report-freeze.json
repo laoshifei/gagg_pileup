@@ -1,0 +1,11 @@
+{
+  "files": {
+    "report-source/alpha_pair_risk_documents.py": "3d2787231d88a15751ea720ef4518a429f77903af402701edd6f4eaefe10cb51",
+    "report-source/alpha_pair_risk_notebook.py": "190eaf664a2c105b09e34fb7bce4d85790b90a3044762ce86038388ed82f24dc",
+    "report-source/alpha_pair_risk_report.py": "a4ed5947cb38a839c440a8e44d014e3ea966ad9a5bd6361c12808c235dd7167f",
+    "report-source/alpha_pair_risk_validate.py": "9c4ce2a0acde6727db19598c450f6653bd0e28f41dfd0d864c1aeb963899a0ea",
+    "report.py": "460aa8a1bb7da870164ac1c111b77c095dfeba7a27d55db56a9f93eac47b4cce"
+  },
+  "created": "2026-10-27T03:33:23.048666+00:00",
+  "purpose": "Frozen scoring, figures, executed Notebook, documents and final audit"
+}

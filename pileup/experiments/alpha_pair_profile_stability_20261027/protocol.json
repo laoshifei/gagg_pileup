@@ -1,0 +1,94 @@
+{
+  "created": "2026-10-27T07:55:57.382184+00:00",
+  "question": "Are numerical conditional-Q2 contours stable to more starts and nested grids?",
+  "scope": "Known K2 pure-alpha diagnostic; fixed95/351ns and original covariance+logdet; ample dynamic range,1024x2ns waveform, no blind refit changes",
+  "data": "Systematic exposed development subset, eight of each original40-frame group; no new independent samples or random draws",
+  "selection": "Take positions0,5,10,15,20,25,30,35 in each of four prespecified groups, before new calculation; no result-based selection",
+  "groups": [
+    "native40ns",
+    "native200ns",
+    "Gaussian24-64ns",
+    "Gaussian128-256ns"
+  ],
+  "tasks": 32,
+  "stages": [
+    "original frozen curve",
+    "same grid, six diverse observed starts,150 iterations,forward/reverse",
+    "insert geometric midpoint of every cell, four starts,150 iterations,forward/reverse",
+    "insert midpoints at every1/4/9 crossing and cells adjacent to minimum, four starts,150 iterations,forward/reverse"
+  ],
+  "settings": {
+    "search": {
+      "starts": 6,
+      "maxiter": 150
+    },
+    "grid": {
+      "starts": 4,
+      "maxiter": 150
+    },
+    "levels": [
+      1.0,
+      4.0,
+      9.0
+    ],
+    "reference_tolerance": 0.05,
+    "endpoint_fraction": 0.05
+  },
+  "time_domain": "Original observed K1 trigger[-96,+512]ns clipped to[0,2046], ordered times; unchanged",
+  "charge_domain_pe": [
+    50.0,
+    50000.0
+  ],
+  "seed_rule": "Cost-ranked seeds separated in(t1/8ns,t2/8ns,lnQ1/.25); observed cached/previous fits, trigger offsets-8/0/+8ns and fixed gaps0..512ns; no true values",
+  "envelope": "Retain old points and new stage best-nuisance slice over all nodes; grid stages can improve old points through this slice. Not an equal-compute comparison.",
+  "numerical_rule": "Last dense->contour step stable only if reference gain<=.05, every matched interval endpoint changes by factor<=1.05, same number of components and same boundary flags, separately at1/4/9. All three needed per frame.",
+  "interpretation": "Finite stability screen, not global-optimum proof or confidence-coverage calibration; small systematic subset cannot certify unexamined frames.",
+  "probe": "Only after inference hash frozen, a separate scoring probe fixes true laterQ2 and refits nuisance. No truth times/Q1 or feedback.",
+  "pilot": [
+    {
+      "domain": "native",
+      "index": 440
+    },
+    {
+      "domain": "native",
+      "index": 480
+    },
+    {
+      "domain": "continuous",
+      "index": 160
+    },
+    {
+      "domain": "continuous",
+      "index": 200
+    }
+  ],
+  "examples": [
+    {
+      "domain": "native",
+      "index": 440
+    },
+    {
+      "domain": "native",
+      "index": 480
+    },
+    {
+      "domain": "continuous",
+      "index": 160
+    },
+    {
+      "domain": "continuous",
+      "index": 200
+    }
+  ],
+  "workers_limit": 8,
+  "blas_threads": 1,
+  "defaults": "All blind candidates,gates,7040 original decisions and prior160 profiles remain unchanged.",
+  "next": "If unresolved numerical changes remain, report them before attempting independent coverage calibration; no confidence-level claims from this audit.",
+  "figures": [
+    "0004-103-1",
+    "0004-104-1",
+    "0004-104-2",
+    "0004-105-1",
+    "0004-106-1"
+  ]
+}

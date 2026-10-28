@@ -1,0 +1,14 @@
+{
+  "created": "2026-10-27T11:30:21.407474+00:00",
+  "files": {
+    "delivery-source/alpha_pair_contour_delivery.py": "8864525686443280fb31c282903ec7c3b31a17afb67386103c29427314bc4129",
+    "deliver.py": "1f6fcf8aa0b65aadc834ec65fcc778b6d808973b40eb892ec1595fe9792aa993"
+  },
+  "coverage_examples_prespecified": [
+    0,
+    1,
+    16,
+    17
+  ],
+  "revision": "Final reporting only: interval width, selection denominator, probe consistency and metric definitions. Earlier unused draft retained in run_records/delivery-before-final-interpretation. No inference/report/figure changes."
+}

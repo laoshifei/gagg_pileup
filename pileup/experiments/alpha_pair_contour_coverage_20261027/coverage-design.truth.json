@@ -1,0 +1,974 @@
+[
+  {
+    "index": 0,
+    "seed_words": [
+      202610271801,
+      10000,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 1,
+    "seed_words": [
+      202610271801,
+      10001,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 2,
+    "seed_words": [
+      202610271801,
+      10002,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 3,
+    "seed_words": [
+      202610271801,
+      10003,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 4,
+    "seed_words": [
+      202610271801,
+      10004,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 5,
+    "seed_words": [
+      202610271801,
+      10005,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 6,
+    "seed_words": [
+      202610271801,
+      10006,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 7,
+    "seed_words": [
+      202610271801,
+      10007,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 8,
+    "seed_words": [
+      202610271801,
+      10008,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 9,
+    "seed_words": [
+      202610271801,
+      10009,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 10,
+    "seed_words": [
+      202610271801,
+      10010,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 11,
+    "seed_words": [
+      202610271801,
+      10011,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 12,
+    "seed_words": [
+      202610271801,
+      10012,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 13,
+    "seed_words": [
+      202610271801,
+      10013,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 14,
+    "seed_words": [
+      202610271801,
+      10014,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 15,
+    "seed_words": [
+      202610271801,
+      10015,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "40",
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 16,
+    "seed_words": [
+      202610271801,
+      10016,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 17,
+    "seed_words": [
+      202610271801,
+      10017,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 18,
+    "seed_words": [
+      202610271801,
+      10018,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 19,
+    "seed_words": [
+      202610271801,
+      10019,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 20,
+    "seed_words": [
+      202610271801,
+      10020,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 21,
+    "seed_words": [
+      202610271801,
+      10021,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 22,
+    "seed_words": [
+      202610271801,
+      10022,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 23,
+    "seed_words": [
+      202610271801,
+      10023,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 24,
+    "seed_words": [
+      202610271801,
+      10024,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 25,
+    "seed_words": [
+      202610271801,
+      10025,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 26,
+    "seed_words": [
+      202610271801,
+      10026,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 27,
+    "seed_words": [
+      202610271801,
+      10027,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 28,
+    "seed_words": [
+      202610271801,
+      10028,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 29,
+    "seed_words": [
+      202610271801,
+      10029,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 30,
+    "seed_words": [
+      202610271801,
+      10030,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 31,
+    "seed_words": [
+      202610271801,
+      10031,
+      994
+    ],
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "count": 2,
+    "kind": "pair",
+    "band": "200",
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 32,
+    "seed_words": [
+      202610271801,
+      10032,
+      994
+    ],
+    "charge_pe": [],
+    "times_ns": [],
+    "count": 0,
+    "kind": "empty",
+    "band": "empty",
+    "condition": "empty",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 33,
+    "seed_words": [
+      202610271801,
+      10033,
+      994
+    ],
+    "charge_pe": [],
+    "times_ns": [],
+    "count": 0,
+    "kind": "empty",
+    "band": "empty",
+    "condition": "empty",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 34,
+    "seed_words": [
+      202610271801,
+      10034,
+      994
+    ],
+    "charge_pe": [],
+    "times_ns": [],
+    "count": 0,
+    "kind": "empty",
+    "band": "empty",
+    "condition": "empty",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 35,
+    "seed_words": [
+      202610271801,
+      10035,
+      994
+    ],
+    "charge_pe": [],
+    "times_ns": [],
+    "count": 0,
+    "kind": "empty",
+    "band": "empty",
+    "condition": "empty",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 36,
+    "seed_words": [
+      202610271801,
+      10036,
+      994
+    ],
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "weak",
+    "condition": "weak",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 37,
+    "seed_words": [
+      202610271801,
+      10037,
+      994
+    ],
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "weak",
+    "condition": "weak",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 38,
+    "seed_words": [
+      202610271801,
+      10038,
+      994
+    ],
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "weak",
+    "condition": "weak",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 39,
+    "seed_words": [
+      202610271801,
+      10039,
+      994
+    ],
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "weak",
+    "condition": "weak",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 40,
+    "seed_words": [
+      202610271801,
+      10040,
+      994
+    ],
+    "charge_pe": [
+      18000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "strong",
+    "condition": "strong",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 41,
+    "seed_words": [
+      202610271801,
+      10041,
+      994
+    ],
+    "charge_pe": [
+      18000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "strong",
+    "condition": "strong",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 42,
+    "seed_words": [
+      202610271801,
+      10042,
+      994
+    ],
+    "charge_pe": [
+      18000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "strong",
+    "condition": "strong",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  },
+  {
+    "index": 43,
+    "seed_words": [
+      202610271801,
+      10043,
+      994
+    ],
+    "charge_pe": [
+      18000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "count": 1,
+    "kind": "single",
+    "band": "strong",
+    "condition": "strong",
+    "gap_ns": 0.0,
+    "role": "independent_model_coverage_pilot",
+    "domain": "fresh_gaussian"
+  }
+]

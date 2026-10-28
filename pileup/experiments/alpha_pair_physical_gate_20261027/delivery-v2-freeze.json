@@ -1,0 +1,8 @@
+{
+  "files": {
+    "delivery-source-v2/alpha_pair_physical_gate_delivery.py": "c26075de67f6df43e1dc0429bdcd57513c365fbd501a3ae705d1fe3ee145a9fb",
+    "deliver-v2.py": "d5a1d8f27f4f40764500e1950d2b92e979c8baf34189cc8061e70d38e74d332e"
+  },
+  "created": "2026-10-27T06:14:37.402080+00:00",
+  "reason": "Bounded shared-folder writes and full readback; original failed delivery retained"
+}

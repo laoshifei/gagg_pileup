@@ -1,0 +1,13 @@
+{
+  "created": "2026-10-27T10:15:05.089622+00:00",
+  "files": {
+    "coverage.py": "4eed26b49041cdf97653b3c05a18d535304febd444d4bbafa8d07b2b83f32b4f",
+    "coverage-protocol.json": "bb63cdd7c18514c03be2914a0b35e07acdd8e5eb848edeb3b281cd4304030fdf",
+    "coverage-inference-settings.json": "be745c51375c4bf059aad1a9847430693f2027b3def19f7286e04b2c4f568930",
+    "coverage-design.truth.json": "04bea7213551512f2fd5395bf435fd4b623ac9751e283bc011559a426741c8e0",
+    "coverage-relative-model.npz": "eda5748400fe71838f6833bc5618f2729f66ddb97d137fbd0316c9a20432a60e",
+    "coverage-baseline-gate.json": "0512cfa70fe1aa2105e4a3993f588826543274509f7b07f3a320272bc7bb76b6",
+    "coverage-source/alpha_pair_coverage_study.py": "0c2673d46463ac6b4a2f2374bfead99f559483b1f7b0b6664711b5e94c1437c0",
+    "coverage-source/test_alpha_pair_model_sampler.py": "79a5109dc89031b89c25a43cdfc30d0006892820f347a714f1a1a118498426bd"
+  }
+}
