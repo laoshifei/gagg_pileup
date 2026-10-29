@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "pairs": 1200,
+  "components": 2400,
+  "fitted_component_rows": 4800,
+  "single_parent_references": 320,
+  "energy_identity_checked": true,
+  "additive_error_closure_max": 8.881784197001252e-16,
+  "new_fits": false,
+  "baseline_window_ns": 20000.0,
+  "shared_charge_window_ns": 4096.0,
+  "observed_waveform_ns": 2048.0,
+  "pure_causal_interpretation": false
+}

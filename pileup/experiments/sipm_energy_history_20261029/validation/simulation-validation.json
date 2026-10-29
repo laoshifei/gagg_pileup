@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "simulations": 912,
+  "new_runs": 912,
+  "seconds": 234.7227181219987,
+  "workers": 2,
+  "new_ROOTs": 0,
+  "source_photons_preserved": true,
+  "config_difference_only_recovery_switch": true,
+  "maximum_charge_closure_pe": 7.275957614183426e-12
+}

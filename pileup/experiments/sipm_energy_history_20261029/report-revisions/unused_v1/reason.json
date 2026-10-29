@@ -1,0 +1,4 @@
+{
+  "status": "Superseded before full report execution",
+  "reason": "Correct a reporting comment: optimized digitizer uses sequential exponential dark times, so window extension does not itself redraw the existing dark prefix. No simulation, model, metric or data change."
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "parent": 0,
+    "root": "g4/data/20261026_12h55m36s.root",
+    "root_sha256": "a335ce5ddabcec9f6842d53ac2d401b5c6aa4da6bebd36a8287ffec65b854d14",
+    "optical_seed": 276000000,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0000.npz",
+    "sha256": "bfd8f85922e3e13e2f183de17ad5c2388690a4a0a66f4ae6680553bf26e82ef4"
+  },
+  {
+    "parent": 5,
+    "root": "g4/data/20261026_12h58m46s.root",
+    "root_sha256": "7f050a4c588485aa208d87000b3711480bcd7eae6ea9aac256a505bf792d208b",
+    "optical_seed": 276000005,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0005.npz",
+    "sha256": "f1d82d3813b0872bc705f5f394d0348d9c21a46cfff88b1dafcc2cb3cec432a8"
+  },
+  {
+    "parent": 10,
+    "root": "g4/data/20261026_12h59m01s.root",
+    "root_sha256": "fad7d7e44534c45e2f50747ef473a07b5e314e8f0e8952870ab967426c46d292",
+    "optical_seed": 276000010,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0010.npz",
+    "sha256": "88d94e32755ad988112062f823d3ca9fc6d550c58a2e60c9fe06bf7bca95be3f"
+  },
+  {
+    "parent": 15,
+    "root": "g4/data/20261026_12h59m16s.root",
+    "root_sha256": "fdbe0f3bb360cf3a6002eefae006c87c9e33958142ccdb94fc61c236c21e5d56",
+    "optical_seed": 276000015,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0015.npz",
+    "sha256": "cad661889bac4438f0b4be501ae96755125894f5b9f943aa6de81993895ca813"
+  },
+  {
+    "parent": 20,
+    "root": "g4/data/20261026_12h59m32s.root",
+    "root_sha256": "6fef4e3417a5843f6ce520c7c3f9841a14c9a6167b0a1312501309de272896e2",
+    "optical_seed": 276000020,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0020.npz",
+    "sha256": "dd23cd643d0b13eada18ec6e63b6f5250430cf3074d9684ce1c3a59cea3e718e"
+  },
+  {
+    "parent": 25,
+    "root": "g4/data/20261026_12h59m48s.root",
+    "root_sha256": "b97755b6080568b4e24e62e3124151e293b8f072e5c0439ddcbf40f9037088dc",
+    "optical_seed": 276000025,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0025.npz",
+    "sha256": "487dd02acede15839b7c9e1e4e9dfa36059d5e6751acb0b104804a0c643f2829"
+  },
+  {
+    "parent": 30,
+    "root": "g4/data/20261026_13h00m04s.root",
+    "root_sha256": "e95005ff3a84d616e4d6e667ee7451532c923fd46fc8965af60b3f894631e74a",
+    "optical_seed": 276000030,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0030.npz",
+    "sha256": "e9a561338a0b9d151ce4ef1471c4569b9dd127ae5936f444840bba10e69c557f"
+  },
+  {
+    "parent": 35,
+    "root": "g4/data/20261026_13h00m19s.root",
+    "root_sha256": "54ba1e64ed36d63725f90acaee6550e85eafabc753c1346510775dc3aa1c3abe",
+    "optical_seed": 276000035,
+    "source_energy_MeV": 1.625,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0035.npz",
+    "sha256": "37ac8e51a2c6e1ae38cafcd0b1656acf3b6bdfc1ff09b82c0bc433075deb673d"
+  },
+  {
+    "parent": 240,
+    "root": "g4/data/20261026_13h11m32s.root",
+    "root_sha256": "3d308ccdc635963e21298782bda751cdbb11c756eb57ddb785a353e9282da3a2",
+    "optical_seed": 276000240,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0240.npz",
+    "sha256": "0dbdfac3d2dbbf483bff8e6b0ef228aef9b5c07b01741c078bdc6fef99c2302e"
+  },
+  {
+    "parent": 245,
+    "root": "g4/data/20261026_13h11m51s.root",
+    "root_sha256": "1e22f7c0ecf68d1aacf6d2e135aa39e5fd79dfc2396ad345fc6eff6c9989f49c",
+    "optical_seed": 276000245,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0245.npz",
+    "sha256": "75008364e0946341453f4e57a5873191bb9d5c03caa0e2ab586762bcf6a2a0d5"
+  },
+  {
+    "parent": 250,
+    "root": "g4/data/20261026_13h12m10s.root",
+    "root_sha256": "588171e54b657b2c5d6efcb8e04eab0776b1d9b6fa41fe477bb84ce7c35227b1",
+    "optical_seed": 276000250,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0250.npz",
+    "sha256": "64d615844d2b26ab0b97ba5278e27e99f6df4333915da9a2721f44d28f779dbf"
+  },
+  {
+    "parent": 255,
+    "root": "g4/data/20261026_13h12m29s.root",
+    "root_sha256": "9f8433c8389aa64f31b3c569fd69bd849ab0497cc4a21848394eb9fe0f67d472",
+    "optical_seed": 276000255,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0255.npz",
+    "sha256": "5a85ea40d9a7e6c58db0fc7c07391e97f21c4f046b5a59e8f7f31c1f12023218"
+  },
+  {
+    "parent": 260,
+    "root": "g4/data/20261026_13h12m49s.root",
+    "root_sha256": "5a7af61b5a31ba5834bbb0f482843d80292b5d160be5e53fb55525a68f0f9931",
+    "optical_seed": 276000260,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0260.npz",
+    "sha256": "84b21762a1c6c0bbfabb5f9b34e3e8635003e9c9100f1eaa72ca3a0cb14a6374"
+  },
+  {
+    "parent": 265,
+    "root": "g4/data/20261026_13h13m08s.root",
+    "root_sha256": "0b26e5d0a61d85042e05bf0287f97a66caca6960414ac1d7d4d643ff587bf269",
+    "optical_seed": 276000265,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0265.npz",
+    "sha256": "53aacd7bd44caf2542d58983927cddf3f7bd4a452122adbac0f4dbcd19345ff9"
+  },
+  {
+    "parent": 270,
+    "root": "g4/data/20261026_13h13m27s.root",
+    "root_sha256": "8de9745c8872b6415c248a2b337f90fc2d4f87c1222ea4bc06f350d33a619eeb",
+    "optical_seed": 276000270,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0270.npz",
+    "sha256": "e04d8bd2658eb26a62331dd46a5c3dfdbc7f867e0311fb2e4d93038123e03642"
+  },
+  {
+    "parent": 275,
+    "root": "g4/data/20261026_13h13m47s.root",
+    "root_sha256": "cadeb355eee2d35abafba9f1e4157b5213da927933fc3c8f073d18ec3f7bc22f",
+    "optical_seed": 276000275,
+    "source_energy_MeV": 8.0,
+    "photon_file": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/photons/0275.npz",
+    "sha256": "6b3a756a3550d32e7486fcc178a06e792050a54a0045a6e2f358bc3b239aa5de"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "scope": "Descriptive reporting added after historical decomposition; original simulation freeze unchanged",
+  "files": {
+    "source/pileup/analysis/sipm_energy_history_report.py": "3d3cf74ba0c1684e69554be97b1c19af4e90325a79105ee37bced595a08bf826",
+    "report.py": "f48360cbba977c380e19fd9fcd0d9e02c0171ed851f4b9701405dee008574131"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "historical_components": 2400,
+  "fitted_component_rows": 4800,
+  "historical_decomposition_groups": 120,
+  "historical_frame_groups": 60,
+  "counterfactual_component_rows": 768,
+  "counterfactual_groups": 24,
+  "recovery_contrasts": 12,
+  "known_charge_energy_groups": 24,
+  "window_controls": 16,
+  "figures": 4,
+  "report_sha256": "188de68faae58e7a36f97b88373bc9e6ad3d9532e35108423fc2be693307412a",
+  "scope": "Truth-assisted diagnostic only; all unmatched and extra counts retained"
+}

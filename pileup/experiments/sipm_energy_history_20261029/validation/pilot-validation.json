@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "historical_case": 840,
+  "historical_charge_reproduced": true,
+  "max_simulation_seconds": 0.5197032960004435,
+  "projected_two_worker_seconds": 236.98470297620224,
+  "inputs_sha256": {
+    "inputs/cases.json": "379a9dc953535814600635182299f1a6168e44cf4d887a016b76b2e8f5650d8b",
+    "inputs/fits.jsonl": "5f3a1406937e4313be2bee3fbbe784cf59ee9a023950af556cb75189dc21a76a",
+    "inputs/labels.npz": "4c5f94695610035330b7274ee0ae4f469c0e8d870c86fa4dbe0db402fa02e540",
+    "inputs/parents.json": "508f3c654028cbecc7401cddc026c810db05a6ffc98d9c24973dc93c6179abcd",
+    "inputs/scores.jsonl": "aac47c1c65065ecd65b14f2902bb33098c661525e14ee2bb004c7bdc2eb1366e",
+    "inputs/photons/0000.npz": "bfd8f85922e3e13e2f183de17ad5c2388690a4a0a66f4ae6680553bf26e82ef4",
+    "inputs/photons/0005.npz": "f1d82d3813b0872bc705f5f394d0348d9c21a46cfff88b1dafcc2cb3cec432a8",
+    "inputs/photons/0010.npz": "88d94e32755ad988112062f823d3ca9fc6d550c58a2e60c9fe06bf7bca95be3f",
+    "inputs/photons/0015.npz": "cad661889bac4438f0b4be501ae96755125894f5b9f943aa6de81993895ca813",
+    "inputs/photons/0020.npz": "dd23cd643d0b13eada18ec6e63b6f5250430cf3074d9684ce1c3a59cea3e718e",
+    "inputs/photons/0025.npz": "487dd02acede15839b7c9e1e4e9dfa36059d5e6751acb0b104804a0c643f2829",
+    "inputs/photons/0030.npz": "e9a561338a0b9d151ce4ef1471c4569b9dd127ae5936f444840bba10e69c557f",
+    "inputs/photons/0035.npz": "37ac8e51a2c6e1ae38cafcd0b1656acf3b6bdfc1ff09b82c0bc433075deb673d",
+    "inputs/photons/0240.npz": "0dbdfac3d2dbbf483bff8e6b0ef228aef9b5c07b01741c078bdc6fef99c2302e",
+    "inputs/photons/0245.npz": "75008364e0946341453f4e57a5873191bb9d5c03caa0e2ab586762bcf6a2a0d5",
+    "inputs/photons/0250.npz": "64d615844d2b26ab0b97ba5278e27e99f6df4333915da9a2721f44d28f779dbf",
+    "inputs/photons/0255.npz": "5a85ea40d9a7e6c58db0fc7c07391e97f21c4f046b5a59e8f7f31c1f12023218",
+    "inputs/photons/0260.npz": "84b21762a1c6c0bbfabb5f9b34e3e8635003e9c9100f1eaa72ca3a0cb14a6374",
+    "inputs/photons/0265.npz": "53aacd7bd44caf2542d58983927cddf3f7bd4a452122adbac0f4dbcd19345ff9",
+    "inputs/photons/0270.npz": "e04d8bd2658eb26a62331dd46a5c3dfdbc7f867e0311fb2e4d93038123e03642",
+    "inputs/photons/0275.npz": "6b3a756a3550d32e7486fcc178a06e792050a54a0045a6e2f358bc3b239aa5de"
+  }
+}

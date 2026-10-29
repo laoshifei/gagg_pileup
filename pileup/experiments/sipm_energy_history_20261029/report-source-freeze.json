@@ -1,0 +1,7 @@
+{
+  "scope": "Descriptive report; corrected comment before full execution; previous unused version retained in report-revisions/unused_v1",
+  "files": {
+    "source/pileup/analysis/sipm_energy_history_report.py": "1451d79b94802b5df7000ff19d6a15333518202f51ec136b0ff08497b490fabf",
+    "report.py": "f48360cbba977c380e19fd9fcd0d9e02c0171ed851f4b9701405dee008574131"
+  }
+}

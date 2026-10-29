@@ -1,0 +1,69 @@
+{
+  "created": "2026-10-29T11:30:02.236443+08:00",
+  "kind": "Retrospective mechanistic diagnostic, not new blind confirmation",
+  "committed_baseline": "73a4e94fbfa5bcc8d6516c00590721de2b468844",
+  "historical_frames": 1600,
+  "historical_pairs": 1200,
+  "historical_optical_parents": 320,
+  "decomposition": "(g(Qfit)-E)/E = (g(Qnative_single)-E)/E + (g(Qshared)-g(Qnative_single))/E + (g(Qfit)-g(Qshared))/E",
+  "historical_caveat": "Native singles use C++/20us; shared pairs use offline/4.096us; different RNG. Historical response term alone is not a causal recovery effect.",
+  "decomposition_summary": "Means of the SAME finite, time-matched subset; medians of terms must not be added; missed/extra and matching denominators retained",
+  "paired_counterfactual": "Same optical parents and placements, joint shared-cell versus separately digitized single injections",
+  "optical_blocks": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35
+  ],
+  "optical_pairs": 8,
+  "optical_parents": 16,
+  "digitizer_replicates": 4,
+  "orders": [
+    "high_weak",
+    "weak_high"
+  ],
+  "source_energies_MeV": [
+    1.625,
+    8.0
+  ],
+  "gaps_ns": [
+    8.0,
+    40.0,
+    200.0
+  ],
+  "first_ns": 128.0,
+  "window_ns": 4096.0,
+  "observed_historical_ns": 2048.0,
+  "long_window_ns": 20000.0,
+  "simulations": 912,
+  "shared_simulations": 384,
+  "isolated_simulations": 512,
+  "long_window_controls": 16,
+  "max_workers": 2,
+  "avalanche_seed_base": 691000000,
+  "rng": "Same seed across order/gap/single/joint/recovery controls; changing photons changes RNG consumption, so not eventwise identical avalanche draws; four seeds per optical pair",
+  "recovery_ablation": {
+    "original": true,
+    "counterfactual": false,
+    "all_other_sensor_parameters_unchanged": true
+  },
+  "disabled_recovery": "No energy mapping or blind-performance claim for this altered detector; charge interaction control only",
+  "charges": "Primary-ancestor avalanche charge/q0; dark ancestry excluded, its occupancy and crosstalk remain simulated",
+  "uncertainty": "Paired nested bootstrap across eight optical pairs and four digitizer replicates; descriptive for this selected finite sample",
+  "bootstrap_seed": 202610295701,
+  "pilot_gate": "Reproduce one historical joint charge vector within 1e-10 relative/1e-8pe absolute; charge closure; projected two-worker run <=1800s",
+  "physics_default_changed": false,
+  "new_ROOTs": false,
+  "new_training": false,
+  "new_fits": false,
+  "restrictions": [
+    "Pure central alpha, fixed95/351ns transport",
+    "No gamma or free tau",
+    "No rate limit or universal separation claim",
+    "Existing optical mothers reused, no fresh transport test"
+  ]
+}
