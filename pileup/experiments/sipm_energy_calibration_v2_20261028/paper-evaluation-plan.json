@@ -1,0 +1,12 @@
+{
+  "created": "2026-10-28T12:21:24.011268+00:00",
+  "main_claim_candidate": "Conditional performance and energy/count bias of blind GAGG-SiPM reconstruction",
+  "current_phase": "Frozen energy transfer and three-gap native verification",
+  "later_phases": [
+    "New points in gap/charge/order map",
+    "Continuous0.1/1/10MHz unknown-K and energy spectra",
+    "Response shift and mixed alpha/gamma with equal species priority"
+  ],
+  "no_universal_time_or_rate_claim": true,
+  "no_new_architecture_search": true
+}

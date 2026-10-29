@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-29T08:27:59.394180+08:00",
+  "new_development_started": false,
+  "new_confirmation_started": false,
+  "files": {
+    "analysis-source/pileup/analysis/sipm_energy_guard_study.py": "db28f6033787833804b04a327b5b0e3fa6ba3a1a653c82c7ab34d79ceccda1a2",
+    "energy.py": "0e2a5e180ee9a4f12c8bdc1df220864013e3adae99e48ef7c3b3d6f894381954",
+    "freeze.json": "a5e4b569c6c5ec7e98a1963180e4aa14d3d2cc283a956b7bcdf372e2cf53e24e"
+  }
+}

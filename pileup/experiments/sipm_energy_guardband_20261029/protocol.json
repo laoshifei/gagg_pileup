@@ -1,0 +1,121 @@
+{
+  "created": "2026-10-29T08:24:12.309285+08:00",
+  "purpose": "Repair calibration coverage and separate internal target from wider support",
+  "physics_unchanged": true,
+  "fixed_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "sampling_ns": 2.0,
+  "native_window_us": 20.0,
+  "adequate_dynamic_range": true,
+  "particles": "Pure central alpha; source energy is not deposited energy",
+  "target_source_energies_MeV": [
+    1.625,
+    1.8,
+    2.0,
+    2.5,
+    3.5,
+    4.5,
+    5.486,
+    6.5,
+    7.0,
+    8.0
+  ],
+  "target_nominal_edep_MeV": [
+    0.2,
+    7.7
+  ],
+  "source_groups_are_design_strata": true,
+  "target_selection": "All events in prespecified source groups; no cuts on measured Q or true E within a group",
+  "guard_source_energies_MeV": [
+    1.5,
+    9.0
+  ],
+  "intermediate_fit_source_energies_MeV": [
+    2.0,
+    3.5,
+    4.5,
+    6.5
+  ],
+  "interpolation_test_only_source_energies_MeV": [
+    1.8,
+    7.0
+  ],
+  "phases": {
+    "pilot": {
+      "energies_MeV": [
+        1.5,
+        2.0,
+        3.5,
+        9.0
+      ],
+      "repetitions": 4,
+      "seed_start": 690000000
+    },
+    "fit": {
+      "energies_MeV": [
+        1.5,
+        2.0,
+        3.5,
+        4.5,
+        6.5,
+        9.0
+      ],
+      "repetitions": 16,
+      "seed_start": 690010000
+    },
+    "select": {
+      "energies_MeV": [
+        2.0,
+        3.5,
+        4.5,
+        6.5
+      ],
+      "repetitions": 16,
+      "seed_start": 690020000
+    },
+    "confirmation": {
+      "energies_MeV": [
+        1.625,
+        1.8,
+        2.0,
+        2.5,
+        3.5,
+        4.5,
+        5.486,
+        6.5,
+        7.0,
+        8.0
+      ],
+      "repetitions": 32,
+      "seed_start": 690030000
+    }
+  },
+  "total_new_roots": 496,
+  "calibration": "Old280 fold0 + new96; select old280 fold1 + new64; no pilot used for fit/selection",
+  "new_confirmation": 320,
+  "confirmation_after_energy_freeze": true,
+  "pilot_gate": "All16 exports/config/RunInfo correct; lower guard positive deposited energy and Q with max E<0.20MeV; upper guard min E>8.0MeV; intermediate means increasing; halt on failure",
+  "mapping_candidates": [
+    "linear_energy",
+    "yield_scale",
+    "yield_saturation",
+    "empirical_pchip"
+  ],
+  "selection": "Equal mean of relative-MSE across eight INTERNAL source groups, domain rejection penalty1; no guard groups in selection loss",
+  "fitting": "Equal source-group weights; all positive native calibration Q/E; no truth-Q threshold cut",
+  "inference_domain": "Observed fit E range expanded by physical guard data; no inverse extrapolation or endpoint clipping",
+  "confirmation_control": "Each of ten source groups >=95% finite inverse, abs median relative energy error<=5%; report all 320 including failures",
+  "target_energy": "Total per-primary E_dep in MeV",
+  "charge": "Primary-descendant realized avalanche charge/q0, excluding dark ancestry",
+  "no_extra_Birks": true,
+  "evaluation": "First new isolated truth-Q energy calibration; then fixed blind fits on historical shared-cell pairs; keep truth-assisted and blind results separate",
+  "limitations": [
+    "No new mixed alpha/gamma",
+    "No free tau",
+    "No new high-rate stream",
+    "No hardware calibration"
+  ],
+  "max_workers": 4
+}

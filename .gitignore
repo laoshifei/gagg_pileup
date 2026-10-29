@@ -14,6 +14,8 @@ jupyter/
 # Simulation data and duplicate archives
 /g4/data/
 /pileup/experiments/*/runs/
+# Repeated native Geant4 stdout; macros, seeds, manifests and summaries remain versioned.
+/pileup/experiments/sipm_energy_guardband_20261029/logs/
 /pileup/results/
 *.root
 *.zip

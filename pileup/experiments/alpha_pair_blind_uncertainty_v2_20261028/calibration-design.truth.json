@@ -1,0 +1,2802 @@
+[
+  {
+    "index": 0,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      0,
+      997
+    ]
+  },
+  {
+    "index": 1,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      1,
+      997
+    ]
+  },
+  {
+    "index": 2,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      2,
+      997
+    ]
+  },
+  {
+    "index": 3,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      3,
+      997
+    ]
+  },
+  {
+    "index": 4,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      4,
+      997
+    ]
+  },
+  {
+    "index": 5,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      5,
+      997
+    ]
+  },
+  {
+    "index": 6,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      6,
+      997
+    ]
+  },
+  {
+    "index": 7,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      7,
+      997
+    ]
+  },
+  {
+    "index": 8,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      8,
+      997
+    ]
+  },
+  {
+    "index": 9,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      9,
+      997
+    ]
+  },
+  {
+    "index": 10,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      10,
+      997
+    ]
+  },
+  {
+    "index": 11,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      11,
+      997
+    ]
+  },
+  {
+    "index": 12,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      12,
+      997
+    ]
+  },
+  {
+    "index": 13,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      13,
+      997
+    ]
+  },
+  {
+    "index": 14,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      14,
+      997
+    ]
+  },
+  {
+    "index": 15,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      15,
+      997
+    ]
+  },
+  {
+    "index": 16,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      16,
+      997
+    ]
+  },
+  {
+    "index": 17,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      17,
+      997
+    ]
+  },
+  {
+    "index": 18,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      18,
+      997
+    ]
+  },
+  {
+    "index": 19,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      19,
+      997
+    ]
+  },
+  {
+    "index": 20,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      20,
+      997
+    ]
+  },
+  {
+    "index": 21,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      21,
+      997
+    ]
+  },
+  {
+    "index": 22,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      22,
+      997
+    ]
+  },
+  {
+    "index": 23,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      23,
+      997
+    ]
+  },
+  {
+    "index": 24,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      24,
+      997
+    ]
+  },
+  {
+    "index": 25,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      25,
+      997
+    ]
+  },
+  {
+    "index": 26,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      26,
+      997
+    ]
+  },
+  {
+    "index": 27,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      27,
+      997
+    ]
+  },
+  {
+    "index": 28,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      28,
+      997
+    ]
+  },
+  {
+    "index": 29,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      29,
+      997
+    ]
+  },
+  {
+    "index": 30,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      30,
+      997
+    ]
+  },
+  {
+    "index": 31,
+    "band": "pair40",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      240.3
+    ],
+    "gap_ns": 40.0,
+    "seed_words": [
+      202610280701,
+      1,
+      31,
+      997
+    ]
+  },
+  {
+    "index": 32,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      32,
+      997
+    ]
+  },
+  {
+    "index": 33,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      33,
+      997
+    ]
+  },
+  {
+    "index": 34,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      34,
+      997
+    ]
+  },
+  {
+    "index": 35,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      35,
+      997
+    ]
+  },
+  {
+    "index": 36,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      36,
+      997
+    ]
+  },
+  {
+    "index": 37,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      37,
+      997
+    ]
+  },
+  {
+    "index": 38,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      38,
+      997
+    ]
+  },
+  {
+    "index": 39,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      39,
+      997
+    ]
+  },
+  {
+    "index": 40,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      40,
+      997
+    ]
+  },
+  {
+    "index": 41,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      41,
+      997
+    ]
+  },
+  {
+    "index": 42,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      42,
+      997
+    ]
+  },
+  {
+    "index": 43,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      43,
+      997
+    ]
+  },
+  {
+    "index": 44,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      44,
+      997
+    ]
+  },
+  {
+    "index": 45,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      45,
+      997
+    ]
+  },
+  {
+    "index": 46,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      46,
+      997
+    ]
+  },
+  {
+    "index": 47,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      47,
+      997
+    ]
+  },
+  {
+    "index": 48,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      48,
+      997
+    ]
+  },
+  {
+    "index": 49,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      49,
+      997
+    ]
+  },
+  {
+    "index": 50,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      50,
+      997
+    ]
+  },
+  {
+    "index": 51,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      51,
+      997
+    ]
+  },
+  {
+    "index": 52,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      52,
+      997
+    ]
+  },
+  {
+    "index": 53,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      53,
+      997
+    ]
+  },
+  {
+    "index": 54,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      54,
+      997
+    ]
+  },
+  {
+    "index": 55,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      55,
+      997
+    ]
+  },
+  {
+    "index": 56,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      56,
+      997
+    ]
+  },
+  {
+    "index": 57,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      57,
+      997
+    ]
+  },
+  {
+    "index": 58,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      58,
+      997
+    ]
+  },
+  {
+    "index": 59,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      59,
+      997
+    ]
+  },
+  {
+    "index": 60,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      60,
+      997
+    ]
+  },
+  {
+    "index": 61,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      61,
+      997
+    ]
+  },
+  {
+    "index": 62,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      62,
+      997
+    ]
+  },
+  {
+    "index": 63,
+    "band": "pair200",
+    "kind": "pair",
+    "count": 2,
+    "charge_pe": [
+      18000.0,
+      800.0
+    ],
+    "times_ns": [
+      200.3,
+      400.3
+    ],
+    "gap_ns": 200.0,
+    "seed_words": [
+      202610280701,
+      1,
+      63,
+      997
+    ]
+  },
+  {
+    "index": 64,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      64,
+      997
+    ]
+  },
+  {
+    "index": 65,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      65,
+      997
+    ]
+  },
+  {
+    "index": 66,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      66,
+      997
+    ]
+  },
+  {
+    "index": 67,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      67,
+      997
+    ]
+  },
+  {
+    "index": 68,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      68,
+      997
+    ]
+  },
+  {
+    "index": 69,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      69,
+      997
+    ]
+  },
+  {
+    "index": 70,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      70,
+      997
+    ]
+  },
+  {
+    "index": 71,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      71,
+      997
+    ]
+  },
+  {
+    "index": 72,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      72,
+      997
+    ]
+  },
+  {
+    "index": 73,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      73,
+      997
+    ]
+  },
+  {
+    "index": 74,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      74,
+      997
+    ]
+  },
+  {
+    "index": 75,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      75,
+      997
+    ]
+  },
+  {
+    "index": 76,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      76,
+      997
+    ]
+  },
+  {
+    "index": 77,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      77,
+      997
+    ]
+  },
+  {
+    "index": 78,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      78,
+      997
+    ]
+  },
+  {
+    "index": 79,
+    "band": "empty",
+    "kind": "empty",
+    "count": 0,
+    "charge_pe": [],
+    "times_ns": [],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      79,
+      997
+    ]
+  },
+  {
+    "index": 80,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      80,
+      997
+    ]
+  },
+  {
+    "index": 81,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      81,
+      997
+    ]
+  },
+  {
+    "index": 82,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      82,
+      997
+    ]
+  },
+  {
+    "index": 83,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      83,
+      997
+    ]
+  },
+  {
+    "index": 84,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      84,
+      997
+    ]
+  },
+  {
+    "index": 85,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      85,
+      997
+    ]
+  },
+  {
+    "index": 86,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      86,
+      997
+    ]
+  },
+  {
+    "index": 87,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      87,
+      997
+    ]
+  },
+  {
+    "index": 88,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      88,
+      997
+    ]
+  },
+  {
+    "index": 89,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      89,
+      997
+    ]
+  },
+  {
+    "index": 90,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      90,
+      997
+    ]
+  },
+  {
+    "index": 91,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      91,
+      997
+    ]
+  },
+  {
+    "index": 92,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      92,
+      997
+    ]
+  },
+  {
+    "index": 93,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      93,
+      997
+    ]
+  },
+  {
+    "index": 94,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      94,
+      997
+    ]
+  },
+  {
+    "index": 95,
+    "band": "single800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      95,
+      997
+    ]
+  },
+  {
+    "index": 96,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      96,
+      997
+    ]
+  },
+  {
+    "index": 97,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      97,
+      997
+    ]
+  },
+  {
+    "index": 98,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      98,
+      997
+    ]
+  },
+  {
+    "index": 99,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      99,
+      997
+    ]
+  },
+  {
+    "index": 100,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      100,
+      997
+    ]
+  },
+  {
+    "index": 101,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      101,
+      997
+    ]
+  },
+  {
+    "index": 102,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      102,
+      997
+    ]
+  },
+  {
+    "index": 103,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      103,
+      997
+    ]
+  },
+  {
+    "index": 104,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      104,
+      997
+    ]
+  },
+  {
+    "index": 105,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      105,
+      997
+    ]
+  },
+  {
+    "index": 106,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      106,
+      997
+    ]
+  },
+  {
+    "index": 107,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      107,
+      997
+    ]
+  },
+  {
+    "index": 108,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      108,
+      997
+    ]
+  },
+  {
+    "index": 109,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      109,
+      997
+    ]
+  },
+  {
+    "index": 110,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      110,
+      997
+    ]
+  },
+  {
+    "index": 111,
+    "band": "single3000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      3000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      111,
+      997
+    ]
+  },
+  {
+    "index": 112,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      112,
+      997
+    ]
+  },
+  {
+    "index": 113,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      113,
+      997
+    ]
+  },
+  {
+    "index": 114,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      114,
+      997
+    ]
+  },
+  {
+    "index": 115,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      115,
+      997
+    ]
+  },
+  {
+    "index": 116,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      116,
+      997
+    ]
+  },
+  {
+    "index": 117,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      117,
+      997
+    ]
+  },
+  {
+    "index": 118,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      118,
+      997
+    ]
+  },
+  {
+    "index": 119,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      119,
+      997
+    ]
+  },
+  {
+    "index": 120,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      120,
+      997
+    ]
+  },
+  {
+    "index": 121,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      121,
+      997
+    ]
+  },
+  {
+    "index": 122,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      122,
+      997
+    ]
+  },
+  {
+    "index": 123,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      123,
+      997
+    ]
+  },
+  {
+    "index": 124,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      124,
+      997
+    ]
+  },
+  {
+    "index": 125,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      125,
+      997
+    ]
+  },
+  {
+    "index": 126,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      126,
+      997
+    ]
+  },
+  {
+    "index": 127,
+    "band": "single8000",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      8000.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      127,
+      997
+    ]
+  },
+  {
+    "index": 128,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      128,
+      997
+    ]
+  },
+  {
+    "index": 129,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      129,
+      997
+    ]
+  },
+  {
+    "index": 130,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      130,
+      997
+    ]
+  },
+  {
+    "index": 131,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      131,
+      997
+    ]
+  },
+  {
+    "index": 132,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      132,
+      997
+    ]
+  },
+  {
+    "index": 133,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      133,
+      997
+    ]
+  },
+  {
+    "index": 134,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      134,
+      997
+    ]
+  },
+  {
+    "index": 135,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      135,
+      997
+    ]
+  },
+  {
+    "index": 136,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      136,
+      997
+    ]
+  },
+  {
+    "index": 137,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      137,
+      997
+    ]
+  },
+  {
+    "index": 138,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      138,
+      997
+    ]
+  },
+  {
+    "index": 139,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      139,
+      997
+    ]
+  },
+  {
+    "index": 140,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      140,
+      997
+    ]
+  },
+  {
+    "index": 141,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      141,
+      997
+    ]
+  },
+  {
+    "index": 142,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      142,
+      997
+    ]
+  },
+  {
+    "index": 143,
+    "band": "single18800",
+    "kind": "single",
+    "count": 1,
+    "charge_pe": [
+      18800.0
+    ],
+    "times_ns": [
+      200.3
+    ],
+    "gap_ns": 0.0,
+    "seed_words": [
+      202610280701,
+      1,
+      143,
+      997
+    ]
+  }
+]

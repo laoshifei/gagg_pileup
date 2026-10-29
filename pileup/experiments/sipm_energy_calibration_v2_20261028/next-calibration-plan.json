@@ -1,0 +1,30 @@
+{
+  "status": "Proposed next experiment; not executed",
+  "reason": "Static energy transfer failed controls; domain rejection penalized response fluctuations at the upper calibration edge",
+  "new_experiment_required": true,
+  "separate_ranges": [
+    "Predeclare internal deposited-energy target range",
+    "Wider calibration support from additional low/high guard source energies"
+  ],
+  "sampling": [
+    "Pilot extra source energies to verify actual deposited energies after front foil",
+    "Add intermediate calibration points between current narrow energy bands",
+    "Disjoint optical parents for response fitting, mapping choice and independent confirmation"
+  ],
+  "selection_rule_to_freeze_before_new_confirmation": [
+    "Evaluate main accuracy and efficiency on predeclared internal target groups",
+    "Use guard points to constrain response; do not make calibration extrema the main inverse-acceptance boundary again",
+    "Record finite inverse, out-of-support flag, bias and all-event recovery separately"
+  ],
+  "preserve": [
+    "Pure alpha fixed double tau for phase A",
+    "Model GLS and joint NLL original gates",
+    "Adequate analog dynamic range",
+    "Existing failed result and original independent splits"
+  ],
+  "later_if_pass": [
+    "Extend latest separation-charge-order grid",
+    "0.1/1/10 MHz full-window unknown-K and absolute spectra",
+    "Response shifts and equal-priority alpha/gamma"
+  ]
+}

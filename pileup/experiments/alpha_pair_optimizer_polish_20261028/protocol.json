@@ -1,0 +1,65 @@
+{
+  "created": "2026-10-28T08:56:24.718776+00:00",
+  "methods": [
+    "baseline",
+    "restart",
+    "multistart",
+    "polished"
+  ],
+  "primary": "polished",
+  "settings": {
+    "starts": 6,
+    "maxiter": 160,
+    "powell_maxiter": 100,
+    "powell_maxfev": 2400,
+    "ftol": 1e-12,
+    "gtol": 1e-06,
+    "eps": 1e-05
+  },
+  "question": "Does stronger optimization of already selected K2 improve actual pair recovery?",
+  "count_policy": "Keep original waveform_candidates/select native gate alpha0.025. Only originally selected K2 is polished; K0/K1 exact copies. No Q>=500 re-cut after polishing. Unknown true K. Cannot rescue missed K1 pairs by construction.",
+  "objective": "Same full Gaussian quadratic+logdet,conditional mean/covariance. No new weight,prior,response or physical parameter.",
+  "optimization": "Ordered t1/t2,Q50..50000pe,observed K1 anchor-96..+512ns enlarged to original K2 and clipped to full record. Original fit retained. Restart;6 diverse observed starts;bounded Powell. Finite search,not global proof.",
+  "seed_bank": "Fitted times +/-1,2,4,8,16,32ns with charge identity preserved;K1 anchor,dyadic4..512ns gaps,both orders,shares.02/.05/.15/.5/.85/.95/.98. No true40/200ns starts.",
+  "development": "15 exposed old frames,including6 lower-cost witnesses;examples not a random performance sample. Prior witnesses/truth/errors are not optimizer inputs.",
+  "dev_indices": [
+    2,
+    73,
+    77,
+    78,
+    84,
+    114,
+    0,
+    1,
+    64,
+    65,
+    128,
+    160,
+    224,
+    250,
+    251
+  ],
+  "known_witness_indices": [
+    2,
+    73,
+    77,
+    78,
+    84,
+    114
+  ],
+  "confirmation": "288 fresh draws:64 each40/200ns,strong18000->weak800pe,t1=200.3ns;32 each empty,singles800/3000/8000/18800pe. SeedSequence[202610281501,3,index,997]. Frozen before generation;no test tuning.",
+  "stopping": "Tests and finite,nonincreasing-cost,count-preserving development validation precede fresh generation. Configuration/primary fixed in advance;no stop based on development accuracy.",
+  "evaluation": "Paired same-waveform comparison;all frames retained. Strict bothQ<=20%,both time<=10ns,no extra outputs. Per-band binomial intervals and paired discordance;pooled fixed strata counts only.",
+  "model": "Purealpha fixed95/351ns,full1024x2ns float64 voltage,ample dynamic range,same conditional Gaussian model. FIR first3 residuals zero. Q equivalentpe,not depositedenergy.",
+  "limits": "No nativeSiPM,new optical mothers,free-tau,alpha/gamma,K>=3 or rate-scan claims. Better objective need not improve truth error.",
+  "example_indices": [
+    0,
+    64
+  ],
+  "workers_limit": 8,
+  "workers_used": 4,
+  "blas_threads": 1,
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "default_changed": false
+}

@@ -1,0 +1,20 @@
+{
+  "level": 11.863623862763234,
+  "status": "finite",
+  "samples": 36,
+  "order": 35,
+  "empirical_target": 0.95,
+  "minimum_samples": 20,
+  "guarantee": "No nominal or uniform coverage claim",
+  "created": "2026-10-28T04:43:47.549385+00:00",
+  "basis": "Selected true calibration pairs only; fixed stratified mixture",
+  "selected_per_gap": {
+    "pair40": 6,
+    "pair200": 30
+  },
+  "out_of_domain": 0,
+  "test_generated": false,
+  "prediction_sha256": "f2dacfdffe11fffe9ac236500c45392c6b9b78e047f592bebdaf098661c0b99b",
+  "truth_used_for_calibration_after_predictions": true,
+  "quality_rule": "Fixed diagnostic_label; no threshold optimization on event accuracy"
+}

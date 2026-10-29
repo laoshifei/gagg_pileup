@@ -1,0 +1,15 @@
+{
+  "created": "2026-10-29T10:31:23.270864+08:00",
+  "role": "Post-evaluation reporting snapshot; not the pre-confirmation inference freeze",
+  "files": {
+    "README.md": "d5a514b7477f0a9be811b80f07cdf52870388c4343ce40cdeb5ac00c50434d68",
+    "manifest.json": "22bb5efd83d5d4f38e305ecb4aec557f94ade03e798f6e6547ba882cdf83343e",
+    "result-summary.json": "ca8174a3bd35d32764463f76572461d4284b09381dac63c0e6a7205d3ac40c19",
+    "retry-audit.json": "06050e6172dbfa4a7186fbf0acce0e91ae82a87d0356c735f65240b8f961c10e",
+    "report.py": "fe1982ae059eb44f6d6299e12b9dadf8cc0c790751345663bd1039c3902323f9",
+    "analysis-source/pileup/analysis/sipm_energy_guard_report.py": "f0fb17b8bbe9b8d79776021cc9f2599a69380534b72446f39ca662073c017c12",
+    "freeze.json": "a5e4b569c6c5ec7e98a1963180e4aa14d3d2cc283a956b7bcdf372e2cf53e24e",
+    "analysis-freeze.json": "c6d6105b6f91e618d7d93683e7105308bff1fac7462744fb72e3d2cbf8b2382b",
+    "energy-freeze.json": "93a90b7098070fafcb613ab00e94198c8bc27ab1edec3b86b1f54b3f1e0dd884"
+  }
+}

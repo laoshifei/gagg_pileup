@@ -1,0 +1,57 @@
+{
+  "created": "2026-10-28T12:21:24.005152+00:00",
+  "phase": "A: charge-to-energy transfer and existing-grid validation",
+  "scope": "Pure central alpha, fixed95/351ns, 2ns sampling, full2.048us local voltage, unknownK<=2",
+  "adequate_dynamic_range": true,
+  "new_ROOTs": false,
+  "new_waveform_fits": false,
+  "main_fitting_comparison": [
+    "model_relative_residual",
+    "joint_conserved_nll"
+  ],
+  "fit_or_gate_changed": false,
+  "calibration_source": "alpha_pair_joint_likelihood_20261026",
+  "calibration_split": "Existing mother replicate//2 modulo2: fold0 fit, fold1 choose mapping",
+  "expected_calibration_counts": [
+    280,
+    280
+  ],
+  "expected_evaluation_parents": 320,
+  "evaluation_source": "alpha_pair_joint_confirmation_20261026",
+  "evaluation_frames": 1600,
+  "evaluation_gaps_ns": [
+    8.0,
+    40.0,
+    200.0
+  ],
+  "evaluation_status": "Previously published Q/t confirmation; new energy endpoint, disjoint from calibration/selection mothers; not a new unseen transport campaign",
+  "mapping_candidates": [
+    "linear_energy",
+    "yield_scale",
+    "yield_saturation",
+    "empirical_pchip"
+  ],
+  "mapping_selection": "Equal mean of four source-group relative-MSE; nonfinite inverse incurs loss1, all events retained; ties follow candidate order",
+  "fitting_weight": "Equal source groups, scaled by fixed group mean Q; no per-event observed-Q weight",
+  "energy_target": "Total deposited energy per primary, MeV; not source energy, entry energy or keVee",
+  "calibration_charge": "Primary-descendant realized avalanche charge/q0; excludes dark ancestry",
+  "mapping_domain": "Observed fold0 E_dep min/max; no inverse extrapolation/clipping; no extra Birks correction",
+  "primary_metric": "All target events recovered within10% E_dep and min(10ns,delta/4) for pairs; no extra output for frame success",
+  "secondary_energy_tolerances_percent": [
+    5,
+    20
+  ],
+  "threshold_Q_pe": 500.0,
+  "ordinary_matching_ns": 10.0,
+  "controls": "Report empty and single groups separately; inherited5% extra-output budget; no retuning",
+  "energy_selection_gate": "Held-out single source groups: at least95% in-domain and abs median E bias<=5% in every group; report failure without retuning",
+  "oracle_diagnostic": "True realized Q and true K/t converted only after blind predictions frozen; not blind recovery",
+  "uncertainties": "2000 paired mother-block bootstrap draws; first20/last20 replicate//2 blocks resampled separately; same weights across methods/conditions/gaps",
+  "bootstrap_seed": 202610283501,
+  "limits": [
+    "Sparse four source energies; interpolation between bands not independently validated",
+    "Conditional residual sigma68 is not energy-spectrum FWHM",
+    "Not mixed alpha/gamma, free-tau, random high-rate K>=3 or measured hardware"
+  ],
+  "next_stage": "If energy-transfer controls pass, expand the frozen method condition grid; otherwise diagnose calibration on development data in a new experiment"
+}

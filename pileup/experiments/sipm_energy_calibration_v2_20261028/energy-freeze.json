@@ -1,0 +1,9 @@
+{
+  "created": "2026-10-28T12:27:29.822978+00:00",
+  "files": {
+    "energy-model.json": "dbe9ef69b6dd9505eb479675c43573a2f8cbf46a0529fbb70d112db1ea4e1e9c",
+    "mapping-selection.json": "b5aa346091c91db7b468c74dc9eb0c0433c8ea1e854fd1cebe3228378ebb1184",
+    "freeze.json": "6d082ee2c6fe7a5f4df0fd13d01ff5c230bb30aad6dae426c42358e9129c3835"
+  },
+  "evaluation_energy_not_read": true
+}

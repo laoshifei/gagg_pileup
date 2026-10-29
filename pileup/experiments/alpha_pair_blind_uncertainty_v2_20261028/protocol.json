@@ -1,0 +1,49 @@
+{
+  "created": "2026-10-28T04:22:30.245642+00:00",
+  "question": "After the frozen blind count decision, does an empirically calibrated joint parameter cost region contain truth, and do finite exterior searches reveal ambiguity?",
+  "interpretation": "New project diagnostic; no theorem of nominal confidence, no global optimization or non-identifiability claim.",
+  "reference": "Unchanged waveform_candidates K2 cost, not the global maximum-likelihood fit; select uses original native gate alpha0.025 unchanged.",
+  "region": "D(y):ordered t in observed K1-trigger local domain enlarged to contain original K2,charges50..50000pe. R_c={theta in D:J(y;theta)-J(y;theta_hat_K2)<=c}. The baseline candidate stays unchanged.",
+  "calibration": "144 new frames:32 each40/200ns pairs;16 each empty,singles800/3000/8000/18800pe. Only selected TRUE pairs calibrate c=max(0,ceil(.95*n)-th ordered joint score); at least20 selected pairs and finite c required. Out-of-domain truths count as +inf.",
+  "confirmation": "Freeze c before generating288 separate frames:64 each40/200ns pairs,32 each of the five controls. Fixed stratified design, not a universal input mixture.",
+  "selection_scope": "Calibrated mixture is the selected-pair mixture induced by this design and gate. Report per-gap conditional containment and all-pair selected-and-contained separately; no uniform nuisance or nominal95% guarantee.",
+  "quality": "Search eight closed exterior boxes at or beyond either ordered time error10ns or relative charge error20%, denominator possible true Q. Use Qhat/1.2,Qhat/.8. Explicit in-region exterior witness means ambiguity. No witness plus search stability/convergence is only a diagnostic label, never a proof.",
+  "settings": {
+    "starts": 2,
+    "maxiter": 100,
+    "verify_starts": 4,
+    "verify_maxiter": 180,
+    "stability_cost": 0.05,
+    "q_tolerance": 0.2,
+    "t_tolerance_ns": 10.0
+  },
+  "quality_changes_predictions": false,
+  "empirical_quantile": 0.95,
+  "minimum_selected_calibration_pairs": 20,
+  "model": "Same frozen conditional correlated Gaussian mean/covariance; FIR first3 residuals zero; fixed alpha95/351ns,1024x2ns float64 voltage,ample dynamic range.",
+  "truth": "Truth only in generation and scoring/calibration after inference SHA256 freezes. Workers reject truth/cases/ROOT opens; no real K,Q,t or labels enter inference.",
+  "pilot_indices": [
+    0,
+    1,
+    2,
+    32,
+    33,
+    34,
+    64,
+    80,
+    128
+  ],
+  "example_indices": [
+    0,
+    1,
+    64,
+    65
+  ],
+  "workers_limit": 8,
+  "blas_threads": 1,
+  "stopping": "Analytic tests and complete pilot cost/domain checks precede main calibration. If empirical c is unbounded/insufficient, do not launch full confirmation; report calibration limitation. Numerical failures remain in scoring denominators.",
+  "scope_limits": "Purealpha model-only K<=2; no native photons,new ROOT,training,free tau,alpha/gamma or rate scan. Q equivalentpe not depositedenergy. No inference improvement claimed.",
+  "new_ROOTs": 0,
+  "new_training": 0,
+  "default_changed": false
+}

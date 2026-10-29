@@ -1,0 +1,22 @@
+{
+  "created": "2026-10-28T12:21:26.241205+00:00",
+  "files": {
+    "material-yield.inc": "e1d223870d7ceb6ef14991e15c6c9fcc458faa680133a988446d5c5c34fe9ec5",
+    "paper-evaluation-plan.json": "e7aef20504c379fae523bcde5c7df9b287eae29a196924fd32907afa99a5aafb",
+    "parent-gate-calibrations.json": "c7e95365b9ba452ab8b38e481213b025e754a478bdc6113cea07447256542807",
+    "parent-legacy-gate-calibrations.json": "0aec8db564b0f2e01562d880a04f3274849839f7ec5edd8656002b984bcee6ea",
+    "parent-protocol.json": "2d6bfae8b0c278c1ff9a5ccbd108ee0bb1897c68bb438ef1c4281433f83ea083",
+    "parent-settings.json": "ae8e74dd0043c34a2723cf627877ae886d44a904970870d95cd4f03664ecb6c2",
+    "protocol.json": "f17db1938dd6d5bfdb629f3cf76f2b91ffbee5771c5f039cc82544551c0c4438",
+    "run.py": "88a9be16e113786dcdd9d73853aa24f189afe69b1096dbdb7894eb7031de4015",
+    "sensor-config.json": "e499d0abae465cfe4472927448a40efca0189c333f5c14c03dd46328e7685544",
+    "source/pileup/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source/pileup/analysis/sipm_energy_calibration.py": "5d26ea7d8710035551990b856cc919d59b4651b3fce51e04165b6410a08e3f59",
+    "source/pileup/analysis/sipm_energy_study.py": "500b57cda186b8593a6c804a127aa499def2ac28304f5d9de7af872f615b2a6a",
+    "source/pileup/analysis/test_sipm_energy_calibration.py": "c58e4d9df0832c2e7ea0c1c8bd696a4d9dcf2eb8406d96b1996648f1682c8f42",
+    "source/pileup/analysis/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "git_head": "6a930411ed1c8dbf56addb2ccf0d0a19dfb2c868",
+  "uncommitted": "Previous research preserved; this snapshot includes current new energy-calibration modules",
+  "evaluation_energy_not_read": true
+}
