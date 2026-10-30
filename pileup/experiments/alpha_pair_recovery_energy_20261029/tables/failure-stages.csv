@@ -1,0 +1,9 @@
+method,group,frames,wrong_count,strict_time,energy,success
+static_nll,weak,600,117,37,217,229
+static_nll,strong,600,17,11,252,320
+coupled_charge_only,weak,600,117,37,236,210
+coupled_charge_only,strong,600,17,11,121,451
+isolated_energy_refit,weak,600,117,37,213,233
+isolated_energy_refit,strong,600,17,10,326,247
+recovery_energy_refit,weak,600,117,37,218,228
+recovery_energy_refit,strong,600,17,11,78,494

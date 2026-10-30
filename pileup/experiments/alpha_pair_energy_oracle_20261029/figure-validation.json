@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "visual_inspection": true,
+  "figures": [
+    "0007-29-1",
+    "0007-30-1",
+    "0007-31-1",
+    "0007-32-1"
+  ],
+  "labels_visible": true,
+  "full_waveform_range_ns": [
+    0,
+    2048
+  ],
+  "weak_error_extremes_retained": true,
+  "figure_numbers_unique": true
+}

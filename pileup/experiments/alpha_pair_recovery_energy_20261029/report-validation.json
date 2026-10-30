@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "frames": 1600,
+  "methods": 4,
+  "audited_score_rows": 6400,
+  "original_baseline_reproduced": true,
+  "original_blind_count_retained": true,
+  "figures": 5,
+  "heldout_singles": 280
+}

@@ -1,0 +1,8 @@
+{
+  "created": "2026-10-29T14:32:28.746938+08:00",
+  "stage": "Post-inference reporting; no method tuning",
+  "files": {
+    "source/pileup/analysis/alpha_pair_recovery_energy_report.py": "2fe54de1a16fdc5ad80f3df9ee03f67bd27e018f140aadaee9209ac7bcf89d80",
+    "run_report.py": "e6e461b2b17afa742e48f6ab8594757e4afaa7e1d1f046f405da6e9ad4b266e0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-29T14:36:11.869466+08:00",
+  "stage": "Report audit revision only; original report source retained unchanged",
+  "reason": "Nominal onset audit found 0.25ns pre-onset support in frozen interpolated template. Preserve nominal failure and test discrete causality against actual support. No inference/model/parameter change.",
+  "previous": "report-source-freeze.json",
+  "files": {
+    "source/pileup/analysis/alpha_pair_recovery_energy_report_v2.py": "f5e3b68a2276b2784804859cb255eec350c32556dd735903e8dba3a96b10146d",
+    "run_report_v2.py": "1c0a1ce57d650de6b4bbf8099851653a720bb5232604085e3be0f1272f8773d5"
+  }
+}

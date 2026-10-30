@@ -1,0 +1,63 @@
+{
+  "created": "2026-10-30T11:59:37.674878+08:00",
+  "git_commit": "67796208c81000563470044f2482e9622c582f77",
+  "preexisting_document_diff_paths": [
+    "README.md",
+    "docs/literature-use.md"
+  ],
+  "implementation_source_files": "See source snapshot and SHA256 freeze",
+  "scope": "Known K/t pure-alpha conditional diagnostic, exposed existing optical parents; no blind improvement or fresh optical confirmation",
+  "blocks": [
+    0,
+    10,
+    20,
+    30
+  ],
+  "optical_parents": 8,
+  "conditions_per_block": 6,
+  "reference_repeats": 16,
+  "evaluation_repeats": 16,
+  "total_redigitizations": 768,
+  "gaussian_evaluation_draws": 384,
+  "sample_spacing_ns": 2.0,
+  "samples": 1024,
+  "first_active_photon_ns": 128.0,
+  "full_digitization_ns": 4096.0,
+  "fixed_scintillation_taus_ns": [
+    95.0,
+    351.0
+  ],
+  "sensor": "Frozen S13360-6050PE proxy:14400 cells,29ns recovery",
+  "noise": "Shared PDE/XT/dark/recovery, then0.1mV independent electronics; photons fixed within each optical mother",
+  "rate": "Controlled singles/pairs, no Poisson source rate; cannot infer MHz performance from these controls",
+  "mean_model": "Frozen recovery-energy strength2.515148098, existing isolated energy calibration, no relearning",
+  "domains": [
+    "physical_repeats",
+    "independent_reference_mean_replaced",
+    "matched_gaussian"
+  ],
+  "mean_replacement": "y_evaluation - mean(y_reference) + model(true E,t); oracle only; finite reference error remains and is shared",
+  "covariance": "One fixed factor from voltage-only one-event fit to independent reference mean; reused across all domains/weights",
+  "weights": "GLS versus identical diagonal marginal variances; removes correlations only, not an exhaustive test of weights",
+  "gaussian": "Exact frozen covariance in fitted FIR domain; voltage prefix noise fixed to zero; not native photon statistics",
+  "fitting": "Known K and fixed true t only; no E/Q truth in fitting API; original linear +5 charge-share starts,120eval each",
+  "endpoints": "All injected components E±5/10/20%, paired success, signed bias,sigma68,RMSE, boundaries,convergence; actual Q>=500 counts also reported",
+  "count_metrics": "K/t fixed: missed/extra/split/merge/PSD not estimated; never present fixed counts as blind detection performance",
+  "selection": "Four evenly spaced old mother blocks, fixed before outcomes, no selection by previous success/failure",
+  "limitations": [
+    "Conditional redigitization omits new transport fluctuations",
+    "Only4 optical pairs, repeated draws not independent optical events",
+    "Reference-mean differences include fixed optical realization as well as response mismatch",
+    "Local linear projection is no bound or confidence calibration",
+    "No alpha/gamma or free-tau/rate/real-detector claim"
+  ],
+  "max_workers": 2,
+  "blas_threads": 1,
+  "pilot_cost_limit_seconds": 1800.0,
+  "pilot_cost_safety_factor": 2.0,
+  "no_new_G4": true,
+  "no_new_ROOT": true,
+  "no_new_macros": true,
+  "no_ADC_rejection": true,
+  "default_changed": false
+}

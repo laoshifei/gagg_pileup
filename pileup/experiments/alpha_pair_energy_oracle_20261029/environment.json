@@ -1,0 +1,12 @@
+{
+  "python": "3.14.3 (main, Mar 26 2026, 00:00:00) [GCC 16.0.1 20260321 (Red Hat 16.0.1-0)]",
+  "executable": "/home/xc/.local/share/gagg-pileup/envs/215c00023483/fedora-44-x86_64-py3.14/bin/python",
+  "packages": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1"
+  },
+  "workers": 2,
+  "blas_threads": 1
+}

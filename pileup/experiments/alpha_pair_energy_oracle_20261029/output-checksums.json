@@ -1,0 +1,30 @@
+{
+  "created": "2026-10-29T16:38:34.467751+08:00",
+  "files": {
+    "0007-29-1_oracle_comparison.png": "c9daaa8e2c0683b1dd565947bdf974c591e094da48cd3a5099392111b072f00e",
+    "0007-29-1_oracle_comparison.svg": "038d5e4f1bf0597d6ba174d618a556b32bd8f4b75bcbbff6c8dcab7c42ef95f2",
+    "0007-30-1_paired_diagnostics.png": "4c978433c2537b593f0a3af634417a1a27ec82b32c5773fd8a6a6577e7ddd53a",
+    "0007-30-1_paired_diagnostics.svg": "db613710a4143af1f266b855ad61b960aea3d38c861da1051080bc2a5206a3fd",
+    "0007-31-1_weak_energy.png": "221749a414e270a6c35915bafd2549d431f5b18b461338d740ee68bf3f29ab64",
+    "0007-31-1_weak_energy.svg": "0adb67c3a9a354d0bf7e139249c8e772d3d78b32658383a57e6b39daa32ff590",
+    "0007-32-1_full_waveforms.png": "3b90960e3bb890f00db6c408c3565e864b1ecfafe75512dd674cd20a6e79afdb",
+    "0007-32-1_full_waveforms.svg": "6ae591ec23c9920b4e8d1ac93115569e289bbdc24d31f178c19fa0825df3ca80",
+    "aggregate.csv": "738866d2134e8b0e85b7c2450916ee3f56f24d8c657c317799a68a42eb63ff69",
+    "audited-report.json": "a2ae9fc8f505016090582f4b8d0cd3159fce11fb4948bfa03697924c8e5de4e3",
+    "energy-accuracy.csv": "80808d400c2eccebc32ed19a3f8e00d369e67845fc3698f7d98c53f816c895a5",
+    "isolated-reference-frames.csv": "f8c6a6fc8afbad62efeefac5ee8277b780503c5730814df3aaad49c3ab779597",
+    "isolated-reference-summary.csv": "71dc93400c19a6b34f3abb840805e0aa9b4c1ecb767203143905390923baba3d",
+    "isolated-reference.json": "3bfb18d5d399bd28dc61e09fb92b968d01c618bec0fa23f790fd997aa028298d",
+    "matched-components.csv": "078cc5562e5b56c865ead67c3b43dee15906fe4e5904748c52994cae0ebd086f",
+    "paired-intervals.csv": "a2acf54fe79098644eef6a18ac8f1f4db0dad18b1673ccbbeb011fdf70eb2ab2",
+    "paired-transitions.csv": "f0f93e5d2dc48db9486891118e6a38b46ba5786290c72dde170da5d605f68f99",
+    "predictions.jsonl": "c93aee1af29a1110cb147dca4a5b93c1cdecab1d8f7756b1001c4f1b196b0669",
+    "report.json": "a0a50fce6e90f6661d75589ef2e90c6bda7d80d9b87f57adb51d6b98625e2051",
+    "scores.jsonl": "50da8078dfde53f8d0c910f4e26475eb4ff38cc0c08f3fb5fcede0e7dd02bf18",
+    "search-diagnostics.jsonl": "cf247c3c78e7d8645470ea87caaafe8944182ad1f864dbd0326e9a1f8bf4899d",
+    "search-gaps.csv": "60f0bd6735730aee3aef2b536994e8740ad584de3e134eeb4b7e2962220f9ed1",
+    "weak-energy.csv": "970822b3710b1797d24e9fd16fb548816fcda5f5b1fd0a082b4f6fd5be0418df"
+  },
+  "per_frame_predictions": "Separately frozen in run_records blind-freeze.json and oracle-freeze.json",
+  "inputs": "Separately frozen in experiment input-hashes.json"
+}

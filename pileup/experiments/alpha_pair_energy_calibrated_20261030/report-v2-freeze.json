@@ -1,0 +1,8 @@
+{
+  "change": "Move legend away from single-pulse bars; scoring and methods unchanged",
+  "original_report_preserved": true,
+  "files": {
+    "run_report_v2.py": "f90f51edfadefc6c66c7cfd73fe821f725884c87cf9d8838264dcfbd66441208",
+    "report-source-v2/alpha_pair_energy_calibrated_report.py": "36d3a22992c1bcd4d5e431d86dffcab6697b56ea1aab614182aec65dacd31b03"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "frames": 1600,
+  "new_frames": 1594,
+  "seconds": 325.516071086,
+  "workers": 2,
+  "truth_guard": true,
+  "original_blind_count_retained": true
+}

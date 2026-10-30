@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-29T15:29:32.932481+08:00",
+  "files": {
+    "source/pileup/analysis/alpha_pair_energy_oracle_study_v2.py": "43cf9881c692377b04429176085f50c2fd0646e79821d39b348f7b48d6b22e10",
+    "run_v2.py": "441e825090f568831e41396436b3c536b6c630d6d04a358044da82ac3c7d3aa6",
+    "execution-plan.json": "d84713d8df92656d944c6b077bdb414f7699b39af4546eb9638a09b09adea4fd"
+  },
+  "full_inference_started": false,
+  "previous_source_preserved": true
+}

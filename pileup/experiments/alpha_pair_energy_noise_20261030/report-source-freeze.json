@@ -1,0 +1,8 @@
+{
+  "files": {
+    "delivery/alpha_pair_energy_noise_report.py": "68253743a88981391115bf24b143a7ee6710736a53ba731a3bc013da2e5ca94d",
+    "run_report.py": "fea257beaa16a22f00bde873af5e6cbc70438611f34da410b23443c6f4c43a87"
+  },
+  "revision": "Add(a)-(d)and separate y scales to Figure0007-41-1; no scoring changes",
+  "initial_source_freeze": "report-revisions/initial_source_freeze.json"
+}

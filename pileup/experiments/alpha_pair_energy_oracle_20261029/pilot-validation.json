@@ -1,0 +1,38 @@
+{
+  "passed": false,
+  "indices": [
+    600,
+    2440,
+    840,
+    2080,
+    2240,
+    240
+  ],
+  "per_frame_seconds": [
+    0.0026489070005482063,
+    1.2316226300026756,
+    1.2794122689992946,
+    3.17991425999935,
+    1.948252214002423,
+    2.360844126997108
+  ],
+  "projected_total_two_worker_seconds": 4201.131650940588,
+  "cost_safety_factor": 2.0,
+  "workers": 2,
+  "blind_truth_file_guard": true,
+  "oracle_truth_input": "Explicit known count/times only; no true energies or charges",
+  "stages": [
+    {
+      "stage": "blind",
+      "new_frames": 6,
+      "seconds": 11.793138545002876,
+      "workers": 2
+    },
+    {
+      "stage": "oracle",
+      "new_frames": 6,
+      "seconds": 17.948367540000618,
+      "workers": 2
+    }
+  ]
+}

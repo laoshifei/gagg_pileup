@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "frozen_input_code_model_and_predictions_verified": true,
+  "score_rows": 6400,
+  "unchanged_baseline_and_count": true,
+  "numerical_tests": 7,
+  "heldout_responses": 1180,
+  "strict_nominal_causality_limitation_retained": true,
+  "original_notebook_cells_preserved": 42,
+  "new_executed_cells": 6,
+  "embedded_figure_hashes_verified": 5,
+  "source_commit": "6779620",
+  "fresh_independent_confirmation": false,
+  "default_changed": false,
+  "new_ROOTs": 0,
+  "pushed": false
+}

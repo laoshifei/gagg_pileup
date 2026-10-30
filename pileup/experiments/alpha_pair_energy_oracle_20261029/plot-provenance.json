@@ -1,0 +1,7 @@
+{
+  "indices": [
+    2122,
+    2242
+  ],
+  "rule": "First fold1 case in each declared high_weak/weak_high40ns stratum, not selected by outcome"
+}

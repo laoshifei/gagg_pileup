@@ -1,0 +1,9 @@
+method,fold,group,frames,strict_pair_success,successful_pairs,not_converged
+blind_energy_gate,1,weak,300,0.3166666666666667,95,8
+blind_energy_gate,1,strong,600,0.7133333333333334,428,31
+true_count_blind_start,1,weak,300,0.32333333333333336,97,17
+true_count_blind_start,1,strong,600,0.7133333333333334,428,32
+fixed_true_time,1,weak,300,0.3066666666666667,92,0
+fixed_true_time,1,strong,600,0.74,444,0
+free_from_true_time,1,weak,300,0.33333333333333337,100,2
+free_from_true_time,1,strong,600,0.7416666666666667,445,0

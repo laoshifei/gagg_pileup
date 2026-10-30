@@ -1,0 +1,7 @@
+{
+  "files": {
+    "delivery/audit_noise.py": "39ff4cadcddecef3c8d1cbd5110c96f8b9873b7aa28db2320ab9d175a4d1ea70"
+  },
+  "posthoc_covariance_check": true,
+  "no_fits_changed": true
+}

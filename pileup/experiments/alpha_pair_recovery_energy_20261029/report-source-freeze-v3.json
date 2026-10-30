@@ -1,0 +1,10 @@
+{
+  "created": "2026-10-29T14:50:07.472430+08:00",
+  "stage": "Report metadata correction only",
+  "reason": "Original replay inputs retain Q/t/E but no optimizer status; report baseline status as null, not measured zero failures. All predictions and score endpoints unchanged.",
+  "previous": "report-source-freeze-v2.json",
+  "files": {
+    "source/pileup/analysis/alpha_pair_recovery_energy_report_v3.py": "b01e952de153edd946eb1262c1ad78faea3e7e4ca0cac21f2b03e48ab85bd76a",
+    "run_report_v3.py": "608606b6bb3e35cd2b00d26762069b09a096300f59b14099d6198d9fd1e2a54f"
+  }
+}

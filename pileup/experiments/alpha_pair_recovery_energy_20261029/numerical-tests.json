@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "tests": 7,
+  "command": "python -m unittest pileup.analysis.test_alpha_pair_recovery_energy -v",
+  "scope": [
+    "isolated limit",
+    "causality",
+    "component permutation",
+    "time-varying shape change",
+    "coupled Q inverse",
+    "noiseless E/t recovery",
+    "empty and invalid domain"
+  ],
+  "seconds": 1.942
+}

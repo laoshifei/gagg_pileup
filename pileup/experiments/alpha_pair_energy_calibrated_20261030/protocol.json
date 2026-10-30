@@ -1,0 +1,70 @@
+{
+  "created": "2026-10-30T13:48:02.588654+08:00",
+  "commit": "67796208c81000563470044f2482e9622c582f77",
+  "uncommitted": "Pre-existing README/literature changes and earlier untracked energy studies retained; actual source and configuration copied here",
+  "purpose": "Separately calibrate energy-conditioned mean and effective residual covariance, then factorial2x2 energy-only ablation",
+  "scope": "Pure alpha; TRUE COUNT/TIMES explicitly supplied; no blind event count, timing or particle classification",
+  "data": "Mean: development fold0; noise: development fold1; evaluation: exposed20261026 confirmation mothers. Pairwise disjoint optical roots",
+  "exposure": "Evaluation was inspected in previous research; retrospective holdout for the newly fitted parameters, NOT fresh untouched confirmation. Frozen inherited models were historically developed/selected",
+  "calibration": "Mean1180frames/280mothers; noise1180signal+80empty/280different mothers; evaluation480frames/320different mothers. Repeated use of mothers is not independent sampling",
+  "mean": "Frozen q0(E_dep) coordinate;9 causal shape features, ridge0.03(intercept0.0003),4ns smoothing; additive finite-support voltage correction and consistent model charge-area change; no realized Q regressor",
+  "noise": "Native FIR grid, no interpolation; positive background scale from empty frames;3 bounded log-scale parameters, lag1/cross clipped±0.45; four positive centered fractional amplitude modes; residual moments can include mean error",
+  "ablation": "Both old/noise metrics frozen at the same voltage-only seed E; new noise uses new mean. Same metric for both mean variants and same starts; fixed-C GLS, no parameter-dependent NLL search",
+  "methods": [
+    "old_mean_old_noise",
+    "new_mean_old_noise",
+    "old_mean_new_noise",
+    "new_mean_new_noise"
+  ],
+  "primary": "new_mean_new_noise versus old_mean_old_noise",
+  "seed": "One-pulse voltage refinement then old fixed-K/t energy fit. Different from previous16-reference-repeat study; only same-wave current comparisons are paired",
+  "fitting": "Common seed+linear+5charge-share starts for pairs, seed+linear for singles;120least-squares evaluations per start; fixed inherited energy bounds",
+  "conditions": [
+    [
+      "weak",
+      null
+    ],
+    [
+      "low",
+      null
+    ],
+    [
+      "mid",
+      null
+    ],
+    [
+      "high",
+      null
+    ],
+    [
+      "high_weak",
+      8.0
+    ],
+    [
+      "high_weak",
+      40.0
+    ],
+    [
+      "high_weak",
+      200.0
+    ],
+    [
+      "weak_high",
+      40.0
+    ]
+  ],
+  "frames": 480,
+  "method_rows": 1920,
+  "endpoint": "All injected E_dep within±5/10/20%; no Q filter for primary. Bias,median,sigma68,RMSE,boundary,nonconvergence,paired gained/lost. Q>=500 subset separate",
+  "unknown_count_metrics": "Misses/extras/split/merge/PSD efficiency are not measured",
+  "model": "Frozen95/351ns dual decay,29ns recovery,14400cells,strength2.515148098; project assumptions, not literature alpha constants",
+  "observations": "1024x2ns; native centers0.25+2n ns; existing full analog voltage/dynamic range; no clipping rejection",
+  "pilot": "First weak/high single and first high_weak8/40 and weak_high40; cost and invariants only, no accuracy tuning",
+  "workers": 6,
+  "BLAS_threads": 1,
+  "cost_gate_seconds": 1800,
+  "cost_safety_factor": 1.5,
+  "no_new_ROOT": true,
+  "no_new_G4": true,
+  "default_changed": false
+}

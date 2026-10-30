@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "old_cells": 55,
+  "new_cells": 68,
+  "appended_executed_cells": 6,
+  "new_figures": 4,
+  "original_calculations_outputs_preserved": true,
+  "notebook_sha256": "87927972ab2e20c148a78aa90364c6dfc62d943945f52d5bc98cc79e626f4d5a",
+  "plan_old_cells": 83,
+  "plan_new_cells": 84
+}

@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "old_mean_and_unconditioned_metric_reproduced": [
+    {
+      "times_ns": [
+        128.0
+      ],
+      "charge_pe": [
+        700.0
+      ],
+      "compatible": true
+    },
+    {
+      "times_ns": [
+        128.0,
+        168.0
+      ],
+      "charge_pe": [
+        17000.0,
+        700.0
+      ],
+      "compatible": true
+    },
+    {
+      "times_ns": [
+        128.0,
+        328.0
+      ],
+      "charge_pe": [
+        2700.0,
+        17000.0
+      ],
+      "compatible": true
+    }
+  ]
+}

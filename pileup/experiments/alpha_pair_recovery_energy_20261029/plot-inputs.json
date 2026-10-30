@@ -1,0 +1,10 @@
+{
+  "truth_path": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/labels.truth.npz",
+  "sha256": "d4f25bbb198dddf7c2519b25381d856f176af78e2e29eab3604f7fe56bba2914",
+  "waveform_examples": [
+    240,
+    1000
+  ],
+  "causal_example": 1000,
+  "selected_by": "First case in protocol pilot strata, not score"
+}

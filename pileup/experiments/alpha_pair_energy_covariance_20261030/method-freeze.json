@@ -1,0 +1,23 @@
+{
+  "files": {
+    "energy-model.json": "049d3b66362fa9ebe7b684252be85070508f403a96725cda634454c7ccff4a49",
+    "parent-result-hashes.json": "3f38cf6f2dff4bbc903352c01acec7c9fe926c7c5aaa4f8a92e4f0591dbfe21f",
+    "plan.json": "92b4d6f0332c425aab054e84b1f4b1738f7d54d094ccd01cbeeb15dd29a865c6",
+    "protocol.json": "825728c983d5e241377c2d5e00d6b4e5168b9ada7411049d0d016921568ab6bc",
+    "response-parameters.json": "00d6a16c768c84136fee7d7d7f9c0911127e22d0bf6f821edc41d5d3fdce982a",
+    "run.py": "0511bc4047b474866354555bab42cef47f3d697b7d03f479ebcd24d55ffd288b",
+    "sensor-config.json": "e499d0abae465cfe4472927448a40efca0189c333f5c14c03dd46328e7685544",
+    "template.npz": "bf938c3966242f9647ee7c58ebbf86e1c41769e30ef3b2d0e47dddf2da10df76",
+    "source/pileup/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source/pileup/analysis/alpha_pair_energy_covariance.py": "5d23740aea10096038810253b31a0a8307fe6e32b1fa8eaa013b5e7e38de4b32",
+    "source/pileup/analysis/alpha_pair_energy_covariance_study.py": "d583b8d933433c8052951ccea1f9de56c9b6bf7a28b6cf478592015f038db0a0",
+    "source/pileup/analysis/alpha_pair_energy_noise.py": "9787a4950839b01de6c06ec538f6780e869d45f8b1fe42fe9bf84802a19528a9",
+    "source/pileup/analysis/alpha_pair_energy_oracle.py": "9bbe5f9813c6400b41ef7e56feeb21fae7488b8d6b02f7bf39c27f975996e85d",
+    "source/pileup/analysis/alpha_pair_model_sampler.py": "91029c428d1a30338cff425ee67b7fac8de4246bd932c86619f4fe45052cf61a",
+    "source/pileup/analysis/alpha_pair_recovery_energy.py": "10b7e574283066324a72d70ee74ffde3f2f880677005e53fa2ddfb3e3943f356",
+    "source/pileup/analysis/test_alpha_pair_energy_covariance.py": "e66494e27e63e3e16d59b58c2f11a817a0db19895a1a86d336e67ccaba2cae9e",
+    "source/pileup/analysis/test_alpha_pair_recovery_energy.py": "b958a121c7e781bde016b351e40efd47fb2e578f13affe64913b329324e8ff4c",
+    "source/pileup/analysis/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "before_new_gaussian_and_fits": true
+}

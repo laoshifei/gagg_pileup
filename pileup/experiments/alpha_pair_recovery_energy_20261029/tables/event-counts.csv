@@ -1,0 +1,13 @@
+method,kind,frames,target,missed,extra,output_count,strict_5,strict_10,strict_20,frame_success_10,temporal_split,temporal_merge,count_over_number_flag,count_under_number_flag,energy_out_of_domain
+static_nll,pair,1200,2400,161,27,2266,1217,1623,1998,549,0,100,0,134,0
+static_nll,single,320,320,0,1,321,278,305,320,304,0,0,1,0,0
+static_nll,empty,80,0,0,0,0,0,0,0,80,0,0,0,0,0
+coupled_charge_only,pair,1200,2400,161,27,2266,1347,1724,2020,661,0,100,0,134,0
+coupled_charge_only,single,320,320,0,1,321,278,305,320,304,0,0,1,0,0
+coupled_charge_only,empty,80,0,0,0,0,0,0,0,80,0,0,0,0,0
+isolated_energy_refit,pair,1200,2400,160,26,2266,1159,1521,1903,480,0,100,0,134,0
+isolated_energy_refit,single,320,320,0,1,321,278,305,320,304,0,0,1,0,0
+isolated_energy_refit,empty,80,0,0,0,0,0,0,0,80,0,0,0,0,0
+recovery_energy_refit,pair,1200,2400,160,26,2266,1485,1799,2032,722,0,100,0,134,0
+recovery_energy_refit,single,320,320,0,1,321,278,305,320,304,0,0,1,0,0
+recovery_energy_refit,empty,80,0,0,0,0,0,0,0,80,0,0,0,0,0

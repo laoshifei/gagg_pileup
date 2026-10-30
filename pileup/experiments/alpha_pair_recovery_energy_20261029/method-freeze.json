@@ -1,0 +1,11 @@
+{
+  "created": "2026-10-29T14:19:18.437611+08:00",
+  "files": {
+    "freeze.json": "3ec266e4bf69ea13f2bf3c5e2006c366a40776b23fefb89aab2f0e30eda9552b",
+    "response-parameters.json": "00d6a16c768c84136fee7d7d7f9c0911127e22d0bf6f821edc41d5d3fdce982a",
+    "template.npz": "bf938c3966242f9647ee7c58ebbf86e1c41769e30ef3b2d0e47dddf2da10df76",
+    "energy-model.json": "049d3b66362fa9ebe7b684252be85070508f403a96725cda634454c7ccff4a49"
+  },
+  "inference_started": false,
+  "strength_fit_before_heldout_evaluation": true
+}

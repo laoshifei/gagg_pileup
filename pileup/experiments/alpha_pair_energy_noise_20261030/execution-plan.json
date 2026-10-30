@@ -1,0 +1,682 @@
+[
+  {
+    "id": 0,
+    "block": 0,
+    "condition": "weak",
+    "gap_ns": null,
+    "parents": [
+      0
+    ],
+    "roots": [
+      "g4/data/20261026_12h55m36s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      0.22558186948299408
+    ],
+    "labels": [
+      "weak"
+    ],
+    "seed_base": 703000000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 1,
+    "block": 0,
+    "condition": "high",
+    "gap_ns": null,
+    "parents": [
+      240
+    ],
+    "roots": [
+      "g4/data/20261026_13h11m32s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      7.588702201843262
+    ],
+    "labels": [
+      "high"
+    ],
+    "seed_base": 703001000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 2,
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      240,
+      0
+    ],
+    "roots": [
+      "g4/data/20261026_13h11m32s.root",
+      "g4/data/20261026_12h55m36s.root"
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "energy_MeV": [
+      7.588702201843262,
+      0.22558186948299408
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703002000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 3,
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      240,
+      0
+    ],
+    "roots": [
+      "g4/data/20261026_13h11m32s.root",
+      "g4/data/20261026_12h55m36s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      7.588702201843262,
+      0.22558186948299408
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703003000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 4,
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      240,
+      0
+    ],
+    "roots": [
+      "g4/data/20261026_13h11m32s.root",
+      "g4/data/20261026_12h55m36s.root"
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "energy_MeV": [
+      7.588702201843262,
+      0.22558186948299408
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703004000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 5,
+    "block": 0,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      0,
+      240
+    ],
+    "roots": [
+      "g4/data/20261026_12h55m36s.root",
+      "g4/data/20261026_13h11m32s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      0.22558186948299408,
+      7.588702201843262
+    ],
+    "labels": [
+      "weak",
+      "high"
+    ],
+    "seed_base": 703005000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 6,
+    "block": 10,
+    "condition": "weak",
+    "gap_ns": null,
+    "parents": [
+      10
+    ],
+    "roots": [
+      "g4/data/20261026_12h59m01s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      0.22983290255069733
+    ],
+    "labels": [
+      "weak"
+    ],
+    "seed_base": 703006000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 7,
+    "block": 10,
+    "condition": "high",
+    "gap_ns": null,
+    "parents": [
+      250
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m10s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      7.572389602661133
+    ],
+    "labels": [
+      "high"
+    ],
+    "seed_base": 703007000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 8,
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      250,
+      10
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m10s.root",
+      "g4/data/20261026_12h59m01s.root"
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "energy_MeV": [
+      7.572389602661133,
+      0.22983290255069733
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703008000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 9,
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      250,
+      10
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m10s.root",
+      "g4/data/20261026_12h59m01s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      7.572389602661133,
+      0.22983290255069733
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703009000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 10,
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      250,
+      10
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m10s.root",
+      "g4/data/20261026_12h59m01s.root"
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "energy_MeV": [
+      7.572389602661133,
+      0.22983290255069733
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703010000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 11,
+    "block": 10,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      10,
+      250
+    ],
+    "roots": [
+      "g4/data/20261026_12h59m01s.root",
+      "g4/data/20261026_13h12m10s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      0.22983290255069733,
+      7.572389602661133
+    ],
+    "labels": [
+      "weak",
+      "high"
+    ],
+    "seed_base": 703011000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 12,
+    "block": 20,
+    "condition": "weak",
+    "gap_ns": null,
+    "parents": [
+      20
+    ],
+    "roots": [
+      "g4/data/20261026_12h59m32s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      0.2454456239938736
+    ],
+    "labels": [
+      "weak"
+    ],
+    "seed_base": 703012000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 13,
+    "block": 20,
+    "condition": "high",
+    "gap_ns": null,
+    "parents": [
+      260
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m49s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      7.596920490264893
+    ],
+    "labels": [
+      "high"
+    ],
+    "seed_base": 703013000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 14,
+    "block": 20,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      260,
+      20
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m49s.root",
+      "g4/data/20261026_12h59m32s.root"
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "energy_MeV": [
+      7.596920490264893,
+      0.2454456239938736
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703014000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 15,
+    "block": 20,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      260,
+      20
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m49s.root",
+      "g4/data/20261026_12h59m32s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      7.596920490264893,
+      0.2454456239938736
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703015000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 16,
+    "block": 20,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      260,
+      20
+    ],
+    "roots": [
+      "g4/data/20261026_13h12m49s.root",
+      "g4/data/20261026_12h59m32s.root"
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "energy_MeV": [
+      7.596920490264893,
+      0.2454456239938736
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703016000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 17,
+    "block": 20,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      20,
+      260
+    ],
+    "roots": [
+      "g4/data/20261026_12h59m32s.root",
+      "g4/data/20261026_13h12m49s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      0.2454456239938736,
+      7.596920490264893
+    ],
+    "labels": [
+      "weak",
+      "high"
+    ],
+    "seed_base": 703017000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 18,
+    "block": 30,
+    "condition": "weak",
+    "gap_ns": null,
+    "parents": [
+      30
+    ],
+    "roots": [
+      "g4/data/20261026_13h00m04s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      0.2038930505514145
+    ],
+    "labels": [
+      "weak"
+    ],
+    "seed_base": 703018000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 19,
+    "block": 30,
+    "condition": "high",
+    "gap_ns": null,
+    "parents": [
+      270
+    ],
+    "roots": [
+      "g4/data/20261026_13h13m27s.root"
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "energy_MeV": [
+      7.5793070793151855
+    ],
+    "labels": [
+      "high"
+    ],
+    "seed_base": 703019000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 20,
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      270,
+      30
+    ],
+    "roots": [
+      "g4/data/20261026_13h13m27s.root",
+      "g4/data/20261026_13h00m04s.root"
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "energy_MeV": [
+      7.5793070793151855,
+      0.2038930505514145
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703020000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 21,
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      270,
+      30
+    ],
+    "roots": [
+      "g4/data/20261026_13h13m27s.root",
+      "g4/data/20261026_13h00m04s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      7.5793070793151855,
+      0.2038930505514145
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703021000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 22,
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      270,
+      30
+    ],
+    "roots": [
+      "g4/data/20261026_13h13m27s.root",
+      "g4/data/20261026_13h00m04s.root"
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "energy_MeV": [
+      7.5793070793151855,
+      0.2038930505514145
+    ],
+    "labels": [
+      "high",
+      "weak"
+    ],
+    "seed_base": 703022000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  },
+  {
+    "id": 23,
+    "block": 30,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      30,
+      270
+    ],
+    "roots": [
+      "g4/data/20261026_13h00m04s.root",
+      "g4/data/20261026_13h13m27s.root"
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "energy_MeV": [
+      0.2038930505514145,
+      7.5793070793151855
+    ],
+    "labels": [
+      "weak",
+      "high"
+    ],
+    "seed_base": 703023000,
+    "window_ns": 4096.0,
+    "n_reference": 16,
+    "n_evaluation": 8
+  }
+]

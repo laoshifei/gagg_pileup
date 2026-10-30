@@ -1,0 +1,25 @@
+{
+  "files": {
+    "energy-model.json": "049d3b66362fa9ebe7b684252be85070508f403a96725cda634454c7ccff4a49",
+    "input-hashes.json": "3e53da6287aed02daaea8e6a43b520b8f9108cf6e92b2eda40195a6ab7f664bc",
+    "plan.json": "b4d5084ac4419afabe6be7731b6d5b4dccc2b1a2b76bdcec99bfca669403d752",
+    "protocol.json": "1d0a943a9ae653e6e07ee34e62847a798a6ab68ce673468dcdcc3ae23123843e",
+    "response-parameters.json": "00d6a16c768c84136fee7d7d7f9c0911127e22d0bf6f821edc41d5d3fdce982a",
+    "run.py": "9d30736b389baf5c28f202e682c1fb999e88380cb092ba10c88a92185fe67a4e",
+    "sensor-config.json": "e499d0abae465cfe4472927448a40efca0189c333f5c14c03dd46328e7685544",
+    "template.npz": "bf938c3966242f9647ee7c58ebbf86e1c41769e30ef3b2d0e47dddf2da10df76",
+    "source/pileup/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source/pileup/analysis/alpha_pair_digitizer_optimized.py": "ae649bc04cd974969b25fd6ddefde172bcb59c121229c04d9cfdc5c559dc6bc5",
+    "source/pileup/analysis/alpha_pair_energy_noise.py": "9787a4950839b01de6c06ec538f6780e869d45f8b1fe42fe9bf84802a19528a9",
+    "source/pileup/analysis/alpha_pair_energy_noise_study.py": "8e2c27b2b4d06ceab4e8608931ccbbe39fc3d2a2837b978dd9f67273f750fa59",
+    "source/pileup/analysis/alpha_pair_energy_oracle.py": "9bbe5f9813c6400b41ef7e56feeb21fae7488b8d6b02f7bf39c27f975996e85d",
+    "source/pileup/analysis/alpha_pair_model_sampler.py": "91029c428d1a30338cff425ee67b7fac8de4246bd932c86619f4fe45052cf61a",
+    "source/pileup/analysis/alpha_pair_recovery_energy.py": "10b7e574283066324a72d70ee74ffde3f2f880677005e53fa2ddfb3e3943f356",
+    "source/pileup/analysis/sipm_readout.py": "aa19a0be943719ad2a6a9464359b4f217e49bb1cd0aa1335ce2b09ef9c096d5b",
+    "source/pileup/analysis/sipm_response.py": "93256cccb0ac32ed44c9763cd8e18aeb5e939a941a14ce70c29c806c469fc888",
+    "source/pileup/analysis/test_alpha_pair_energy_noise.py": "c501855c48a4f52706abc76a1a8754f90f3166617c4b7d60d891c3481427c240",
+    "source/pileup/analysis/test_alpha_pair_recovery_energy.py": "b958a121c7e781bde016b351e40efd47fb2e578f13affe64913b329324e8ff4c",
+    "source/pileup/analysis/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "before_simulation_and_outcomes": true
+}

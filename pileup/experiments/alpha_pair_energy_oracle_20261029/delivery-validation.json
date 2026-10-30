@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "scored_rows": 6160,
+  "frames": 1540,
+  "blind_frames": 1540,
+  "oracle_frames": 1540,
+  "inference_truth_separation_checked": true,
+  "same_frozen_blind_candidates_used_for_known_K": true,
+  "inherited_model_unchanged": true,
+  "numerical_tests": 5,
+  "real_template_noiseless_cases": 12,
+  "mother_components": 110,
+  "validation_roots": 280,
+  "old_notebook_cells_preserved": 55,
+  "new_executed_cells": 6,
+  "new_figures": 4,
+  "new_ROOTs": 0,
+  "default_changed": false,
+  "original_cost_gate_failure_preserved": true,
+  "independent_confirmation": false,
+  "committed": false,
+  "pushed": false
+}

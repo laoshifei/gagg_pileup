@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "tests": 5,
+  "test_seconds": 2.79,
+  "real_template_noiseless_checks": [
+    {
+      "energy_MeV": [
+        0.25,
+        0.27
+      ],
+      "gap_ns": 8.0,
+      "max_relative_error": 4.586016455476738e-09,
+      "cost": 3.8414493999820235e-16
+    },
+    {
+      "energy_MeV": [
+        0.25,
+        0.27
+      ],
+      "gap_ns": 40.0,
+      "max_relative_error": 1.1853772852177258e-08,
+      "cost": 4.512512495529663e-15
+    },
+    {
+      "energy_MeV": [
+        0.25,
+        0.27
+      ],
+      "gap_ns": 200.0,
+      "max_relative_error": 1.627653567481957e-11,
+      "cost": 3.403876643280885e-20
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        0.25
+      ],
+      "gap_ns": 8.0,
+      "max_relative_error": 1.6324896989772242e-10,
+      "cost": 2.254737229328626e-18
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        0.25
+      ],
+      "gap_ns": 40.0,
+      "max_relative_error": 1.7990053891026037e-12,
+      "cost": 2.1065662503676146e-22
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        0.25
+      ],
+      "gap_ns": 200.0,
+      "max_relative_error": 2.6150193122020937e-12,
+      "cost": 2.7178600638731373e-22
+    },
+    {
+      "energy_MeV": [
+        0.25,
+        7.6
+      ],
+      "gap_ns": 8.0,
+      "max_relative_error": 1.5396794950106596e-11,
+      "cost": 3.384195502188299e-20
+    },
+    {
+      "energy_MeV": [
+        0.25,
+        7.6
+      ],
+      "gap_ns": 40.0,
+      "max_relative_error": 9.121592370320286e-12,
+      "cost": 3.8685103157327775e-21
+    },
+    {
+      "energy_MeV": [
+        0.25,
+        7.6
+      ],
+      "gap_ns": 200.0,
+      "max_relative_error": 6.95221658020273e-13,
+      "cost": 2.5722114302072584e-23
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        7.6
+      ],
+      "gap_ns": 8.0,
+      "max_relative_error": 3.239630785856207e-13,
+      "cost": 1.5874672257037255e-22
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        7.6
+      ],
+      "gap_ns": 40.0,
+      "max_relative_error": 5.314437778736192e-11,
+      "cost": 1.2380388290908028e-17
+    },
+    {
+      "energy_MeV": [
+        7.6,
+        7.6
+      ],
+      "gap_ns": 200.0,
+      "max_relative_error": 2.7106539235433047e-11,
+      "cost": 7.360458203154097e-18
+    }
+  ],
+  "not_a_statistical_performance_test": true
+}

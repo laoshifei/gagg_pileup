@@ -1,0 +1,21 @@
+{
+  "created": "2026-10-29T15:22:53.003798+08:00",
+  "files": {
+    "energy-model.json": "049d3b66362fa9ebe7b684252be85070508f403a96725cda634454c7ccff4a49",
+    "input-hashes.json": "d395bfca7bb926e6b368696e309b53a159c5075ac4e265f6af00c89ee9ecf298",
+    "protocol.json": "8f7ebb3ad25d33968927a4858a419c0e258484a9d83b41d8aeed0577a7ac7c8a",
+    "response-parameters.json": "00d6a16c768c84136fee7d7d7f9c0911127e22d0bf6f821edc41d5d3fdce982a",
+    "run.py": "ca42df5f3b24a0c16d7087c242e7632bba1550d08b1927230db09b6fcb6d3cee",
+    "sensor-config.json": "e499d0abae465cfe4472927448a40efca0189c333f5c14c03dd46328e7685544",
+    "template.npz": "bf938c3966242f9647ee7c58ebbf86e1c41769e30ef3b2d0e47dddf2da10df76",
+    "source/pileup/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source/pileup/analysis/alpha_pair_energy_oracle.py": "9bbe5f9813c6400b41ef7e56feeb21fae7488b8d6b02f7bf39c27f975996e85d",
+    "source/pileup/analysis/alpha_pair_energy_oracle_study.py": "b3ed51cb2367433f549d64bd171f04d87fab6a9ce67b737a9463ab104193ce82",
+    "source/pileup/analysis/alpha_pair_recovery_energy.py": "10b7e574283066324a72d70ee74ffde3f2f880677005e53fa2ddfb3e3943f356",
+    "source/pileup/analysis/sipm_energy_calibration.py": "5d26ea7d8710035551990b856cc919d59b4651b3fce51e04165b6410a08e3f59",
+    "source/pileup/analysis/test_alpha_pair_energy_oracle.py": "2fdb234d619d7e3d09c5236fd1493c6a61199bb578b3bb94dabca0cfd7a5342e",
+    "source/pileup/analysis/test_alpha_pair_recovery_energy.py": "b958a121c7e781bde016b351e40efd47fb2e578f13affe64913b329324e8ff4c",
+    "source/pileup/analysis/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "inference_started": false
+}

@@ -1,0 +1,323 @@
+{
+  "posthoc": true,
+  "trigger": "Matched Gaussian weak-first fit was much narrower than physical repeats",
+  "scope": "Covariance inspection only; alternative factor explicitly uses true K/t/E, no fit changed",
+  "uncertainty": "8 repeated digitizations per optical pair; transformed sample variances are correlated; these ratios have no population CI",
+  "units": "FIR-transformed mV squared; local scale is log-energy, not measured resolution or a bound",
+  "result": [
+    {
+      "case": 5,
+      "block": 0,
+      "original_weight_time_ns": 165.2450911365675,
+      "true_times_ns": [
+        128.0,
+        168.0
+      ],
+      "region_ns": [
+        132.0,
+        164.0
+      ],
+      "region_samples": 16,
+      "original_early_variance": 0.043603805579012674,
+      "two_component_early_variance": 0.24900067761375821,
+      "observed_early_variance": 0.15617945582722406,
+      "measured_over_original_variance": 3.5817849784743596,
+      "measured_over_two_component_variance": 0.6272250233370231,
+      "original_model_local_weak_logE_sd": 0.003682187488988975,
+      "two_component_model_local_weak_logE_sd": 0.1231281944854545,
+      "two_component_projected_empirical_weak_logE_sd": 0.12354025017107362
+    },
+    {
+      "case": 11,
+      "block": 10,
+      "original_weight_time_ns": 165.50481801085513,
+      "true_times_ns": [
+        128.0,
+        168.0
+      ],
+      "region_ns": [
+        132.0,
+        164.0
+      ],
+      "region_samples": 16,
+      "original_early_variance": 0.043603805579012674,
+      "two_component_early_variance": 0.25184756756993254,
+      "observed_early_variance": 0.2305781085115523,
+      "measured_over_original_variance": 5.288027167576718,
+      "measured_over_two_component_variance": 0.9155462994397428,
+      "original_model_local_weak_logE_sd": 0.0036403073246806636,
+      "two_component_model_local_weak_logE_sd": 0.12272921359246239,
+      "two_component_projected_empirical_weak_logE_sd": 0.11489655758570148
+    },
+    {
+      "case": 17,
+      "block": 20,
+      "original_weight_time_ns": 164.89514468689296,
+      "true_times_ns": [
+        128.0,
+        168.0
+      ],
+      "region_ns": [
+        132.0,
+        164.0
+      ],
+      "region_samples": 16,
+      "original_early_variance": 0.043603805579012674,
+      "two_component_early_variance": 0.26188818334168984,
+      "observed_early_variance": 0.22593069164698681,
+      "measured_over_original_variance": 5.181444340622679,
+      "measured_over_two_component_variance": 0.8626990678392362,
+      "original_model_local_weak_logE_sd": 0.0035392443088830138,
+      "two_component_model_local_weak_logE_sd": 0.12189468248547373,
+      "two_component_projected_empirical_weak_logE_sd": 0.10276869324082015
+    },
+    {
+      "case": 23,
+      "block": 30,
+      "original_weight_time_ns": 164.97531481978578,
+      "true_times_ns": [
+        128.0,
+        168.0
+      ],
+      "region_ns": [
+        132.0,
+        164.0
+      ],
+      "region_samples": 16,
+      "original_early_variance": 0.043603805579012674,
+      "two_component_early_variance": 0.23436838210463104,
+      "observed_early_variance": 0.17470719266581702,
+      "measured_over_original_variance": 4.006695983203513,
+      "measured_over_two_component_variance": 0.7454384038364912,
+      "original_model_local_weak_logE_sd": 0.00393485262675662,
+      "two_component_model_local_weak_logE_sd": 0.1267625026129772,
+      "two_component_projected_empirical_weak_logE_sd": 0.1118430722149091
+    }
+  ],
+  "physical_Q_ge_500_frames": [
+    {
+      "case": 0,
+      "condition": "weak",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 7,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 1,
+      "condition": "high",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 8,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 2,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "all_frames": 8,
+      "qualified_frames": 7,
+      "qualified_successes": 0,
+      "unqualified_frames": 1
+    },
+    {
+      "case": 3,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 7,
+      "qualified_successes": 1,
+      "unqualified_frames": 1
+    },
+    {
+      "case": 4,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 1,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 5,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 7,
+      "qualified_successes": 3,
+      "unqualified_frames": 1
+    },
+    {
+      "case": 6,
+      "condition": "weak",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 7,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 7,
+      "condition": "high",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 8,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 8,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 0,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 9,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 2,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 10,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 1,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 11,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 6,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 12,
+      "condition": "weak",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 7,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 13,
+      "condition": "high",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 8,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 14,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 1,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 15,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 0,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 16,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 2,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 17,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 3,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 18,
+      "condition": "weak",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 8,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 19,
+      "condition": "high",
+      "gap_ns": null,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 8,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 20,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "all_frames": 8,
+      "qualified_frames": 6,
+      "qualified_successes": 0,
+      "unqualified_frames": 2
+    },
+    {
+      "case": 21,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 6,
+      "qualified_successes": 1,
+      "unqualified_frames": 2
+    },
+    {
+      "case": 22,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 2,
+      "unqualified_frames": 0
+    },
+    {
+      "case": 23,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "all_frames": 8,
+      "qualified_frames": 8,
+      "qualified_successes": 5,
+      "unqualified_frames": 0
+    }
+  ],
+  "initial_weight_optimizer_not_converged_cases": [
+    3,
+    7,
+    10,
+    15
+  ],
+  "main_energy_fits_unchanged": true,
+  "source_sha256": "39ff4cadcddecef3c8d1cbd5110c96f8b9873b7aa28db2320ab9d175a4d1ea70"
+}

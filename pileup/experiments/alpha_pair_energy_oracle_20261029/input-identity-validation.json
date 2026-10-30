@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "isolated_roots": 280,
+  "paired_frames": 900,
+  "energy_identity_checks": 1800,
+  "all_pair_targets_above500pe": true,
+  "min_pair_charge_pe": 533.9513585131954
+}

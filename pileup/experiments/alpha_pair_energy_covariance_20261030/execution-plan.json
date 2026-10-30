@@ -1,0 +1,11 @@
+{
+  "workers": 6,
+  "blas_threads": 1,
+  "conservative_wall_seconds": 1529.86269239994,
+  "reason": "Cost-only concurrency change from4to6; no sample, method, seed or accuracy-based selection",
+  "physical_frames": 192,
+  "gaussian_frames": 192,
+  "method_rows": 1920,
+  "pilot_accuracy_not_used": true,
+  "all_original_inputs_preserved": true
+}

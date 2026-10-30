@@ -1,0 +1,8 @@
+{
+  "files": {
+    "method-freeze.json": "f5fccb26e0d00e8427991b5c1c4b88563750ff3b14abeb0981ad5920ea6e4884",
+    "input-hashes.json": "f75d283f1d22a6ccdb50359644766c11fbf07ebfa14e384baff1a4b081949e05",
+    "label-hash.json": "36a9331b323880e5a68c000381f11cdc97aafeb8555a4af85c496b467674cbd5"
+  },
+  "before_first_fit": true
+}

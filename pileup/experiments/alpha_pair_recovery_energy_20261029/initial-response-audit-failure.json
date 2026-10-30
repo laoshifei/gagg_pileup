@@ -1,0 +1,14 @@
+{
+  "physical": {
+    "min_voltage_mV": -6.387495445222234e-14,
+    "max_negative_voltage_area_fraction": 1.7096993840645065e-18,
+    "max_positive_charge_change_relative": 0.0,
+    "max_full_area_discrepancy": 4.7238629674595245e-09,
+    "max_negative_innovation_fraction": 4.837607351260132e-09,
+    "max_pre_neighbor_difference_mV": 0.00012856187785814654,
+    "max_isolated_q_truncation_relative": 1.253450409754997e-05
+  },
+  "max_single_difference": 0.0,
+  "assertion_line": 94,
+  "scope": "Initial report audit before publication; no inference modification"
+}

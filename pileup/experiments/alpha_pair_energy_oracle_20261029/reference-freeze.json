@@ -1,0 +1,9 @@
+{
+  "created": "2026-10-29T15:51:37.771538+08:00",
+  "files": {
+    "source/pileup/analysis/alpha_pair_energy_oracle_reference.py": "56a145ae5e7aafcf3b6f71ada8d9a767b2b8509109a3df8bacc3491578bd3c92",
+    "run_all_reports.py": "efda12b6eb561003e1d43cda15515eb03b59b6003ca53b687d0b5db1245696f6"
+  },
+  "decision_before_main_oracle_results": true,
+  "reason": "Compare same optical mothers in existing isolated and paired observations, with the same trueK/t assistance; no extra fitting."
+}

@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "single_frames": 280,
+  "pair_frames": 900,
+  "exact_single_invariance": true,
+  "single_summary": [
+    {
+      "condition": "weak",
+      "n": 40,
+      "relative_charge_rmse": 0.03412001535544228,
+      "median_relative_charge_error": -0.0026271364636486494
+    },
+    {
+      "condition": "low",
+      "n": 80,
+      "relative_charge_rmse": 0.019753392025063158,
+      "median_relative_charge_error": 0.006049574371962407
+    },
+    {
+      "condition": "mid",
+      "n": 80,
+      "relative_charge_rmse": 0.009220676780277229,
+      "median_relative_charge_error": 0.0002230170449245561
+    },
+    {
+      "condition": "high",
+      "n": 80,
+      "relative_charge_rmse": 0.007169817531019044,
+      "median_relative_charge_error": 0.0020379144944138172
+    }
+  ],
+  "numerical_response_checks": {
+    "min_voltage_mV": -6.387495445222234e-14,
+    "max_negative_voltage_area_fraction": 1.7096993840645065e-18,
+    "max_positive_charge_change_relative": 0.0,
+    "max_full_area_discrepancy": 4.7238629674595245e-09,
+    "max_negative_innovation_fraction": 4.837607351260132e-09,
+    "max_pre_neighbor_difference_mV": 0.00012856187785814654,
+    "max_pre_support_difference_mV": 0.0,
+    "template_support_start_ns": -0.25,
+    "max_isolated_q_truncation_relative": 1.253450409754997e-05
+  },
+  "strict_nominal_time_causality_passed": false,
+  "interpolation_caveat": "Frozen isolated template extends 0.25ns before the nominal onset. No effect precedes actual template support; no strict continuous-time causality claim.",
+  "interpretation": "Innovation proxy is not a microscopic avalanche count; no retuning after heldout validation"
+}

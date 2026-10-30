@@ -1,0 +1,24 @@
+{
+  "background_scale": 0.9869422924816909,
+  "shot_parameters": [
+    -1.8797300515896027,
+    -0.0036429679573891263,
+    -0.04951951700514334
+  ],
+  "lag1": 0.3887921072490627,
+  "cross": -0.0031516593593424016,
+  "mode_charge_knots_pe": [
+    723.4604886519137,
+    2732.6903362898183,
+    10080.91066580933,
+    16741.869677973576
+  ],
+  "fractional_mode_variance": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "conditioning": "q0(E_dep), never realized avalanche charge",
+  "mean_model": "Frozen separately fitted energy mean"
+}

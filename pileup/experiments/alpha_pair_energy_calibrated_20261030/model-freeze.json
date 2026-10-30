@@ -1,0 +1,8 @@
+{
+  "before_evaluation_fits": true,
+  "files": {
+    "mean-correction.npz": "b6a26bb5e1aadad963abae1ad1e1aad98a5150ecceef8ab98622117d95244348",
+    "noise-calibration.json": "a46e5e0b4bdefcbb5d186faeb7e1d0e2869052262aacb0352800181795e0d50a",
+    "calibration-report.json": "8079a72b328752a886aba33129e07e5556c4f06ef4c478b51255bea4014c92f4"
+  }
+}

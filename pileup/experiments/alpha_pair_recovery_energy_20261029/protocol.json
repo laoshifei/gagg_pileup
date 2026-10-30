@@ -1,0 +1,49 @@
+{
+  "created": "2026-10-29T14:17:31.349342+08:00",
+  "git_baseline": "67796208c81000563470044f2482e9622c582f77",
+  "scope": "Development prototype and retrospective replay; not a fresh independent transport confirmation",
+  "default_algorithm_changed": false,
+  "new_ROOTs": 0,
+  "particles": "Pure central alpha, fixed95/351ns, local K<=2, full analog range",
+  "response": "Frozen isolated conserving mean at q0(E); fixed electronics AR3; causal 29ns neighbor-charge proxy; multiply innovations by exp(-strength*neighbor); inverse AR3 to voltage",
+  "hypothesis": "Project empirical surrogate, not Rosado Eq19 or microscopic state inference",
+  "physical_config_changed": false,
+  "calibrate": "One strength in [0,8], 900 fold0 pair frames; equal condition/gap/component strata; fractional Q residual at known development E/t",
+  "train_mothers": 280,
+  "heldout_development_mothers": 280,
+  "historical_evaluation_mothers": 320,
+  "model_validation": "900 fold1 pairs plus280 singles; no strength selection or retuning on heldout/evaluation data",
+  "waveform_refit": "E/t jointly fitted; original BLIND selected K retained; radius24ns,60 L-BFGS-B iterations",
+  "weights": "Fixed old banded noise at initial blind Q/t; kappa=0 (unconditioned total); same weights for both new waveform fits; no new likelihood or CI claim",
+  "methods": [
+    "static_nll",
+    "coupled_charge_only",
+    "isolated_energy_refit",
+    "recovery_energy_refit"
+  ],
+  "endpoints": "E within10%, time<=min(10ns,gap/4), no extras for pair success; all Qtrue>=500pe; report counts, bias, sigma68, split/merge",
+  "energy_bounds": "Frozen guard-calibration domain; clamping only for starts, optimizer boundary hits retained explicitly",
+  "gate": "No new event-count gate; original blind K is a fixed design condition, not true K",
+  "pilot_indices": [
+    1200,
+    1280,
+    1520,
+    840,
+    1000,
+    240
+  ],
+  "runtime_gate": "All invariants and truth-read guards pass; projected1600-frame two-worker runtime <=1800s",
+  "native_expansion_gate": "Separate future experiment only after heldout weak charge RMSE improves>=10% and blind energy controls are assessed",
+  "full_samples": 3072,
+  "observed_samples": 1024,
+  "sample_spacing_ns": 2.0,
+  "first_sample_ns": 0.25,
+  "max_workers": 2,
+  "no_new_training_network": true,
+  "restrictions": [
+    "Existing optical mothers already exposed",
+    "No gamma/free tau/high rate/K>=3",
+    "No blind count improvement claimed",
+    "No confidence interval from this fixed weighting metric"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "frames": 6,
+  "max_seconds": 0.3841759290007758,
+  "projected_two_worker_seconds": 307.34074320062064,
+  "workers": 2,
+  "truth_guard": true
+}

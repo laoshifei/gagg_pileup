@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "score_rows": 6160,
+  "frames": 1540,
+  "validation_pairs": 900,
+  "validation_mothers": 280,
+  "figures": 4,
+  "parent_blocks": 110,
+  "parameter_retuning": false
+}

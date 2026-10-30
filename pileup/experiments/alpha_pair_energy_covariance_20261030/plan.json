@@ -1,0 +1,218 @@
+[
+  {
+    "id": 0,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713000000
+  },
+  {
+    "id": 1,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713001000
+  },
+  {
+    "id": 2,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713002000
+  },
+  {
+    "id": 3,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713003000
+  },
+  {
+    "id": 4,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713004000
+  },
+  {
+    "id": 5,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713005000
+  },
+  {
+    "id": 6,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713006000
+  },
+  {
+    "id": 7,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713007000
+  },
+  {
+    "id": 8,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713008000
+  },
+  {
+    "id": 9,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713009000
+  },
+  {
+    "id": 10,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713010000
+  },
+  {
+    "id": 11,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713011000
+  },
+  {
+    "id": 12,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713012000
+  },
+  {
+    "id": 13,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713013000
+  },
+  {
+    "id": 14,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713014000
+  },
+  {
+    "id": 15,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713015000
+  },
+  {
+    "id": 16,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713016000
+  },
+  {
+    "id": 17,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713017000
+  },
+  {
+    "id": 18,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713018000
+  },
+  {
+    "id": 19,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713019000
+  },
+  {
+    "id": 20,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713020000
+  },
+  {
+    "id": 21,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713021000
+  },
+  {
+    "id": 22,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713022000
+  },
+  {
+    "id": 23,
+    "domains": [
+      "physical",
+      "energy_gaussian"
+    ],
+    "repeats": 8,
+    "gaussian_seed": 713023000
+  }
+]
