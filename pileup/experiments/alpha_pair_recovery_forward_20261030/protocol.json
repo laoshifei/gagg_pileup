@@ -1,0 +1,40 @@
+{
+  "created": "2026-10-30T09:04:57.879512+00:00",
+  "commit": "09732062ddc851946e7215a481e4e4a12484fbe4",
+  "prior_local_stage": "alpha_pair_deconvolution_20261030, not committed; actual snapshots/hashes preserved",
+  "background_mV": 10.026392301544547,
+  "scope": "Pure alpha, TRUE K/t supplied, E_dep fitted; same64 historical diagnostic frames,32 optical mothers; not untouched validation",
+  "motivation": "Prior transformed-domain recovery pilot4/32 pairs versus voltageGLS9/32; test refolding and independently calibrated native mean",
+  "methods": [
+    "native_ols_centered",
+    "native_gls_centered",
+    "native_gls_calibrated"
+  ],
+  "primary": "native_gls_calibrated",
+  "references": [
+    "recovery128",
+    "new_mean_new_noise"
+  ],
+  "physical_model": "Identical age distribution and SPE kernel to preceding pilot; no revised physical constants. C++ acceleration numerically compared to Python.",
+  "voltage_model": "SPE*Age(frozen recovered-light profiles plus empty transformed mean), minus the empty response, plus fixed voltage background. Centering avoids counting algorithmic empty bias twice.",
+  "mean_calibration": "280fold0 isolated noisy voltage residuals at true calibration E/t;4energy knots, normalized by inheritedq0(E),4ns smoothing,-64..1720ns,last80ns taper; additive correction then nonnegative total signal. No pair/evaluation labels.",
+  "metrics": "OLS native voltage; GLS frozen previous calibrated FIR covariance at SAME voltage-derived recovery128 energy seed for both GLS arms. No covariance refit, no dependence on candidate E.",
+  "seed": "Recompute RL128/recovery and transformed-domain energy fit from voltage plus knownK/t; do not read previous fitted answers",
+  "search": "Shared initial+five charge shares for pairs, one initial for singles;100least-squares evaluations per start; same inherited E bounds",
+  "endpoint": "All injected E_dep within5/10/20%; preserve every boundary/nonconverged case; biases,sigma68,RMSE,gained/lost. No unknownK/t or PSD metrics.",
+  "plan": "64frames only; no new optical mothers or parameter tuning from fitted outputs. No full480 expansion in this diagnostic.",
+  "cost_gate_seconds": 1800,
+  "pilot_ids": [
+    40,
+    160
+  ],
+  "pilot_use": "Cost/numerical guard only; fixed parameters unchanged",
+  "display_ids": [
+    40,
+    120
+  ],
+  "workers": 6,
+  "BLAS_threads": 1,
+  "no_new_ROOT": true,
+  "default_changed": false
+}

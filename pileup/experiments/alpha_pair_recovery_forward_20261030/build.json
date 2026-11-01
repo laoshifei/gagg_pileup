@@ -1,0 +1,16 @@
+{
+  "command": [
+    "g++",
+    "-O3",
+    "-std=c++17",
+    "-fPIC",
+    "-shared",
+    "/media/sf_works/GAGG_pileup/pileup/experiments/alpha_pair_recovery_forward_20261030/source/pileup/analysis/sipm_age_mean.cpp",
+    "-o",
+    "/media/sf_works/GAGG_pileup/pileup/experiments/alpha_pair_recovery_forward_20261030/bin/libsipm_age_mean.so"
+  ],
+  "source_sha256": "953acf42e6e8a8424ebc6cf3425bf8671214db0ee57c378c5fcacfaa915d06f4",
+  "binary_sha256": "1b86fc99ba693b46f16bea18dce9f41be3bca121e6385dc7090cd054df9f132f",
+  "compiler": "g++ (GCC) 16.2.1 20260819 (Red Hat 16.2.1-2)",
+  "fast_math": false
+}

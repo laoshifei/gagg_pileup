@@ -1,0 +1,9 @@
+{
+  "passed": false,
+  "pairs_ok": false,
+  "singles_ok": true,
+  "baseline_pair_success": 9,
+  "primary_pair_success": 4,
+  "estimated_480_seconds": 935.0389675125189,
+  "note": "Gate is a pilot decision, not a significance test. No parameters tuned on these outcomes."
+}

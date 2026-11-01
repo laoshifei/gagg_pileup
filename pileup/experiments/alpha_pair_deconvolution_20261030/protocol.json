@@ -1,0 +1,46 @@
+{
+  "created": "2026-10-30T07:02:10.189042+00:00",
+  "commit": "09732062ddc851946e7215a481e4e4a12484fbe4",
+  "status": "New uncommitted research after published checkpoint; actual source snapshot below",
+  "scope": "Pure alpha, supplied TRUE count and times; only E_dep unknown. Not blind or alpha/gamma PSD.",
+  "literature": {
+    "url": "https://arxiv.org/abs/2010.14886",
+    "doi": "10.48550/arXiv.2010.14886",
+    "location": "PDF pp19-24, Eqs5.8/5.12; preprint, formal journal version not verified",
+    "adaptation": "Our SPE, age-distribution mean field, stopping rule and energy profiles; NOT full author MC reproduction"
+  },
+  "input": "Complete 1024x2ns analog voltage, enough dynamic range; no clipping rejection",
+  "background_mV": 10.026392301544547,
+  "latent_grid": "2ns counts at bin centers1+2n; voltage centers0.25+2n",
+  "rl_iterations": [
+    128,
+    512
+  ],
+  "rl_initial_counts_per_bin": 1.0,
+  "primary": "recovery128",
+  "comparator": "new_mean_new_noise",
+  "recovery": {
+    "cells": 14400,
+    "tau_ns": 29.0,
+    "dt_ns": 2.0,
+    "tail_tau": 12,
+    "cross_iterations": 6,
+    "max_inverse_iterations": 40,
+    "relative_L1_tolerance": 0.005,
+    "limitations": "Uniform illumination, at most one firing/cell/bin, mean-field prompt crosstalk; no dark-history correction"
+  },
+  "calibration": "280 fold0 isolated noisy voltages; 80 fold1 empty voltages for transformed background; no pair training",
+  "profiles": "4 E_dep knots; normalized by inherited q0(E); 4ns mean smoothing, -64..1720ns with last80ns taper; constant normalized shape outside knots",
+  "objective": "Fixed diagonal working weights: exposure/max(10ns-smoothed transformed counts,1). Correlations not modeled; not true Poisson likelihood.",
+  "evaluation": "First8 per each of8 existing conditions, 64frames. Exposed historical holdout, NOT untouched confirmation; mothers reused across conditions.",
+  "endpoint": "All injected E_dep within5/10/20%; no Q selection. Bias,sigma68,RMSE,boundaries,nonconvergence; K/t metrics not measured.",
+  "expansion_gate": "Expand to480 only if recovery128 pair success count>=GLS and each isolated group loses at most1 of8, numerical controls pass, estimated cost<1800s. Pilot results remain pilot; no parameter tuning.",
+  "display_ids": [
+    40,
+    120
+  ],
+  "workers": 6,
+  "BLAS_threads": 1,
+  "no_new_ROOT": true,
+  "default_changed": false
+}
