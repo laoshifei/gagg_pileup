@@ -1,0 +1,42 @@
+{
+  "created": "2026-11-01T03:46:56.423983+00:00",
+  "commit": "d66df8bab1b40c3c88c5840eead67ff53b03bff2",
+  "scope": "Development causal/phase/mean control; 16 historically exposed optical mothers; no new G4, blind detection or independent transport confirmation",
+  "stages": [
+    "old three-frame replay",
+    "C++ and readout numerical controls",
+    "isolated physical mean controls",
+    "pairs only after the isolated gate"
+  ],
+  "sensor": "Unchanged S13360-6050PE proxy configuration",
+  "recovery_grid_ns": 1.0,
+  "optical_mothers": 16,
+  "phases_ns": [
+    0.0,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "repetitions_per_phase": 8,
+  "digitizations": 512,
+  "workers": 4,
+  "BLAS_threads": 1,
+  "clock": "Earliest accepted-area optical arrival aligned to 128+phase ns, as in the historical donor cache",
+  "waveform": "4096ns digitization; first 2048ns/1024 native aperture averages are the explicitly declared observed control window; tail charge recorded separately",
+  "phase_rng": "Reuse each mother's eight digitizer seeds across phases; ordering and dark competition can change. Mothers, not repeats/phases, are independent sampling units",
+  "ancestry": "Truth ancestry only separates event signal from dark signal for response validation. Full noisy analog voltage is retained",
+  "model": "Frozen calibrated isolated voltage with causal support; uniform-age correction is not exercised for K=1 and is not established by a successful single test",
+  "fitting": "Single-event E fit to each eight-repeat mean; known onset; frozen legacy covariance from voltage-only seed, no true E initialization",
+  "gates": {
+    "replay_energy_relative": 0.0002,
+    "replay_cost_relative": 1e-06,
+    "mean_energy_bias_percent": 5.0,
+    "phase_bias_span_percentage_points": 1.0,
+    "pre_event_signal_mV": 1e-10,
+    "pilot_projected_seconds": 900.0
+  },
+  "gate_status": "Prespecified engineering controls, not literature thresholds or significance tests",
+  "selection": "Every parent/phase retained; failure stops pair expansion. No calibration strength tuning on these mothers",
+  "next_pairs": "If singles pass, freeze a separate shared-versus-isolated response experiment before energy comparison",
+  "default_changed": false
+}

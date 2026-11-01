@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "mother_pairs": 4,
+      "actual_weak_area_change_percent": -14.475310858642521,
+      "predicted_weak_area_change_percent": -8.411385006906091,
+      "prediction_error_percentage_points": 6.06392585173643,
+      "grid_change_percentage_points": 0.00033524128690620714,
+      "recovery_off_area_change_percent": 0.7615116796602261,
+      "spatial_overlap_relative_to_uniform": 2.1579472391126666
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "mother_pairs": 4,
+      "actual_weak_area_change_percent": -14.47216367641775,
+      "predicted_weak_area_change_percent": -8.269114828200308,
+      "prediction_error_percentage_points": 6.203048848217444,
+      "grid_change_percentage_points": 0.00041757270801445756,
+      "recovery_off_area_change_percent": 0.9381406682398591,
+      "spatial_overlap_relative_to_uniform": 2.1579472391126666
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "mother_pairs": 4,
+      "actual_weak_area_change_percent": -7.946065476650068,
+      "predicted_weak_area_change_percent": -4.294502157271671,
+      "prediction_error_percentage_points": 3.651563319378398,
+      "grid_change_percentage_points": 0.00023617164123246326,
+      "recovery_off_area_change_percent": 0.452996623202373,
+      "spatial_overlap_relative_to_uniform": 2.1579472391126666
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "mother_pairs": 4,
+      "actual_weak_area_change_percent": 1.0503006352228061,
+      "predicted_weak_area_change_percent": -0.23554345922617015,
+      "prediction_error_percentage_points": -1.2858440944489764,
+      "grid_change_percentage_points": 1.680781035184875e-05,
+      "recovery_off_area_change_percent": 1.5554586410169853,
+      "spatial_overlap_relative_to_uniform": 2.1579472391126666
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "mother_pairs": 4,
+      "actual_weak_area_change_percent": -10.861721309440174,
+      "predicted_weak_area_change_percent": -6.492610548943139,
+      "prediction_error_percentage_points": 4.369110760497033,
+      "grid_change_percentage_points": 0.0002572379761200949,
+      "recovery_off_area_change_percent": 0.9559357980626126,
+      "spatial_overlap_relative_to_uniform": 2.1579472391126666
+    }
+  ],
+  "response_gate_passed": false,
+  "failures": [
+    "high_weak_8: shared response mismatch",
+    "high_weak_40: shared response mismatch"
+  ],
+  "inference_performed": false,
+  "default_changed": false,
+  "no_new_ROOT": true,
+  "limitations": "Four optical pairs reused across gaps, orders and eight digitizer seeds; known-input diagnostics, engineering point-estimate gates; spatial overlap is explanatory evidence, not a fitted correction or proof of unique cause"
+}

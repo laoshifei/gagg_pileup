@@ -1,0 +1,20 @@
+{
+  "command": [
+    "g++",
+    "-O3",
+    "-std=c++17",
+    "-fPIC",
+    "-shared",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_controls_20261101/source/pileup/analysis/sipm_age_mean.cpp",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_controls_20261101/source/pileup/analysis/sipm_age_mean_jacobian.cpp",
+    "-o",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_controls_20261101/bin/age.so"
+  ],
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0",
+  "source_hashes": {
+    "pileup/experiments/alpha_pair_causal_controls_20261101/source/pileup/analysis/sipm_age_mean.cpp": "953acf42e6e8a8424ebc6cf3425bf8671214db0ee57c378c5fcacfaa915d06f4",
+    "pileup/experiments/alpha_pair_causal_controls_20261101/source/pileup/analysis/sipm_age_mean_jacobian.cpp": "225dd4ca86b6d537cd0c27c61ce5f54c0cbef40761be6907fb3f2a5e11ccb174"
+  },
+  "binary_sha256": "daabebd738d12299aec480dd5dca96f14c4905d0a943cfe35de09be3f2b6e4a0",
+  "fast_math": false
+}

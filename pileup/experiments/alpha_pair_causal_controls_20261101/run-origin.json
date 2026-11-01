@@ -1,0 +1,8 @@
+{
+  "git_commit_at_run": "d66df8b",
+  "implementation_uncommitted_at_run": [
+    "pileup/analysis/alpha_pair_causal_controls.py"
+  ],
+  "source_record": "Actual source snapshots and SHA256 manifests define the executed implementation; this list covers relevant new implementation files, not a retroactively fabricated full git status.",
+  "new_G4": false
+}

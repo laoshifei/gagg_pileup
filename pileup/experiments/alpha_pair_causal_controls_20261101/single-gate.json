@@ -1,0 +1,70 @@
+{
+  "groups": [
+    {
+      "condition": "weak",
+      "mothers": 4,
+      "parent_phase_cases": 16,
+      "energy_bias_percent": -2.525955567505214,
+      "phase_bias_percent": [
+        -2.520469312447748,
+        -2.525918231123217,
+        -2.5310531322839367,
+        -2.5263815941659553
+      ],
+      "phase_bias_span_percentage_points": 0.010583819836188724,
+      "model_area_error_percent": 2.177868611682234,
+      "mean_waveform_relative_error": 0.09939089300221585
+    },
+    {
+      "condition": "low",
+      "mothers": 4,
+      "parent_phase_cases": 16,
+      "energy_bias_percent": -0.1495773960894217,
+      "phase_bias_percent": [
+        -0.15324984519706764,
+        -0.1470540391588948,
+        -0.1466731236532265,
+        -0.15133257634849795
+      ],
+      "phase_bias_span_percentage_points": 0.006576721543841146,
+      "model_area_error_percent": 0.17069125513076847,
+      "mean_waveform_relative_error": 0.03872934774660407
+    },
+    {
+      "condition": "mid",
+      "mothers": 4,
+      "parent_phase_cases": 16,
+      "energy_bias_percent": -0.367521104129765,
+      "phase_bias_percent": [
+        -0.3653240423052262,
+        -0.3704135937016323,
+        -0.36847609043061114,
+        -0.36587069008159057
+      ],
+      "phase_bias_span_percentage_points": 0.0050895513964061,
+      "model_area_error_percent": 0.49848540669389585,
+      "mean_waveform_relative_error": 0.026611321134126287
+    },
+    {
+      "condition": "high",
+      "mothers": 4,
+      "parent_phase_cases": 16,
+      "energy_bias_percent": 0.003290925403695577,
+      "phase_bias_percent": [
+        0.011585086553164703,
+        -0.0047313922596048386,
+        -0.0037018482128226005,
+        0.010011855534045044
+      ],
+      "phase_bias_span_percentage_points": 0.01631647881276954,
+      "model_area_error_percent": -0.03702603473314317,
+      "mean_waveform_relative_error": 0.016092313596638617
+    }
+  ],
+  "single_gate_passed": true,
+  "failures": [],
+  "no_pair_expansion": false,
+  "no_new_ROOT": true,
+  "default_changed": false,
+  "scope": "16 selected historical mothers, 64 parent/phase cases, eight digital repeats each; response/mean control, not event-by-event energy resolution or blind efficiency"
+}

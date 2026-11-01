@@ -1,0 +1,30 @@
+{
+  "created": "2026-11-01T03:50:57.381398+00:00",
+  "prerequisite": "Isolated causal controls passed; original artifacts/hashes retained",
+  "commit": "d66df8bab1b40c3c88c5840eead67ff53b03bff2",
+  "scope": "Known-input forward diagnostic on eight historically exposed mothers, four mother pairs; not fitting or new transport confirmation",
+  "conditions": "high then weak:8/40/200/1200ns; weak then high:40ns; four pairs, eight seeds",
+  "runs": "Each case/seed:joint and two isolated digitizations, with recovery on and off; 960 digitizations, plus a separate two-repeat cost pilot",
+  "rng": "Common seed by mother pair/repeat across controls; changed photon lists change draw consumption; no claim of identical avalanche draws",
+  "means": "Ancestry event signals only, dark ancestry excluded but dark occupancy remains; observed first2048ns aperture averages and full4096ns ancestry charge both saved",
+  "model": "Uniform14400-cell age expectation, fixed95/351ns light, fraction0.3; frozen isolated-voltage anchor plus delta(shared-isolated); strength1, no tuning",
+  "approximation": "No per-event spatial truth is supplied to the uniform model. Cell-overlap calculation is post hoc mechanistic evidence only",
+  "grids_ns": [
+    1.0,
+    0.5
+  ],
+  "primary_grid_ns": 1.0,
+  "primary": "Weak-component integrated-voltage suppression, relative to its isolated response in the SAME2048ns window",
+  "gates": {
+    "weak_suppression_error_percentage_points": 5.0,
+    "grid_change_percentage_points": 1.0,
+    "recovery_off_interaction_percentage_points": 3.0,
+    "pilot_seconds": 900.0
+  },
+  "gate_scope": "Prespecified engineering point-estimate gates, not literature limits or independent statistical confirmation",
+  "expansion": "Only after all response gates pass, design an energy fit comparison; otherwise stop and diagnose model assumptions",
+  "workers": 4,
+  "BLAS_threads": 1,
+  "no_new_ROOT": true,
+  "default_changed": false
+}

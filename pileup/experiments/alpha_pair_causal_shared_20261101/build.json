@@ -1,0 +1,15 @@
+{
+  "command": [
+    "g++",
+    "-O3",
+    "-std=c++17",
+    "-fPIC",
+    "-shared",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_shared_20261101/source/pileup/analysis/sipm_age_mean.cpp",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_shared_20261101/source/pileup/analysis/sipm_age_mean_jacobian.cpp",
+    "-o",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_causal_shared_20261101/bin/age.so"
+  ],
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0",
+  "binary_sha256": "daabebd738d12299aec480dd5dca96f14c4905d0a943cfe35de09be3f2b6e4a0"
+}

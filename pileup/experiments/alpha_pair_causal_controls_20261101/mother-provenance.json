@@ -1,0 +1,306 @@
+[
+  {
+    "parent": 0,
+    "condition": "weak",
+    "block": 0,
+    "energy_dep_MeV": 0.22558186948299408,
+    "source": {
+      "root": "g4/data/20261026_12h55m36s.root",
+      "seed": 276000000,
+      "energy_MeV": 1.625,
+      "replicate": 0,
+      "particle": "alpha",
+      "root_original_sha256": "a335ce5ddabcec9f6842d53ac2d401b5c6aa4da6bebd36a8287ffec65b854d14",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_12h55m36s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_12h55m36s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_12h55m36s.json"
+    },
+    "photon_sha256": "bfd8f85922e3e13e2f183de17ad5c2388690a4a0a66f4ae6680553bf26e82ef4"
+  },
+  {
+    "parent": 10,
+    "condition": "weak",
+    "block": 10,
+    "energy_dep_MeV": 0.22983290255069733,
+    "source": {
+      "root": "g4/data/20261026_12h59m01s.root",
+      "seed": 276000010,
+      "energy_MeV": 1.625,
+      "replicate": 10,
+      "particle": "alpha",
+      "root_original_sha256": "fad7d7e44534c45e2f50747ef473a07b5e314e8f0e8952870ab967426c46d292",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_12h59m01s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_12h59m01s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_12h59m01s.json"
+    },
+    "photon_sha256": "88d94e32755ad988112062f823d3ca9fc6d550c58a2e60c9fe06bf7bca95be3f"
+  },
+  {
+    "parent": 20,
+    "condition": "weak",
+    "block": 20,
+    "energy_dep_MeV": 0.2454456239938736,
+    "source": {
+      "root": "g4/data/20261026_12h59m32s.root",
+      "seed": 276000020,
+      "energy_MeV": 1.625,
+      "replicate": 20,
+      "particle": "alpha",
+      "root_original_sha256": "6fef4e3417a5843f6ce520c7c3f9841a14c9a6167b0a1312501309de272896e2",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_12h59m32s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_12h59m32s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_12h59m32s.json"
+    },
+    "photon_sha256": "dd23cd643d0b13eada18ec6e63b6f5250430cf3074d9684ce1c3a59cea3e718e"
+  },
+  {
+    "parent": 30,
+    "condition": "weak",
+    "block": 30,
+    "energy_dep_MeV": 0.2038930505514145,
+    "source": {
+      "root": "g4/data/20261026_13h00m04s.root",
+      "seed": 276000030,
+      "energy_MeV": 1.625,
+      "replicate": 30,
+      "particle": "alpha",
+      "root_original_sha256": "e95005ff3a84d616e4d6e667ee7451532c923fd46fc8965af60b3f894631e74a",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h00m04s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h00m04s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h00m04s.json"
+    },
+    "photon_sha256": "e9a561338a0b9d151ce4ef1471c4569b9dd127ae5936f444840bba10e69c557f"
+  },
+  {
+    "parent": 80,
+    "condition": "low",
+    "block": 0,
+    "energy_dep_MeV": 1.4402151107788086,
+    "source": {
+      "root": "g4/data/20261026_13h02m38s.root",
+      "seed": 276000080,
+      "energy_MeV": 2.5,
+      "replicate": 0,
+      "particle": "alpha",
+      "root_original_sha256": "31b645be903f5e1ff5db1226d297aeddc42d0e7b94e85ab3431dbaf8aa47e182",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h02m38s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h02m38s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h02m38s.json"
+    },
+    "photon_sha256": "e2f60e7fb8fdf7f2141365e77810856ba01de7ff792017f398f5c80bf5febcf9"
+  },
+  {
+    "parent": 90,
+    "condition": "low",
+    "block": 10,
+    "energy_dep_MeV": 1.458996057510376,
+    "source": {
+      "root": "g4/data/20261026_13h03m10s.root",
+      "seed": 276000090,
+      "energy_MeV": 2.5,
+      "replicate": 10,
+      "particle": "alpha",
+      "root_original_sha256": "5e65ffecc383ff4e6c5d0bdb030c2d4e10336cba47dc35c9196093f8463e8053",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h03m10s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h03m10s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h03m10s.json"
+    },
+    "photon_sha256": "a4ad1f501fc534613e4658bfdd835fd0bf41537aef4fe8104938125580f57bf0"
+  },
+  {
+    "parent": 100,
+    "condition": "low",
+    "block": 20,
+    "energy_dep_MeV": 1.4388033151626587,
+    "source": {
+      "root": "g4/data/20261026_13h03m40s.root",
+      "seed": 276000100,
+      "energy_MeV": 2.5,
+      "replicate": 20,
+      "particle": "alpha",
+      "root_original_sha256": "f66ff42b82b7ac1e7b42f41429dbff5edd59adee46d423b36e4e695087814183",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h03m40s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h03m40s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h03m40s.json"
+    },
+    "photon_sha256": "3a5e72007b3d076c53a0e3cab816984eb92be4f0022f28d3f6a70b12a0dcf094"
+  },
+  {
+    "parent": 110,
+    "condition": "low",
+    "block": 30,
+    "energy_dep_MeV": 1.427554726600647,
+    "source": {
+      "root": "g4/data/20261026_13h04m11s.root",
+      "seed": 276000110,
+      "energy_MeV": 2.5,
+      "replicate": 30,
+      "particle": "alpha",
+      "root_original_sha256": "c91308ab6a0df0759f71d1893cb768b9fc8c52f5f51d8622287587c9bf92d562",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h04m11s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h04m11s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h04m11s.json"
+    },
+    "photon_sha256": "86a2da146065792d5a63f289efd7d209ff873e4f7ec5c4089590671e886d2f7a"
+  },
+  {
+    "parent": 160,
+    "condition": "mid",
+    "block": 0,
+    "energy_dep_MeV": 4.953248977661133,
+    "source": {
+      "root": "g4/data/20261026_13h06m51s.root",
+      "seed": 276000160,
+      "energy_MeV": 5.486,
+      "replicate": 0,
+      "particle": "alpha",
+      "root_original_sha256": "b0fbae0021c880925eb320a56e06c2b89655f52a9133806caa148bb9c5bf123e",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h06m51s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h06m51s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h06m51s.json"
+    },
+    "photon_sha256": "330323f6ee1d4c34160e7b3980cdd1e8b0c1a222ee167d45a52cd119e21bba28"
+  },
+  {
+    "parent": 170,
+    "condition": "mid",
+    "block": 10,
+    "energy_dep_MeV": 4.931411266326904,
+    "source": {
+      "root": "g4/data/20261026_13h07m26s.root",
+      "seed": 276000170,
+      "energy_MeV": 5.486,
+      "replicate": 10,
+      "particle": "alpha",
+      "root_original_sha256": "906f04b05e81d33b5934f8fb9e18e4a51ba697ef7bc6f47318f33e100146c12d",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h07m26s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h07m26s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h07m26s.json"
+    },
+    "photon_sha256": "90dcb0b7e5415346133d99da84be82c348872659454dabdfcbdac9041ab7afef"
+  },
+  {
+    "parent": 180,
+    "condition": "mid",
+    "block": 20,
+    "energy_dep_MeV": 4.949894428253174,
+    "source": {
+      "root": "g4/data/20261026_13h08m01s.root",
+      "seed": 276000180,
+      "energy_MeV": 5.486,
+      "replicate": 20,
+      "particle": "alpha",
+      "root_original_sha256": "41928fd739d75bdfc2f267e089663b6e359ad62c918aa7677c0ad255b689f614",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h08m01s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h08m01s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h08m01s.json"
+    },
+    "photon_sha256": "f7c1dd319deccf2c3623ae81e9ada30b3333580f72fda07905068eda3081390c"
+  },
+  {
+    "parent": 190,
+    "condition": "mid",
+    "block": 30,
+    "energy_dep_MeV": 4.920139312744141,
+    "source": {
+      "root": "g4/data/20261026_13h08m36s.root",
+      "seed": 276000190,
+      "energy_MeV": 5.486,
+      "replicate": 30,
+      "particle": "alpha",
+      "root_original_sha256": "d04faadcd57a4c94d37f09a206b5a350176543b57edb0fb938d6de2b36e37439",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h08m36s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h08m36s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h08m36s.json"
+    },
+    "photon_sha256": "2ba45c4820d3b4a1be7598cf79d0acc4789acbe1e8a2809b1c590b4984546759"
+  },
+  {
+    "parent": 240,
+    "condition": "high",
+    "block": 0,
+    "energy_dep_MeV": 7.588702201843262,
+    "source": {
+      "root": "g4/data/20261026_13h11m32s.root",
+      "seed": 276000240,
+      "energy_MeV": 8.0,
+      "replicate": 0,
+      "particle": "alpha",
+      "root_original_sha256": "3d308ccdc635963e21298782bda751cdbb11c756eb57ddb785a353e9282da3a2",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h11m32s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h11m32s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h11m32s.json"
+    },
+    "photon_sha256": "0dbdfac3d2dbbf483bff8e6b0ef228aef9b5c07b01741c078bdc6fef99c2302e"
+  },
+  {
+    "parent": 250,
+    "condition": "high",
+    "block": 10,
+    "energy_dep_MeV": 7.572389602661133,
+    "source": {
+      "root": "g4/data/20261026_13h12m10s.root",
+      "seed": 276000250,
+      "energy_MeV": 8.0,
+      "replicate": 10,
+      "particle": "alpha",
+      "root_original_sha256": "588171e54b657b2c5d6efcb8e04eab0776b1d9b6fa41fe477bb84ce7c35227b1",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h12m10s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h12m10s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h12m10s.json"
+    },
+    "photon_sha256": "64d615844d2b26ab0b97ba5278e27e99f6df4333915da9a2721f44d28f779dbf"
+  },
+  {
+    "parent": 260,
+    "condition": "high",
+    "block": 20,
+    "energy_dep_MeV": 7.596920490264893,
+    "source": {
+      "root": "g4/data/20261026_13h12m49s.root",
+      "seed": 276000260,
+      "energy_MeV": 8.0,
+      "replicate": 20,
+      "particle": "alpha",
+      "root_original_sha256": "5a7af61b5a31ba5834bbb0f482843d80292b5d160be5e53fb55525a68f0f9931",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h12m49s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h12m49s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h12m49s.json"
+    },
+    "photon_sha256": "84b21762a1c6c0bbfabb5f9b34e3e8635003e9c9100f1eaa72ca3a0cb14a6374"
+  },
+  {
+    "parent": 270,
+    "condition": "high",
+    "block": 30,
+    "energy_dep_MeV": 7.5793070793151855,
+    "source": {
+      "root": "g4/data/20261026_13h13m27s.root",
+      "seed": 276000270,
+      "energy_MeV": 8.0,
+      "replicate": 30,
+      "particle": "alpha",
+      "root_original_sha256": "8de9745c8872b6415c248a2b337f90fc2d4f87c1222ea4bc06f350d33a619eeb",
+      "source_manifest": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "waveform": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/waveforms/20261026_13h13m27s.npz",
+      "truth": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/truth/20261026_13h13m27s.npz",
+      "metadata": "jupyter/artifacts/alpha_pair_joint_confirmation_20261026/native-inputs/metadata/20261026_13h13m27s.json"
+    },
+    "photon_sha256": "e04d8bd2658eb26a62331dd46a5c3dfdbc7f867e0311fb2e4d93038123e03642"
+  }
+]
