@@ -1,0 +1,710 @@
+[
+  {
+    "id": 0,
+    "kind": "single",
+    "condition": "weak",
+    "block": 5,
+    "parents": [
+      5
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 0,
+    "gap_ns": null,
+    "seed_base": 715000500,
+    "energy_dep_MeV": [
+      0.24497805535793304
+    ]
+  },
+  {
+    "id": 1,
+    "kind": "single",
+    "condition": "weak",
+    "block": 15,
+    "parents": [
+      15
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 4,
+    "gap_ns": null,
+    "seed_base": 715001500,
+    "energy_dep_MeV": [
+      0.222642183303833
+    ]
+  },
+  {
+    "id": 2,
+    "kind": "single",
+    "condition": "weak",
+    "block": 25,
+    "parents": [
+      25
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 8,
+    "gap_ns": null,
+    "seed_base": 715002500,
+    "energy_dep_MeV": [
+      0.2862013876438141
+    ]
+  },
+  {
+    "id": 3,
+    "kind": "single",
+    "condition": "weak",
+    "block": 35,
+    "parents": [
+      35
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 12,
+    "gap_ns": null,
+    "seed_base": 715003500,
+    "energy_dep_MeV": [
+      0.22832106053829193
+    ]
+  },
+  {
+    "id": 4,
+    "kind": "single",
+    "condition": "low",
+    "block": 5,
+    "parents": [
+      85
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 16,
+    "gap_ns": null,
+    "seed_base": 715008500,
+    "energy_dep_MeV": [
+      1.4407802820205688
+    ]
+  },
+  {
+    "id": 5,
+    "kind": "single",
+    "condition": "low",
+    "block": 15,
+    "parents": [
+      95
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 20,
+    "gap_ns": null,
+    "seed_base": 715009500,
+    "energy_dep_MeV": [
+      1.467726469039917
+    ]
+  },
+  {
+    "id": 6,
+    "kind": "single",
+    "condition": "low",
+    "block": 25,
+    "parents": [
+      105
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 24,
+    "gap_ns": null,
+    "seed_base": 715010500,
+    "energy_dep_MeV": [
+      1.4635050296783447
+    ]
+  },
+  {
+    "id": 7,
+    "kind": "single",
+    "condition": "low",
+    "block": 35,
+    "parents": [
+      115
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 28,
+    "gap_ns": null,
+    "seed_base": 715011500,
+    "energy_dep_MeV": [
+      1.5008444786071777
+    ]
+  },
+  {
+    "id": 8,
+    "kind": "single",
+    "condition": "mid",
+    "block": 5,
+    "parents": [
+      165
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 32,
+    "gap_ns": null,
+    "seed_base": 715016500,
+    "energy_dep_MeV": [
+      4.944176197052002
+    ]
+  },
+  {
+    "id": 9,
+    "kind": "single",
+    "condition": "mid",
+    "block": 15,
+    "parents": [
+      175
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 36,
+    "gap_ns": null,
+    "seed_base": 715017500,
+    "energy_dep_MeV": [
+      4.969449043273926
+    ]
+  },
+  {
+    "id": 10,
+    "kind": "single",
+    "condition": "mid",
+    "block": 25,
+    "parents": [
+      185
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 40,
+    "gap_ns": null,
+    "seed_base": 715018500,
+    "energy_dep_MeV": [
+      4.921204090118408
+    ]
+  },
+  {
+    "id": 11,
+    "kind": "single",
+    "condition": "mid",
+    "block": 35,
+    "parents": [
+      195
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 44,
+    "gap_ns": null,
+    "seed_base": 715019500,
+    "energy_dep_MeV": [
+      4.917612552642822
+    ]
+  },
+  {
+    "id": 12,
+    "kind": "single",
+    "condition": "high",
+    "block": 5,
+    "parents": [
+      245
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 48,
+    "gap_ns": null,
+    "seed_base": 715024500,
+    "energy_dep_MeV": [
+      7.601977825164795
+    ]
+  },
+  {
+    "id": 13,
+    "kind": "single",
+    "condition": "high",
+    "block": 15,
+    "parents": [
+      255
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 52,
+    "gap_ns": null,
+    "seed_base": 715025500,
+    "energy_dep_MeV": [
+      7.600419044494629
+    ]
+  },
+  {
+    "id": 14,
+    "kind": "single",
+    "condition": "high",
+    "block": 25,
+    "parents": [
+      265
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 56,
+    "gap_ns": null,
+    "seed_base": 715026500,
+    "energy_dep_MeV": [
+      7.578012466430664
+    ]
+  },
+  {
+    "id": 15,
+    "kind": "single",
+    "condition": "high",
+    "block": 35,
+    "parents": [
+      275
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "source_id": 60,
+    "gap_ns": null,
+    "seed_base": 715027500,
+    "energy_dep_MeV": [
+      7.616176605224609
+    ]
+  },
+  {
+    "id": 16,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 5,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "source_id": 0,
+    "gap_ns": 8.0,
+    "seed_base": 715105000,
+    "energy_dep_MeV": [
+      7.601977825164795,
+      0.24497805535793304
+    ]
+  },
+  {
+    "id": 17,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 5,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 1,
+    "gap_ns": 40.0,
+    "seed_base": 715105000,
+    "energy_dep_MeV": [
+      7.601977825164795,
+      0.24497805535793304
+    ]
+  },
+  {
+    "id": 18,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 5,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "source_id": 2,
+    "gap_ns": 200.0,
+    "seed_base": 715105000,
+    "energy_dep_MeV": [
+      7.601977825164795,
+      0.24497805535793304
+    ]
+  },
+  {
+    "id": 19,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 5,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "source_id": 3,
+    "gap_ns": 1200.0,
+    "seed_base": 715105000,
+    "energy_dep_MeV": [
+      7.601977825164795,
+      0.24497805535793304
+    ]
+  },
+  {
+    "id": 20,
+    "kind": "pair",
+    "condition": "weak_high",
+    "block": 5,
+    "parents": [
+      5,
+      245
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 4,
+    "gap_ns": 40.0,
+    "seed_base": 715105000,
+    "energy_dep_MeV": [
+      0.24497805535793304,
+      7.601977825164795
+    ]
+  },
+  {
+    "id": 21,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 15,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "source_id": 5,
+    "gap_ns": 8.0,
+    "seed_base": 715115000,
+    "energy_dep_MeV": [
+      7.600419044494629,
+      0.222642183303833
+    ]
+  },
+  {
+    "id": 22,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 15,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 6,
+    "gap_ns": 40.0,
+    "seed_base": 715115000,
+    "energy_dep_MeV": [
+      7.600419044494629,
+      0.222642183303833
+    ]
+  },
+  {
+    "id": 23,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 15,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "source_id": 7,
+    "gap_ns": 200.0,
+    "seed_base": 715115000,
+    "energy_dep_MeV": [
+      7.600419044494629,
+      0.222642183303833
+    ]
+  },
+  {
+    "id": 24,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 15,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "source_id": 8,
+    "gap_ns": 1200.0,
+    "seed_base": 715115000,
+    "energy_dep_MeV": [
+      7.600419044494629,
+      0.222642183303833
+    ]
+  },
+  {
+    "id": 25,
+    "kind": "pair",
+    "condition": "weak_high",
+    "block": 15,
+    "parents": [
+      15,
+      255
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 9,
+    "gap_ns": 40.0,
+    "seed_base": 715115000,
+    "energy_dep_MeV": [
+      0.222642183303833,
+      7.600419044494629
+    ]
+  },
+  {
+    "id": 26,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 25,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "source_id": 10,
+    "gap_ns": 8.0,
+    "seed_base": 715125000,
+    "energy_dep_MeV": [
+      7.578012466430664,
+      0.2862013876438141
+    ]
+  },
+  {
+    "id": 27,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 25,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 11,
+    "gap_ns": 40.0,
+    "seed_base": 715125000,
+    "energy_dep_MeV": [
+      7.578012466430664,
+      0.2862013876438141
+    ]
+  },
+  {
+    "id": 28,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 25,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "source_id": 12,
+    "gap_ns": 200.0,
+    "seed_base": 715125000,
+    "energy_dep_MeV": [
+      7.578012466430664,
+      0.2862013876438141
+    ]
+  },
+  {
+    "id": 29,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 25,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "source_id": 13,
+    "gap_ns": 1200.0,
+    "seed_base": 715125000,
+    "energy_dep_MeV": [
+      7.578012466430664,
+      0.2862013876438141
+    ]
+  },
+  {
+    "id": 30,
+    "kind": "pair",
+    "condition": "weak_high",
+    "block": 25,
+    "parents": [
+      25,
+      265
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 14,
+    "gap_ns": 40.0,
+    "seed_base": 715125000,
+    "energy_dep_MeV": [
+      0.2862013876438141,
+      7.578012466430664
+    ]
+  },
+  {
+    "id": 31,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 35,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "source_id": 15,
+    "gap_ns": 8.0,
+    "seed_base": 715135000,
+    "energy_dep_MeV": [
+      7.616176605224609,
+      0.22832106053829193
+    ]
+  },
+  {
+    "id": 32,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 35,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 16,
+    "gap_ns": 40.0,
+    "seed_base": 715135000,
+    "energy_dep_MeV": [
+      7.616176605224609,
+      0.22832106053829193
+    ]
+  },
+  {
+    "id": 33,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 35,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "source_id": 17,
+    "gap_ns": 200.0,
+    "seed_base": 715135000,
+    "energy_dep_MeV": [
+      7.616176605224609,
+      0.22832106053829193
+    ]
+  },
+  {
+    "id": 34,
+    "kind": "pair",
+    "condition": "high_weak",
+    "block": 35,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "source_id": 18,
+    "gap_ns": 1200.0,
+    "seed_base": 715135000,
+    "energy_dep_MeV": [
+      7.616176605224609,
+      0.22832106053829193
+    ]
+  },
+  {
+    "id": 35,
+    "kind": "pair",
+    "condition": "weak_high",
+    "block": 35,
+    "parents": [
+      35,
+      275
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "source_id": 19,
+    "gap_ns": 40.0,
+    "seed_base": 715135000,
+    "energy_dep_MeV": [
+      0.22832106053829193,
+      7.616176605224609
+    ]
+  }
+]

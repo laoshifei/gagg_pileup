@@ -1,0 +1,15 @@
+{
+  "mothers": 128,
+  "weighting": "Equal per mother;32 per source-energy group; full-recovery PDE weighted within each mother",
+  "elapsed_seconds": 4.9510246029967675,
+  "cell_overlap": 2.20347184195898,
+  "coarse_probability_sums": {
+    "profile_6": 1.0000000000000002,
+    "profile_12": 1.0
+  },
+  "grouped_states": {
+    "spatial6": 6,
+    "spatial12": 21,
+    "spatial12_fine": 21
+  }
+}

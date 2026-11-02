@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "groups": [
+    {
+      "condition": "weak",
+      "mothers": 4,
+      "individual_n": 32,
+      "mean_bias_percent": 1.265717182556314,
+      "individual_bias_percent": 1.2915486524830095,
+      "individual_sd_percent": 5.72583855008592,
+      "individual_rmse_percent": 5.781763284366989,
+      "strict": 29,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "low",
+      "mothers": 4,
+      "individual_n": 32,
+      "mean_bias_percent": 0.42742900633330194,
+      "individual_bias_percent": 0.4215232165184234,
+      "individual_sd_percent": 2.2570953616400082,
+      "individual_rmse_percent": 2.261185266650071,
+      "strict": 32,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "mid",
+      "mothers": 4,
+      "individual_n": 32,
+      "mean_bias_percent": -0.3737186822271893,
+      "individual_bias_percent": -0.37409502907538617,
+      "individual_sd_percent": 0.6784150042066273,
+      "individual_rmse_percent": 0.7653831018034015,
+      "strict": 32,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high",
+      "mothers": 4,
+      "individual_n": 32,
+      "mean_bias_percent": 0.0072045972372591915,
+      "individual_bias_percent": 0.00711967369201108,
+      "individual_sd_percent": 0.43366478423704796,
+      "individual_rmse_percent": 0.42689436522032703,
+      "strict": 32,
+      "boundary": 0,
+      "nonconverged": 0
+    }
+  ],
+  "method_outputs_exact": true,
+  "mean_fit_legacy_max_relative": 0.0,
+  "fit_rows": 288,
+  "individual_waveforms": 128,
+  "mean_waveforms": 16,
+  "known_K_t": true,
+  "blind_detection_measured": false
+}

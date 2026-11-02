@@ -1,0 +1,4610 @@
+[
+  {
+    "id": 0,
+    "case": 0,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 1,
+    "case": 0,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 2,
+    "case": 0,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 3,
+    "case": 0,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 4,
+    "case": 0,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 5,
+    "case": 0,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 6,
+    "case": 0,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 7,
+    "case": 0,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 8,
+    "case": 0,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 9,
+    "case": 0,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 10,
+    "case": 0,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 11,
+    "case": 0,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 12,
+    "case": 0,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 13,
+    "case": 0,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 14,
+    "case": 0,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 15,
+    "case": 0,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 16,
+    "case": 0,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 17,
+    "case": 0,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0000.npz"
+  },
+  {
+    "id": 18,
+    "case": 1,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 19,
+    "case": 1,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 20,
+    "case": 1,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 21,
+    "case": 1,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 22,
+    "case": 1,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 23,
+    "case": 1,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 24,
+    "case": 1,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 25,
+    "case": 1,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 26,
+    "case": 1,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 27,
+    "case": 1,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 28,
+    "case": 1,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 29,
+    "case": 1,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 30,
+    "case": 1,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 31,
+    "case": 1,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 32,
+    "case": 1,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 33,
+    "case": 1,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 34,
+    "case": 1,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 35,
+    "case": 1,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0001.npz"
+  },
+  {
+    "id": 36,
+    "case": 2,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 37,
+    "case": 2,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 38,
+    "case": 2,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 39,
+    "case": 2,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 40,
+    "case": 2,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 41,
+    "case": 2,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 42,
+    "case": 2,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 43,
+    "case": 2,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 44,
+    "case": 2,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 45,
+    "case": 2,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 46,
+    "case": 2,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 47,
+    "case": 2,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 48,
+    "case": 2,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 49,
+    "case": 2,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 50,
+    "case": 2,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 51,
+    "case": 2,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 52,
+    "case": 2,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 53,
+    "case": 2,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0002.npz"
+  },
+  {
+    "id": 54,
+    "case": 3,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 55,
+    "case": 3,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 56,
+    "case": 3,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 57,
+    "case": 3,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 58,
+    "case": 3,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 59,
+    "case": 3,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 60,
+    "case": 3,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 61,
+    "case": 3,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 62,
+    "case": 3,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 63,
+    "case": 3,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 64,
+    "case": 3,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 65,
+    "case": 3,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 66,
+    "case": 3,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 67,
+    "case": 3,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 68,
+    "case": 3,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 69,
+    "case": 3,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 70,
+    "case": 3,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 71,
+    "case": 3,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0003.npz"
+  },
+  {
+    "id": 72,
+    "case": 4,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 73,
+    "case": 4,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 74,
+    "case": 4,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 75,
+    "case": 4,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 76,
+    "case": 4,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 77,
+    "case": 4,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 78,
+    "case": 4,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 79,
+    "case": 4,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 80,
+    "case": 4,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 81,
+    "case": 4,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 82,
+    "case": 4,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 83,
+    "case": 4,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 84,
+    "case": 4,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 85,
+    "case": 4,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 86,
+    "case": 4,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 87,
+    "case": 4,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 88,
+    "case": 4,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 89,
+    "case": 4,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0004.npz"
+  },
+  {
+    "id": 90,
+    "case": 5,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 91,
+    "case": 5,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 92,
+    "case": 5,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 93,
+    "case": 5,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 94,
+    "case": 5,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 95,
+    "case": 5,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 96,
+    "case": 5,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 97,
+    "case": 5,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 98,
+    "case": 5,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 99,
+    "case": 5,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 100,
+    "case": 5,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 101,
+    "case": 5,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 102,
+    "case": 5,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 103,
+    "case": 5,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 104,
+    "case": 5,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 105,
+    "case": 5,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 106,
+    "case": 5,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 107,
+    "case": 5,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0005.npz"
+  },
+  {
+    "id": 108,
+    "case": 6,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 109,
+    "case": 6,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 110,
+    "case": 6,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 111,
+    "case": 6,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 112,
+    "case": 6,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 113,
+    "case": 6,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 114,
+    "case": 6,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 115,
+    "case": 6,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 116,
+    "case": 6,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 117,
+    "case": 6,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 118,
+    "case": 6,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 119,
+    "case": 6,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 120,
+    "case": 6,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 121,
+    "case": 6,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 122,
+    "case": 6,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 123,
+    "case": 6,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 124,
+    "case": 6,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 125,
+    "case": 6,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0006.npz"
+  },
+  {
+    "id": 126,
+    "case": 7,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 127,
+    "case": 7,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 128,
+    "case": 7,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 129,
+    "case": 7,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 130,
+    "case": 7,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 131,
+    "case": 7,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 132,
+    "case": 7,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 133,
+    "case": 7,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 134,
+    "case": 7,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 135,
+    "case": 7,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 136,
+    "case": 7,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 137,
+    "case": 7,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 138,
+    "case": 7,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 139,
+    "case": 7,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 140,
+    "case": 7,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 141,
+    "case": 7,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 142,
+    "case": 7,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 143,
+    "case": 7,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0007.npz"
+  },
+  {
+    "id": 144,
+    "case": 8,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 145,
+    "case": 8,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 146,
+    "case": 8,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 147,
+    "case": 8,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 148,
+    "case": 8,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 149,
+    "case": 8,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 150,
+    "case": 8,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 151,
+    "case": 8,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 152,
+    "case": 8,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 153,
+    "case": 8,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 154,
+    "case": 8,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 155,
+    "case": 8,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 156,
+    "case": 8,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 157,
+    "case": 8,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 158,
+    "case": 8,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 159,
+    "case": 8,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 160,
+    "case": 8,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 161,
+    "case": 8,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0008.npz"
+  },
+  {
+    "id": 162,
+    "case": 9,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 163,
+    "case": 9,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 164,
+    "case": 9,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 165,
+    "case": 9,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 166,
+    "case": 9,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 167,
+    "case": 9,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 168,
+    "case": 9,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 169,
+    "case": 9,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 170,
+    "case": 9,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 171,
+    "case": 9,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 172,
+    "case": 9,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 173,
+    "case": 9,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 174,
+    "case": 9,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 175,
+    "case": 9,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 176,
+    "case": 9,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 177,
+    "case": 9,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 178,
+    "case": 9,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 179,
+    "case": 9,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0009.npz"
+  },
+  {
+    "id": 180,
+    "case": 10,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 181,
+    "case": 10,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 182,
+    "case": 10,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 183,
+    "case": 10,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 184,
+    "case": 10,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 185,
+    "case": 10,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 186,
+    "case": 10,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 187,
+    "case": 10,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 188,
+    "case": 10,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 189,
+    "case": 10,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 190,
+    "case": 10,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 191,
+    "case": 10,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 192,
+    "case": 10,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 193,
+    "case": 10,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 194,
+    "case": 10,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 195,
+    "case": 10,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 196,
+    "case": 10,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 197,
+    "case": 10,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0010.npz"
+  },
+  {
+    "id": 198,
+    "case": 11,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 199,
+    "case": 11,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 200,
+    "case": 11,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 201,
+    "case": 11,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 202,
+    "case": 11,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 203,
+    "case": 11,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 204,
+    "case": 11,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 205,
+    "case": 11,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 206,
+    "case": 11,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 207,
+    "case": 11,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 208,
+    "case": 11,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 209,
+    "case": 11,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 210,
+    "case": 11,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 211,
+    "case": 11,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 212,
+    "case": 11,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 213,
+    "case": 11,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 214,
+    "case": 11,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 215,
+    "case": 11,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0011.npz"
+  },
+  {
+    "id": 216,
+    "case": 12,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 217,
+    "case": 12,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 218,
+    "case": 12,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 219,
+    "case": 12,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 220,
+    "case": 12,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 221,
+    "case": 12,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 222,
+    "case": 12,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 223,
+    "case": 12,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 224,
+    "case": 12,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 225,
+    "case": 12,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 226,
+    "case": 12,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 227,
+    "case": 12,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 228,
+    "case": 12,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 229,
+    "case": 12,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 230,
+    "case": 12,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 231,
+    "case": 12,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 232,
+    "case": 12,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 233,
+    "case": 12,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0012.npz"
+  },
+  {
+    "id": 234,
+    "case": 13,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 235,
+    "case": 13,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 236,
+    "case": 13,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 237,
+    "case": 13,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 238,
+    "case": 13,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 239,
+    "case": 13,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 240,
+    "case": 13,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 241,
+    "case": 13,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 242,
+    "case": 13,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 243,
+    "case": 13,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 244,
+    "case": 13,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 245,
+    "case": 13,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 246,
+    "case": 13,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 247,
+    "case": 13,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 248,
+    "case": 13,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 249,
+    "case": 13,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 250,
+    "case": 13,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 251,
+    "case": 13,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0013.npz"
+  },
+  {
+    "id": 252,
+    "case": 14,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 253,
+    "case": 14,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 254,
+    "case": 14,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 255,
+    "case": 14,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 256,
+    "case": 14,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 257,
+    "case": 14,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 258,
+    "case": 14,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 259,
+    "case": 14,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 260,
+    "case": 14,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 261,
+    "case": 14,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 262,
+    "case": 14,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 263,
+    "case": 14,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 264,
+    "case": 14,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 265,
+    "case": 14,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 266,
+    "case": 14,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 267,
+    "case": 14,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 268,
+    "case": 14,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 269,
+    "case": 14,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0014.npz"
+  },
+  {
+    "id": 270,
+    "case": 15,
+    "kind": "single",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 271,
+    "case": 15,
+    "kind": "single",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 272,
+    "case": 15,
+    "kind": "single",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 273,
+    "case": 15,
+    "kind": "single",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 274,
+    "case": 15,
+    "kind": "single",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 275,
+    "case": 15,
+    "kind": "single",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 276,
+    "case": 15,
+    "kind": "single",
+    "repeat": 2,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 277,
+    "case": 15,
+    "kind": "single",
+    "repeat": 2,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 278,
+    "case": 15,
+    "kind": "single",
+    "repeat": 3,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 279,
+    "case": 15,
+    "kind": "single",
+    "repeat": 3,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 280,
+    "case": 15,
+    "kind": "single",
+    "repeat": 4,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 281,
+    "case": 15,
+    "kind": "single",
+    "repeat": 4,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 282,
+    "case": 15,
+    "kind": "single",
+    "repeat": 5,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 283,
+    "case": 15,
+    "kind": "single",
+    "repeat": 5,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 284,
+    "case": 15,
+    "kind": "single",
+    "repeat": 6,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 285,
+    "case": 15,
+    "kind": "single",
+    "repeat": 6,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 286,
+    "case": 15,
+    "kind": "single",
+    "repeat": 7,
+    "method": "uniform",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 287,
+    "case": 15,
+    "kind": "single",
+    "repeat": 7,
+    "method": "spatial12",
+    "times_ns": [
+      128.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0015.npz"
+  },
+  {
+    "id": 288,
+    "case": 16,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 289,
+    "case": 16,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 290,
+    "case": 16,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 291,
+    "case": 16,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 292,
+    "case": 16,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 293,
+    "case": 16,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0016.npz"
+  },
+  {
+    "id": 294,
+    "case": 17,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 295,
+    "case": 17,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 296,
+    "case": 17,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 297,
+    "case": 17,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 298,
+    "case": 17,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 299,
+    "case": 17,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0017.npz"
+  },
+  {
+    "id": 300,
+    "case": 18,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 301,
+    "case": 18,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 302,
+    "case": 18,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 303,
+    "case": 18,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 304,
+    "case": 18,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 305,
+    "case": 18,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0018.npz"
+  },
+  {
+    "id": 306,
+    "case": 19,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 307,
+    "case": 19,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 308,
+    "case": 19,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 309,
+    "case": 19,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 310,
+    "case": 19,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 311,
+    "case": 19,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0019.npz"
+  },
+  {
+    "id": 312,
+    "case": 20,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 313,
+    "case": 20,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 314,
+    "case": 20,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 315,
+    "case": 20,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 316,
+    "case": 20,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 317,
+    "case": 20,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0020.npz"
+  },
+  {
+    "id": 318,
+    "case": 21,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 319,
+    "case": 21,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 320,
+    "case": 21,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 321,
+    "case": 21,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 322,
+    "case": 21,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 323,
+    "case": 21,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0021.npz"
+  },
+  {
+    "id": 324,
+    "case": 22,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 325,
+    "case": 22,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 326,
+    "case": 22,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 327,
+    "case": 22,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 328,
+    "case": 22,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 329,
+    "case": 22,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0022.npz"
+  },
+  {
+    "id": 330,
+    "case": 23,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 331,
+    "case": 23,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 332,
+    "case": 23,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 333,
+    "case": 23,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 334,
+    "case": 23,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 335,
+    "case": 23,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0023.npz"
+  },
+  {
+    "id": 336,
+    "case": 24,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 337,
+    "case": 24,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 338,
+    "case": 24,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 339,
+    "case": 24,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 340,
+    "case": 24,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 341,
+    "case": 24,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0024.npz"
+  },
+  {
+    "id": 342,
+    "case": 25,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 343,
+    "case": 25,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 344,
+    "case": 25,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 345,
+    "case": 25,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 346,
+    "case": 25,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 347,
+    "case": 25,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0025.npz"
+  },
+  {
+    "id": 348,
+    "case": 26,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 349,
+    "case": 26,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 350,
+    "case": 26,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 351,
+    "case": 26,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 352,
+    "case": 26,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 353,
+    "case": 26,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0026.npz"
+  },
+  {
+    "id": 354,
+    "case": 27,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 355,
+    "case": 27,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 356,
+    "case": 27,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 357,
+    "case": 27,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 358,
+    "case": 27,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 359,
+    "case": 27,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0027.npz"
+  },
+  {
+    "id": 360,
+    "case": 28,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 361,
+    "case": 28,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 362,
+    "case": 28,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 363,
+    "case": 28,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 364,
+    "case": 28,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 365,
+    "case": 28,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0028.npz"
+  },
+  {
+    "id": 366,
+    "case": 29,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 367,
+    "case": 29,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 368,
+    "case": 29,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 369,
+    "case": 29,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 370,
+    "case": 29,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 371,
+    "case": 29,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0029.npz"
+  },
+  {
+    "id": 372,
+    "case": 30,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 373,
+    "case": 30,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 374,
+    "case": 30,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 375,
+    "case": 30,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 376,
+    "case": 30,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 377,
+    "case": 30,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0030.npz"
+  },
+  {
+    "id": 378,
+    "case": 31,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 379,
+    "case": 31,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 380,
+    "case": 31,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 381,
+    "case": 31,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 382,
+    "case": 31,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 383,
+    "case": 31,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0031.npz"
+  },
+  {
+    "id": 384,
+    "case": 32,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 385,
+    "case": 32,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 386,
+    "case": 32,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 387,
+    "case": 32,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 388,
+    "case": 32,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 389,
+    "case": 32,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0032.npz"
+  },
+  {
+    "id": 390,
+    "case": 33,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 391,
+    "case": 33,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 392,
+    "case": 33,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 393,
+    "case": 33,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 394,
+    "case": 33,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 395,
+    "case": 33,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0033.npz"
+  },
+  {
+    "id": 396,
+    "case": 34,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 397,
+    "case": 34,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 398,
+    "case": 34,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 399,
+    "case": 34,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 400,
+    "case": 34,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 401,
+    "case": 34,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0034.npz"
+  },
+  {
+    "id": 402,
+    "case": 35,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  },
+  {
+    "id": 403,
+    "case": 35,
+    "kind": "pair",
+    "repeat": -1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  },
+  {
+    "id": 404,
+    "case": 35,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  },
+  {
+    "id": 405,
+    "case": 35,
+    "kind": "pair",
+    "repeat": 0,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  },
+  {
+    "id": 406,
+    "case": 35,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "uniform",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  },
+  {
+    "id": 407,
+    "case": 35,
+    "kind": "pair",
+    "repeat": 1,
+    "method": "spatial12",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "waveform": "jupyter/artifacts/alpha_pair_spatial_energy_20261102/waveforms/0035.npz"
+  }
+]

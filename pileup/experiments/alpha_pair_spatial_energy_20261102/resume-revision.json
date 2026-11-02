@@ -1,0 +1,8 @@
+{
+  "reason": "Original batch ended with SIGTERM exit143. Scheduling-only continuation preserves11 completed fits and computes missing frozen IDs. Cause not established.",
+  "changes": [
+    "Separate run_resume.py with exclusive writes and lock",
+    "Original source/, run.py, data, model and fit settings unchanged",
+    "Long batch scheduled in tmux; progress and attempt hashes recorded"
+  ]
+}

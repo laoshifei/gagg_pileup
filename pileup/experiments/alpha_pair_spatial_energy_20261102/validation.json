@@ -1,0 +1,779 @@
+{
+  "passed": true,
+  "created_utc": "2026-11-02T03:23:22.938721+00:00",
+  "frozen_counts": {
+    "freeze.json": 38,
+    "parent-input-freeze.json": 44,
+    "input-freeze.json": 56,
+    "report-freeze.json": 3,
+    "resume-freeze.json": 3
+  },
+  "previous_spatial_source_and_results_unchanged": {
+    "source_configuration_reports": 67,
+    "local_artifacts": 770
+  },
+  "source_parent_commit": "60ce7d9238cc2da7f63e0d479a2d7f974d65b0eb",
+  "formal_fit_rows": 408,
+  "single_fit_rows": 288,
+  "pair_fit_rows": 120,
+  "common_weights_and_starts_exact": true,
+  "original_interrupted_rows_unchanged": 11,
+  "completed_fits_including_numerical_pilot_replay": 422,
+  "extra_pre_freeze_synthetic_fit": 1,
+  "unsaved_interrupted_calculations_not_counted": true,
+  "new_digitizations": 160,
+  "reused_single_waveforms": 128,
+  "new_ROOT": 0,
+  "physical_input_checks": [
+    {
+      "case": 16,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13470385773815347
+    },
+    {
+      "case": 17,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13731825134059522
+    },
+    {
+      "case": 18,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13776276515033298
+    },
+    {
+      "case": 19,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13506848684623668
+    },
+    {
+      "case": 20,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13496852156540298
+    },
+    {
+      "case": 21,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.12919407638225616
+    },
+    {
+      "case": 22,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13748505718652695
+    },
+    {
+      "case": 23,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.1339964343999874
+    },
+    {
+      "case": 24,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13130230392747805
+    },
+    {
+      "case": 25,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.14063240007263628
+    },
+    {
+      "case": 26,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.12743708567913162
+    },
+    {
+      "case": 27,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.1251572582101518
+    },
+    {
+      "case": 28,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.12646215815168632
+    },
+    {
+      "case": 29,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.12910789191191221
+    },
+    {
+      "case": 30,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13204250847727989
+    },
+    {
+      "case": 31,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.13873058852425585
+    },
+    {
+      "case": 32,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.1345085971846492
+    },
+    {
+      "case": 33,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.136483216468964
+    },
+    {
+      "case": 34,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.14080721825715536
+    },
+    {
+      "case": 35,
+      "old_ancestry_exact": true,
+      "analog_prefix_exact": true,
+      "residual_dark_electronics_sd_mV": 0.1390484833403124
+    }
+  ],
+  "numerical": {
+    "passed": true,
+    "checks": [
+      {
+        "model": "uniform",
+        "times_ns": [
+          128.0,
+          136.0
+        ],
+        "mean_component_abs_mV": 3.410605131648481e-13,
+        "gradient_relative": 5.458962701437687e-07
+      },
+      {
+        "model": "uniform",
+        "times_ns": [
+          128.0,
+          168.0
+        ],
+        "mean_component_abs_mV": 2.2737367544323206e-13,
+        "gradient_relative": 5.696461908482625e-07
+      },
+      {
+        "model": "spatial12",
+        "times_ns": [
+          128.0,
+          136.0
+        ],
+        "mean_component_abs_mV": 2.2737367544323206e-13,
+        "gradient_relative": 5.450315158322435e-07
+      },
+      {
+        "model": "spatial12",
+        "times_ns": [
+          128.0,
+          168.0
+        ],
+        "mean_component_abs_mV": 3.410605131648481e-13,
+        "gradient_relative": 5.646702260045588e-07
+      }
+    ],
+    "inverses": [
+      {
+        "energy_MeV": [
+          0.2500000007218778
+        ],
+        "cost": 2.678404814701741e-15,
+        "converged": true,
+        "boundary": false,
+        "starts": 1,
+        "evaluations": 14,
+        "initial_MeV": [
+          0.2546712269607808
+        ],
+        "start_energy_MeV": [
+          [
+            0.2546712269607808
+          ]
+        ],
+        "seconds": 0.014157768993754871,
+        "model": "uniform",
+        "times_ns": [
+          128.0
+        ],
+        "true_synthetic_MeV": [
+          0.25
+        ],
+        "max_relative_error": 2.8875111190984626e-09
+      },
+      {
+        "energy_MeV": [
+          7.00000000137922
+        ],
+        "cost": 8.01721659074587e-16,
+        "converged": true,
+        "boundary": false,
+        "starts": 1,
+        "evaluations": 15,
+        "initial_MeV": [
+          6.7974407945997735
+        ],
+        "start_energy_MeV": [
+          [
+            6.7974407945997735
+          ]
+        ],
+        "seconds": 0.018271160995936953,
+        "model": "uniform",
+        "times_ns": [
+          128.0
+        ],
+        "true_synthetic_MeV": [
+          7.0
+        ],
+        "max_relative_error": 1.9703150222483146e-10
+      },
+      {
+        "energy_MeV": [
+          6.999999997978564,
+          0.2500000036564504
+        ],
+        "cost": 2.359236162912535e-16,
+        "converged": true,
+        "boundary": false,
+        "evaluations": 38,
+        "gradient_evaluations": 19,
+        "optimality": 4.631123001549056e-06,
+        "status": 1,
+        "message": "`gtol` termination condition is satisfied.",
+        "starts": 3,
+        "selected_start": 1,
+        "candidates": [
+          {
+            "energy_MeV": [
+              7.0000000099775,
+              0.2499999852853727
+            ],
+            "cost": 2.7532219632879867e-15,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 6,
+            "gradient_evaluations": 6,
+            "optimality": 2.089294312713875e-06,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              6.999999997978564,
+              0.2500000036564504
+            ],
+            "cost": 2.359236162912535e-16,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 23,
+            "gradient_evaluations": 19,
+            "optimality": 4.631123001549056e-06,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              6.999999996225952,
+              0.2500000068734798
+            ],
+            "cost": 8.497395227421767e-16,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 9,
+            "gradient_evaluations": 9,
+            "optimality": 8.996956018665682e-06,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          }
+        ],
+        "initial_MeV": [
+          7.029776600365558,
+          0.118313572405003
+        ],
+        "start_energy_MeV": [
+          [
+            7.029776600365558,
+            0.118313572405003
+          ],
+          [
+            0.7448825585857272,
+            6.573300431578123
+          ],
+          [
+            6.573300431578123,
+            0.7448825585857269
+          ]
+        ],
+        "seconds": 5.052829253007076,
+        "model": "uniform",
+        "times_ns": [
+          128.0,
+          136.0
+        ],
+        "true_synthetic_MeV": [
+          7.0,
+          0.25
+        ],
+        "max_relative_error": 1.462580168087868e-08
+      },
+      {
+        "energy_MeV": [
+          0.25000000000341754,
+          6.999999999998765
+        ],
+        "cost": 7.860910972147757e-21,
+        "converged": true,
+        "boundary": false,
+        "evaluations": 24,
+        "gradient_evaluations": 6,
+        "optimality": 7.496582126605682e-09,
+        "status": 1,
+        "message": "`gtol` termination condition is satisfied.",
+        "starts": 3,
+        "selected_start": 0,
+        "candidates": [
+          {
+            "energy_MeV": [
+              0.25000000000341754,
+              6.999999999998765
+            ],
+            "cost": 7.860910972147757e-21,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 6,
+            "gradient_evaluations": 6,
+            "optimality": 7.496582126605682e-09,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              0.2500000004331284,
+              6.999999999830492
+            ],
+            "cost": 1.2527686438117196e-16,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 7,
+            "gradient_evaluations": 7,
+            "optimality": 7.874936582399924e-07,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              0.2500000000564349,
+              6.999999999978031
+            ],
+            "cost": 2.127762945521091e-18,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 11,
+            "gradient_evaluations": 11,
+            "optimality": 1.041352192236298e-07,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          }
+        ],
+        "initial_MeV": [
+          0.40480368169414527,
+          6.650437155045328
+        ],
+        "start_energy_MeV": [
+          [
+            0.40480368169414527,
+            6.650437155045328
+          ],
+          [
+            0.7223104078348361,
+            6.437605735569429
+          ],
+          [
+            6.437605735569429,
+            0.7223104078348359
+          ]
+        ],
+        "seconds": 3.2429815079958644,
+        "model": "uniform",
+        "times_ns": [
+          128.0,
+          168.0
+        ],
+        "true_synthetic_MeV": [
+          0.25,
+          7.0
+        ],
+        "max_relative_error": 1.3670176102209552e-11
+      },
+      {
+        "energy_MeV": [
+          0.2500000007218778
+        ],
+        "cost": 2.678404814701741e-15,
+        "converged": true,
+        "boundary": false,
+        "starts": 1,
+        "evaluations": 14,
+        "initial_MeV": [
+          0.2546712269607808
+        ],
+        "start_energy_MeV": [
+          [
+            0.2546712269607808
+          ]
+        ],
+        "seconds": 0.010267669000313617,
+        "model": "spatial12",
+        "times_ns": [
+          128.0
+        ],
+        "true_synthetic_MeV": [
+          0.25
+        ],
+        "max_relative_error": 2.8875111190984626e-09
+      },
+      {
+        "energy_MeV": [
+          7.00000000137922
+        ],
+        "cost": 8.01721659074587e-16,
+        "converged": true,
+        "boundary": false,
+        "starts": 1,
+        "evaluations": 15,
+        "initial_MeV": [
+          6.7974407945997735
+        ],
+        "start_energy_MeV": [
+          [
+            6.7974407945997735
+          ]
+        ],
+        "seconds": 0.010211367989541031,
+        "model": "spatial12",
+        "times_ns": [
+          128.0
+        ],
+        "true_synthetic_MeV": [
+          7.0
+        ],
+        "max_relative_error": 1.9703150222483146e-10
+      },
+      {
+        "energy_MeV": [
+          6.999999999959875,
+          0.2500000000808461
+        ],
+        "cost": 7.988318811464254e-20,
+        "converged": true,
+        "boundary": false,
+        "evaluations": 37,
+        "gradient_evaluations": 7,
+        "optimality": 8.703201642137108e-08,
+        "status": 1,
+        "message": "`gtol` termination condition is satisfied.",
+        "starts": 3,
+        "selected_start": 0,
+        "candidates": [
+          {
+            "energy_MeV": [
+              6.999999999959875,
+              0.2500000000808461
+            ],
+            "cost": 7.988318811464254e-20,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 7,
+            "gradient_evaluations": 7,
+            "optimality": 8.703201642137108e-08,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              6.999999999602441,
+              0.2500000009057005
+            ],
+            "cost": 1.4639176939883424e-17,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 20,
+            "gradient_evaluations": 18,
+            "optimality": 1.5602047270336763e-06,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              6.999999999237675,
+              0.2500000016958411
+            ],
+            "cost": 4.7782617748966154e-17,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 10,
+            "gradient_evaluations": 10,
+            "optimality": 2.7194736738995105e-06,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          }
+        ],
+        "initial_MeV": [
+          6.9929661248109785,
+          0.118313572405003
+        ],
+        "start_energy_MeV": [
+          [
+            6.9929661248109785,
+            0.118313572405003
+          ],
+          [
+            0.7393540567534799,
+            6.539999357379992
+          ],
+          [
+            6.539999357379992,
+            0.7393540567534796
+          ]
+        ],
+        "seconds": 107.24567018900416,
+        "model": "spatial12",
+        "times_ns": [
+          128.0,
+          136.0
+        ],
+        "true_synthetic_MeV": [
+          7.0,
+          0.25
+        ],
+        "max_relative_error": 3.2338443034518605e-10
+      },
+      {
+        "energy_MeV": [
+          0.25000000000216416,
+          6.999999999999348
+        ],
+        "cost": 3.1763825124927368e-21,
+        "converged": true,
+        "boundary": false,
+        "evaluations": 24,
+        "gradient_evaluations": 6,
+        "optimality": 4.509530652081097e-09,
+        "status": 1,
+        "message": "`gtol` termination condition is satisfied.",
+        "starts": 3,
+        "selected_start": 0,
+        "candidates": [
+          {
+            "energy_MeV": [
+              0.25000000000216416,
+              6.999999999999348
+            ],
+            "cost": 3.1763825124927368e-21,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 6,
+            "gradient_evaluations": 6,
+            "optimality": 4.509530652081097e-09,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              0.2500000002804602,
+              6.999999999905032
+            ],
+            "cost": 5.2829052812507505e-17,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 7,
+            "gradient_evaluations": 7,
+            "optimality": 4.5638370160155776e-07,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          },
+          {
+            "energy_MeV": [
+              0.25000000003764306,
+              6.999999999987357
+            ],
+            "cost": 9.52153902493768e-19,
+            "converged": true,
+            "boundary": false,
+            "evaluations": 11,
+            "gradient_evaluations": 11,
+            "optimality": 6.248540015710546e-08,
+            "status": 1,
+            "message": "`gtol` termination condition is satisfied."
+          }
+        ],
+        "initial_MeV": [
+          0.40075172316755964,
+          6.61821220886805
+        ],
+        "start_energy_MeV": [
+          [
+            0.40075172316755964,
+            6.61821220886805
+          ],
+          [
+            0.7170342633165008,
+            6.40598370367308
+          ],
+          [
+            6.40598370367308,
+            0.7170342633165006
+          ]
+        ],
+        "seconds": 68.2865483029891,
+        "model": "spatial12",
+        "times_ns": [
+          128.0,
+          168.0
+        ],
+        "true_synthetic_MeV": [
+          0.25,
+          7.0
+        ],
+        "max_relative_error": 8.65663096760727e-12
+      }
+    ],
+    "seconds": 108.66884906998894
+  },
+  "statistics": {
+    "passed": true,
+    "controls": {
+      "weak_bias_ci95": [
+        [
+          20.0,
+          20.0
+        ],
+        [
+          -5.0,
+          -5.0
+        ]
+      ],
+      "weak_rmse_ci95": [
+        [
+          20.0,
+          20.0
+        ],
+        [
+          5.0,
+          5.0
+        ]
+      ],
+      "strict_gain_ci95_pp": [
+        100.0,
+        100.0
+      ]
+    }
+  },
+  "inference_audit": {
+    "passed": true,
+    "denied_paths": [
+      "pileup/experiments/alpha_pair_spatial_energy_20261102/cases.json",
+      "pileup/experiments/alpha_pair_spatial_energy_20261102/evaluation-mothers.json",
+      "jupyter/artifacts/alpha_pair_spatial_energy_20261102/photons/0005.npz",
+      "jupyter/artifacts/alpha_pair_spatial_energy_20261102/diagnostics/0016.npz",
+      "jupyter/artifacts/alpha_pair_spatial_recovery_20261102/pair/pair/0000.npz"
+    ],
+    "voltage_input_allowed": true
+  },
+  "single_gate_passed": true,
+  "recommend_independent_confirmation": false,
+  "decision_failures": [
+    "short strict gain <10 pp",
+    "short pooled RMSE ratio >0.95",
+    "8 ns individual RMSE ratio >1.1",
+    "40 ns individual RMSE ratio >1.1",
+    "8 ns mean weak bias >10%",
+    "40 ns mean weak bias >10%"
+  ],
+  "replay": {
+    "tasks": 4,
+    "seconds": 85.15456786499999,
+    "workers": 8,
+    "comparisons": [
+      {
+        "id": 0,
+        "energy_relative": 0.0,
+        "cost_relative": 0.0,
+        "convergence_equal": true,
+        "passed": true
+      },
+      {
+        "id": 1,
+        "energy_relative": 0.0,
+        "cost_relative": 0.0,
+        "convergence_equal": true,
+        "passed": true
+      },
+      {
+        "id": 404,
+        "energy_relative": 0.0,
+        "cost_relative": 0.0,
+        "convergence_equal": true,
+        "passed": true
+      },
+      {
+        "id": 405,
+        "energy_relative": 0.0,
+        "cost_relative": 0.0,
+        "convergence_equal": true,
+        "passed": true
+      }
+    ],
+    "passed": true
+  },
+  "notebooks": [
+    {
+      "path": "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb",
+      "original_cells": 147,
+      "final_cells": 154,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "sha256": "b56ebf6da54e56a680f10d6fe2ab5158f51dd2a3b90ba6ef0a71f323abdf91ef"
+    },
+    {
+      "path": "jupyter/Research_Plan_20260921.ipynb",
+      "original_cells": 98,
+      "final_cells": 99,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "sha256": "677309f61a0c1331d1e8303608155f01ab1040023af149495778b47d24dc0fb0"
+    },
+    {
+      "path": "jupyter/Run_Catalog.ipynb",
+      "original_cells": 60,
+      "final_cells": 61,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "sha256": "83bf7a18345bb7ba40479fde249827fbd3455fe84d1aa3732ff48716617e0245"
+    }
+  ],
+  "python_syntax_checked": 25,
+  "default_changed": false,
+  "figures_visually_reviewed": [
+    "0007-88-1",
+    "0007-89-1",
+    "0007-90-1",
+    "0007-91-1"
+  ],
+  "limitations": "Fixed known-K/t historical-mother pilot; four mother pairs, two individual repeats per condition, eight-repeat means. No blind detection efficiency or independent confirmation.",
+  "push": "No new upload requested in this turn; local commit only."
+}
