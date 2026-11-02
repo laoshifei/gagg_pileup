@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "target_root": "/tmp/gagg_energy_diagnosis_repro_50gdkw_1/project",
+  "copied_files": 242,
+  "existing_target_refused": true,
+  "diagnostic_cases_rerun": 1,
+  "exact_except_timing": true,
+  "new_fits": 0,
+  "new_ROOTs": 0,
+  "new_digitizations": 0
+}

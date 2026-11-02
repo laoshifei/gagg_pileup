@@ -1,0 +1,94 @@
+{
+  "skill": ".agents/skills/paper-search/SKILL.md",
+  "library": "/mnt/d/works/papers",
+  "read_only": true,
+  "pdf_review": false,
+  "web_search": false,
+  "entries": [
+    {
+      "title": "Pulse estimation in nonlinear detectors with nonstationary noise",
+      "authors": [
+        "D. J. Fixsen",
+        "S. H. Moseley",
+        "B. Cabrera",
+        "E. Figueroa-Feliciano"
+      ],
+      "doi": "10.1016/j.nima.2003.11.313",
+      "note": "/mnt/d/works/papers/sources/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.md",
+      "pdf": "/mnt/d/works/papers/raw/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.pdf",
+      "note_sha256": "ee5758a7c16f7bf82bc6b4930c6e5e9bb3a8099af4c3bc5ef45843b186f12701",
+      "source_positions": "PDF2 sections2–4/equations1–2;PDF3–4 discussion",
+      "conditions": "TES nonlinear/nonstationary model;0.5–5eV;5000noise realizations perenergy;sampling/rate and independent evaluation not fully specified",
+      "project_use": "Use conditional mean/covariance calibration principle only; fixed common GLS metric here is a project design, not a fully parameter-dependent likelihood",
+      "review": "AI draft; no source-specific scientific confirmation found; unchanged",
+      "verification": "Existing source note and navigation/review context only; raw PDF not reread, DOI taken from saved note"
+    },
+    {
+      "title": "Development of a pile-up pulse recovery algorithm for the LaBr3 detector",
+      "authors": [
+        "J. Z. Zhang",
+        "H. Y. Wu",
+        "W. Jiang",
+        "Z. H. Wang",
+        "R. R. Fan",
+        "X. C. Ruan"
+      ],
+      "doi": "10.1016/j.nima.2024.169273",
+      "note": "/mnt/d/works/papers/sources/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.md",
+      "pdf": "/mnt/d/works/papers/raw/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.pdf",
+      "note_sha256": "6e75ca98b6165297b2ccbfe1f00e3ee2385f90088041209b13574bbc8a80f7f9",
+      "source_positions": "PDF2–3 equations2–5/figures2–3;PDF4–6 simulation/efficiency",
+      "conditions": "2x2inch LaBr3(Ce)/R6233 PMT;500MHz,14bit,32us;shared-template simulation with Gaussian7ADC noise,not shared SiPM recovery",
+      "project_use": "Keep conditional templates and mismatch tests; distinguish per-event energy success from peak efficiency or blind reconstruction",
+      "review": "AI draft; no source-specific scientific confirmation found; unchanged",
+      "verification": "Existing source note and navigation/review context only; raw PDF not reread, DOI taken from saved note"
+    }
+  ],
+  "navigation": [
+    {
+      "path": "/mnt/d/works/papers/AGENTS.md",
+      "sha256": "c94c58f3cb22f6612f4a22aa8961df21f782bb7289796302c93c63141b743b60",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/index.md",
+      "sha256": "ea78f90f874808359846f3b3a248f445ebd5512cdcdf30ea5980b26f188fb1cc",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/vocabulary.json",
+      "sha256": "a0fbbabbd660d741e8d61da883583dcf62b94c5d54511e85879e4d336b64edae",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/topic-index.md",
+      "sha256": "0e6be560a2168a03a2455a0a5a3548c7ec8a950a13ea5ccbf361744904153c04",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/review-index.md",
+      "sha256": "05c87c1a6edf8db398997c5364c5b8a794141c85f143a5ace9032247a4c6f152",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/global-review.md",
+      "sha256": "620d2b396e91d7a538e0de48b1a2e7243ad49000f45f57be80f79e91db958ce5",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/methods/数字脉冲处理与堆积恢复.md",
+      "sha256": "68de97cc2d51101631c81cc8e98918e186cd2319086a8439e865caf2787a203d",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/methods/脉冲形状甄别与粒子鉴别.md",
+      "sha256": "bdfcd1be6d483c9aaf7959ae4a3aef20285a7c269b3f9f595875143e4de13f60",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    },
+    {
+      "path": "/mnt/d/works/papers/concepts/闪烁体的光产额与能量分辨率.md",
+      "sha256": "8bf4f0780371a33d520a35105fc5dda340387448c8eeac54749891de24f20d33",
+      "scope": "Navigation or task-relevant entries; global-review item658 does not approve Fixsen or Zhang"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "passed": false,
+  "failures": [
+    "short strict-pair gain <10pp",
+    "short pooled weak RMSEratio >0.95",
+    "8ns mean weak bias outside10percent",
+    "40ns mean weak bias outside10percent"
+  ],
+  "default_changed": false,
+  "next": "Stop expansion;retain these energy failures and diagnose on development data without retuning on the pilot"
+}

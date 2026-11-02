@@ -1,0 +1,5 @@
+{
+  "command": "python3 -B -m unittest pileup.analysis.test_alpha_current_energy_diagnosis -v",
+  "passed": 3,
+  "exit_code": 0
+}

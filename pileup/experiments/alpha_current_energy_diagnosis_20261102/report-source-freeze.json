@@ -1,0 +1,10 @@
+{
+  "pileup/analysis/alpha_current_energy_diagnosis_report.py": "e63b3cac29b32a8bb069462f951975129cd9f3e76a9b9d9869fcb8a5f90a352e",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_current_energy_diagnosis_report.py": "e63b3cac29b32a8bb069462f951975129cd9f3e76a9b9d9869fcb8a5f90a352e",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/report.py": "a970588958efa6d30bf9493004e537342d5a14d289376b52ac4c98401e5544dc",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/validate.py": "5129d3131602c8cded460033a13d364ca82684731dccb16415f05068d684d5d7",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/reproduce.py": "023d9f65b1134c36b74c1d921c5438862b6f1b9305cea060c59ab22bd85a633e",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/unit-tests.json": "df778c11a934d1de54fb9142c23a0edca85343c231253144c7a1f1a8716c825e",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/reproduction-check.json": "df71f28d39cdbe271840fe0e295ad7b0843003efc86102428132ef6e0c87bdff",
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/validation-attempts.json": "6f4722ce516b2cb0a8b1bdf26928808529c37c65bb0e27396339d2d72fdf4099"
+}

@@ -1,0 +1,5 @@
+{
+  "first_attempt": "Interrupted own read-only verifier after no output for about3minutes;exit130",
+  "cause": "Not established;serial BLAS and existing project MemmapSource/TrivialExecutor reader used for final verification",
+  "numerical_results_changed": false
+}

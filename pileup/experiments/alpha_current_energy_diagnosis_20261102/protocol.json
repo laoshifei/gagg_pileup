@@ -1,0 +1,32 @@
+{
+  "created_utc": "2026-11-02T12:47:03.646256+00:00",
+  "base_commit": "bb130af6e4161ec5b6c1fc91857835c12255288a",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_current_energy_diagnosis.py\n?? pileup/analysis/alpha_current_energy_diagnosis_study.py\n?? pileup/analysis/test_alpha_current_energy_diagnosis.py\n?? pileup/experiments/alpha_current_energy_diagnosis_20261102/\n",
+  "purpose": "Post-hoc truth-assisted diagnosis of exposed L98 failures, not inference or independent confirmation",
+  "sample": "All40L98 pair cases:8disjoint mother pairs,5conditions,phase0;all8saved repetitions;no reserved mothers opened",
+  "methods": "Frozen old and corrected L93 means;unchanged physical parameters,weights construction,energy bounds and original112fits",
+  "decomposition": "y-background-mu(trueE)=strong isolated residual+weak isolated residual+shared-minus-isolated discrepancy+background/readout residual",
+  "stochastic_scope": "Isolated and shared arrays come from separate digitizations with different random consumption;difference is not a noiseless causal interaction effect. Keep all cross covariances.",
+  "metrics": "Individualrepeat0 and8repeatmean each have voltage-derived common metric,identical for2models;mean metric not separately calibrated. Reuse and hash-check L98 metric for112available referencefits.",
+  "local": "TrueE Jacobian columns dmu/dlnE;SVD projection attrueE in inherited whitening;unit100delta_lnE,not percent energy error. Large shifts and boundaries invalidate local extrapolation.",
+  "repeated": "For each observation metric,project all8saved repetitions with that one fixed metric;mean MC SE uses full4term covariance/8. Not total population or energy uncertainty.",
+  "scope_counts": {
+    "unique_cases": 40,
+    "models": 2,
+    "observation_metrics": 2,
+    "projection_rows": 160,
+    "reference_fits": 112,
+    "new_fits": 0,
+    "new_ROOTs": 0,
+    "new_digitizations": 0,
+    "new_training": 0
+  },
+  "numerical": "SVD/orthogonal weak projection identity;residual and covariance closure;first2fixedcases finite-difference gradient relative<3e-4;model identity<1e-8;reference cost relative<1e-8",
+  "cost": "First fixed case used for numerical/cost preflight and retained;project40cases at8workers with1.5factor,limit600s;no efficacy selection",
+  "uncertainty": "10000whole-mother bootstrap draws,seed742100000,common across conditions/methods/terms;only8clusters,descriptive conditional intervals;no parameter fitting or selection",
+  "replay": "Repeat first2fixed cases into separate outputs;all numerical rows equal except timing",
+  "decision": "Describe failure sources and local conditioning;no advancement gate,no parameter tuning,default replacement or new mother generation",
+  "literature": "Reuse L98 saved Fixsen2004/Zhang2024 evidence and review boundaries;residual partition/SVD are project derivations,not claimed paper results;no new library/PDF/web review",
+  "workers": 8,
+  "BLAS_threads": 1
+}

@@ -1,0 +1,78 @@
+{
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/test_alpha_current_energy_diagnosis.py": {
+    "source": "pileup/analysis/test_alpha_current_energy_diagnosis.py",
+    "sha256": "95c9323178716897e24b04bcd4d063a8c5ff1e31d1b7789dbd72b45dc50cbdd8"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_current_energy_diagnosis.py": {
+    "source": "pileup/analysis/alpha_current_energy_diagnosis.py",
+    "sha256": "3c18d292395fc863decc81fee14c5ffcab4ad3458cbbba9e3000cb5f11f298c1"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_current_energy_diagnosis_study.py": {
+    "source": "pileup/analysis/alpha_current_energy_diagnosis_study.py",
+    "sha256": "21bf78726329d4d364eef8e031673d190f61f7b2a36941e3fe02b69c30c3f332"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_spatial_energy.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_spatial_energy.py",
+    "sha256": "851665ffef5744f8538edf2fcf476deb0bfded55a4d8513a6ecf4f98fd0f664e"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_energy_calibrated.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_energy_calibrated.py",
+    "sha256": "6920d06e0eeebcfa7d71181fb0ccd279601ab116e6f4108151f762a14bf46c38"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_energy_oracle.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_energy_oracle.py",
+    "sha256": "9bbe5f9813c6400b41ef7e56feeb21fae7488b8d6b02f7bf39c27f975996e85d"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_energy_noise.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_energy_noise.py",
+    "sha256": "9787a4950839b01de6c06ec538f6780e869d45f8b1fe42fe9bf84802a19528a9"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_model_sampler.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_model_sampler.py",
+    "sha256": "91029c428d1a30338cff425ee67b7fac8de4246bd932c86619f4fe45052cf61a"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_energy_covariance.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_energy_covariance.py",
+    "sha256": "5d23740aea10096038810253b31a0a8307fe6e32b1fa8eaa013b5e7e38de4b32"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_recovery_energy.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_recovery_energy.py",
+    "sha256": "10b7e574283066324a72d70ee74ffde3f2f880677005e53fa2ddfb3e3943f356"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_mean_shape_study.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_mean_shape_study.py",
+    "sha256": "49c634408264c8aa2ef5e2aefb692f82fbc2ccf52d2c2d6bfc3b073dd1a124e7"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/sipm_readout.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/sipm_readout.py",
+    "sha256": "aa19a0be943719ad2a6a9464359b4f217e49bb1cd0aa1335ce2b09ef9c096d5b"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/sipm_response.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/sipm_response.py",
+    "sha256": "93256cccb0ac32ed44c9763cd8e18aeb5e939a941a14ce70c29c806c469fc888"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_spatial_recovery.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_spatial_recovery.py",
+    "sha256": "7db31e4865a3617449797583b01038d4ac603ac024c2af7346c9a119902faf0e"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_causal_recovery.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_causal_recovery.py",
+    "sha256": "7a5aab97527d7493d22a5c318dfce512c1648972eaf2ede4de73f3f7169cdb91"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_recovery_forward.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_recovery_forward.py",
+    "sha256": "762b327c8095f4bbf3fc2a0e0a0658b132b5c9c8f1d8fd3aef8829daa383857f"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_deconvolution.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_deconvolution.py",
+    "sha256": "4b0990decc29c9d556c2b0900d3d504511afbe111a801a48ff52aad8a9469150"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_pair_digitizer_optimized.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_pair_digitizer_optimized.py",
+    "sha256": "ae649bc04cd974969b25fd6ddefde172bcb59c121229c04d9cfdc5c559dc6bc5"
+  },
+  "pileup/experiments/alpha_current_energy_diagnosis_20261102/source/pileup/analysis/alpha_mean_shape_correction.py": {
+    "source": "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_mean_shape_correction.py",
+    "sha256": "46243bddf2430099eb987cd1ec7daa049d077249bc0960a76dc875f4854857a7"
+  }
+}

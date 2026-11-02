@@ -1,0 +1,1120 @@
+{
+  "groups": [
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "kind": "individual",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        79.66503635369985,
+        -4.373839699403893,
+        -2.0933846456359166,
+        1.128173669137404
+      ],
+      "weak_terms_ci95": [
+        [
+          -29.48208560780905,
+          185.28667899631705
+        ],
+        [
+          -14.70749105579989,
+          7.0113375247688685
+        ],
+        [
+          -40.92973188795206,
+          36.185404671634636
+        ],
+        [
+          -1.7857412759694011,
+          4.2565741945195485
+        ]
+      ],
+      "weak_projection_mean": 74.32598567779743,
+      "weak_projection_ci95": [
+        -56.1040738403378,
+        199.051285467921
+      ],
+      "median_cosine": 0.9683691043508456,
+      "median_normalized_condition": 7.888556471181668,
+      "median_weak_retained_fraction": 0.24952209602029007,
+      "residual_rms_mV": 5.632751021513384,
+      "term_rms_mV": [
+        5.680067793041713,
+        1.1721393898822174,
+        5.160923375627589,
+        0.1460940610466458
+      ],
+      "median_mean_mc_se": 46.82560286803116,
+      "mean_repeat_total_variance": 14462.220874101095,
+      "mean_repeat_diagonal_variance": 14954.107259824488,
+      "mean_repeat_cross_variance": -491.8863857233948,
+      "reference_available": true,
+      "weak_fitted_log_mean": 43.95529402235695,
+      "linear_minus_fit_rmse": 100.23830237091575,
+      "fit_better_than_truth": 8,
+      "boundary": 2,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "kind": "individual",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        65.28057990509704,
+        -5.932574958588787,
+        -4.80629766366879,
+        1.24074211128193
+      ],
+      "weak_terms_ci95": [
+        [
+          -46.88528174179027,
+          173.06500875664693
+        ],
+        [
+          -16.02691435934957,
+          5.25186751521609
+        ],
+        [
+          -47.52975676168328,
+          40.89209231735841
+        ],
+        [
+          -1.5627524753783475,
+          4.2604379894617495
+        ]
+      ],
+      "weak_projection_mean": 55.7824493941214,
+      "weak_projection_ci95": [
+        -78.2267714523969,
+        185.196337078298
+      ],
+      "median_cosine": 0.9680502553578982,
+      "median_normalized_condition": 7.850304948259087,
+      "median_weak_retained_fraction": 0.25073618104358975,
+      "residual_rms_mV": 5.597185590115574,
+      "term_rms_mV": [
+        5.637609395232528,
+        1.1705076477587912,
+        5.160923375627589,
+        0.1460940610466458
+      ],
+      "median_mean_mc_se": 44.846477318960794,
+      "mean_repeat_total_variance": 13960.322388229572,
+      "mean_repeat_diagonal_variance": 15215.975380052669,
+      "mean_repeat_cross_variance": -1255.6529918230985,
+      "reference_available": true,
+      "weak_fitted_log_mean": 42.93557417967634,
+      "linear_minus_fit_rmse": 102.37624123974868,
+      "fit_better_than_truth": 8,
+      "boundary": 2,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "kind": "mean",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        75.97971374495985,
+        -3.8686224376925207,
+        6.351175313837129,
+        0.1783388348944649
+      ],
+      "weak_terms_ci95": [
+        [
+          18.364343241281514,
+          125.18525515784512
+        ],
+        [
+          -7.936862789875252,
+          1.5622977190986944
+        ],
+        [
+          1.0898392042059841,
+          11.144602897507703
+        ],
+        [
+          -0.6384747753951162,
+          0.9859109999290236
+        ]
+      ],
+      "weak_projection_mean": 78.64060545599891,
+      "weak_projection_ci95": [
+        20.78099677107343,
+        127.93289956517475
+      ],
+      "median_cosine": 0.9683479133788904,
+      "median_normalized_condition": 7.885872737655738,
+      "median_weak_retained_fraction": 0.24960432324262727,
+      "residual_rms_mV": 3.480965585577886,
+      "term_rms_mV": [
+        3.6165028750788055,
+        0.8300614885180967,
+        1.8837521048773578,
+        0.0471493127912012
+      ],
+      "median_mean_mc_se": 46.834726966783435,
+      "mean_repeat_total_variance": 14464.984610167961,
+      "mean_repeat_diagonal_variance": 14955.245094723357,
+      "mean_repeat_cross_variance": -490.26048455539467,
+      "reference_available": true,
+      "weak_fitted_log_mean": 53.966405300881135,
+      "linear_minus_fit_rmse": 35.357751313188025,
+      "fit_better_than_truth": 8,
+      "boundary": 1,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "kind": "mean",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        57.432001696602946,
+        -4.924992302321496,
+        11.696757509061303,
+        0.1845805653997123
+      ],
+      "weak_terms_ci95": [
+        [
+          0.23772018191628888,
+          104.62882469301844
+        ],
+        [
+          -9.540919259097667,
+          0.15615268313447025
+        ],
+        [
+          3.971849445925222,
+          19.608417029226622
+        ],
+        [
+          -0.608238337109803,
+          0.9668562016812032
+        ]
+      ],
+      "weak_projection_mean": 64.38834746874247,
+      "weak_projection_ci95": [
+        4.558726667416476,
+        114.03602822803597
+      ],
+      "median_cosine": 0.9680208365211065,
+      "median_normalized_condition": 7.846661421360793,
+      "median_weak_retained_fraction": 0.25084942394498844,
+      "residual_rms_mV": 3.404274219458507,
+      "term_rms_mV": [
+        3.51719395084704,
+        0.8224936450173819,
+        1.8837521048773578,
+        0.0471493127912012
+      ],
+      "median_mean_mc_se": 44.85529063126019,
+      "mean_repeat_total_variance": 13963.537851738307,
+      "mean_repeat_diagonal_variance": 15217.871899521668,
+      "mean_repeat_cross_variance": -1254.3340477833594,
+      "reference_available": true,
+      "weak_fitted_log_mean": 54.64151232528981,
+      "linear_minus_fit_rmse": 31.18265379815244,
+      "fit_better_than_truth": 8,
+      "boundary": 1,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "kind": "individual",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        3.585554029492777,
+        1.1423107657258795,
+        -8.391166300075142,
+        0.5072711589126253
+      ],
+      "weak_terms_ci95": [
+        [
+          -15.534285401189681,
+          20.041348531878597
+        ],
+        [
+          -6.629036924593656,
+          8.325509098003172
+        ],
+        [
+          -24.318559814562573,
+          6.430959978270579
+        ],
+        [
+          -0.8500213079486884,
+          1.9263245853035174
+        ]
+      ],
+      "weak_projection_mean": -3.1560303459438597,
+      "weak_projection_ci95": [
+        -18.69959607804853,
+        10.606112132132557
+      ],
+      "median_cosine": 0.9036505334596372,
+      "median_normalized_condition": 4.4449713053642785,
+      "median_weak_retained_fraction": 0.4282706053689201,
+      "residual_rms_mV": 5.703308406760397,
+      "term_rms_mV": [
+        5.680067793041713,
+        1.1716982537934577,
+        5.103587979349014,
+        0.14247829417731478
+      ],
+      "median_mean_mc_se": 16.134297406599487,
+      "mean_repeat_total_variance": 2693.953972223435,
+      "mean_repeat_diagonal_variance": 3166.0384915275718,
+      "mean_repeat_cross_variance": -472.0845193041371,
+      "reference_available": true,
+      "weak_fitted_log_mean": -5.1822477408818,
+      "linear_minus_fit_rmse": 4.410805308943309,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "kind": "individual",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        -1.0030234737216377,
+        0.18695293433283544,
+        -8.540934590242928,
+        0.5555775105743985
+      ],
+      "weak_terms_ci95": [
+        [
+          -20.908051723157406,
+          15.360956523434155
+        ],
+        [
+          -7.8367160416408765,
+          7.6237996614307395
+        ],
+        [
+          -25.77275067284633,
+          7.885020292785874
+        ],
+        [
+          -0.6641860826431603,
+          1.8120591304556977
+        ]
+      ],
+      "weak_projection_mean": -8.80142761905733,
+      "weak_projection_ci95": [
+        -22.0321789706226,
+        4.030126913035051
+      ],
+      "median_cosine": 0.9033156891713002,
+      "median_normalized_condition": 4.437073329575185,
+      "median_weak_retained_fraction": 0.4289696608955154,
+      "residual_rms_mV": 5.641682727113895,
+      "term_rms_mV": [
+        5.637609395232528,
+        1.170128857472715,
+        5.103587979349014,
+        0.14247829417731478
+      ],
+      "median_mean_mc_se": 16.48601209887036,
+      "mean_repeat_total_variance": 2720.510076134147,
+      "mean_repeat_diagonal_variance": 3160.0164689176454,
+      "mean_repeat_cross_variance": -439.5063927834983,
+      "reference_available": true,
+      "weak_fitted_log_mean": -8.838356007231466,
+      "linear_minus_fit_rmse": 6.14673108390564,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "kind": "mean",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        23.738146747522215,
+        1.3009891516755547,
+        -3.544601745644023,
+        -0.10355445418835686
+      ],
+      "weak_terms_ci95": [
+        [
+          -2.5664654243969105,
+          50.09483794388741
+        ],
+        [
+          -2.194639387533486,
+          5.285912808024261
+        ],
+        [
+          -10.043088659743688,
+          3.3566138645309618
+        ],
+        [
+          -0.28380866049360426,
+          0.09096031614645354
+        ]
+      ],
+      "weak_projection_mean": 21.390979699365392,
+      "weak_projection_ci95": [
+        -1.1189053106449531,
+        44.3386074448095
+      ],
+      "median_cosine": 0.9036682178876206,
+      "median_normalized_condition": 4.445399904482745,
+      "median_weak_retained_fraction": 0.42823329030181256,
+      "residual_rms_mV": 3.6328468398504383,
+      "term_rms_mV": [
+        3.6165028750788055,
+        0.8291496059604324,
+        1.8452780182856419,
+        0.045972140962700435
+      ],
+      "median_mean_mc_se": 16.127406021541336,
+      "mean_repeat_total_variance": 2692.1993314410656,
+      "mean_repeat_diagonal_variance": 3164.4395433708255,
+      "mean_repeat_cross_variance": -472.24021192975977,
+      "reference_available": true,
+      "weak_fitted_log_mean": 16.814879629536726,
+      "linear_minus_fit_rmse": 6.738489143814373,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "kind": "mean",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        17.658221531753465,
+        0.3952147129879492,
+        -2.1275180765036468,
+        -0.13127818279019016
+      ],
+      "weak_terms_ci95": [
+        [
+          -8.517614964758822,
+          42.85851872752338
+        ],
+        [
+          -3.0386219870833853,
+          4.376198494380555
+        ],
+        [
+          -8.865036466702533,
+          5.586737068802588
+        ],
+        [
+          -0.31450185473586184,
+          0.06597320098128369
+        ]
+      ],
+      "weak_projection_mean": 15.794639985447578,
+      "weak_projection_ci95": [
+        -5.856498767018671,
+        36.89692779952989
+      ],
+      "median_cosine": 0.9031600620489681,
+      "median_normalized_condition": 4.433266341303009,
+      "median_weak_retained_fraction": 0.4292992482572934,
+      "residual_rms_mV": 3.556377308329122,
+      "term_rms_mV": [
+        3.51719395084704,
+        0.8216958906119619,
+        1.8452780182856419,
+        0.045972140962700435
+      ],
+      "median_mean_mc_se": 16.490029254425515,
+      "mean_repeat_total_variance": 2718.8954774358513,
+      "mean_repeat_diagonal_variance": 3158.363662463911,
+      "mean_repeat_cross_variance": -439.46818502806,
+      "reference_available": true,
+      "weak_fitted_log_mean": 14.13508467584375,
+      "linear_minus_fit_rmse": 4.0502770741947,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "kind": "individual",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        19.667998330720007,
+        1.3484590316651441,
+        6.649690458779931,
+        0.2227014455063701
+      ],
+      "weak_terms_ci95": [
+        [
+          -1.4485256947301202,
+          36.99538665937738
+        ],
+        [
+          -5.028029361907533,
+          7.006772588609724
+        ],
+        [
+          -2.0023873427808576,
+          14.222953032969938
+        ],
+        [
+          -0.1431256449212134,
+          0.6348709029266058
+        ]
+      ],
+      "weak_projection_mean": 27.888849266671457,
+      "weak_projection_ci95": [
+        9.24756764239096,
+        44.2312012917123
+      ],
+      "median_cosine": 0.7012370648401951,
+      "median_normalized_condition": 2.386267132526348,
+      "median_weak_retained_fraction": 0.7129281722147837,
+      "residual_rms_mV": 5.754804954981898,
+      "term_rms_mV": [
+        5.680067793041713,
+        1.172186045994359,
+        4.116545811378338,
+        0.1438523703893853
+      ],
+      "median_mean_mc_se": 8.191364381678603,
+      "mean_repeat_total_variance": 556.1252408942557,
+      "mean_repeat_diagonal_variance": 607.1264081037328,
+      "mean_repeat_cross_variance": -51.00116720947713,
+      "reference_available": true,
+      "weak_fitted_log_mean": 23.541969292074455,
+      "linear_minus_fit_rmse": 5.542378201443461,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "kind": "individual",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        12.988866855182513,
+        0.9637001534874665,
+        6.4801804968169145,
+        0.22650896961083544
+      ],
+      "weak_terms_ci95": [
+        [
+          -7.818170584553075,
+          29.673549267795746
+        ],
+        [
+          -5.512864946345169,
+          6.712407440776004
+        ],
+        [
+          -2.1534203027567487,
+          13.949254968595223
+        ],
+        [
+          -0.14958790872316957,
+          0.6491266454920275
+        ]
+      ],
+      "weak_projection_mean": 20.65925647509773,
+      "weak_projection_ci95": [
+        2.542139553321956,
+        36.45682229724602
+      ],
+      "median_cosine": 0.7000980817286376,
+      "median_normalized_condition": 2.380937407738171,
+      "median_weak_retained_fraction": 0.7140462713808495,
+      "residual_rms_mV": 5.699232926486962,
+      "term_rms_mV": [
+        5.637609395232528,
+        1.1707163931066356,
+        4.116545811378338,
+        0.1438523703893853
+      ],
+      "median_mean_mc_se": 8.196734601849531,
+      "mean_repeat_total_variance": 553.8445497050475,
+      "mean_repeat_diagonal_variance": 612.1444333770103,
+      "mean_repeat_cross_variance": -58.299883671962746,
+      "reference_available": true,
+      "weak_fitted_log_mean": 17.48425439419632,
+      "linear_minus_fit_rmse": 3.8105910719707814,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "kind": "mean",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        10.961392521626209,
+        2.1262766430216744,
+        1.2938520574265295,
+        0.02829132901643376
+      ],
+      "weak_terms_ci95": [
+        [
+          -3.599019615914065,
+          25.927690206963902
+        ],
+        [
+          -0.7519659079886667,
+          5.113788316208769
+        ],
+        [
+          -2.2366526904539454,
+          4.101444650315325
+        ],
+        [
+          -0.059561732914336044,
+          0.11399509842025557
+        ]
+      ],
+      "weak_projection_mean": 14.409812551090846,
+      "weak_projection_ci95": [
+        1.2672051757972167,
+        27.17891709828185
+      ],
+      "median_cosine": 0.7019629068402853,
+      "median_normalized_condition": 2.3896815138610545,
+      "median_weak_retained_fraction": 0.7122134112959106,
+      "residual_rms_mV": 3.6180038466668116,
+      "term_rms_mV": [
+        3.6165028750788055,
+        0.8274309041884663,
+        1.4637855076395618,
+        0.045943767890234515
+      ],
+      "median_mean_mc_se": 8.185999109676938,
+      "mean_repeat_total_variance": 556.0189820545984,
+      "mean_repeat_diagonal_variance": 606.9789902052627,
+      "mean_repeat_cross_variance": -50.96000815066424,
+      "reference_available": false
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "kind": "mean",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        4.157516309831303,
+        1.7285984492716988,
+        1.1447034753020662,
+        0.04126996531030652
+      ],
+      "weak_terms_ci95": [
+        [
+          -10.115629125640574,
+          18.857931314229837
+        ],
+        [
+          -1.1175798048794126,
+          4.7371148057708075
+        ],
+        [
+          -2.5427331698399573,
+          4.08775786231587
+        ],
+        [
+          -0.04587810245267409,
+          0.12640122188056205
+        ]
+      ],
+      "weak_projection_mean": 7.072088199715375,
+      "weak_projection_ci95": [
+        -5.5005978205084665,
+        19.388675271689078
+      ],
+      "median_cosine": 0.7008666561209129,
+      "median_normalized_condition": 2.3845303225437906,
+      "median_weak_retained_fraction": 0.7132922295861968,
+      "residual_rms_mV": 3.5373269215296683,
+      "term_rms_mV": [
+        3.51719395084704,
+        0.8200392782741042,
+        1.4637855076395618,
+        0.045943767890234515
+      ],
+      "median_mean_mc_se": 8.191375944698526,
+      "mean_repeat_total_variance": 553.7628266559307,
+      "mean_repeat_diagonal_variance": 612.0410832498342,
+      "mean_repeat_cross_variance": -58.27825659390361,
+      "reference_available": false
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "kind": "individual",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        2.754634710922029,
+        0.5000137731456176,
+        0.5642469909512525,
+        0.04921609375126131
+      ],
+      "weak_terms_ci95": [
+        [
+          -0.912848463011855,
+          6.255642567224989
+        ],
+        [
+          -4.768188863983278,
+          5.005005294352272
+        ],
+        [
+          -3.754208777807258,
+          5.550852630900886
+        ],
+        [
+          -0.20639482426407654,
+          0.33436211048928993
+        ]
+      ],
+      "weak_projection_mean": 3.8681115687701615,
+      "weak_projection_ci95": [
+        -3.963132030570723,
+        12.26722220164984
+      ],
+      "median_cosine": 0.09717958720212791,
+      "median_normalized_condition": 1.1023974067227291,
+      "median_weak_retained_fraction": 0.995266846558859,
+      "residual_rms_mV": 5.82888179524722,
+      "term_rms_mV": [
+        5.680067793041713,
+        1.1071687168208901,
+        1.6644380214556866,
+        0.1372590689526632
+      ],
+      "median_mean_mc_se": 2.2481410867500182,
+      "mean_repeat_total_variance": 40.4168368736871,
+      "mean_repeat_diagonal_variance": 97.29673866326326,
+      "mean_repeat_cross_variance": -56.87990178957616,
+      "reference_available": true,
+      "weak_fitted_log_mean": 3.3815554810537685,
+      "linear_minus_fit_rmse": 0.8867077508483125,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "kind": "individual",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        2.782574604407719,
+        0.20625978529674138,
+        0.7599235290094337,
+        0.045168764680411345
+      ],
+      "weak_terms_ci95": [
+        [
+          -0.8630960422605709,
+          6.255973843831065
+        ],
+        [
+          -5.060829254563565,
+          4.717306156565364
+        ],
+        [
+          -3.5878989858262353,
+          5.780230304559026
+        ],
+        [
+          -0.20561380127416187,
+          0.32687430914849996
+        ]
+      ],
+      "weak_projection_mean": 3.7939266833943046,
+      "weak_projection_ci95": [
+        -4.003555932054776,
+        12.244060864396378
+      ],
+      "median_cosine": 0.09703965326914282,
+      "median_normalized_condition": 1.10224166665126,
+      "median_weak_retained_fraction": 0.9952805148948345,
+      "residual_rms_mV": 5.785069080724422,
+      "term_rms_mV": [
+        5.637609395232528,
+        1.1041758569157372,
+        1.6644380214556866,
+        0.1372590689526632
+      ],
+      "median_mean_mc_se": 2.227159970073174,
+      "mean_repeat_total_variance": 40.18182993435525,
+      "mean_repeat_diagonal_variance": 96.516936240141,
+      "mean_repeat_cross_variance": -56.33510630578576,
+      "reference_available": true,
+      "weak_fitted_log_mean": 3.3252041418858207,
+      "linear_minus_fit_rmse": 0.8671298637720284,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "kind": "mean",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        1.0592714497666815,
+        1.5808609821508606,
+        1.698078203320905,
+        -0.02590318062202716
+      ],
+      "weak_terms_ci95": [
+        [
+          -0.6772618750355845,
+          2.37844555932237
+        ],
+        [
+          -1.0347361838210456,
+          4.397706631166625
+        ],
+        [
+          0.5144911695627157,
+          2.83184188803495
+        ],
+        [
+          -0.11185745833939685,
+          0.059460562516978364
+        ]
+      ],
+      "weak_projection_mean": 4.312307454616421,
+      "weak_projection_ci95": [
+        0.16215921653940712,
+        8.45495862318904
+      ],
+      "median_cosine": 0.09773506309962839,
+      "median_normalized_condition": 1.1030161756584964,
+      "median_weak_retained_fraction": 0.9952121743486362,
+      "residual_rms_mV": 3.711183727910951,
+      "term_rms_mV": [
+        3.6165028750788055,
+        0.7818756465537814,
+        0.5939641080389476,
+        0.04622978818021145
+      ],
+      "median_mean_mc_se": 2.2464659800568136,
+      "mean_repeat_total_variance": 40.43335895273061,
+      "mean_repeat_diagonal_variance": 97.22868068750405,
+      "mean_repeat_cross_variance": -56.795321734773445,
+      "reference_available": false
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "kind": "mean",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        1.1285021980902823,
+        1.3241493782263927,
+        1.7100007431792223,
+        -0.024615624422893757
+      ],
+      "weak_terms_ci95": [
+        [
+          -0.6277280999665038,
+          2.4561365107252153
+        ],
+        [
+          -1.323007601927992,
+          4.178612049696766
+        ],
+        [
+          0.5176456599346588,
+          2.8560439720407684
+        ],
+        [
+          -0.11051176071646023,
+          0.05972258291083945
+        ]
+      ],
+      "weak_projection_mean": 4.138036695073004,
+      "weak_projection_ci95": [
+        -0.08598037337544362,
+        8.336278569276393
+      ],
+      "median_cosine": 0.09725618557060167,
+      "median_normalized_condition": 1.1024826939978087,
+      "median_weak_retained_fraction": 0.9952593368522942,
+      "residual_rms_mV": 3.612974441101053,
+      "term_rms_mV": [
+        3.51719395084704,
+        0.771767260410215,
+        0.5939641080389476,
+        0.04622978818021145
+      ],
+      "median_mean_mc_se": 2.2254570245012384,
+      "mean_repeat_total_variance": 40.19768075906715,
+      "mean_repeat_diagonal_variance": 96.4529333442769,
+      "mean_repeat_cross_variance": -56.25525258520975,
+      "reference_available": false
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "kind": "individual",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        0.8625936622157051,
+        4.135748996592019,
+        -0.4665393861882713,
+        0.0721285501213394
+      ],
+      "weak_terms_ci95": [
+        [
+          0.2761679173087944,
+          1.5648848030684694
+        ],
+        [
+          -3.2318096722616656,
+          10.9545196536221
+        ],
+        [
+          -0.8826306754156212,
+          -0.11295737995573754
+        ],
+        [
+          -0.5512844167113602,
+          0.644924507411795
+        ]
+      ],
+      "weak_projection_mean": 4.603931822740793,
+      "weak_projection_ci95": [
+        -3.2739924341664057,
+        11.69740938563735
+      ],
+      "median_cosine": 0.3547258762565497,
+      "median_normalized_condition": 1.4489508410208396,
+      "median_weak_retained_fraction": 0.9349702691854156,
+      "residual_rms_mV": 5.900868116448983,
+      "term_rms_mV": [
+        5.732514274307483,
+        1.1721862364659907,
+        5.295831226633622,
+        0.1426962055612355
+      ],
+      "median_mean_mc_se": 3.3449423619505367,
+      "mean_repeat_total_variance": 99.66415366565508,
+      "mean_repeat_diagonal_variance": 98.5522914223805,
+      "mean_repeat_cross_variance": 1.1118622432745595,
+      "reference_available": true,
+      "weak_fitted_log_mean": 4.128277299500028,
+      "linear_minus_fit_rmse": 0.6668075697082684,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "kind": "individual",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        0.6140595280138659,
+        3.7514842068713454,
+        -0.5351520477306653,
+        0.06514672370954228
+      ],
+      "weak_terms_ci95": [
+        [
+          0.011446670228905232,
+          1.3164562186598874
+        ],
+        [
+          -3.6495190199001257,
+          10.653670907649563
+        ],
+        [
+          -1.1013475378771633,
+          -0.08075289960616758
+        ],
+        [
+          -0.5528063786110052,
+          0.6320216961430098
+        ]
+      ],
+      "weak_projection_mean": 3.8955384108640883,
+      "weak_projection_ci95": [
+        -4.0257828276797065,
+        11.004570247660343
+      ],
+      "median_cosine": 0.35505070085392143,
+      "median_normalized_condition": 1.4494971518932327,
+      "median_weak_retained_fraction": 0.9348440487481693,
+      "residual_rms_mV": 5.869709878291328,
+      "term_rms_mV": [
+        5.689910773680527,
+        1.1705545596462668,
+        5.295831226633622,
+        0.1426962055612355
+      ],
+      "median_mean_mc_se": 3.358021328280805,
+      "mean_repeat_total_variance": 100.5515916015475,
+      "mean_repeat_diagonal_variance": 99.49622074744686,
+      "mean_repeat_cross_variance": 1.0553708541006284,
+      "reference_available": true,
+      "weak_fitted_log_mean": 3.5624061662054407,
+      "linear_minus_fit_rmse": 0.6542204545090277,
+      "fit_better_than_truth": 8,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "kind": "mean",
+      "method": "old",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        0.7352155944225804,
+        3.2892963394505093,
+        0.03756286380160588,
+        0.026847342643530954
+      ],
+      "weak_terms_ci95": [
+        [
+          0.08260466930188867,
+          1.4285439780132685
+        ],
+        [
+          -1.091898640895223,
+          7.9691575099016045
+        ],
+        [
+          -0.33197728346691924,
+          0.46434819525227966
+        ],
+        [
+          -0.07734971539797762,
+          0.1378364025625018
+        ]
+      ],
+      "weak_projection_mean": 4.0889221403182265,
+      "weak_projection_ci95": [
+        -0.2811457071442384,
+        8.947554082877101
+      ],
+      "median_cosine": 0.346738272084431,
+      "median_normalized_condition": 1.4358262933596637,
+      "median_weak_retained_fraction": 0.9379569392297806,
+      "residual_rms_mV": 3.579658380770679,
+      "term_rms_mV": [
+        3.6244395656546127,
+        0.8294023306388866,
+        1.883355030624332,
+        0.046800519484820634
+      ],
+      "median_mean_mc_se": 3.3470278084747846,
+      "mean_repeat_total_variance": 99.76787579995758,
+      "mean_repeat_diagonal_variance": 98.40607749932117,
+      "mean_repeat_cross_variance": 1.3617983006364023,
+      "reference_available": false
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "kind": "mean",
+      "method": "corrected",
+      "mother_pairs": 8,
+      "weak_terms_mean": [
+        0.48983644192878606,
+        2.875905313831061,
+        0.057092511446465356,
+        0.02626915449988107
+      ],
+      "weak_terms_ci95": [
+        [
+          -0.19173550190415956,
+          1.2110305488886794
+        ],
+        [
+          -1.5365563241727453,
+          7.5889407757772105
+        ],
+        [
+          -0.3116576053809315,
+          0.4690221187077198
+        ],
+        [
+          -0.08007657379915252,
+          0.13911466644585635
+        ]
+      ],
+      "weak_projection_mean": 3.4491034217061936,
+      "weak_projection_ci95": [
+        -0.9844332374937316,
+        8.380466973698786
+      ],
+      "median_cosine": 0.345229868838297,
+      "median_normalized_condition": 1.4333679572958873,
+      "median_weak_retained_fraction": 0.9385132123120087,
+      "residual_rms_mV": 3.517035717483257,
+      "term_rms_mV": [
+        3.5268662334026515,
+        0.8218437816699776,
+        1.883355030624332,
+        0.046800519484820634
+      ],
+      "median_mean_mc_se": 3.3589612965990026,
+      "mean_repeat_total_variance": 100.67564252552387,
+      "mean_repeat_diagonal_variance": 99.35765938854874,
+      "mean_repeat_cross_variance": 1.317983136975121,
+      "reference_available": false
+    }
+  ],
+  "checks": {
+    "max_mean_identity_mV": 4.547473508864641e-13,
+    "max_gradient_relative_error": 7.858255202988524e-06,
+    "max_cost_replay_relative_error": 1.3093377153144446e-14,
+    "max_residual_closure_mV": 1.1368683772161603e-13,
+    "max_projection_closure": 1.4210854715202004e-12
+  },
+  "blocks": [
+    31,
+    12,
+    23,
+    11,
+    26,
+    14,
+    30,
+    27
+  ],
+  "cases": 40,
+  "projection_rows": 160,
+  "reference_fits": 112,
+  "fit_better_than_truth": 112,
+  "new_fits": 0,
+  "new_ROOTs": 0,
+  "new_digitizations": 0,
+  "default_changed": false,
+  "diagnostic_only": true
+}

@@ -1,0 +1,25 @@
+{
+  "frozen_inputs": {
+    "design-freeze.json": 122,
+    "model-freeze.json": 10,
+    "input-freeze.json": 120
+  },
+  "passed": true,
+  "cases": 40,
+  "independent_mother_pairs": 8,
+  "reused_ROOTs": 16,
+  "diagnostic_rows": 160,
+  "reference_cost_checks": 112,
+  "diagnostic_replay_cases": 2,
+  "reproduction_diagnostic_cases": 1,
+  "new_fits": 0,
+  "new_ROOTs": 0,
+  "new_digitizations": 0,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": 240,
+    "Research_Plan_20260921.ipynb": 109,
+    "Run_Catalog.ipynb": 70
+  },
+  "diagnostic_only": true,
+  "default_changed": false
+}
