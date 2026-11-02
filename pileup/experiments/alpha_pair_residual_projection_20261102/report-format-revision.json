@@ -1,0 +1,42 @@
+{
+  "reason": "git diff --cached --check found CRLF CSV line endings. Normalize to LF and make exporter emit LF; parsed cells and numerical results unchanged.",
+  "tables": [
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/fit-by-case.csv",
+      "before_sha256": "d21dfa191cee5ffea2d6b9017f745c4216087865bd36ea3547328fd346276d73",
+      "after_sha256": "c56d06c6551561e92530ef782453ea0883a3a1868768e2efe137c6384dc16f27",
+      "data_identical": true
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/nonlinear-summary.csv",
+      "before_sha256": "ce82b695670797537623f108ee33f722bd2f8e83bffa7df1c92c650bef39bc16",
+      "after_sha256": "aa89e90cab002dfd0125af376ac5600fb55162f1453f98db882bac8da39f45f1",
+      "data_identical": true
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/projection-by-case.csv",
+      "before_sha256": "7eb55b1f95b88d08bf4b99c33fc1b28d6f2afd1dba690fb676449d1615511384",
+      "after_sha256": "4bbdc8363cb9dea35b485c198155d2cf83200f4c9cb6c21845f189c1cce1f282",
+      "data_identical": true
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/projection-by-condition.csv",
+      "before_sha256": "bef178c4c4e52452b44d18b74b430cbec3ef6afc76b425eb5d20affe1afce0db",
+      "after_sha256": "5e646064bd5183a0ab0eba3fb7cd9830c4e25fb51f614b97a7a209677bf7d2d9",
+      "data_identical": true
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/search-comparison.csv",
+      "before_sha256": "a3ae7269c4454fd0dcd676823751fa4443cd350dfd347ccadb24a6dacfd446e2",
+      "after_sha256": "7c98b1cc9135783765b57c598d7081ba84bfd1a6a138740411a8e001f960ea69",
+      "data_identical": true
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_projection_20261102/tables/symmetric-model-change.csv",
+      "before_sha256": "d31214efdffd63c7d152df10d740d91c7dd4f51b5e0c7494a54f287d52b320b4",
+      "after_sha256": "49f3471d89739d0768b09a896b1cc8daeb0da3a8a9025eecdeee5f07c334e268",
+      "data_identical": true
+    }
+  ],
+  "model_or_solver_changed": false
+}

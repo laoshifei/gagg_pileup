@@ -1,0 +1,706 @@
+[
+  {
+    "id": 0,
+    "case": 16,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 1,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 2,
+    "case": 17,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 3,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 4,
+    "case": 18,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 5,
+    "case": 18,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 6,
+    "case": 19,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 7,
+    "case": 19,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 8,
+    "case": 20,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 9,
+    "case": 20,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 10,
+    "case": 21,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 11,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 12,
+    "case": 22,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 13,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 14,
+    "case": 23,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 15,
+    "case": 23,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 16,
+    "case": 24,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 17,
+    "case": 24,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 18,
+    "case": 25,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 19,
+    "case": 25,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 20,
+    "case": 26,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 21,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 22,
+    "case": 27,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 23,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 24,
+    "case": 28,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 25,
+    "case": 28,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 26,
+    "case": 29,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 27,
+    "case": 29,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 28,
+    "case": 30,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 29,
+    "case": 30,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 30,
+    "case": 31,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 31,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 32,
+    "case": 32,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 33,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 34,
+    "case": 33,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 35,
+    "case": 33,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 36,
+    "case": 34,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 37,
+    "case": 34,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 38,
+    "case": 35,
+    "method": "uniform",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 39,
+    "case": 35,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": null,
+    "start": "truth"
+  },
+  {
+    "id": 40,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 41,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 42,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 43,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 44,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 45,
+    "case": 16,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 46,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 47,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 48,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 49,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 50,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 51,
+    "case": 17,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 52,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 53,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 54,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 55,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 56,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 57,
+    "case": 21,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 58,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 59,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 60,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 61,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 62,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 63,
+    "case": 22,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 64,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 65,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 66,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 67,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 68,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 69,
+    "case": 26,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 70,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 71,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 72,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 73,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 74,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 75,
+    "case": 27,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 76,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 77,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 78,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 79,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 80,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 81,
+    "case": 31,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  },
+  {
+    "id": 82,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "diagonal",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 83,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "unit_fir",
+    "delete_term": null,
+    "start": "voltage"
+  },
+  {
+    "id": 84,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "strong_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 85,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "weak_isolated",
+    "start": "truth"
+  },
+  {
+    "id": 86,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "shared_correction",
+    "start": "truth"
+  },
+  {
+    "id": 87,
+    "case": 32,
+    "method": "spatial12",
+    "weight": "full",
+    "delete_term": "dark_electronics",
+    "start": "truth"
+  }
+]

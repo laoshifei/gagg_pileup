@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": {
+    "transform_matrix_error": 8.881784197001252e-16,
+    "synthetic_span_error": 2.0816681711721685e-17,
+    "orthogonal_error": 1.0408340855860843e-16,
+    "constant_bootstrap_error": 0.0
+  }
+}

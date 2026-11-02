@@ -1,0 +1,11 @@
+{
+  "projected_seconds": 503.4864926012598,
+  "limit": 3600,
+  "passed": true,
+  "pilot_ids": [
+    2,
+    3,
+    46,
+    48
+  ]
+}

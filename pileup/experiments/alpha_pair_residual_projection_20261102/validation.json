@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "hash_counts": {
+    "freeze.json": 33,
+    "input-freeze.json": 103,
+    "projection-freeze.json": 40,
+    "report-freeze.json": 3,
+    "report-format-freeze.json": 4,
+    "alpha_pair_spatial_energy_20261102/source_configuration_reports": 58,
+    "alpha_pair_spatial_energy_20261102/local_artifacts": 516,
+    "alpha_pair_spatial_recovery_20261102/source_configuration_reports": 67,
+    "alpha_pair_spatial_recovery_20261102/local_artifacts": 770
+  },
+  "numerical": {
+    "residual_closure_mV": 1.1368683772161603e-13,
+    "old_cost_relative_error": 9.659226624105532e-15,
+    "additivity_error": 2.220446049250313e-15,
+    "profile_error": 6.217248937900877e-15,
+    "small_step_absolute_log_error": 1.8235827094219628e-05,
+    "paired_bootstrap_cancellation_error": 0.0
+  },
+  "formal_fits": 88,
+  "pilot_fits": 4,
+  "replay_fits": 4,
+  "projections": 120,
+  "notebooks": [
+    {
+      "name": "codex_0007_SiPM_Energy_Calibration.ipynb",
+      "old_cells": 154,
+      "new_cells": 164,
+      "prefix_exact": true
+    },
+    {
+      "name": "Research_Plan_20260921.ipynb",
+      "old_cells": 99,
+      "new_cells": 100,
+      "prefix_exact": true
+    },
+    {
+      "name": "Run_Catalog.ipynb",
+      "old_cells": 61,
+      "new_cells": 62,
+      "prefix_exact": true
+    }
+  ],
+  "figures": 4,
+  "default_changed": false,
+  "new_ROOT": 0,
+  "namespace_revision_checked": true,
+  "old_tracked_modules_restored": true,
+  "limits": "Historically exposed4mother pairs;known K/t. Truth used in projection/oracle fits;no independent or blind validation."
+}

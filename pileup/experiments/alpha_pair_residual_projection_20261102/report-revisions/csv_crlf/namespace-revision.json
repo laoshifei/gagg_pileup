@@ -1,0 +1,18 @@
+{
+  "reason": "New root module names collided with existing 20261023 residual-search modules. Those tracked modules are restored byte-for-byte to HEAD; new reusable modules receive projection-specific names. Frozen experiment sources and running fits stay unchanged.",
+  "root_modules": {
+    "pileup/analysis/alpha_pair_residual_projection_study.py": {
+      "snapshot": "pileup/experiments/alpha_pair_residual_projection_20261102/source/pileup/analysis/alpha_pair_residual_study.py",
+      "sha256": "2756560cbd9508ddded8ac2b504ed08f3d0fb5d3df66c18af33588bd31b9b524"
+    },
+    "pileup/analysis/alpha_pair_residual_projection_report.py": {
+      "snapshot": "pileup/experiments/alpha_pair_residual_projection_20261102/report.py",
+      "sha256": "be320123faada4ae79c37b7cc9ad7cd17ac02d26060a03382f218a311bac995b"
+    }
+  },
+  "method_changed": false,
+  "historical_report_hash_path_mapping": {
+    "pileup/analysis/alpha_pair_residual_report.py": "pileup/experiments/alpha_pair_residual_projection_20261102/report.py"
+  },
+  "validation": "Only study self-name strings and report import target differ between root and frozen copies. No dependency of the frozen model imports the old residual-search module."
+}

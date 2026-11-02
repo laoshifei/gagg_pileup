@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-11-02T03:44:39.185071+00:00",
+  "commit": "402f792f4d92b7e5fabec248a7c9b20f0ba0e7c7",
+  "git_status": " M pileup/analysis/alpha_pair_residual_study.py\n?? pileup/analysis/alpha_pair_residual_projection.py\n?? pileup/experiments/alpha_pair_residual_projection_20261102/\n",
+  "scope": "Truth-assisted diagnostic,20 eight-repeat pair means,4 previously exposed mother pairs,5conditions. No new ROOT or digitization; no independent confirmation.",
+  "residual_terms": [
+    "strong_isolated",
+    "weak_isolated",
+    "shared_correction",
+    "dark_electronics"
+  ],
+  "decomposition": "Istrong-Astrong; Iweak-Aweak; (sum S-sum I)-(mu-sum A); Y-background-sum S. Exact per-repeat voltage closure. Terms are correlated; shared/isolated streams need not have matching avalanche realizations.",
+  "projection": "SVD of W*T*dmu/dlogE at true E,relative rank cutoff1e-12. Source contributions add in logE. Also bounded linear solve; exp transforms are applied only to total changes.",
+  "geometry": "Profile weak derivative against strong. Weighted derivative geometry is not a calibrated Fisher/CR bound or universal physical resolution limit.",
+  "weights": "Original full GLS; diagonal marginal variance; unit FIR weights. All apply the same inherited FIR transform. Parameters fixed from original mean voltage, not recomputed after deletions. Unit FIR is not raw-voltage OLS.",
+  "symmetric_split": "Half-sum influence times residual change plus half-sum residual times influence change. Exact descriptive order-symmetric algebra, not unique causal attribution.",
+  "nonlinear": "40 true-E-start full fits;16 spatial short-gap weight contrasts with original3 voltage starts;32 spatial short-gap oracle single-term deletions with one true-E start. Fixed logE bounds and max_nfev80/start inherited. No outcome-dependent fit expansion.",
+  "truth_boundary": "Projection and deletion use true E and ancestor signals; oracle search uses true E only as start. Weight contrasts use voltage/known t for inference; truth is used only for scoring. Not blind K/t results.",
+  "bootstrap": "10000 paired mother/repeat resamples of linear contributions,seed731100+condition index;fixed gradients and weights. Descriptive4mother intervals; optical mother variation remains in eight-repeat means.",
+  "numeric_cost_tolerance": "max(1e-5,1e-7*abs(oldcost));within one weighting only,not statistical significance or evidence of global optimality.",
+  "pilot_ids": [
+    2,
+    3,
+    46,
+    48
+  ],
+  "replay_ids": [
+    32,
+    33,
+    83,
+    86
+  ],
+  "pilot_projected_seconds_limit": 3600,
+  "validation": {
+    "residual_closure_mV": 1e-09,
+    "old_cost_relative": 1e-07,
+    "synthetic_projection": 1e-09,
+    "small_step_absolute_log": 0.0001
+  },
+  "workers": 8,
+  "BLAS_threads": 1,
+  "new_ROOT": 0,
+  "new_digitization": 0,
+  "default_changed": false,
+  "literature": "Reuse project L89 and model derivation. Configured paper library unavailable; no new external paper claim.",
+  "decision": "Describe source/weight/search sensitivities. Do not replace defaults, refit physical parameters or launch new confirmation from these exposed mothers."
+}
