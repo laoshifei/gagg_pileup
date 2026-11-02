@@ -1,0 +1,24 @@
+{
+  "frozen_inputs": {
+    "design-freeze.json": 146,
+    "model-freeze.json": 10,
+    "input-freeze.json": 48
+  },
+  "passed": true,
+  "reused_ROOTs": 20,
+  "new_ROOTs": 0,
+  "new_digitizations": 0,
+  "independent_mother_pairs": 8,
+  "formal_pair_fits": 112,
+  "formal_single_fits": 32,
+  "cost_pilot_fits": 6,
+  "numerical_fits": 4,
+  "replay_fits": 6,
+  "total_fits": 160,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": 230,
+    "Research_Plan_20260921.ipynb": 108,
+    "Run_Catalog.ipynb": 69
+  },
+  "energy_gate_passed": false
+}

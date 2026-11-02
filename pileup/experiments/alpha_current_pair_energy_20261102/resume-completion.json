@@ -1,0 +1,10 @@
+{
+  "state": "completed",
+  "pid": 119263,
+  "started_utc": "2026-11-02T12:08:49.893191+00:00",
+  "retained": 29,
+  "remaining": 83,
+  "completed": 112,
+  "workers": 8,
+  "seconds": 900.3956751090009
+}

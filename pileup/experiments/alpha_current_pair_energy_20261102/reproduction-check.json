@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "target_root": "/tmp/gagg_pair_energy_repro_n5pnkn6a/project",
+  "frozen_files_copied": 275,
+  "frozen_verification": {
+    "design-freeze.json": 146,
+    "model-freeze.json": 10,
+    "input-freeze.json": 48
+  },
+  "existing_target_refused": true,
+  "new_simulations": 0,
+  "fits_submitted": 0,
+  "resume_adapter_included": true
+}

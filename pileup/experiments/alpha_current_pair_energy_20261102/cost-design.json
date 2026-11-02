@@ -1,0 +1,29 @@
+{
+  "pilot_ids": [
+    0,
+    2,
+    4
+  ],
+  "methods": [
+    "old",
+    "corrected"
+  ],
+  "repetition": 0,
+  "purpose": "Excluded pilot timing only; formal plan frozen later without reading pilot energy efficacy",
+  "source_sha256": "c749cf77e353d16ad87318ad069c34d9b81721007e99dc7f27573657fb363910",
+  "max_workers": 6,
+  "inputs": [
+    {
+      "path": "jupyter/artifacts/alpha_current_shared_20261102/pair-pilot/voltage/pair/0000.npz",
+      "sha256": "4f06779a0023a890b657cb061991f99c7ca384c0cd3e14edf7a19e096bd783ba"
+    },
+    {
+      "path": "jupyter/artifacts/alpha_current_shared_20261102/pair-pilot/voltage/pair/0002.npz",
+      "sha256": "5c374aa3a82a496fb9b939bddf76290f72670c33fdb5eb6b33a27e1b34bbcfca"
+    },
+    {
+      "path": "jupyter/artifacts/alpha_current_shared_20261102/pair-pilot/voltage/pair/0004.npz",
+      "sha256": "abd1edceaf3718a1d618904a4c0fed592f53520442541a82a5a6864b9da610d1"
+    }
+  ]
+}

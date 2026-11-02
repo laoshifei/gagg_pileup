@@ -1,0 +1,89 @@
+{
+  "created_utc": "2026-11-02T10:46:39.929959+00:00",
+  "base_commit": "aa0ec0024165edaebd8bf8daca4afd4ec602e942",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_current_shared.py\n?? pileup/analysis/alpha_current_shared_study.py\n?? pileup/analysis/test_alpha_current_shared.py\n?? pileup/experiments/alpha_current_shared_20261102/\n",
+  "purpose": "Fresh current-environment four-energy/four-phase singles followed by shared-cell forward controls; no pair-energy fitting",
+  "native": "136new roots:2pilot perenergy=8;32formal perenergy=128;source1.625/2.5/5.486/8MeV; no old mothers reused",
+  "physical": "Unchanged39G4 files,95/351ns fastfraction.3,29ns recoveryproxy,14400cells;Geant4 11.3.2/ROOT6.34.10",
+  "native_window": "One20us event perROOT,onecentral normal alpha at5us;no Poisson rate or background;G4 serial,max8jobs,>=1.05s launch spacing",
+  "output": "Only g4/data/YYYYMMDD_HHhMMmSSs.root; no overwrite; actual macro/config/RunInfo saved",
+  "fixed_models": "All L93 models copied unchanged;no new training,shape smoothing,noise learning or per-event nuisance parameter",
+  "single": "128formal mothers x4phases x8repeats=4096 digitizations;each8individual+mean x2models=9216fits;knownK1/time,voltage-only inference",
+  "single_pilot": "8mothers x4phases x8=256digitizations;fourphase0groups x18=72fits;only computational/structure cost gate",
+  "single_gates": {
+    "absolute_group_mean_energy_bias_percent": 5.0,
+    "corrected_to_old_individual_RMSE": 1.1,
+    "corrected_phase_bias_span_pp": 1.0,
+    "group_mean_waveform_MSE_ratio": 1.1,
+    "max_nonconverged": 0
+  },
+  "single_scope": "All groups/phases; mean-waveform MSE gate uses square of group-mean forward residual. Strong weak-direction projection was independently checked in L96; not a new small-N gate here",
+  "shared": "32disjoint weak/strong motherpairs x5conditions x4phases=640cases;8repeats of(shared+2isolated)=15360digitizations",
+  "conditions": [
+    {
+      "order": "high_weak",
+      "gap_ns": 8.0
+    },
+    {
+      "order": "high_weak",
+      "gap_ns": 40.0
+    },
+    {
+      "order": "high_weak",
+      "gap_ns": 200.0
+    },
+    {
+      "order": "high_weak",
+      "gap_ns": 1200.0
+    },
+    {
+      "order": "weak_high",
+      "gap_ns": 40.0
+    }
+  ],
+  "phases_ns": [
+    0.0,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "recovery_off": "Same32pairs and5conditions atphase0 only;160cases x8 x3=3840digitizations;diagnostic sensor.recovery_enabled True->False, not model tuning",
+  "shared_gates": {
+    "abs_mean_weak_window_area_error_pp": 5.0,
+    "corrected_to_old_per_mother_component_MSE": 1.1,
+    "recovery_off_abs_mean_weak_window_area_change_pp": 3.0
+  },
+  "area_definition": "Ratio of mean component voltage integrals inside observed0..2048ns;not complete charge. Late1200ns weak pulse is partly outside observation",
+  "mse_definition": "Eachmotherpair8repeatmean residual squared over1024samples,then average32pairs;gate both weak/strong components at each condition/phase",
+  "confidence": "10000whole-mother-pair paired draws percondition/phase,seed740900000+conditionID*4+phaseID; pointwise descriptive intervals, gates use inherited point estimates; no simultaneous coverage claim",
+  "pair_prediction": "True E/time forwarded as explicit diagnostic inputs;all other predictor inputs frozen. Reuse old shared-minus-isolated term algebraically only after direct corrected-model equality on pilot inputs",
+  "observation": "4096ns offline;first2048ns1024samples;2nsperiod,.5nsaperture;firstactivephoton at128+phase. All photons retained before sensor footprint rejection",
+  "randomness": "Single740300000+motherID*100+repeat;pair740500000+block*1000+repeat;pilotpair740700000+repeat;readout+10000000. Common seeds across phase/gap do not imply identical avalanches",
+  "pilot": "Nativepreflight ID6;nativepilot remaining7;all8readout audited;shared pilot6cases x2repeats x3=36, direct model comparisons; no efficacy selection on pilot",
+  "cost_limit_seconds": {
+    "native": 900,
+    "single": 900,
+    "fit": 900,
+    "pair": 1800,
+    "prediction": 900
+  },
+  "workers": 8,
+  "BLAS_threads": 1,
+  "stages": [
+    "native preflight",
+    "native pilot",
+    "isolated costpilot",
+    "native formal",
+    "singles",
+    "singlefit",
+    "single gate",
+    "shared pilot only if singlepass",
+    "fixed predictions",
+    "shared on/off",
+    "shared gate",
+    "replay"
+  ],
+  "decision": "Stop shared expansion if any single gate fails;no pair energy fit or default replacement even if response passes",
+  "literature": "Reuse L91/L93/L96 recorded method conditions; no new literature claim or PDF review",
+  "default_changed": false
+}

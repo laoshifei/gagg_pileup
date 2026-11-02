@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "fits": 6,
+  "pair_fits": 2,
+  "single_fits": 4,
+  "rows": [
+    {
+      "id": 0,
+      "kind": "pair",
+      "seconds": 99.11262424201414,
+      "fits": 1
+    },
+    {
+      "id": 1,
+      "kind": "pair",
+      "seconds": 102.41772580299585,
+      "fits": 1
+    },
+    {
+      "id": 112,
+      "kind": "single",
+      "seconds": 0.025652165000792593,
+      "fits": 1
+    },
+    {
+      "id": 113,
+      "kind": "single",
+      "seconds": 0.021410825997008942,
+      "fits": 1
+    },
+    {
+      "id": 114,
+      "kind": "single",
+      "seconds": 0.017424699006369337,
+      "fits": 1
+    },
+    {
+      "id": 115,
+      "kind": "single",
+      "seconds": 0.017333110998151824,
+      "fits": 1
+    }
+  ],
+  "exact_except_timing": true
+}

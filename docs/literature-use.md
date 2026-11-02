@@ -2690,3 +2690,31 @@ W为母内方差均值，B=母均值方差−W/8且不截零，仍可能包含�
 **文献来源范围。** 本轮复用L91/L93/L96已记录的条件均值思想与方法适用条件，未新检索论文、未回查原PDF、未更改原人工审核状态或共享库。新增结果属于项目计算，不作为外部论文结论。
 
 位置：`pileup/experiments/alpha_current_shared_20261102/`；`pileup/analysis/alpha_current_shared.py`、`alpha_current_shared_study.py`、`alpha_current_shared_report.py`。本地codex_0007第130–135节，固定图号0007-131-1/132-1/133-1/134-1；研究计划第38节及Run_Catalog逐ROOT清单。
+
+
+<a id="current-pair-energy-20261102"></a>
+## L98 — 2026-11-02：当前环境已知K/t双脉冲能量先导
+
+**项目结果。** 在L97保存的电压上完成40条单次、16条八次平均双脉冲的旧/修正模型比较，共112次已知K=2/时刻的能量拟合。8/40 ns单次整对E±10%成功为4/16→5/16，弱E RMSE为143.34%→142.64%；冻结推进门未通过。
+
+| 8/40ns合并 | 弱E RMSE比及95%区间 | 整对成功增益/百分点及95%区间 |
+| --- | --- | --- |
+| individual | 0.9952 [0.8919, 1.1136] | +6.25 [+0.00, +18.75] |
+| mean | 1.0246 [0.9626, 1.1399] | +6.25 [+0.00, +18.75] |
+
+**范围和输入。** 复用L97已经作过前向响应检查的电压，不称全新独立确认。固定哈希选8对母，相位0；强→弱8/40/200/1200 ns及弱→强40 ns均用重复0，8/40 ns另用同母8重复均值。40条单次＋16条均值只有8对独立母，均值包含单次所用重复0。所有波形、L93两模型、共同电压初值/GLS权重、三起点和每起点80评估预算提前冻结。真实K/t明确给定，真实E只作评分和数值合成控制；推断文件审计禁止读取ROOT、真实母标签及光子/祖先数组。
+
+**判定。** 推进门沿用L89短间隔要求：单次8/40 ns合并严格整对成功增加≥10个百分点，弱RMSE比≤0.95；各短间隔弱RMSE比≤1.1，八次均值的修正弱偏差绝对值≤10%。另要求修正强均值偏差绝对值≤5%、双脉冲未收敛0。这些是项目决策门，不是文献性能保证；全部门须同时满足，不按条件择优。 失败项：short strict-pair gain <10pp；short pooled weak RMSEratio >0.95；8ns mean weak bias outside10percent；40ns mean weak bias outside10percent。严格整对成功还要求收敛，边界与未收敛保留；完整两分量偏差/RMSE/误差SD及逐母散点见Notebook和表格。8母整对配对区间只是冻结模型下的描述，不把重复或条件当作新增独立母，也不传播先验/模型训练误差。当前能量误差SD不写成实测FWHM；已知K/t条件结果不能用于盲效率、漏检或误拆并。
+
+**本轮文献核验。** 按paper-search只读现有主题导航、两份完整来源笔记及原审核记录。来源身份、作者、DOI和原页位置据既有精读，没有重新读PDF或联网核验。库内默认检索脚本尝试写可选缓存时被只读挂载阻止，随后禁用缓存完成检索；已核实际来源/导航哈希未变。Fixsen检索无命中不作为未审核证明，审核边界以来源状态和原始记录为准。
+
+| 来源与位置（据已有笔记） | 本轮采用范围与审核边界 |
+| --- | --- |
+| D. J. Fixsen; S. H. Moseley; B. Cabrera; E. Figueroa-Feliciano, *Pulse estimation in nonlinear detectors with nonstationary noise*, [DOI](https://doi.org/10.1016/j.nima.2003.11.313)；[笔记](/mnt/d/works/papers/sources/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.md)、[原PDF](/mnt/d/works/papers/raw/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.pdf)；PDF2 sections2–4/equations1–2;PDF3–4 discussion | TES条件均值/完整协方差的局部最小二乘原则；非PCA、非本GAGG实测保证。本轮固定共同GLS工作度量，未声称完整参数相关似然。AI草稿待人工审核；未重读PDF或联网核DOI，未转移Busch第658项限定确认。 |
+| J. Z. Zhang; H. Y. Wu; W. Jiang; Z. H. Wang; R. R. Fan; X. C. Ruan, *Development of a pile-up pulse recovery algorithm for the LaBr3 detector*, [DOI](https://doi.org/10.1016/j.nima.2024.169273)；[笔记](/mnt/d/works/papers/sources/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.md)、[原PDF](/mnt/d/works/papers/raw/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.pdf)；PDF2–3 equations2–5/figures2–3;PDF4–6 simulation/efficiency | LaBr3(Ce)/R6233 PMT、500 MHz/14 bit、同模板高斯噪声模拟；借鉴模板条件与失配检查，峰效率不当逐事件能量成功。AI草稿待人工审核；未重读PDF或联网核DOI，未转移Busch第658项限定确认。 |
+
+**计数与复核。** 正式112次双脉冲＋32次孤立拟合；排除在正式评价外的耗时先导6次，合成反演4次，重放2次双脉冲＋4次孤立。总计160次已完成并保存的能量拟合；新ROOT、随机数字化和训练均为0。实际输入为48个旧电压文件，追溯20个既有ROOT。首次正式进程收到SIGTERM，29条完整结果保留；从缺失83条任务继续，未改模型或计划。中断原因及未完成的在途调用数无法从现有日志确定，未保存的计算不计入完成数。 数值导数最大相对差1.49e-06，合成反演最大相对能量差1.47e-09。32次孤立控制与L97相同输入的结果逐字段一致（计时除外）；6次拟合重放同样一致。两项母对统计/抽样测试通过，已验证空目录重跑输入完整且拒绝覆盖旧目录。 数值梯度/反演、共同权重与起点、读取隔离、输入哈希、实际宏/RunInfo及原Notebook保留都核对。完整统计不按结果筛样或替换母事件。
+
+**采用与下一步。** 按冻结规则停止扩样和默认替换。下一步在开发资料中分解强/弱孤立残差、共享恢复残差与噪声的作用，解释本轮失败条件；任何模型或权重修订另建快照，并另留确认样本，避免用这8对母反复选参。 盲漏检、误拆分/误合并、能谱选择效率、高率和真实器件未测，不填零；本轮不更换默认方法。
+
+位置：`pileup/experiments/alpha_current_pair_energy_20261102/`；模块`alpha_current_pair_energy.py`、`alpha_current_pair_energy_study.py`、`alpha_current_pair_energy_report.py`与中断恢复适配器。已有codex_0007第136–141节、图0007-137-1/138-1/139-1/140-1，研究计划第39节与Run_Catalog同步；原计算及图像保留。

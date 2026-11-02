@@ -1,0 +1,108 @@
+{
+  "created_utc": "2026-11-02T11:52:29.828723+00:00",
+  "base_commit": "8231f62cb5e1ca9ed4900fef19d3270c3d890179",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_current_pair_energy.py\n?? pileup/analysis/alpha_current_pair_energy_study.py\n?? pileup/analysis/test_alpha_current_pair_energy.py\n?? pileup/experiments/alpha_current_pair_energy_20261102/\n",
+  "scope": "Known true K/time energy pilot; same L97 waveforms already exposed to response diagnostics, not new independent confirmation",
+  "cohort": {
+    "blocks": [
+      31,
+      12,
+      23,
+      11,
+      26,
+      14,
+      30,
+      27
+    ],
+    "selection": "Lowest8 SHA256(current-pair-energy-20261102:block) ranks; no outcome selection",
+    "available": 32,
+    "used": 8
+  },
+  "pair_observations": "40individual waveforms:8pairs x5conditions xrepeat0.16eight-repeat mean waveforms:8pairs xHW8/40 only.112paired-method fits.",
+  "single_controls": "8phase0 cases:4source groups xfirst2 selected blocks;repeat0 and8repeatmean,2methods=32fits;exactly compare saved L97 fits",
+  "phase_ns": 0.0,
+  "known_time_definition": "First active photon aligned128ns; declared second time=128+gap, not a blind timestamp estimate",
+  "previous_repeats": "Every copied input contains8saved repeats; individual inference uses only index0; means use all8, overlap with individual, not independent",
+  "new_ROOTs": 0,
+  "new_digitizations": 0,
+  "new_training": 0,
+  "fixed_models": "Unchanged L93 old spatial12 and mean correction; original shared-minus-isolated term, Q map, noise model and physical parameters",
+  "search": "Inherited fit_energy unchanged:common voltage-only NNLS+charge-shares0.1/0.9 starts,logE bounds,analytic gradients,max_nfev80/start,ftol/xtol1e-8,gtol1e-5;minimum cost including unconverged candidates",
+  "metric": "Inherited common learned_metric computed from old voltage initial E and known times; identical weights for both models, fixed during fitting, not a newly calibrated full shared likelihood",
+  "isolation": "Worker jobs contain only waveform path/hash,known times,kind,repeat,method and IDs. Audit hooks reject roots,labels,mothers,photon/truth/prediction arrays; truth E only in numerical synthetic controls and scoring",
+  "numerical": {
+    "gradient_relative_limit": 0.0003,
+    "component_mean_limit_mV": 1e-08,
+    "inverse_relative_limit": 0.001,
+    "synthetic_fits": 4
+  },
+  "metrics": "Both E_dep bias/RMSE/errorSD;strict pair both relativeE within10% AND converged;boundaries/nonconvergence retained;no blind efficiency/miss/split/merge measurements",
+  "uncertainty": "10000paired whole-mother resamples,seed741900000;all conditions/methods and the individual/mean observations travel with the same block;conditional descriptive intervals with only8mothers,not simultaneous coverage",
+  "gates": {
+    "short_strict_gain_pp": 10.0,
+    "short_pooled_weak_RMSE_ratio": 0.95,
+    "each_short_weak_RMSE_ratio": 1.1,
+    "each_short_mean_weak_abs_bias_percent": 10.0,
+    "mean_strong_abs_bias_percent": 5.0,
+    "nonconverged": 0
+  },
+  "gate_origin": "Retain L89 short-gap advancement thresholds;add explicit strong-mean and convergence controls;project decisions,not literature guarantees",
+  "decision": "Only if all gates pass plan a larger frozen confirmation;otherwise retain failures and diagnose on development data. No default replacement,unknownK/t or high-rate expansion in this stage",
+  "cost_preflight": {
+    "rows": [
+      {
+        "pilot_id": 0,
+        "method": "old",
+        "seconds": 108.69164413699764,
+        "evaluations": 41,
+        "converged": true
+      },
+      {
+        "pilot_id": 0,
+        "method": "corrected",
+        "seconds": 131.16237309601274,
+        "evaluations": 50,
+        "converged": true
+      },
+      {
+        "pilot_id": 2,
+        "method": "old",
+        "seconds": 91.70831095799804,
+        "evaluations": 34,
+        "converged": true
+      },
+      {
+        "pilot_id": 2,
+        "method": "corrected",
+        "seconds": 111.79809021099936,
+        "evaluations": 42,
+        "converged": true
+      },
+      {
+        "pilot_id": 4,
+        "method": "old",
+        "seconds": 60.08106566200149,
+        "evaluations": 22,
+        "converged": true
+      },
+      {
+        "pilot_id": 4,
+        "method": "corrected",
+        "seconds": 62.877661691993126,
+        "evaluations": 23,
+        "converged": true
+      }
+    ],
+    "wall_seconds": 131.58888138599286,
+    "pilot_fits": 6,
+    "new_ROOTs": 0,
+    "new_digitizations": 0,
+    "inputs": "Excluded L97 pilot mothers0/6; first saved noisy repetition at phase0",
+    "efficacy_used_for_design": false
+  },
+  "projected_pair_seconds": 2754.4098350162676,
+  "cost_limit_seconds": 3600.0,
+  "workers": 8,
+  "BLAS_threads": 1,
+  "literature": "Read-only paper-search:existing Fixsen2004/Zhang2024 notes and original review context;no new PDF review,web retrieval or human approval"
+}

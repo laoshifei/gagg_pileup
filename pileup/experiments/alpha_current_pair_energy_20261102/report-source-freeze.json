@@ -1,0 +1,15 @@
+{
+  "pileup/analysis/alpha_current_pair_energy_report.py": "3b497c2dca36e4a4149f9cedff119b700f6d78ffde66c1043fa058597d5d6650",
+  "pileup/experiments/alpha_current_pair_energy_20261102/source/pileup/analysis/alpha_current_pair_energy_report.py": "3b497c2dca36e4a4149f9cedff119b700f6d78ffde66c1043fa058597d5d6650",
+  "pileup/experiments/alpha_current_pair_energy_20261102/report.py": "c6841fb0f4d7f5f7c42c68f1fe7beaefc98e8cd00b9637211891f97a78ff7d80",
+  "pileup/experiments/alpha_current_pair_energy_20261102/reproduce.py": "ab7e1f7f4450be76374b454291fcea878aa3972ae9884fb2a938b44aa2e2e1c7",
+  "pileup/experiments/alpha_current_pair_energy_20261102/validate.py": "3150f07a3217e91d5cfeec934fb58fc53ab83a5ccc6184f4d71f48089955f896",
+  "pileup/experiments/alpha_current_pair_energy_20261102/literature-search-check.json": "62cb66ad8555ed9874fd14b29e6177409cf1567d821d7cb3fd155cd390ff0c4b",
+  "pileup/experiments/alpha_current_pair_energy_20261102/waveform-origins.json": "36ba89641dd12cc97d2a0fd0c5f4ad430fd8bcfd1fba95938b04bcf03e8d4900",
+  "pileup/experiments/alpha_current_pair_energy_20261102/upstream-protocol.json": "9241f1849798998aa1a9b8be51b258b07bc7469ee9c85a02e855bc2eb63c909f",
+  "pileup/experiments/alpha_current_pair_energy_20261102/upstream-input-freeze.json": "5e4ad4a866ea35f1273b07476dfb934f04b729fcc894f7d50cc6536cddd296d8",
+  "pileup/experiments/alpha_current_pair_energy_20261102/unit-tests.json": "38fc840c65272f51859670561460b71617ad6194ae420174f4ee709837b7cfd0",
+  "pileup/experiments/alpha_current_pair_energy_20261102/reproduction-check.json": "0b40e512089b816def4005d8b6ce38f508a1fd72ac361923fab8f31e10d48d6c",
+  "pileup/experiments/alpha_current_pair_energy_20261102/interruption.json": "3f701c2873034f425b474e89b163e459eccd909d5544a12d05bbffdda7613ce3",
+  "pileup/experiments/alpha_current_pair_energy_20261102/resume-completion.json": "b3c5548951ff98e8abb403b2bb5e9a7967b89a851e33d327c531002710e0cb9e"
+}

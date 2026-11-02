@@ -1,0 +1,1258 @@
+[
+  {
+    "id": 0,
+    "kind": "pair",
+    "block": 31,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 620,
+    "parents": [
+      135,
+      39
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.590678691864014,
+      0.2530886232852936
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0620.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0000.npz",
+    "voltage_sha256": "f7abfc742342831ef8e50081340bc365d3e680099b366e83096483f9c704893a"
+  },
+  {
+    "id": 1,
+    "kind": "pair",
+    "block": 31,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 624,
+    "parents": [
+      135,
+      39
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.590678691864014,
+      0.2530886232852936
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0624.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0001.npz",
+    "voltage_sha256": "a3407d521465ef868ac5d210a2ebcb0654b78c789d01186a3beb1420f48f0624"
+  },
+  {
+    "id": 2,
+    "kind": "pair",
+    "block": 31,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 628,
+    "parents": [
+      135,
+      39
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.590678691864014,
+      0.2530886232852936
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0628.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0002.npz",
+    "voltage_sha256": "525477661cdf0284903555ee278588a8c96d226dc5df9a7c9893a4719dff22e9"
+  },
+  {
+    "id": 3,
+    "kind": "pair",
+    "block": 31,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 632,
+    "parents": [
+      135,
+      39
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.590678691864014,
+      0.2530886232852936
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0632.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0003.npz",
+    "voltage_sha256": "8215a0baacdc7f2bcb87d5acc458babede850fb78c8d8d82d8853431997b9a5a"
+  },
+  {
+    "id": 4,
+    "kind": "pair",
+    "block": 31,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 636,
+    "parents": [
+      39,
+      135
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.2530886232852936,
+      7.590678691864014
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0636.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0004.npz",
+    "voltage_sha256": "4e33b00d7641789ae4c212c614fdda08c13fdf628b1876d1f59480a0495b6b24"
+  },
+  {
+    "id": 5,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 240,
+    "parents": [
+      116,
+      20
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.595311164855957,
+      0.23595114052295685
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0240.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0005.npz",
+    "voltage_sha256": "0ea6e8311b791563ff646b72f0d6776be14afcf3dc76575e9f9f9c1ba89e0db6"
+  },
+  {
+    "id": 6,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 244,
+    "parents": [
+      116,
+      20
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.595311164855957,
+      0.23595114052295685
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0244.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0006.npz",
+    "voltage_sha256": "de7043a6357a45159aef7f8126e2240418a98f21108c66e908288844304c5521"
+  },
+  {
+    "id": 7,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 248,
+    "parents": [
+      116,
+      20
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.595311164855957,
+      0.23595114052295685
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0248.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0007.npz",
+    "voltage_sha256": "497e9a021103cac274fc67bb5824488d658b8b50ccc8137505562638c3f7e3b0"
+  },
+  {
+    "id": 8,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 252,
+    "parents": [
+      116,
+      20
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.595311164855957,
+      0.23595114052295685
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0252.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0008.npz",
+    "voltage_sha256": "3304a455c82090f9cdb71729bf672639486be02adf14ddcf5549205aac6b3123"
+  },
+  {
+    "id": 9,
+    "kind": "pair",
+    "block": 12,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 256,
+    "parents": [
+      20,
+      116
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.23595114052295685,
+      7.595311164855957
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0256.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0009.npz",
+    "voltage_sha256": "39200649dcc144398908a2310301a14f9bbca03fd6a7848fdad81e63b19d5f14"
+  },
+  {
+    "id": 10,
+    "kind": "pair",
+    "block": 23,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 460,
+    "parents": [
+      127,
+      31
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.5556559562683105,
+      0.30943626165390015
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0460.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0010.npz",
+    "voltage_sha256": "5f6df5a0dbfa9f5c15c2098963e3459c9eca78ac2bc3cdc8420ff6f83e7ac61b"
+  },
+  {
+    "id": 11,
+    "kind": "pair",
+    "block": 23,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 464,
+    "parents": [
+      127,
+      31
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.5556559562683105,
+      0.30943626165390015
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0464.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0011.npz",
+    "voltage_sha256": "7d4d280170113fd7d9232f08bf11b4dda5a218da2e799a4b6d7e6e4d42ba00cb"
+  },
+  {
+    "id": 12,
+    "kind": "pair",
+    "block": 23,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 468,
+    "parents": [
+      127,
+      31
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.5556559562683105,
+      0.30943626165390015
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0468.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0012.npz",
+    "voltage_sha256": "0bbd94e4f2053e0a5d49cd6bbb3d6ce9eb1fac47308d82fc5b81778055d72eef"
+  },
+  {
+    "id": 13,
+    "kind": "pair",
+    "block": 23,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 472,
+    "parents": [
+      127,
+      31
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.5556559562683105,
+      0.30943626165390015
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0472.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0013.npz",
+    "voltage_sha256": "7812f10cb1f2d7f06e72d0f9b96ece99dfe861af3edae6174bdec3f3d60bbb51"
+  },
+  {
+    "id": 14,
+    "kind": "pair",
+    "block": 23,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 476,
+    "parents": [
+      31,
+      127
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.30943626165390015,
+      7.5556559562683105
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0476.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0014.npz",
+    "voltage_sha256": "2f627f26482b32d4efd4e77f7eb5a55ef44b9152b8f0cb91bb5e867c350c2c69"
+  },
+  {
+    "id": 15,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 220,
+    "parents": [
+      115,
+      19
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.586303234100342,
+      0.2662505805492401
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0220.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0015.npz",
+    "voltage_sha256": "ee59e348a125ef5905a5325b9044abc052a124cdbcd853679dad068ccc2c77da"
+  },
+  {
+    "id": 16,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 224,
+    "parents": [
+      115,
+      19
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.586303234100342,
+      0.2662505805492401
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0224.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0016.npz",
+    "voltage_sha256": "682d2e8e5eb8a8cb491bf33a653c86136f25b9786bbff11730d03b4682b89e40"
+  },
+  {
+    "id": 17,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 228,
+    "parents": [
+      115,
+      19
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.586303234100342,
+      0.2662505805492401
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0228.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0017.npz",
+    "voltage_sha256": "84f261bd8021e971e2bb8ae1b52f7159761f6da02da597a25da35c9784a45f2d"
+  },
+  {
+    "id": 18,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 232,
+    "parents": [
+      115,
+      19
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.586303234100342,
+      0.2662505805492401
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0232.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0018.npz",
+    "voltage_sha256": "1b8f96210e59ce9d5de2111a68f710d2fc17f830c4c05853d15721ae2a50ceb2"
+  },
+  {
+    "id": 19,
+    "kind": "pair",
+    "block": 11,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 236,
+    "parents": [
+      19,
+      115
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.2662505805492401,
+      7.586303234100342
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0236.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0019.npz",
+    "voltage_sha256": "3770f7307785f83bf1de770c7f8e967a8d3be022146f6b959302e593d934bdef"
+  },
+  {
+    "id": 20,
+    "kind": "pair",
+    "block": 26,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 520,
+    "parents": [
+      130,
+      34
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.581935405731201,
+      0.2559283971786499
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0520.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0020.npz",
+    "voltage_sha256": "4330f3de41dab69eb0ce2f1c99bb688259454d95a284ccf07c5ae80b2f20a9be"
+  },
+  {
+    "id": 21,
+    "kind": "pair",
+    "block": 26,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 524,
+    "parents": [
+      130,
+      34
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.581935405731201,
+      0.2559283971786499
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0524.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0021.npz",
+    "voltage_sha256": "4ddef9564f941dc83555f232211e93ab77527fb9fd46fdbdf3ea8bbd53c5a178"
+  },
+  {
+    "id": 22,
+    "kind": "pair",
+    "block": 26,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 528,
+    "parents": [
+      130,
+      34
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.581935405731201,
+      0.2559283971786499
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0528.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0022.npz",
+    "voltage_sha256": "216f45d3954408efcf86fa228465aa35b2a89aac1d917a796a7784d530a71eed"
+  },
+  {
+    "id": 23,
+    "kind": "pair",
+    "block": 26,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 532,
+    "parents": [
+      130,
+      34
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.581935405731201,
+      0.2559283971786499
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0532.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0023.npz",
+    "voltage_sha256": "28008596d6c4d292557d3332643d7805f936d364e875cd707702e60939d4f346"
+  },
+  {
+    "id": 24,
+    "kind": "pair",
+    "block": 26,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 536,
+    "parents": [
+      34,
+      130
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.2559283971786499,
+      7.581935405731201
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0536.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0024.npz",
+    "voltage_sha256": "691178da3216d8636d1cb4861c5641e968e4a937b232f9f1e1089b09cc23018a"
+  },
+  {
+    "id": 25,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 280,
+    "parents": [
+      118,
+      22
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.605505466461182,
+      0.2732051908969879
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0280.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0025.npz",
+    "voltage_sha256": "1f30b0cf27b42975b9b9442fe93ce3677be9002205c2e7709303f629a6e57c18"
+  },
+  {
+    "id": 26,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 284,
+    "parents": [
+      118,
+      22
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.605505466461182,
+      0.2732051908969879
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0284.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0026.npz",
+    "voltage_sha256": "849afd5cb653da01e411887c73226bcf1c1df326bd5d671610a92d7b5e9667e5"
+  },
+  {
+    "id": 27,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 288,
+    "parents": [
+      118,
+      22
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.605505466461182,
+      0.2732051908969879
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0288.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0027.npz",
+    "voltage_sha256": "6d962de7bdd8be82e476b71f03e5e80c79468892301fb62b7f973fdefb6148cd"
+  },
+  {
+    "id": 28,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 292,
+    "parents": [
+      118,
+      22
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.605505466461182,
+      0.2732051908969879
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0292.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0028.npz",
+    "voltage_sha256": "7c70cdc6227df04d3cb3c8d699408f1253051667b231b26a15ca97ec648ef67e"
+  },
+  {
+    "id": 29,
+    "kind": "pair",
+    "block": 14,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 296,
+    "parents": [
+      22,
+      118
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.2732051908969879,
+      7.605505466461182
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0296.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0029.npz",
+    "voltage_sha256": "ec395f68067ea415de1fb11895cc5922fedacc7351ee870f0ccad603c89ecbae"
+  },
+  {
+    "id": 30,
+    "kind": "pair",
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 600,
+    "parents": [
+      134,
+      38
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.596071243286133,
+      0.25114089250564575
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0600.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0030.npz",
+    "voltage_sha256": "2f2deec4be4375c7cc3b1822c62ecccd19b620428223da2da969ff558ad774da"
+  },
+  {
+    "id": 31,
+    "kind": "pair",
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 604,
+    "parents": [
+      134,
+      38
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.596071243286133,
+      0.25114089250564575
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0604.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0031.npz",
+    "voltage_sha256": "e23c2ce8243a9ac6985da1d88de8835c420627a1910e9328d4e5d9b6e3b317cc"
+  },
+  {
+    "id": 32,
+    "kind": "pair",
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 608,
+    "parents": [
+      134,
+      38
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.596071243286133,
+      0.25114089250564575
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0608.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0032.npz",
+    "voltage_sha256": "71b7be887532823ca11a7892adcbe124f89b06aa502761278ae417c2f5cd9a7f"
+  },
+  {
+    "id": 33,
+    "kind": "pair",
+    "block": 30,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 612,
+    "parents": [
+      134,
+      38
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.596071243286133,
+      0.25114089250564575
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0612.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0033.npz",
+    "voltage_sha256": "6a374c1a39f178934aea8e08aaf2c64736522c059341a67c85a8b3a73d3b1d51"
+  },
+  {
+    "id": 34,
+    "kind": "pair",
+    "block": 30,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 616,
+    "parents": [
+      38,
+      134
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.25114089250564575,
+      7.596071243286133
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0616.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0034.npz",
+    "voltage_sha256": "2f4a1f178c4ce86208515abe10354a2c477a42c63e47ea229a2fffaa4f222a41"
+  },
+  {
+    "id": 35,
+    "kind": "pair",
+    "block": 27,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "source_id": 540,
+    "parents": [
+      131,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.591075897216797,
+      0.23823384940624237
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0540.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0035.npz",
+    "voltage_sha256": "8ce74842d3ac9ef6c2e2ade08334e5f027e0004d2661995b1aa20915cbf9cd73"
+  },
+  {
+    "id": 36,
+    "kind": "pair",
+    "block": 27,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "source_id": 544,
+    "parents": [
+      131,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.591075897216797,
+      0.23823384940624237
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0544.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0036.npz",
+    "voltage_sha256": "6805a3d6356efaf7f6a14be8e6e67f7d0067bb55a04c18f4017befe17f422d91"
+  },
+  {
+    "id": 37,
+    "kind": "pair",
+    "block": 27,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "source_id": 548,
+    "parents": [
+      131,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.591075897216797,
+      0.23823384940624237
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0548.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0037.npz",
+    "voltage_sha256": "5595806abfb1a47e79320b10268d7a641e50596113420f2a119713b736c519f1"
+  },
+  {
+    "id": 38,
+    "kind": "pair",
+    "block": 27,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "source_id": 552,
+    "parents": [
+      131,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      7.591075897216797,
+      0.23823384940624237
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0552.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0038.npz",
+    "voltage_sha256": "8f68fe77c4a0292e99b65e2373338ee968c0c0eff4436e2ea7c95424bb4cd93c"
+  },
+  {
+    "id": 39,
+    "kind": "pair",
+    "block": 27,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "source_id": 556,
+    "parents": [
+      35,
+      131
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": [
+      0
+    ],
+    "energy_dep_MeV": [
+      0.23823384940624237,
+      7.591075897216797
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/pair/0556.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0039.npz",
+    "voltage_sha256": "90c45d31c66fea7fd35e26c9b101bcfade827329dfb640720c6809be1cfa300f"
+  },
+  {
+    "id": 40,
+    "kind": "single",
+    "block": 31,
+    "condition": "single_group0",
+    "group": 0,
+    "gap_ns": null,
+    "source_id": 156,
+    "parents": [
+      39
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      0.2530886232852936
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0156.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0040.npz",
+    "voltage_sha256": "59766a99b258e782d78d2f5030ddaaf596ad1cf3f89aba156b81f27499a4d60c"
+  },
+  {
+    "id": 41,
+    "kind": "single",
+    "block": 12,
+    "condition": "single_group0",
+    "group": 0,
+    "gap_ns": null,
+    "source_id": 80,
+    "parents": [
+      20
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      0.23595114052295685
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0080.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0041.npz",
+    "voltage_sha256": "600106c50b2420b516f8157eb71485e6ed678457c4dad871b0c7f8e1f99a13e3"
+  },
+  {
+    "id": 42,
+    "kind": "single",
+    "block": 31,
+    "condition": "single_group1",
+    "group": 1,
+    "gap_ns": null,
+    "source_id": 284,
+    "parents": [
+      71
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      1.4616272449493408
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0284.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0042.npz",
+    "voltage_sha256": "5e338b3c9cd9211f55c4067442c39a895f2d64d7a6077f8ec6412a264717d04a"
+  },
+  {
+    "id": 43,
+    "kind": "single",
+    "block": 12,
+    "condition": "single_group1",
+    "group": 1,
+    "gap_ns": null,
+    "source_id": 208,
+    "parents": [
+      52
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      1.4681521654129028
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0208.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0043.npz",
+    "voltage_sha256": "0319f36dc7ceda835c7ed90ce8c1eb91951686be2b7606a07a0a95c3f8ad293e"
+  },
+  {
+    "id": 44,
+    "kind": "single",
+    "block": 31,
+    "condition": "single_group2",
+    "group": 2,
+    "gap_ns": null,
+    "source_id": 412,
+    "parents": [
+      103
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      4.93705940246582
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0412.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0044.npz",
+    "voltage_sha256": "b9b3176028580d9c2ab3ca1b347635f35591f7d69e5571acac5a8bc1cbc7d8db"
+  },
+  {
+    "id": 45,
+    "kind": "single",
+    "block": 12,
+    "condition": "single_group2",
+    "group": 2,
+    "gap_ns": null,
+    "source_id": 336,
+    "parents": [
+      84
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      4.919189453125
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0336.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0045.npz",
+    "voltage_sha256": "d7137a11e9bd0373d1041305dc8d4102355371a1c425af6f0a590a963eba3a3c"
+  },
+  {
+    "id": 46,
+    "kind": "single",
+    "block": 31,
+    "condition": "single_group3",
+    "group": 3,
+    "gap_ns": null,
+    "source_id": 540,
+    "parents": [
+      135
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.590678691864014
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0540.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0046.npz",
+    "voltage_sha256": "b7fc44641b96fc41aacf0f5a6758076b34047f0ff2e114b2c8a5a06901a76a7b"
+  },
+  {
+    "id": 47,
+    "kind": "single",
+    "block": 12,
+    "condition": "single_group3",
+    "group": 3,
+    "gap_ns": null,
+    "source_id": 464,
+    "parents": [
+      116
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "repeats": [
+      0,
+      -1
+    ],
+    "energy_dep_MeV": [
+      7.595311164855957
+    ],
+    "source_voltage": "jupyter/artifacts/alpha_current_shared_20261102/voltage/single/0464.npz",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0047.npz",
+    "voltage_sha256": "1738e0171bc6d26e1bf86a808d03b0e070eac5b0e2782122ded077f330687d44"
+  }
+]

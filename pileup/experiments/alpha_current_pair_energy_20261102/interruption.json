@@ -1,0 +1,12 @@
+{
+  "exit_code": 143,
+  "signal": "SIGTERM",
+  "cause": "Not established from available tool output",
+  "completed_pair_outputs": 29,
+  "remaining_pair_tasks": 83,
+  "child_processes_after_exit": 0,
+  "completed_outputs_valid": true,
+  "plan_model_search_unchanged": true,
+  "incomplete_inflight_attempt_count": "Unknown; no saved complete outcomes; excluded from completed-fit totals",
+  "recovery": "Resume missing tasks in a persistent tmux session,retain29valid files unchanged"
+}

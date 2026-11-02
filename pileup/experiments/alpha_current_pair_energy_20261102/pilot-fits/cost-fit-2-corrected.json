@@ -1,0 +1,79 @@
+{
+  "energy_MeV": [
+    7.765227409565592,
+    0.12125291911549699
+  ],
+  "cost": 1096.2015546079983,
+  "converged": true,
+  "boundary": false,
+  "evaluations": 42,
+  "gradient_evaluations": 19,
+  "optimality": 5.076324941691399e-05,
+  "status": 2,
+  "message": "`ftol` termination condition is satisfied.",
+  "starts": 3,
+  "selected_start": 1,
+  "candidates": [
+    {
+      "energy_MeV": [
+        7.765199641065158,
+        0.12129606436650896
+      ],
+      "cost": 1096.201554760602,
+      "converged": true,
+      "boundary": false,
+      "evaluations": 9,
+      "gradient_evaluations": 9,
+      "optimality": 0.0007871574913594556,
+      "status": 2,
+      "message": "`ftol` termination condition is satisfied."
+    },
+    {
+      "energy_MeV": [
+        7.765227409565592,
+        0.12125291911549699
+      ],
+      "cost": 1096.2015546079983,
+      "converged": true,
+      "boundary": false,
+      "evaluations": 20,
+      "gradient_evaluations": 19,
+      "optimality": 5.076324941691399e-05,
+      "status": 2,
+      "message": "`ftol` termination condition is satisfied."
+    },
+    {
+      "energy_MeV": [
+        7.7651962504813365,
+        0.12130136597402849
+      ],
+      "cost": 1096.2015547886617,
+      "converged": true,
+      "boundary": false,
+      "evaluations": 13,
+      "gradient_evaluations": 13,
+      "optimality": 0.0013889368809503857,
+      "status": 2,
+      "message": "`ftol` termination condition is satisfied."
+    }
+  ],
+  "initial_MeV": [
+    7.502978426322819,
+    0.118313572405003
+  ],
+  "start_energy_MeV": [
+    [
+      7.502978426322819,
+      0.118313572405003
+    ],
+    [
+      0.8169029647764866,
+      7.002320655504782
+    ],
+    [
+      7.002320655504782,
+      0.8169029647764863
+    ]
+  ],
+  "seconds": 111.79809021099936
+}

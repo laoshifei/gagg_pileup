@@ -1,0 +1,682 @@
+{
+  "rows": [
+    {
+      "id": 0,
+      "kind": "pair",
+      "seconds": 105.99999123100133,
+      "fits": 1
+    },
+    {
+      "id": 1,
+      "kind": "pair",
+      "seconds": 110.90828354199766,
+      "fits": 1
+    },
+    {
+      "id": 2,
+      "kind": "pair",
+      "seconds": 105.66768273299385,
+      "fits": 1
+    },
+    {
+      "id": 3,
+      "kind": "pair",
+      "seconds": 114.0197223219875,
+      "fits": 1
+    },
+    {
+      "id": 4,
+      "kind": "pair",
+      "seconds": 84.14033221600403,
+      "fits": 1
+    },
+    {
+      "id": 5,
+      "kind": "pair",
+      "seconds": 189.29370921099326,
+      "fits": 1
+    },
+    {
+      "id": 6,
+      "kind": "pair",
+      "seconds": 90.08846137799264,
+      "fits": 1
+    },
+    {
+      "id": 7,
+      "kind": "pair",
+      "seconds": 99.59034946101019,
+      "fits": 1
+    },
+    {
+      "id": 8,
+      "kind": "pair",
+      "seconds": 68.69489984800748,
+      "fits": 1
+    },
+    {
+      "id": 9,
+      "kind": "pair",
+      "seconds": 71.65336949600896,
+      "fits": 1
+    },
+    {
+      "id": 10,
+      "kind": "pair",
+      "seconds": 61.808242967003025,
+      "fits": 1
+    },
+    {
+      "id": 11,
+      "kind": "pair",
+      "seconds": 62.77244296800927,
+      "fits": 1
+    },
+    {
+      "id": 12,
+      "kind": "pair",
+      "seconds": 71.89489754800161,
+      "fits": 1
+    },
+    {
+      "id": 13,
+      "kind": "pair",
+      "seconds": 72.82484084999305,
+      "fits": 1
+    },
+    {
+      "id": 14,
+      "kind": "pair",
+      "seconds": 113.52269197900023,
+      "fits": 1
+    },
+    {
+      "id": 15,
+      "kind": "pair",
+      "seconds": 115.10316482899361,
+      "fits": 1
+    },
+    {
+      "id": 16,
+      "kind": "pair",
+      "seconds": 136.98177920900343,
+      "fits": 1
+    },
+    {
+      "id": 17,
+      "kind": "pair",
+      "seconds": 129.08422964399506,
+      "fits": 1
+    },
+    {
+      "id": 18,
+      "kind": "pair",
+      "seconds": 117.00640513599501,
+      "fits": 1
+    },
+    {
+      "id": 19,
+      "kind": "pair",
+      "seconds": 106.31682424800238,
+      "fits": 1
+    },
+    {
+      "id": 20,
+      "kind": "pair",
+      "seconds": 92.27913740099757,
+      "fits": 1
+    },
+    {
+      "id": 21,
+      "kind": "pair",
+      "seconds": 95.75898723100545,
+      "fits": 1
+    },
+    {
+      "id": 22,
+      "kind": "pair",
+      "seconds": 73.02141760398808,
+      "fits": 1
+    },
+    {
+      "id": 23,
+      "kind": "pair",
+      "seconds": 77.95447862498986,
+      "fits": 1
+    },
+    {
+      "id": 24,
+      "kind": "pair",
+      "seconds": 74.05174839300162,
+      "fits": 1
+    },
+    {
+      "id": 25,
+      "kind": "pair",
+      "seconds": 71.10314425900287,
+      "fits": 1
+    },
+    {
+      "id": 26,
+      "kind": "pair",
+      "seconds": 83.78812318699784,
+      "fits": 1
+    },
+    {
+      "id": 27,
+      "kind": "pair",
+      "seconds": 87.79756304700277,
+      "fits": 1
+    },
+    {
+      "id": 28,
+      "kind": "pair",
+      "seconds": 112.74410547100706,
+      "fits": 1
+    },
+    {
+      "id": 29,
+      "kind": "pair",
+      "seconds": 107.35835853499884,
+      "fits": 1
+    },
+    {
+      "id": 30,
+      "kind": "pair",
+      "seconds": 102.79706421600713,
+      "fits": 1
+    },
+    {
+      "id": 31,
+      "kind": "pair",
+      "seconds": 102.83493805798935,
+      "fits": 1
+    },
+    {
+      "id": 32,
+      "kind": "pair",
+      "seconds": 78.80666893599846,
+      "fits": 1
+    },
+    {
+      "id": 33,
+      "kind": "pair",
+      "seconds": 79.14229087499552,
+      "fits": 1
+    },
+    {
+      "id": 34,
+      "kind": "pair",
+      "seconds": 82.47629566899559,
+      "fits": 1
+    },
+    {
+      "id": 35,
+      "kind": "pair",
+      "seconds": 85.30194940899673,
+      "fits": 1
+    },
+    {
+      "id": 36,
+      "kind": "pair",
+      "seconds": 67.36670177899941,
+      "fits": 1
+    },
+    {
+      "id": 37,
+      "kind": "pair",
+      "seconds": 66.5600092770037,
+      "fits": 1
+    },
+    {
+      "id": 38,
+      "kind": "pair",
+      "seconds": 59.717152950004674,
+      "fits": 1
+    },
+    {
+      "id": 39,
+      "kind": "pair",
+      "seconds": 60.21913249399222,
+      "fits": 1
+    },
+    {
+      "id": 40,
+      "kind": "pair",
+      "seconds": 64.31881570999394,
+      "fits": 1
+    },
+    {
+      "id": 41,
+      "kind": "pair",
+      "seconds": 66.42865904599603,
+      "fits": 1
+    },
+    {
+      "id": 42,
+      "kind": "pair",
+      "seconds": 84.19152420600585,
+      "fits": 1
+    },
+    {
+      "id": 43,
+      "kind": "pair",
+      "seconds": 90.46380142499402,
+      "fits": 1
+    },
+    {
+      "id": 44,
+      "kind": "pair",
+      "seconds": 102.44426339100755,
+      "fits": 1
+    },
+    {
+      "id": 45,
+      "kind": "pair",
+      "seconds": 106.38716156998998,
+      "fits": 1
+    },
+    {
+      "id": 46,
+      "kind": "pair",
+      "seconds": 83.5633307639946,
+      "fits": 1
+    },
+    {
+      "id": 47,
+      "kind": "pair",
+      "seconds": 81.88070517499,
+      "fits": 1
+    },
+    {
+      "id": 48,
+      "kind": "pair",
+      "seconds": 82.4475152840023,
+      "fits": 1
+    },
+    {
+      "id": 49,
+      "kind": "pair",
+      "seconds": 81.85872042800474,
+      "fits": 1
+    },
+    {
+      "id": 50,
+      "kind": "pair",
+      "seconds": 76.21212406500126,
+      "fits": 1
+    },
+    {
+      "id": 51,
+      "kind": "pair",
+      "seconds": 78.8096813709999,
+      "fits": 1
+    },
+    {
+      "id": 52,
+      "kind": "pair",
+      "seconds": 60.63812642400444,
+      "fits": 1
+    },
+    {
+      "id": 53,
+      "kind": "pair",
+      "seconds": 61.56557435900322,
+      "fits": 1
+    },
+    {
+      "id": 54,
+      "kind": "pair",
+      "seconds": 73.21336254599737,
+      "fits": 1
+    },
+    {
+      "id": 55,
+      "kind": "pair",
+      "seconds": 71.97315394500038,
+      "fits": 1
+    },
+    {
+      "id": 56,
+      "kind": "pair",
+      "seconds": 98.37362903899339,
+      "fits": 1
+    },
+    {
+      "id": 57,
+      "kind": "pair",
+      "seconds": 108.27021885599243,
+      "fits": 1
+    },
+    {
+      "id": 58,
+      "kind": "pair",
+      "seconds": 104.73290293398895,
+      "fits": 1
+    },
+    {
+      "id": 59,
+      "kind": "pair",
+      "seconds": 112.19314337600372,
+      "fits": 1
+    },
+    {
+      "id": 60,
+      "kind": "pair",
+      "seconds": 83.95482940301008,
+      "fits": 1
+    },
+    {
+      "id": 61,
+      "kind": "pair",
+      "seconds": 83.99134080699878,
+      "fits": 1
+    },
+    {
+      "id": 62,
+      "kind": "pair",
+      "seconds": 86.07727159399656,
+      "fits": 1
+    },
+    {
+      "id": 63,
+      "kind": "pair",
+      "seconds": 85.04356921800354,
+      "fits": 1
+    },
+    {
+      "id": 64,
+      "kind": "pair",
+      "seconds": 76.18587446698803,
+      "fits": 1
+    },
+    {
+      "id": 65,
+      "kind": "pair",
+      "seconds": 78.04236915300135,
+      "fits": 1
+    },
+    {
+      "id": 66,
+      "kind": "pair",
+      "seconds": 71.37262618700333,
+      "fits": 1
+    },
+    {
+      "id": 67,
+      "kind": "pair",
+      "seconds": 72.09455063698988,
+      "fits": 1
+    },
+    {
+      "id": 68,
+      "kind": "pair",
+      "seconds": 76.4795476319996,
+      "fits": 1
+    },
+    {
+      "id": 69,
+      "kind": "pair",
+      "seconds": 80.16884047001076,
+      "fits": 1
+    },
+    {
+      "id": 70,
+      "kind": "pair",
+      "seconds": 124.70053070200083,
+      "fits": 1
+    },
+    {
+      "id": 71,
+      "kind": "pair",
+      "seconds": 120.88051494899264,
+      "fits": 1
+    },
+    {
+      "id": 72,
+      "kind": "pair",
+      "seconds": 108.92043779799133,
+      "fits": 1
+    },
+    {
+      "id": 73,
+      "kind": "pair",
+      "seconds": 99.5933298029995,
+      "fits": 1
+    },
+    {
+      "id": 74,
+      "kind": "pair",
+      "seconds": 85.75347411200346,
+      "fits": 1
+    },
+    {
+      "id": 75,
+      "kind": "pair",
+      "seconds": 111.21178239199799,
+      "fits": 1
+    },
+    {
+      "id": 76,
+      "kind": "pair",
+      "seconds": 84.28109028900508,
+      "fits": 1
+    },
+    {
+      "id": 77,
+      "kind": "pair",
+      "seconds": 83.87863968400052,
+      "fits": 1
+    },
+    {
+      "id": 78,
+      "kind": "pair",
+      "seconds": 70.97446984999988,
+      "fits": 1
+    },
+    {
+      "id": 79,
+      "kind": "pair",
+      "seconds": 70.69166388899612,
+      "fits": 1
+    },
+    {
+      "id": 80,
+      "kind": "pair",
+      "seconds": 61.26113809000526,
+      "fits": 1
+    },
+    {
+      "id": 81,
+      "kind": "pair",
+      "seconds": 61.52317398400919,
+      "fits": 1
+    },
+    {
+      "id": 82,
+      "kind": "pair",
+      "seconds": 69.0537001779885,
+      "fits": 1
+    },
+    {
+      "id": 83,
+      "kind": "pair",
+      "seconds": 68.62839945100131,
+      "fits": 1
+    },
+    {
+      "id": 84,
+      "kind": "pair",
+      "seconds": 127.75079614399874,
+      "fits": 1
+    },
+    {
+      "id": 85,
+      "kind": "pair",
+      "seconds": 148.2480764980137,
+      "fits": 1
+    },
+    {
+      "id": 86,
+      "kind": "pair",
+      "seconds": 111.48713888299244,
+      "fits": 1
+    },
+    {
+      "id": 87,
+      "kind": "pair",
+      "seconds": 111.91508692900243,
+      "fits": 1
+    },
+    {
+      "id": 88,
+      "kind": "pair",
+      "seconds": 88.15528851600538,
+      "fits": 1
+    },
+    {
+      "id": 89,
+      "kind": "pair",
+      "seconds": 93.76601913299237,
+      "fits": 1
+    },
+    {
+      "id": 90,
+      "kind": "pair",
+      "seconds": 84.3797404270008,
+      "fits": 1
+    },
+    {
+      "id": 91,
+      "kind": "pair",
+      "seconds": 84.71369165000215,
+      "fits": 1
+    },
+    {
+      "id": 92,
+      "kind": "pair",
+      "seconds": 68.33317874200293,
+      "fits": 1
+    },
+    {
+      "id": 93,
+      "kind": "pair",
+      "seconds": 68.51898228999926,
+      "fits": 1
+    },
+    {
+      "id": 94,
+      "kind": "pair",
+      "seconds": 63.90824719300144,
+      "fits": 1
+    },
+    {
+      "id": 95,
+      "kind": "pair",
+      "seconds": 64.45458958199015,
+      "fits": 1
+    },
+    {
+      "id": 96,
+      "kind": "pair",
+      "seconds": 71.84366355699603,
+      "fits": 1
+    },
+    {
+      "id": 97,
+      "kind": "pair",
+      "seconds": 71.47580157699122,
+      "fits": 1
+    },
+    {
+      "id": 98,
+      "kind": "pair",
+      "seconds": 101.67299798199383,
+      "fits": 1
+    },
+    {
+      "id": 99,
+      "kind": "pair",
+      "seconds": 106.1582280290022,
+      "fits": 1
+    },
+    {
+      "id": 100,
+      "kind": "pair",
+      "seconds": 104.86880949999613,
+      "fits": 1
+    },
+    {
+      "id": 101,
+      "kind": "pair",
+      "seconds": 104.1941197069973,
+      "fits": 1
+    },
+    {
+      "id": 102,
+      "kind": "pair",
+      "seconds": 83.68140277000202,
+      "fits": 1
+    },
+    {
+      "id": 103,
+      "kind": "pair",
+      "seconds": 92.80483506400196,
+      "fits": 1
+    },
+    {
+      "id": 104,
+      "kind": "pair",
+      "seconds": 84.45425889600301,
+      "fits": 1
+    },
+    {
+      "id": 105,
+      "kind": "pair",
+      "seconds": 86.90272866698797,
+      "fits": 1
+    },
+    {
+      "id": 106,
+      "kind": "pair",
+      "seconds": 70.06464927698835,
+      "fits": 1
+    },
+    {
+      "id": 107,
+      "kind": "pair",
+      "seconds": 68.38129066099646,
+      "fits": 1
+    },
+    {
+      "id": 108,
+      "kind": "pair",
+      "seconds": 61.28252541698748,
+      "fits": 1
+    },
+    {
+      "id": 109,
+      "kind": "pair",
+      "seconds": 59.61007987099583,
+      "fits": 1
+    },
+    {
+      "id": 110,
+      "kind": "pair",
+      "seconds": 59.50890883299871,
+      "fits": 1
+    },
+    {
+      "id": 111,
+      "kind": "pair",
+      "seconds": 60.34237186500104,
+      "fits": 1
+    }
+  ],
+  "fits": 112,
+  "seconds": 900.3922456360015,
+  "timing_scope": "Resume wall time only; original interrupted wall time unmeasured",
+  "sum_saved_fit_wall_seconds": 9796.058674544867,
+  "retained_outputs": 29,
+  "resumed_fits": 83
+}

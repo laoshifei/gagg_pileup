@@ -1,0 +1,17 @@
+{
+  "jupyter/artifacts/alpha_current_pair_energy_20261102/figures/fig_0007_137_1_energy.png": "7041d75deecf638841994373e46b32f6ab63fe882cb86c784a567d0f9f9eb6b0",
+  "jupyter/artifacts/alpha_current_pair_energy_20261102/figures/fig_0007_138_1_success.png": "d6d14018976bf4a4eebde02091b2727caff7bf4838bbc76c189b857f0b5af0bb",
+  "jupyter/artifacts/alpha_current_pair_energy_20261102/figures/fig_0007_139_1_waveforms.png": "7cddd5233417c0ef3dd1c7dce832a6f59d8b20b5a4f2c9fc237cc8cdfecc6d63",
+  "jupyter/artifacts/alpha_current_pair_energy_20261102/figures/fig_0007_140_1_scatter.png": "5b6e2a99134e03b586fcb195c3b6a08a08c011968e92d43493afdd79e52093ab",
+  "pileup/experiments/alpha_current_pair_energy_20261102/README.md": "d1d29644fa0ad9f785553476dbe8eac48d5e7606e146e943800909a544186745",
+  "README.md": "bf083c8ed0208499f73e9c1a7f7146b062a409e1a62649fb03008a5c2f74ba21",
+  "docs/literature-use.md": "8ad7a9ca8a548b13f6ea858e76ccefecfb8a8b91c65a92212c628bd3efb23c71",
+  "pileup/experiments/alpha_current_pair_energy_20261102/tables/energy_groups.csv": "7ca362d7ab37efd7068e35870d7539632709d4e2f3370be5c90e4a664842acca",
+  "pileup/experiments/alpha_current_pair_energy_20261102/tables/fit_details.csv": "f543ed240c81f8c8f95485299531659402a1182d2dc2daaa759b85563b776e85",
+  "pileup/experiments/alpha_current_pair_energy_20261102/tables/reused_root_catalog.csv": "da6dfa10603d8e5bacad04d19cfbcfaea26bf6075162a2a88ac1ce74f421cc72",
+  "pileup/experiments/alpha_current_pair_energy_20261102/tables/short_pooled.csv": "d1e650091130034fa1d6a6507331b59a5fae8a884eb8cde8115a655827154c61",
+  "pileup/experiments/alpha_current_pair_energy_20261102/tables/waveform_cases.csv": "05147795e71b23fd4f6a977f7bc9ffee78007d815584ebb95c8872e1cffd660c",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "41214c7be2c1e4fe24b50c9cc8d534271015cb383553a59aee9387a929b70cfa",
+  "jupyter/Research_Plan_20260921.ipynb": "2bf749f4cab78b12815a02ca2859dc3594cc8720f74ae45987fbecf97ded590e",
+  "jupyter/Run_Catalog.ipynb": "9d1181905cfb3c39eedee574aeaf79018cd2037b9297db1cf0ecc8aac76a9ccb"
+}

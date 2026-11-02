@@ -1,0 +1,1842 @@
+[
+  {
+    "id": 0,
+    "case": 0,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0000.npz",
+    "voltage_sha256": "f7abfc742342831ef8e50081340bc365d3e680099b366e83096483f9c704893a"
+  },
+  {
+    "id": 1,
+    "case": 0,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0000.npz",
+    "voltage_sha256": "f7abfc742342831ef8e50081340bc365d3e680099b366e83096483f9c704893a"
+  },
+  {
+    "id": 2,
+    "case": 0,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0000.npz",
+    "voltage_sha256": "f7abfc742342831ef8e50081340bc365d3e680099b366e83096483f9c704893a"
+  },
+  {
+    "id": 3,
+    "case": 0,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0000.npz",
+    "voltage_sha256": "f7abfc742342831ef8e50081340bc365d3e680099b366e83096483f9c704893a"
+  },
+  {
+    "id": 4,
+    "case": 1,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0001.npz",
+    "voltage_sha256": "a3407d521465ef868ac5d210a2ebcb0654b78c789d01186a3beb1420f48f0624"
+  },
+  {
+    "id": 5,
+    "case": 1,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0001.npz",
+    "voltage_sha256": "a3407d521465ef868ac5d210a2ebcb0654b78c789d01186a3beb1420f48f0624"
+  },
+  {
+    "id": 6,
+    "case": 1,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0001.npz",
+    "voltage_sha256": "a3407d521465ef868ac5d210a2ebcb0654b78c789d01186a3beb1420f48f0624"
+  },
+  {
+    "id": 7,
+    "case": 1,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0001.npz",
+    "voltage_sha256": "a3407d521465ef868ac5d210a2ebcb0654b78c789d01186a3beb1420f48f0624"
+  },
+  {
+    "id": 8,
+    "case": 2,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0002.npz",
+    "voltage_sha256": "525477661cdf0284903555ee278588a8c96d226dc5df9a7c9893a4719dff22e9"
+  },
+  {
+    "id": 9,
+    "case": 2,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0002.npz",
+    "voltage_sha256": "525477661cdf0284903555ee278588a8c96d226dc5df9a7c9893a4719dff22e9"
+  },
+  {
+    "id": 10,
+    "case": 3,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0003.npz",
+    "voltage_sha256": "8215a0baacdc7f2bcb87d5acc458babede850fb78c8d8d82d8853431997b9a5a"
+  },
+  {
+    "id": 11,
+    "case": 3,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0003.npz",
+    "voltage_sha256": "8215a0baacdc7f2bcb87d5acc458babede850fb78c8d8d82d8853431997b9a5a"
+  },
+  {
+    "id": 12,
+    "case": 4,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0004.npz",
+    "voltage_sha256": "4e33b00d7641789ae4c212c614fdda08c13fdf628b1876d1f59480a0495b6b24"
+  },
+  {
+    "id": 13,
+    "case": 4,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0004.npz",
+    "voltage_sha256": "4e33b00d7641789ae4c212c614fdda08c13fdf628b1876d1f59480a0495b6b24"
+  },
+  {
+    "id": 14,
+    "case": 5,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0005.npz",
+    "voltage_sha256": "0ea6e8311b791563ff646b72f0d6776be14afcf3dc76575e9f9f9c1ba89e0db6"
+  },
+  {
+    "id": 15,
+    "case": 5,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0005.npz",
+    "voltage_sha256": "0ea6e8311b791563ff646b72f0d6776be14afcf3dc76575e9f9f9c1ba89e0db6"
+  },
+  {
+    "id": 16,
+    "case": 5,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0005.npz",
+    "voltage_sha256": "0ea6e8311b791563ff646b72f0d6776be14afcf3dc76575e9f9f9c1ba89e0db6"
+  },
+  {
+    "id": 17,
+    "case": 5,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0005.npz",
+    "voltage_sha256": "0ea6e8311b791563ff646b72f0d6776be14afcf3dc76575e9f9f9c1ba89e0db6"
+  },
+  {
+    "id": 18,
+    "case": 6,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0006.npz",
+    "voltage_sha256": "de7043a6357a45159aef7f8126e2240418a98f21108c66e908288844304c5521"
+  },
+  {
+    "id": 19,
+    "case": 6,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0006.npz",
+    "voltage_sha256": "de7043a6357a45159aef7f8126e2240418a98f21108c66e908288844304c5521"
+  },
+  {
+    "id": 20,
+    "case": 6,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0006.npz",
+    "voltage_sha256": "de7043a6357a45159aef7f8126e2240418a98f21108c66e908288844304c5521"
+  },
+  {
+    "id": 21,
+    "case": 6,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0006.npz",
+    "voltage_sha256": "de7043a6357a45159aef7f8126e2240418a98f21108c66e908288844304c5521"
+  },
+  {
+    "id": 22,
+    "case": 7,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0007.npz",
+    "voltage_sha256": "497e9a021103cac274fc67bb5824488d658b8b50ccc8137505562638c3f7e3b0"
+  },
+  {
+    "id": 23,
+    "case": 7,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0007.npz",
+    "voltage_sha256": "497e9a021103cac274fc67bb5824488d658b8b50ccc8137505562638c3f7e3b0"
+  },
+  {
+    "id": 24,
+    "case": 8,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0008.npz",
+    "voltage_sha256": "3304a455c82090f9cdb71729bf672639486be02adf14ddcf5549205aac6b3123"
+  },
+  {
+    "id": 25,
+    "case": 8,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0008.npz",
+    "voltage_sha256": "3304a455c82090f9cdb71729bf672639486be02adf14ddcf5549205aac6b3123"
+  },
+  {
+    "id": 26,
+    "case": 9,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0009.npz",
+    "voltage_sha256": "39200649dcc144398908a2310301a14f9bbca03fd6a7848fdad81e63b19d5f14"
+  },
+  {
+    "id": 27,
+    "case": 9,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0009.npz",
+    "voltage_sha256": "39200649dcc144398908a2310301a14f9bbca03fd6a7848fdad81e63b19d5f14"
+  },
+  {
+    "id": 28,
+    "case": 10,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0010.npz",
+    "voltage_sha256": "5f6df5a0dbfa9f5c15c2098963e3459c9eca78ac2bc3cdc8420ff6f83e7ac61b"
+  },
+  {
+    "id": 29,
+    "case": 10,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0010.npz",
+    "voltage_sha256": "5f6df5a0dbfa9f5c15c2098963e3459c9eca78ac2bc3cdc8420ff6f83e7ac61b"
+  },
+  {
+    "id": 30,
+    "case": 10,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0010.npz",
+    "voltage_sha256": "5f6df5a0dbfa9f5c15c2098963e3459c9eca78ac2bc3cdc8420ff6f83e7ac61b"
+  },
+  {
+    "id": 31,
+    "case": 10,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0010.npz",
+    "voltage_sha256": "5f6df5a0dbfa9f5c15c2098963e3459c9eca78ac2bc3cdc8420ff6f83e7ac61b"
+  },
+  {
+    "id": 32,
+    "case": 11,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0011.npz",
+    "voltage_sha256": "7d4d280170113fd7d9232f08bf11b4dda5a218da2e799a4b6d7e6e4d42ba00cb"
+  },
+  {
+    "id": 33,
+    "case": 11,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0011.npz",
+    "voltage_sha256": "7d4d280170113fd7d9232f08bf11b4dda5a218da2e799a4b6d7e6e4d42ba00cb"
+  },
+  {
+    "id": 34,
+    "case": 11,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0011.npz",
+    "voltage_sha256": "7d4d280170113fd7d9232f08bf11b4dda5a218da2e799a4b6d7e6e4d42ba00cb"
+  },
+  {
+    "id": 35,
+    "case": 11,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0011.npz",
+    "voltage_sha256": "7d4d280170113fd7d9232f08bf11b4dda5a218da2e799a4b6d7e6e4d42ba00cb"
+  },
+  {
+    "id": 36,
+    "case": 12,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0012.npz",
+    "voltage_sha256": "0bbd94e4f2053e0a5d49cd6bbb3d6ce9eb1fac47308d82fc5b81778055d72eef"
+  },
+  {
+    "id": 37,
+    "case": 12,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0012.npz",
+    "voltage_sha256": "0bbd94e4f2053e0a5d49cd6bbb3d6ce9eb1fac47308d82fc5b81778055d72eef"
+  },
+  {
+    "id": 38,
+    "case": 13,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0013.npz",
+    "voltage_sha256": "7812f10cb1f2d7f06e72d0f9b96ece99dfe861af3edae6174bdec3f3d60bbb51"
+  },
+  {
+    "id": 39,
+    "case": 13,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0013.npz",
+    "voltage_sha256": "7812f10cb1f2d7f06e72d0f9b96ece99dfe861af3edae6174bdec3f3d60bbb51"
+  },
+  {
+    "id": 40,
+    "case": 14,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0014.npz",
+    "voltage_sha256": "2f627f26482b32d4efd4e77f7eb5a55ef44b9152b8f0cb91bb5e867c350c2c69"
+  },
+  {
+    "id": 41,
+    "case": 14,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0014.npz",
+    "voltage_sha256": "2f627f26482b32d4efd4e77f7eb5a55ef44b9152b8f0cb91bb5e867c350c2c69"
+  },
+  {
+    "id": 42,
+    "case": 15,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0015.npz",
+    "voltage_sha256": "ee59e348a125ef5905a5325b9044abc052a124cdbcd853679dad068ccc2c77da"
+  },
+  {
+    "id": 43,
+    "case": 15,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0015.npz",
+    "voltage_sha256": "ee59e348a125ef5905a5325b9044abc052a124cdbcd853679dad068ccc2c77da"
+  },
+  {
+    "id": 44,
+    "case": 15,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0015.npz",
+    "voltage_sha256": "ee59e348a125ef5905a5325b9044abc052a124cdbcd853679dad068ccc2c77da"
+  },
+  {
+    "id": 45,
+    "case": 15,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0015.npz",
+    "voltage_sha256": "ee59e348a125ef5905a5325b9044abc052a124cdbcd853679dad068ccc2c77da"
+  },
+  {
+    "id": 46,
+    "case": 16,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0016.npz",
+    "voltage_sha256": "682d2e8e5eb8a8cb491bf33a653c86136f25b9786bbff11730d03b4682b89e40"
+  },
+  {
+    "id": 47,
+    "case": 16,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0016.npz",
+    "voltage_sha256": "682d2e8e5eb8a8cb491bf33a653c86136f25b9786bbff11730d03b4682b89e40"
+  },
+  {
+    "id": 48,
+    "case": 16,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0016.npz",
+    "voltage_sha256": "682d2e8e5eb8a8cb491bf33a653c86136f25b9786bbff11730d03b4682b89e40"
+  },
+  {
+    "id": 49,
+    "case": 16,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0016.npz",
+    "voltage_sha256": "682d2e8e5eb8a8cb491bf33a653c86136f25b9786bbff11730d03b4682b89e40"
+  },
+  {
+    "id": 50,
+    "case": 17,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0017.npz",
+    "voltage_sha256": "84f261bd8021e971e2bb8ae1b52f7159761f6da02da597a25da35c9784a45f2d"
+  },
+  {
+    "id": 51,
+    "case": 17,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0017.npz",
+    "voltage_sha256": "84f261bd8021e971e2bb8ae1b52f7159761f6da02da597a25da35c9784a45f2d"
+  },
+  {
+    "id": 52,
+    "case": 18,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0018.npz",
+    "voltage_sha256": "1b8f96210e59ce9d5de2111a68f710d2fc17f830c4c05853d15721ae2a50ceb2"
+  },
+  {
+    "id": 53,
+    "case": 18,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0018.npz",
+    "voltage_sha256": "1b8f96210e59ce9d5de2111a68f710d2fc17f830c4c05853d15721ae2a50ceb2"
+  },
+  {
+    "id": 54,
+    "case": 19,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0019.npz",
+    "voltage_sha256": "3770f7307785f83bf1de770c7f8e967a8d3be022146f6b959302e593d934bdef"
+  },
+  {
+    "id": 55,
+    "case": 19,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0019.npz",
+    "voltage_sha256": "3770f7307785f83bf1de770c7f8e967a8d3be022146f6b959302e593d934bdef"
+  },
+  {
+    "id": 56,
+    "case": 20,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0020.npz",
+    "voltage_sha256": "4330f3de41dab69eb0ce2f1c99bb688259454d95a284ccf07c5ae80b2f20a9be"
+  },
+  {
+    "id": 57,
+    "case": 20,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0020.npz",
+    "voltage_sha256": "4330f3de41dab69eb0ce2f1c99bb688259454d95a284ccf07c5ae80b2f20a9be"
+  },
+  {
+    "id": 58,
+    "case": 20,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0020.npz",
+    "voltage_sha256": "4330f3de41dab69eb0ce2f1c99bb688259454d95a284ccf07c5ae80b2f20a9be"
+  },
+  {
+    "id": 59,
+    "case": 20,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0020.npz",
+    "voltage_sha256": "4330f3de41dab69eb0ce2f1c99bb688259454d95a284ccf07c5ae80b2f20a9be"
+  },
+  {
+    "id": 60,
+    "case": 21,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0021.npz",
+    "voltage_sha256": "4ddef9564f941dc83555f232211e93ab77527fb9fd46fdbdf3ea8bbd53c5a178"
+  },
+  {
+    "id": 61,
+    "case": 21,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0021.npz",
+    "voltage_sha256": "4ddef9564f941dc83555f232211e93ab77527fb9fd46fdbdf3ea8bbd53c5a178"
+  },
+  {
+    "id": 62,
+    "case": 21,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0021.npz",
+    "voltage_sha256": "4ddef9564f941dc83555f232211e93ab77527fb9fd46fdbdf3ea8bbd53c5a178"
+  },
+  {
+    "id": 63,
+    "case": 21,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0021.npz",
+    "voltage_sha256": "4ddef9564f941dc83555f232211e93ab77527fb9fd46fdbdf3ea8bbd53c5a178"
+  },
+  {
+    "id": 64,
+    "case": 22,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0022.npz",
+    "voltage_sha256": "216f45d3954408efcf86fa228465aa35b2a89aac1d917a796a7784d530a71eed"
+  },
+  {
+    "id": 65,
+    "case": 22,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0022.npz",
+    "voltage_sha256": "216f45d3954408efcf86fa228465aa35b2a89aac1d917a796a7784d530a71eed"
+  },
+  {
+    "id": 66,
+    "case": 23,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0023.npz",
+    "voltage_sha256": "28008596d6c4d292557d3332643d7805f936d364e875cd707702e60939d4f346"
+  },
+  {
+    "id": 67,
+    "case": 23,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0023.npz",
+    "voltage_sha256": "28008596d6c4d292557d3332643d7805f936d364e875cd707702e60939d4f346"
+  },
+  {
+    "id": 68,
+    "case": 24,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0024.npz",
+    "voltage_sha256": "691178da3216d8636d1cb4861c5641e968e4a937b232f9f1e1089b09cc23018a"
+  },
+  {
+    "id": 69,
+    "case": 24,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0024.npz",
+    "voltage_sha256": "691178da3216d8636d1cb4861c5641e968e4a937b232f9f1e1089b09cc23018a"
+  },
+  {
+    "id": 70,
+    "case": 25,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0025.npz",
+    "voltage_sha256": "1f30b0cf27b42975b9b9442fe93ce3677be9002205c2e7709303f629a6e57c18"
+  },
+  {
+    "id": 71,
+    "case": 25,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0025.npz",
+    "voltage_sha256": "1f30b0cf27b42975b9b9442fe93ce3677be9002205c2e7709303f629a6e57c18"
+  },
+  {
+    "id": 72,
+    "case": 25,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0025.npz",
+    "voltage_sha256": "1f30b0cf27b42975b9b9442fe93ce3677be9002205c2e7709303f629a6e57c18"
+  },
+  {
+    "id": 73,
+    "case": 25,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0025.npz",
+    "voltage_sha256": "1f30b0cf27b42975b9b9442fe93ce3677be9002205c2e7709303f629a6e57c18"
+  },
+  {
+    "id": 74,
+    "case": 26,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0026.npz",
+    "voltage_sha256": "849afd5cb653da01e411887c73226bcf1c1df326bd5d671610a92d7b5e9667e5"
+  },
+  {
+    "id": 75,
+    "case": 26,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0026.npz",
+    "voltage_sha256": "849afd5cb653da01e411887c73226bcf1c1df326bd5d671610a92d7b5e9667e5"
+  },
+  {
+    "id": 76,
+    "case": 26,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0026.npz",
+    "voltage_sha256": "849afd5cb653da01e411887c73226bcf1c1df326bd5d671610a92d7b5e9667e5"
+  },
+  {
+    "id": 77,
+    "case": 26,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0026.npz",
+    "voltage_sha256": "849afd5cb653da01e411887c73226bcf1c1df326bd5d671610a92d7b5e9667e5"
+  },
+  {
+    "id": 78,
+    "case": 27,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0027.npz",
+    "voltage_sha256": "6d962de7bdd8be82e476b71f03e5e80c79468892301fb62b7f973fdefb6148cd"
+  },
+  {
+    "id": 79,
+    "case": 27,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0027.npz",
+    "voltage_sha256": "6d962de7bdd8be82e476b71f03e5e80c79468892301fb62b7f973fdefb6148cd"
+  },
+  {
+    "id": 80,
+    "case": 28,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0028.npz",
+    "voltage_sha256": "7c70cdc6227df04d3cb3c8d699408f1253051667b231b26a15ca97ec648ef67e"
+  },
+  {
+    "id": 81,
+    "case": 28,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0028.npz",
+    "voltage_sha256": "7c70cdc6227df04d3cb3c8d699408f1253051667b231b26a15ca97ec648ef67e"
+  },
+  {
+    "id": 82,
+    "case": 29,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0029.npz",
+    "voltage_sha256": "ec395f68067ea415de1fb11895cc5922fedacc7351ee870f0ccad603c89ecbae"
+  },
+  {
+    "id": 83,
+    "case": 29,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0029.npz",
+    "voltage_sha256": "ec395f68067ea415de1fb11895cc5922fedacc7351ee870f0ccad603c89ecbae"
+  },
+  {
+    "id": 84,
+    "case": 30,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0030.npz",
+    "voltage_sha256": "2f2deec4be4375c7cc3b1822c62ecccd19b620428223da2da969ff558ad774da"
+  },
+  {
+    "id": 85,
+    "case": 30,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0030.npz",
+    "voltage_sha256": "2f2deec4be4375c7cc3b1822c62ecccd19b620428223da2da969ff558ad774da"
+  },
+  {
+    "id": 86,
+    "case": 30,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0030.npz",
+    "voltage_sha256": "2f2deec4be4375c7cc3b1822c62ecccd19b620428223da2da969ff558ad774da"
+  },
+  {
+    "id": 87,
+    "case": 30,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0030.npz",
+    "voltage_sha256": "2f2deec4be4375c7cc3b1822c62ecccd19b620428223da2da969ff558ad774da"
+  },
+  {
+    "id": 88,
+    "case": 31,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0031.npz",
+    "voltage_sha256": "e23c2ce8243a9ac6985da1d88de8835c420627a1910e9328d4e5d9b6e3b317cc"
+  },
+  {
+    "id": 89,
+    "case": 31,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0031.npz",
+    "voltage_sha256": "e23c2ce8243a9ac6985da1d88de8835c420627a1910e9328d4e5d9b6e3b317cc"
+  },
+  {
+    "id": 90,
+    "case": 31,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0031.npz",
+    "voltage_sha256": "e23c2ce8243a9ac6985da1d88de8835c420627a1910e9328d4e5d9b6e3b317cc"
+  },
+  {
+    "id": 91,
+    "case": 31,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0031.npz",
+    "voltage_sha256": "e23c2ce8243a9ac6985da1d88de8835c420627a1910e9328d4e5d9b6e3b317cc"
+  },
+  {
+    "id": 92,
+    "case": 32,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0032.npz",
+    "voltage_sha256": "71b7be887532823ca11a7892adcbe124f89b06aa502761278ae417c2f5cd9a7f"
+  },
+  {
+    "id": 93,
+    "case": 32,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0032.npz",
+    "voltage_sha256": "71b7be887532823ca11a7892adcbe124f89b06aa502761278ae417c2f5cd9a7f"
+  },
+  {
+    "id": 94,
+    "case": 33,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0033.npz",
+    "voltage_sha256": "6a374c1a39f178934aea8e08aaf2c64736522c059341a67c85a8b3a73d3b1d51"
+  },
+  {
+    "id": 95,
+    "case": 33,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0033.npz",
+    "voltage_sha256": "6a374c1a39f178934aea8e08aaf2c64736522c059341a67c85a8b3a73d3b1d51"
+  },
+  {
+    "id": 96,
+    "case": 34,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0034.npz",
+    "voltage_sha256": "2f4a1f178c4ce86208515abe10354a2c477a42c63e47ea229a2fffaa4f222a41"
+  },
+  {
+    "id": 97,
+    "case": 34,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0034.npz",
+    "voltage_sha256": "2f4a1f178c4ce86208515abe10354a2c477a42c63e47ea229a2fffaa4f222a41"
+  },
+  {
+    "id": 98,
+    "case": 35,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0035.npz",
+    "voltage_sha256": "8ce74842d3ac9ef6c2e2ade08334e5f027e0004d2661995b1aa20915cbf9cd73"
+  },
+  {
+    "id": 99,
+    "case": 35,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0035.npz",
+    "voltage_sha256": "8ce74842d3ac9ef6c2e2ade08334e5f027e0004d2661995b1aa20915cbf9cd73"
+  },
+  {
+    "id": 100,
+    "case": 35,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0035.npz",
+    "voltage_sha256": "8ce74842d3ac9ef6c2e2ade08334e5f027e0004d2661995b1aa20915cbf9cd73"
+  },
+  {
+    "id": 101,
+    "case": 35,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0035.npz",
+    "voltage_sha256": "8ce74842d3ac9ef6c2e2ade08334e5f027e0004d2661995b1aa20915cbf9cd73"
+  },
+  {
+    "id": 102,
+    "case": 36,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0036.npz",
+    "voltage_sha256": "6805a3d6356efaf7f6a14be8e6e67f7d0067bb55a04c18f4017befe17f422d91"
+  },
+  {
+    "id": 103,
+    "case": 36,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0036.npz",
+    "voltage_sha256": "6805a3d6356efaf7f6a14be8e6e67f7d0067bb55a04c18f4017befe17f422d91"
+  },
+  {
+    "id": 104,
+    "case": 36,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0036.npz",
+    "voltage_sha256": "6805a3d6356efaf7f6a14be8e6e67f7d0067bb55a04c18f4017befe17f422d91"
+  },
+  {
+    "id": 105,
+    "case": 36,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0036.npz",
+    "voltage_sha256": "6805a3d6356efaf7f6a14be8e6e67f7d0067bb55a04c18f4017befe17f422d91"
+  },
+  {
+    "id": 106,
+    "case": 37,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0037.npz",
+    "voltage_sha256": "5595806abfb1a47e79320b10268d7a641e50596113420f2a119713b736c519f1"
+  },
+  {
+    "id": 107,
+    "case": 37,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0037.npz",
+    "voltage_sha256": "5595806abfb1a47e79320b10268d7a641e50596113420f2a119713b736c519f1"
+  },
+  {
+    "id": 108,
+    "case": 38,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0038.npz",
+    "voltage_sha256": "8f68fe77c4a0292e99b65e2373338ee968c0c0eff4436e2ea7c95424bb4cd93c"
+  },
+  {
+    "id": 109,
+    "case": 38,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0038.npz",
+    "voltage_sha256": "8f68fe77c4a0292e99b65e2373338ee968c0c0eff4436e2ea7c95424bb4cd93c"
+  },
+  {
+    "id": 110,
+    "case": 39,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0039.npz",
+    "voltage_sha256": "90c45d31c66fea7fd35e26c9b101bcfade827329dfb640720c6809be1cfa300f"
+  },
+  {
+    "id": 111,
+    "case": 39,
+    "kind": "pair",
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0039.npz",
+    "voltage_sha256": "90c45d31c66fea7fd35e26c9b101bcfade827329dfb640720c6809be1cfa300f"
+  },
+  {
+    "id": 112,
+    "case": 40,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0040.npz",
+    "voltage_sha256": "59766a99b258e782d78d2f5030ddaaf596ad1cf3f89aba156b81f27499a4d60c"
+  },
+  {
+    "id": 113,
+    "case": 40,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0040.npz",
+    "voltage_sha256": "59766a99b258e782d78d2f5030ddaaf596ad1cf3f89aba156b81f27499a4d60c"
+  },
+  {
+    "id": 114,
+    "case": 40,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0040.npz",
+    "voltage_sha256": "59766a99b258e782d78d2f5030ddaaf596ad1cf3f89aba156b81f27499a4d60c"
+  },
+  {
+    "id": 115,
+    "case": 40,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0040.npz",
+    "voltage_sha256": "59766a99b258e782d78d2f5030ddaaf596ad1cf3f89aba156b81f27499a4d60c"
+  },
+  {
+    "id": 116,
+    "case": 41,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0041.npz",
+    "voltage_sha256": "600106c50b2420b516f8157eb71485e6ed678457c4dad871b0c7f8e1f99a13e3"
+  },
+  {
+    "id": 117,
+    "case": 41,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0041.npz",
+    "voltage_sha256": "600106c50b2420b516f8157eb71485e6ed678457c4dad871b0c7f8e1f99a13e3"
+  },
+  {
+    "id": 118,
+    "case": 41,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0041.npz",
+    "voltage_sha256": "600106c50b2420b516f8157eb71485e6ed678457c4dad871b0c7f8e1f99a13e3"
+  },
+  {
+    "id": 119,
+    "case": 41,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0041.npz",
+    "voltage_sha256": "600106c50b2420b516f8157eb71485e6ed678457c4dad871b0c7f8e1f99a13e3"
+  },
+  {
+    "id": 120,
+    "case": 42,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0042.npz",
+    "voltage_sha256": "5e338b3c9cd9211f55c4067442c39a895f2d64d7a6077f8ec6412a264717d04a"
+  },
+  {
+    "id": 121,
+    "case": 42,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0042.npz",
+    "voltage_sha256": "5e338b3c9cd9211f55c4067442c39a895f2d64d7a6077f8ec6412a264717d04a"
+  },
+  {
+    "id": 122,
+    "case": 42,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0042.npz",
+    "voltage_sha256": "5e338b3c9cd9211f55c4067442c39a895f2d64d7a6077f8ec6412a264717d04a"
+  },
+  {
+    "id": 123,
+    "case": 42,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0042.npz",
+    "voltage_sha256": "5e338b3c9cd9211f55c4067442c39a895f2d64d7a6077f8ec6412a264717d04a"
+  },
+  {
+    "id": 124,
+    "case": 43,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0043.npz",
+    "voltage_sha256": "0319f36dc7ceda835c7ed90ce8c1eb91951686be2b7606a07a0a95c3f8ad293e"
+  },
+  {
+    "id": 125,
+    "case": 43,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0043.npz",
+    "voltage_sha256": "0319f36dc7ceda835c7ed90ce8c1eb91951686be2b7606a07a0a95c3f8ad293e"
+  },
+  {
+    "id": 126,
+    "case": 43,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0043.npz",
+    "voltage_sha256": "0319f36dc7ceda835c7ed90ce8c1eb91951686be2b7606a07a0a95c3f8ad293e"
+  },
+  {
+    "id": 127,
+    "case": 43,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0043.npz",
+    "voltage_sha256": "0319f36dc7ceda835c7ed90ce8c1eb91951686be2b7606a07a0a95c3f8ad293e"
+  },
+  {
+    "id": 128,
+    "case": 44,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0044.npz",
+    "voltage_sha256": "b9b3176028580d9c2ab3ca1b347635f35591f7d69e5571acac5a8bc1cbc7d8db"
+  },
+  {
+    "id": 129,
+    "case": 44,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0044.npz",
+    "voltage_sha256": "b9b3176028580d9c2ab3ca1b347635f35591f7d69e5571acac5a8bc1cbc7d8db"
+  },
+  {
+    "id": 130,
+    "case": 44,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0044.npz",
+    "voltage_sha256": "b9b3176028580d9c2ab3ca1b347635f35591f7d69e5571acac5a8bc1cbc7d8db"
+  },
+  {
+    "id": 131,
+    "case": 44,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0044.npz",
+    "voltage_sha256": "b9b3176028580d9c2ab3ca1b347635f35591f7d69e5571acac5a8bc1cbc7d8db"
+  },
+  {
+    "id": 132,
+    "case": 45,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0045.npz",
+    "voltage_sha256": "d7137a11e9bd0373d1041305dc8d4102355371a1c425af6f0a590a963eba3a3c"
+  },
+  {
+    "id": 133,
+    "case": 45,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0045.npz",
+    "voltage_sha256": "d7137a11e9bd0373d1041305dc8d4102355371a1c425af6f0a590a963eba3a3c"
+  },
+  {
+    "id": 134,
+    "case": 45,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0045.npz",
+    "voltage_sha256": "d7137a11e9bd0373d1041305dc8d4102355371a1c425af6f0a590a963eba3a3c"
+  },
+  {
+    "id": 135,
+    "case": 45,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0045.npz",
+    "voltage_sha256": "d7137a11e9bd0373d1041305dc8d4102355371a1c425af6f0a590a963eba3a3c"
+  },
+  {
+    "id": 136,
+    "case": 46,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0046.npz",
+    "voltage_sha256": "b7fc44641b96fc41aacf0f5a6758076b34047f0ff2e114b2c8a5a06901a76a7b"
+  },
+  {
+    "id": 137,
+    "case": 46,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0046.npz",
+    "voltage_sha256": "b7fc44641b96fc41aacf0f5a6758076b34047f0ff2e114b2c8a5a06901a76a7b"
+  },
+  {
+    "id": 138,
+    "case": 46,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0046.npz",
+    "voltage_sha256": "b7fc44641b96fc41aacf0f5a6758076b34047f0ff2e114b2c8a5a06901a76a7b"
+  },
+  {
+    "id": 139,
+    "case": 46,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0046.npz",
+    "voltage_sha256": "b7fc44641b96fc41aacf0f5a6758076b34047f0ff2e114b2c8a5a06901a76a7b"
+  },
+  {
+    "id": 140,
+    "case": 47,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0047.npz",
+    "voltage_sha256": "1738e0171bc6d26e1bf86a808d03b0e070eac5b0e2782122ded077f330687d44"
+  },
+  {
+    "id": 141,
+    "case": 47,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": 0,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0047.npz",
+    "voltage_sha256": "1738e0171bc6d26e1bf86a808d03b0e070eac5b0e2782122ded077f330687d44"
+  },
+  {
+    "id": 142,
+    "case": 47,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "old",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0047.npz",
+    "voltage_sha256": "1738e0171bc6d26e1bf86a808d03b0e070eac5b0e2782122ded077f330687d44"
+  },
+  {
+    "id": 143,
+    "case": 47,
+    "kind": "single",
+    "times_ns": [
+      128.0
+    ],
+    "repeat": -1,
+    "method": "corrected",
+    "voltage": "jupyter/artifacts/alpha_current_pair_energy_20261102/voltage/0047.npz",
+    "voltage_sha256": "1738e0171bc6d26e1bf86a808d03b0e070eac5b0e2782122ded077f330687d44"
+  }
+]

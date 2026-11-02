@@ -1,0 +1,52 @@
+{
+  "rows": [
+    {
+      "pilot_id": 0,
+      "method": "old",
+      "seconds": 108.69164413699764,
+      "evaluations": 41,
+      "converged": true
+    },
+    {
+      "pilot_id": 0,
+      "method": "corrected",
+      "seconds": 131.16237309601274,
+      "evaluations": 50,
+      "converged": true
+    },
+    {
+      "pilot_id": 2,
+      "method": "old",
+      "seconds": 91.70831095799804,
+      "evaluations": 34,
+      "converged": true
+    },
+    {
+      "pilot_id": 2,
+      "method": "corrected",
+      "seconds": 111.79809021099936,
+      "evaluations": 42,
+      "converged": true
+    },
+    {
+      "pilot_id": 4,
+      "method": "old",
+      "seconds": 60.08106566200149,
+      "evaluations": 22,
+      "converged": true
+    },
+    {
+      "pilot_id": 4,
+      "method": "corrected",
+      "seconds": 62.877661691993126,
+      "evaluations": 23,
+      "converged": true
+    }
+  ],
+  "wall_seconds": 131.58888138599286,
+  "pilot_fits": 6,
+  "new_ROOTs": 0,
+  "new_digitizations": 0,
+  "inputs": "Excluded L97 pilot mothers0/6; first saved noisy repetition at phase0",
+  "efficacy_used_for_design": false
+}
