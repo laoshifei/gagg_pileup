@@ -1,0 +1,41 @@
+{
+  "created_utc": "2026-11-02T10:05:23.144243+00:00",
+  "base_commit": "eaa856333760a9ca7bbcf09895f8ffda86fa149d",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_current_confirmation_study.py\n?? pileup/analysis/alpha_current_response.py\n?? pileup/analysis/alpha_current_response_study.py\n?? pileup/analysis/test_alpha_current_response.py\n?? pileup/experiments/alpha_current_confirmation_20261102/\n?? pileup/experiments/alpha_current_response_20261102/\n",
+  "purpose": "Independent current-environment transfer test of frozen L93 old and corrected means; not same-environment historical confirmation",
+  "prerequisite": "Current-response four-energy/four-phase engineering and native readout controls passed before fresh generation",
+  "sample": "8 pilot mothers IDs0..7 excluded from inference;336 formal mothers IDs8..343;source8MeV central normal alpha; no Q/E cuts",
+  "independence": "Native G4 seeds are unused in audited historical manifests; no fresh event can train or change fixed model/thresholds",
+  "physics": "Unchanged39G4 source/config files;Geant4 11.3.2 ROOT6.34.10;95/351ns fastfraction.3,29ns recovery proxy,14400cells",
+  "window": "One20us native WaveformEvent/SiPMEvent perROOT;onealpha at5us; no Poisson source rate or background",
+  "output": "g4/data/YYYYMMDD_HHhMMmSSs.root; no overwrite; launches>=1.05s; serial G4, at most8 concurrent tasks",
+  "formal_digitizations": 2688,
+  "pilot_digitizations": 64,
+  "formal_fits": 6048,
+  "pilot_fits": 36,
+  "observation": "4096ns offline, first2048ns/1024samples;2nsperiod,.5nsaperture;first active photon aligned128ns, phase0;all photons retained",
+  "primary": "8and40ns fixed nominal weak-logE projected per-mother MSEratio<1 AND pairedmother bootstrap95%upper<1 AND abs(correctedmean)<=max(10,.7absoldmean)",
+  "secondary": "200ns projection;single-E corrected mean bias<=5%,individual RMSEratio<=1.1,zero unconverged fits; report boundaries and conditional±10%counts",
+  "interpretation": "Projection units100delta ln E are not actual pair energy errors. Known K1/t isolated fits are not blind efficiency; no double-pulse fitting or high-rate expansion",
+  "bootstrap": "10000 paired whole-mother draws,seed738900000; conditional on frozen models and this current environment; no model retraining uncertainty",
+  "pilot_gate": "Only structure,config/seeds,finitearrays,causality,readoutaudit and projected cost<900s; no efficacy threshold using pilot outcomes",
+  "stages": [
+    "preflight nativeID0",
+    "native pilot IDs1..7",
+    "pilot digital/readout/fit checks",
+    "native formal",
+    "formal offline",
+    "formal fit",
+    "score",
+    "local replay"
+  ],
+  "pilot_fit_ids": [
+    0,
+    1
+  ],
+  "workers": 8,
+  "BLAS_threads": 1,
+  "no_new_model": true,
+  "default_changed": false,
+  "limitations": "Strong-source only;336 rounds old approx334 and does not guarantee precision; environment shift and finite training uncertainty remain"
+}

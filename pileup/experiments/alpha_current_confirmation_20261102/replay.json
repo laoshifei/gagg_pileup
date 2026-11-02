@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "exact_arrays": 6,
+  "digitizations": 4,
+  "fits": 18,
+  "digitization_rows": [
+    {
+      "id": 8,
+      "kind": "single",
+      "seconds": 0.2350699470116524,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 343,
+      "kind": "single",
+      "seconds": 0.23653407399251591,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "fit_rows": [
+    {
+      "id": 8,
+      "seconds": 0.12821485298627522,
+      "fits": 18
+    }
+  ],
+  "all_fit_outputs_equal_except_timing": true
+}

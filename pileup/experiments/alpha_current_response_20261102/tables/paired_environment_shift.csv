@@ -1,0 +1,9 @@
+group,method,units,mothers,repeats,mean_change,ci95
+0,old,energy bias percentage points; current-historical,4,8,0.6570707746989466,"[-1.6213347383502201, 3.401749057208194]"
+0,corrected,energy bias percentage points; current-historical,4,8,0.6837673467021416,"[-1.5675363351560265, 3.356144050541395]"
+1,old,energy bias percentage points; current-historical,4,8,0.19282068002663932,"[-0.8005939826731299, 1.110443982738786]"
+1,corrected,energy bias percentage points; current-historical,4,8,0.1386815707544103,"[-0.9185210804026552, 1.0529124439478168]"
+2,old,energy bias percentage points; current-historical,4,8,0.45996621734209486,"[0.1331502238571553, 0.7831506542719121]"
+2,corrected,energy bias percentage points; current-historical,4,8,0.4554610171491849,"[0.1251032068918953, 0.7866700242831793]"
+3,old,energy bias percentage points; current-historical,4,8,0.18280143985211703,"[-0.2313744776064976, 0.5969773573107316]"
+3,corrected,energy bias percentage points; current-historical,4,8,0.1610281274865441,"[-0.25306414051467285, 0.5751203954877611]"

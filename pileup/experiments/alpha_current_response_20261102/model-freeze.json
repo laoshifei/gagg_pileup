@@ -1,0 +1,12 @@
+{
+  "pileup/experiments/alpha_current_response_20261102/template.npz": "bf938c3966242f9647ee7c58ebbf86e1c41769e30ef3b2d0e47dddf2da10df76",
+  "pileup/experiments/alpha_current_response_20261102/energy-model.json": "049d3b66362fa9ebe7b684252be85070508f403a96725cda634454c7ccff4a49",
+  "pileup/experiments/alpha_current_response_20261102/response-parameters.json": "00d6a16c768c84136fee7d7d7f9c0911127e22d0bf6f821edc41d5d3fdce982a",
+  "pileup/experiments/alpha_current_response_20261102/mean-correction.npz": "b6a26bb5e1aadad963abae1ad1e1aad98a5150ecceef8ab98622117d95244348",
+  "pileup/experiments/alpha_current_response_20261102/noise-calibration.json": "a46e5e0b4bdefcbb5d186faeb7e1d0e2869052262aacb0352800181795e0d50a",
+  "pileup/experiments/alpha_current_response_20261102/sensor-config.json": "e499d0abae465cfe4472927448a40efca0189c333f5c14c03dd46328e7685544",
+  "pileup/experiments/alpha_current_response_20261102/charge-map-spatial12.npz": "61d35b4bdb341770114d62d9b75b5854e02476878dc837131147fbc7ed75dec0",
+  "pileup/experiments/alpha_current_response_20261102/spatial-profile.npz": "a4cecbb5007b2d27a0f0fcbd9d7c078cde99d4ec63dfafbf5e17690eff2a51a5",
+  "pileup/experiments/alpha_current_response_20261102/shape-correction.npz": "231b1ffdc1ffbd333ed2747c3c2430cf0f0a51330a7f323f88bd92011388a9a5",
+  "pileup/experiments/alpha_current_response_20261102/nominal-influences.npz": "5f9e03f4f0ed32660f717929d0191e3dc233613823ce011ffad40cb688b721e4"
+}

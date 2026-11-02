@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "confirmation": {
+    "design-freeze.json": 92,
+    "model-freeze.json": 10
+  },
+  "controls": {
+    "design-freeze.json": 150,
+    "input-freeze.json": 64,
+    "model-freeze.json": 10
+  },
+  "new_ROOTs": 344,
+  "formal_mothers": 336,
+  "pilot_mothers": 8,
+  "minimum_launch_spacing_seconds": 1.0509059429168701,
+  "fit_counts": {
+    "controls": 2304,
+    "confirmation": 6048
+  },
+  "formal_digitizations": 3712,
+  "pilot_digitizations": 68,
+  "replay_digitizations": 4,
+  "formal_fits": 8352,
+  "pilot_fits": 72,
+  "replay_fits": 18,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": 210,
+    "Research_Plan_20260921.ipynb": 106,
+    "Run_Catalog.ipynb": 67
+  },
+  "python_tests_passed": 2,
+  "figures_visually_checked": 4,
+  "notebook_new_displays_executed": 4,
+  "old_notebook_cells_and_metadata_preserved": true,
+  "validator_sha256": "da37151eaf39e5ddce4727e823a54057e7d60ebb550db3248d49dc1b0d557c4b"
+}

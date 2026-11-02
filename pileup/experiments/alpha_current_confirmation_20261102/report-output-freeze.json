@@ -1,0 +1,22 @@
+{
+  "jupyter/artifacts/alpha_current_confirmation_20261102/figures/fig_0007_124_1_engineering.png": "a8ebf948a2fbd57d246b15d02de427bf330f0b157d9f5dcb50d4ef1609dce1c5",
+  "jupyter/artifacts/alpha_current_confirmation_20261102/figures/fig_0007_126_1_fresh_projection.png": "86f67233f40d080d6d2d2676a09b23e63d1490931a9d14f1216a4fa810918517",
+  "jupyter/artifacts/alpha_current_confirmation_20261102/figures/fig_0007_127_1_energy_waveforms.png": "24b33e737b94cb44c791020b9eb7dc80e5a4d72ec90149fdf8eaaf34ba67e927",
+  "jupyter/artifacts/alpha_current_confirmation_20261102/figures/fig_0007_128_1_mother_scatter.png": "0500a6f488d44e7c3188c26d2bf16a4fce463d32ef79a67edc8f7799df112412",
+  "pileup/experiments/alpha_current_confirmation_20261102/README.md": "93b6c895daa748828733c7d6a9176e18404cd6c238568b02f4849796b594449a",
+  "pileup/experiments/alpha_current_response_20261102/README.md": "1fd47878f4cc982bab5b5c375f9a3efcb768a98fcf7fbbc5677b5a184d12b798",
+  "README.md": "d7fd3199c2dee79f7686a8edf28a6c2ab862d545466c10fc90ad1d80b0a5a9df",
+  "docs/literature-use.md": "af910dbd5d4d97eebea06567d63d1f2930628d347b97fcb2947cd3d092abc34f",
+  "pileup/experiments/alpha_current_confirmation_20261102/tables/energy.csv": "4c6cbab2b650584bfe2368eb284c5e405fe640b00d30ffbb8d31b04f4f297c92",
+  "pileup/experiments/alpha_current_confirmation_20261102/tables/projection.csv": "a8f20403e5d4f91f7fb36d1c941b1d64eb5e6016829205645be52e7b5330d6e7",
+  "pileup/experiments/alpha_current_confirmation_20261102/tables/root_catalog.csv": "ac6f770c6a9c10b705b57e61c95e65a0af67bd4aea73450707d511cc31947093",
+  "pileup/experiments/alpha_current_confirmation_20261102/tables/waveform.csv": "c70a610eb47015b11e5dcf88c2b854071f62f2d2bb22677a15ae4e189f73aadd",
+  "pileup/experiments/alpha_current_response_20261102/tables/energy.csv": "d95ef54019356c1c413ad16d43951b44030168a6abad8d7f0848603af2c98dfd",
+  "pileup/experiments/alpha_current_response_20261102/tables/paired_environment_shift.csv": "bbb1f2f4f6b63a8a2845014d7c2ca337a1ff238e6f4b93f5d88fe09cf396a3c7",
+  "pileup/experiments/alpha_current_response_20261102/tables/projection.csv": "bf5ca71dcdf8e177ea725a60d2dae3a34ba2c6c979923b4e7ff6c7ff897d40a4",
+  "pileup/experiments/alpha_current_response_20261102/tables/root_catalog.csv": "2107ec032bb0babda9b4dba5e2a3b43b92d9c2114e799dd4a27bb5220fe2da3d",
+  "pileup/experiments/alpha_current_response_20261102/tables/waveform.csv": "66a158b8454b075be2b8f99b457f8e0b803dde0753dc831a6c1cc8f62accfca3",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "c669c84d34c73d7c3ff22dd08f0d2d4c4a0bf83a4a489de059e0f5a538b40daa",
+  "jupyter/Research_Plan_20260921.ipynb": "6b6e615d92fd6e1ff55e15fb6e735a792fff1645879948c2d7f074225b05b552",
+  "jupyter/Run_Catalog.ipynb": "b9bdc7e85404dc0fa1a07125363314a2ba27d49ba7e617ffc180560b5bf9fdbb"
+}

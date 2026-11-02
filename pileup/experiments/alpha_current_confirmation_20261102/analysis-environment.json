@@ -1,0 +1,18 @@
+{
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.15.3",
+    "uproot": "5.7.4",
+    "awkward": "2.9.1",
+    "matplotlib": "3.5.1",
+    "nbformat": "5.10.4",
+    "nbclient": "0.5.6"
+  },
+  "workers": 8,
+  "BLAS_threads": 1,
+  "frozen_analysis_source": "source/pileup/analysis",
+  "compiled_model_library": "bin/age.so",
+  "native_output_software": "transport-environment.json"
+}

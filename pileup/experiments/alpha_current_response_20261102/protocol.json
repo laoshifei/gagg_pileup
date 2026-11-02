@@ -1,0 +1,41 @@
+{
+  "created_utc": "2026-11-02T09:58:26.612162+00:00",
+  "base_commit": "eaa856333760a9ca7bbcf09895f8ffda86fa149d",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_current_response.py\n?? pileup/analysis/alpha_current_response_study.py\n?? pileup/analysis/test_alpha_current_response.py\n?? pileup/experiments/alpha_current_response_20261102/\n",
+  "scope": "Engineering transfer controls only; known K=1 and first-active-photon time; no new G4 or fresh independent mothers",
+  "input": "16 fixed historical/current same-seed pairs, four source energies x4; historical arm uses L93 training mothers",
+  "models": "Copy unchanged L93 old spatial12 anchor and area-preserving mean correction; no retraining or threshold selection",
+  "primary_gate": {
+    "current_each_group_phase_abs_mean_energy_bias_percent": 5.0,
+    "corrected_to_old_individual_energy_rmse_ratio": 1.1,
+    "corrected_phase_bias_span_pp": 1.0,
+    "max_nonconverged": 0,
+    "native_readout_audit": "Existing exact charge/current/voltage and half-dt convergence checks"
+  },
+  "gate_scope": "Inherited L93 engineering tolerances; n=4 mothers/group cannot establish generalization or statistical equivalence",
+  "secondary": "Describe paired environment bias shifts and phase0 strong weak-direction projections; no small-sample projection gate",
+  "projection": "Fixed nominal old-model weak-logE operators at gaps8/40/200ns; 100delta ln E, not nonlinear pair energy error",
+  "readout": "Native stored avalanches -> Python readout, compare same arrays; separate from fresh stochastic offline avalanche simulation",
+  "observation": "4096ns offline; first2048ns/1024samples;2nsperiod,.5nsaperture; firstactive at128+phase; keep all photons before sensor rejection",
+  "phases_ns": [
+    0.0,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "repeats": 8,
+  "formal_digitizations": 1024,
+  "formal_fits": 2304,
+  "seeds": "739000000+pairID*100+repeat; common seed across environment/phase does not ensure identical avalanche streams; readout+10000000",
+  "uncertainty": "4000 paired mother-cluster bootstrap draws with seed739900+group*10+methodID; four mothers/group, descriptive only",
+  "workers": 8,
+  "BLAS_threads": 1,
+  "pilot_tasks": [
+    64,
+    112
+  ],
+  "pilot_repeats": 2,
+  "cost_limit_seconds": 900.0,
+  "default_changed": false,
+  "fresh_campaign": "336strong+8pilot remains separate and unrun; engineering pass only permits planning current-env transfer validation"
+}

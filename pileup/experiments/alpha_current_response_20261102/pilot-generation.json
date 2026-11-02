@@ -1,0 +1,22 @@
+{
+  "rows": [
+    {
+      "id": 64,
+      "kind": "single",
+      "seconds": 0.0470439820055617,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 112,
+      "kind": "single",
+      "seconds": 0.2377246260002721,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "seconds": 0.4199404639948625,
+  "digitizations": 4
+}

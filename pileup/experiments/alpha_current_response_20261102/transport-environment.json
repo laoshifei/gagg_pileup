@@ -1,0 +1,62 @@
+{
+  "old_environment": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "uproot": "5.7.7",
+    "awkward": "2.14.0",
+    "matplotlib": "3.11.2",
+    "python": "3.14.3",
+    "platform": "Linux-6.19.10-300.fc44.x86_64-x86_64-with-glibc2.43",
+    "geant4": "11.4.2",
+    "root": "6.40.04",
+    "g4_dataset_environment": {
+      "G4NEUTRONHPDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4NDL4.7.1",
+      "G4LEDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4EMLOW8.8",
+      "G4LEVELGAMMADATA": "/opt/geant4/11.4.2/share/Geant4/data/PhotonEvaporation6.1.2",
+      "G4RADIOACTIVEDATA": "/opt/geant4/11.4.2/share/Geant4/data/RadioactiveDecay6.1.2",
+      "G4PARTICLEXSDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4PARTICLEXS4.2",
+      "G4PIIDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4PII1.3",
+      "G4REALSURFACEDATA": "/opt/geant4/11.4.2/share/Geant4/data/RealSurface2.2",
+      "G4SAIDXSDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4SAIDDATA2.0",
+      "G4ABLADATA": "/opt/geant4/11.4.2/share/Geant4/data/G4ABLA3.3",
+      "G4INCLDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4INCL1.3",
+      "G4ENSDFSTATEDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4ENSDFSTATE3.0",
+      "G4CHANNELINGDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4CHANNELING2.0",
+      "G4PARTICLEHPDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4TENDL1.4",
+      "G4NUDEXLIBDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4NUDEXLIB1.0",
+      "G4URRPTDATA": "/opt/geant4/11.4.2/share/Geant4/data/G4URRPT1.1"
+    }
+  },
+  "current_environment": {
+    "geant4": "11.3.2",
+    "root": "6.34.10",
+    "g4_dataset_environment": {
+      "G4NEUTRONHPDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4NDL4.7.1",
+      "G4LEDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4EMLOW8.6.1",
+      "G4LEVELGAMMADATA": "/opt/geant4/geant4-v1132/share/Geant4/data/PhotonEvaporation6.1",
+      "G4RADIOACTIVEDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/RadioactiveDecay6.1.2",
+      "G4PARTICLEXSDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4PARTICLEXS4.1",
+      "G4PIIDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4PII1.3",
+      "G4REALSURFACEDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/RealSurface2.2",
+      "G4SAIDXSDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4SAIDDATA2.0",
+      "G4ABLADATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4ABLA3.3",
+      "G4INCLDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4INCL1.2",
+      "G4ENSDFSTATEDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4ENSDFSTATE3.0",
+      "G4CHANNELINGDATA": "/opt/geant4/geant4-v1132/share/Geant4/data/G4CHANNELING1.0"
+    },
+    "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35"
+  },
+  "old_binary_sha256": "2a7c467decb032a77a62c5ab316071244015a8eeb80e3d1aea5a716daf3ca232",
+  "old_binary_loadable": false,
+  "old_binary_missing": [
+    "GLIBC_2.38",
+    "GLIBCXX_3.4.32",
+    "CXXABI_1.3.15",
+    "Qt6",
+    "Geant4 11.4 split process libraries"
+  ],
+  "source_files": 39,
+  "physics_source_identical": true,
+  "base_commit": "b2735eaf7c54c5893b758dbc44006f8644743e70"
+}

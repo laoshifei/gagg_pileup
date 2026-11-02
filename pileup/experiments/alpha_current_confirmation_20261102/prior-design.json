@@ -1,0 +1,27 @@
+{
+  "status": "frozen_design_not_released",
+  "purpose": "Independent strong-only confirmation of the unchangedL93mean correction",
+  "pilot_mothers": 8,
+  "formal_mothers": 336,
+  "source_energy_MeV": 8.0,
+  "native_seed_base": 738000000,
+  "native_SiPM_seed_offset": 100000,
+  "native_readout_seed_offset": 200000,
+  "offline_seed_base": 738300000,
+  "offline_seed_formula": "738300000+motherID*100+repeatID",
+  "offline_readout_seed_offset": 10000000,
+  "repeats": 8,
+  "phase_ns": 0.0,
+  "known_K": 1,
+  "known_time": "First active-plane photon aligned to128ns",
+  "primary_endpoints": "Fixed old8/40ns weak-logE projected per-mother MSE ratios<1 with paired mother-bootstrap95%upper<1;absolute corrected mean<=max(10,.7absold)",
+  "secondary_controls": "Known-onset isolated E mean bias<=5%,individual RMSEratio<=1.1,zero unconverged fits;200ns projection secondary",
+  "source_scope": "New central source8MeV only;truthE_dep remains separate;no Q/E cuts or replacement seeds based on results",
+  "model_paths_and_hashes": {
+    "pileup/experiments/alpha_mean_shape_20261102/shape-correction.npz": "231b1ffdc1ffbd333ed2747c3c2430cf0f0a51330a7f323f88bd92011388a9a5",
+    "pileup/experiments/alpha_mean_shape_20261102/calibration.json": "ee4ab694e6b02aac5aa6408427298847d1ef83d80d93a356ab1a68cebed7473a",
+    "jupyter/artifacts/alpha_mean_shape_20261102/calibration.npz": "df866cbe0c918a474e0e5c485e514ad8a1f9abe3af3e7fa768c8ed9dd2c9ac51"
+  },
+  "hold": "Transport environment must be reconciled first. No fresh ROOT from this design generated in the migration experiment",
+  "limitations": "336rounds theL94approximation334;not guaranteed precision. Fresh strong-only pass would still require other energies/phases/shared controls before pair-energy work"
+}

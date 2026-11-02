@@ -1,0 +1,2754 @@
+[
+  {
+    "id": 0,
+    "role": "pilot",
+    "seed": 738000000,
+    "sipm_seed": 738100000,
+    "readout_seed": 738200000,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 1,
+    "role": "pilot",
+    "seed": 738000001,
+    "sipm_seed": 738100001,
+    "readout_seed": 738200001,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 2,
+    "role": "pilot",
+    "seed": 738000002,
+    "sipm_seed": 738100002,
+    "readout_seed": 738200002,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 3,
+    "role": "pilot",
+    "seed": 738000003,
+    "sipm_seed": 738100003,
+    "readout_seed": 738200003,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 4,
+    "role": "pilot",
+    "seed": 738000004,
+    "sipm_seed": 738100004,
+    "readout_seed": 738200004,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 5,
+    "role": "pilot",
+    "seed": 738000005,
+    "sipm_seed": 738100005,
+    "readout_seed": 738200005,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 6,
+    "role": "pilot",
+    "seed": 738000006,
+    "sipm_seed": 738100006,
+    "readout_seed": 738200006,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 7,
+    "role": "pilot",
+    "seed": 738000007,
+    "sipm_seed": 738100007,
+    "readout_seed": 738200007,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 8,
+    "role": "formal",
+    "seed": 738000008,
+    "sipm_seed": 738100008,
+    "readout_seed": 738200008,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 9,
+    "role": "formal",
+    "seed": 738000009,
+    "sipm_seed": 738100009,
+    "readout_seed": 738200009,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 10,
+    "role": "formal",
+    "seed": 738000010,
+    "sipm_seed": 738100010,
+    "readout_seed": 738200010,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 11,
+    "role": "formal",
+    "seed": 738000011,
+    "sipm_seed": 738100011,
+    "readout_seed": 738200011,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 12,
+    "role": "formal",
+    "seed": 738000012,
+    "sipm_seed": 738100012,
+    "readout_seed": 738200012,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 13,
+    "role": "formal",
+    "seed": 738000013,
+    "sipm_seed": 738100013,
+    "readout_seed": 738200013,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 14,
+    "role": "formal",
+    "seed": 738000014,
+    "sipm_seed": 738100014,
+    "readout_seed": 738200014,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 15,
+    "role": "formal",
+    "seed": 738000015,
+    "sipm_seed": 738100015,
+    "readout_seed": 738200015,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 16,
+    "role": "formal",
+    "seed": 738000016,
+    "sipm_seed": 738100016,
+    "readout_seed": 738200016,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 17,
+    "role": "formal",
+    "seed": 738000017,
+    "sipm_seed": 738100017,
+    "readout_seed": 738200017,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 18,
+    "role": "formal",
+    "seed": 738000018,
+    "sipm_seed": 738100018,
+    "readout_seed": 738200018,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 19,
+    "role": "formal",
+    "seed": 738000019,
+    "sipm_seed": 738100019,
+    "readout_seed": 738200019,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 20,
+    "role": "formal",
+    "seed": 738000020,
+    "sipm_seed": 738100020,
+    "readout_seed": 738200020,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 21,
+    "role": "formal",
+    "seed": 738000021,
+    "sipm_seed": 738100021,
+    "readout_seed": 738200021,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 22,
+    "role": "formal",
+    "seed": 738000022,
+    "sipm_seed": 738100022,
+    "readout_seed": 738200022,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 23,
+    "role": "formal",
+    "seed": 738000023,
+    "sipm_seed": 738100023,
+    "readout_seed": 738200023,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 24,
+    "role": "formal",
+    "seed": 738000024,
+    "sipm_seed": 738100024,
+    "readout_seed": 738200024,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 25,
+    "role": "formal",
+    "seed": 738000025,
+    "sipm_seed": 738100025,
+    "readout_seed": 738200025,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 26,
+    "role": "formal",
+    "seed": 738000026,
+    "sipm_seed": 738100026,
+    "readout_seed": 738200026,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 27,
+    "role": "formal",
+    "seed": 738000027,
+    "sipm_seed": 738100027,
+    "readout_seed": 738200027,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 28,
+    "role": "formal",
+    "seed": 738000028,
+    "sipm_seed": 738100028,
+    "readout_seed": 738200028,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 29,
+    "role": "formal",
+    "seed": 738000029,
+    "sipm_seed": 738100029,
+    "readout_seed": 738200029,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 30,
+    "role": "formal",
+    "seed": 738000030,
+    "sipm_seed": 738100030,
+    "readout_seed": 738200030,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 31,
+    "role": "formal",
+    "seed": 738000031,
+    "sipm_seed": 738100031,
+    "readout_seed": 738200031,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 32,
+    "role": "formal",
+    "seed": 738000032,
+    "sipm_seed": 738100032,
+    "readout_seed": 738200032,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 33,
+    "role": "formal",
+    "seed": 738000033,
+    "sipm_seed": 738100033,
+    "readout_seed": 738200033,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 34,
+    "role": "formal",
+    "seed": 738000034,
+    "sipm_seed": 738100034,
+    "readout_seed": 738200034,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 35,
+    "role": "formal",
+    "seed": 738000035,
+    "sipm_seed": 738100035,
+    "readout_seed": 738200035,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 36,
+    "role": "formal",
+    "seed": 738000036,
+    "sipm_seed": 738100036,
+    "readout_seed": 738200036,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 37,
+    "role": "formal",
+    "seed": 738000037,
+    "sipm_seed": 738100037,
+    "readout_seed": 738200037,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 38,
+    "role": "formal",
+    "seed": 738000038,
+    "sipm_seed": 738100038,
+    "readout_seed": 738200038,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 39,
+    "role": "formal",
+    "seed": 738000039,
+    "sipm_seed": 738100039,
+    "readout_seed": 738200039,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 40,
+    "role": "formal",
+    "seed": 738000040,
+    "sipm_seed": 738100040,
+    "readout_seed": 738200040,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 41,
+    "role": "formal",
+    "seed": 738000041,
+    "sipm_seed": 738100041,
+    "readout_seed": 738200041,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 42,
+    "role": "formal",
+    "seed": 738000042,
+    "sipm_seed": 738100042,
+    "readout_seed": 738200042,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 43,
+    "role": "formal",
+    "seed": 738000043,
+    "sipm_seed": 738100043,
+    "readout_seed": 738200043,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 44,
+    "role": "formal",
+    "seed": 738000044,
+    "sipm_seed": 738100044,
+    "readout_seed": 738200044,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 45,
+    "role": "formal",
+    "seed": 738000045,
+    "sipm_seed": 738100045,
+    "readout_seed": 738200045,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 46,
+    "role": "formal",
+    "seed": 738000046,
+    "sipm_seed": 738100046,
+    "readout_seed": 738200046,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 47,
+    "role": "formal",
+    "seed": 738000047,
+    "sipm_seed": 738100047,
+    "readout_seed": 738200047,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 48,
+    "role": "formal",
+    "seed": 738000048,
+    "sipm_seed": 738100048,
+    "readout_seed": 738200048,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 49,
+    "role": "formal",
+    "seed": 738000049,
+    "sipm_seed": 738100049,
+    "readout_seed": 738200049,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 50,
+    "role": "formal",
+    "seed": 738000050,
+    "sipm_seed": 738100050,
+    "readout_seed": 738200050,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 51,
+    "role": "formal",
+    "seed": 738000051,
+    "sipm_seed": 738100051,
+    "readout_seed": 738200051,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 52,
+    "role": "formal",
+    "seed": 738000052,
+    "sipm_seed": 738100052,
+    "readout_seed": 738200052,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 53,
+    "role": "formal",
+    "seed": 738000053,
+    "sipm_seed": 738100053,
+    "readout_seed": 738200053,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 54,
+    "role": "formal",
+    "seed": 738000054,
+    "sipm_seed": 738100054,
+    "readout_seed": 738200054,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 55,
+    "role": "formal",
+    "seed": 738000055,
+    "sipm_seed": 738100055,
+    "readout_seed": 738200055,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 56,
+    "role": "formal",
+    "seed": 738000056,
+    "sipm_seed": 738100056,
+    "readout_seed": 738200056,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 57,
+    "role": "formal",
+    "seed": 738000057,
+    "sipm_seed": 738100057,
+    "readout_seed": 738200057,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 58,
+    "role": "formal",
+    "seed": 738000058,
+    "sipm_seed": 738100058,
+    "readout_seed": 738200058,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 59,
+    "role": "formal",
+    "seed": 738000059,
+    "sipm_seed": 738100059,
+    "readout_seed": 738200059,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 60,
+    "role": "formal",
+    "seed": 738000060,
+    "sipm_seed": 738100060,
+    "readout_seed": 738200060,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 61,
+    "role": "formal",
+    "seed": 738000061,
+    "sipm_seed": 738100061,
+    "readout_seed": 738200061,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 62,
+    "role": "formal",
+    "seed": 738000062,
+    "sipm_seed": 738100062,
+    "readout_seed": 738200062,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 63,
+    "role": "formal",
+    "seed": 738000063,
+    "sipm_seed": 738100063,
+    "readout_seed": 738200063,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 64,
+    "role": "formal",
+    "seed": 738000064,
+    "sipm_seed": 738100064,
+    "readout_seed": 738200064,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 65,
+    "role": "formal",
+    "seed": 738000065,
+    "sipm_seed": 738100065,
+    "readout_seed": 738200065,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 66,
+    "role": "formal",
+    "seed": 738000066,
+    "sipm_seed": 738100066,
+    "readout_seed": 738200066,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 67,
+    "role": "formal",
+    "seed": 738000067,
+    "sipm_seed": 738100067,
+    "readout_seed": 738200067,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 68,
+    "role": "formal",
+    "seed": 738000068,
+    "sipm_seed": 738100068,
+    "readout_seed": 738200068,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 69,
+    "role": "formal",
+    "seed": 738000069,
+    "sipm_seed": 738100069,
+    "readout_seed": 738200069,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 70,
+    "role": "formal",
+    "seed": 738000070,
+    "sipm_seed": 738100070,
+    "readout_seed": 738200070,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 71,
+    "role": "formal",
+    "seed": 738000071,
+    "sipm_seed": 738100071,
+    "readout_seed": 738200071,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 72,
+    "role": "formal",
+    "seed": 738000072,
+    "sipm_seed": 738100072,
+    "readout_seed": 738200072,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 73,
+    "role": "formal",
+    "seed": 738000073,
+    "sipm_seed": 738100073,
+    "readout_seed": 738200073,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 74,
+    "role": "formal",
+    "seed": 738000074,
+    "sipm_seed": 738100074,
+    "readout_seed": 738200074,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 75,
+    "role": "formal",
+    "seed": 738000075,
+    "sipm_seed": 738100075,
+    "readout_seed": 738200075,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 76,
+    "role": "formal",
+    "seed": 738000076,
+    "sipm_seed": 738100076,
+    "readout_seed": 738200076,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 77,
+    "role": "formal",
+    "seed": 738000077,
+    "sipm_seed": 738100077,
+    "readout_seed": 738200077,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 78,
+    "role": "formal",
+    "seed": 738000078,
+    "sipm_seed": 738100078,
+    "readout_seed": 738200078,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 79,
+    "role": "formal",
+    "seed": 738000079,
+    "sipm_seed": 738100079,
+    "readout_seed": 738200079,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 80,
+    "role": "formal",
+    "seed": 738000080,
+    "sipm_seed": 738100080,
+    "readout_seed": 738200080,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 81,
+    "role": "formal",
+    "seed": 738000081,
+    "sipm_seed": 738100081,
+    "readout_seed": 738200081,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 82,
+    "role": "formal",
+    "seed": 738000082,
+    "sipm_seed": 738100082,
+    "readout_seed": 738200082,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 83,
+    "role": "formal",
+    "seed": 738000083,
+    "sipm_seed": 738100083,
+    "readout_seed": 738200083,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 84,
+    "role": "formal",
+    "seed": 738000084,
+    "sipm_seed": 738100084,
+    "readout_seed": 738200084,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 85,
+    "role": "formal",
+    "seed": 738000085,
+    "sipm_seed": 738100085,
+    "readout_seed": 738200085,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 86,
+    "role": "formal",
+    "seed": 738000086,
+    "sipm_seed": 738100086,
+    "readout_seed": 738200086,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 87,
+    "role": "formal",
+    "seed": 738000087,
+    "sipm_seed": 738100087,
+    "readout_seed": 738200087,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 88,
+    "role": "formal",
+    "seed": 738000088,
+    "sipm_seed": 738100088,
+    "readout_seed": 738200088,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 89,
+    "role": "formal",
+    "seed": 738000089,
+    "sipm_seed": 738100089,
+    "readout_seed": 738200089,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 90,
+    "role": "formal",
+    "seed": 738000090,
+    "sipm_seed": 738100090,
+    "readout_seed": 738200090,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 91,
+    "role": "formal",
+    "seed": 738000091,
+    "sipm_seed": 738100091,
+    "readout_seed": 738200091,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 92,
+    "role": "formal",
+    "seed": 738000092,
+    "sipm_seed": 738100092,
+    "readout_seed": 738200092,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 93,
+    "role": "formal",
+    "seed": 738000093,
+    "sipm_seed": 738100093,
+    "readout_seed": 738200093,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 94,
+    "role": "formal",
+    "seed": 738000094,
+    "sipm_seed": 738100094,
+    "readout_seed": 738200094,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 95,
+    "role": "formal",
+    "seed": 738000095,
+    "sipm_seed": 738100095,
+    "readout_seed": 738200095,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 96,
+    "role": "formal",
+    "seed": 738000096,
+    "sipm_seed": 738100096,
+    "readout_seed": 738200096,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 97,
+    "role": "formal",
+    "seed": 738000097,
+    "sipm_seed": 738100097,
+    "readout_seed": 738200097,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 98,
+    "role": "formal",
+    "seed": 738000098,
+    "sipm_seed": 738100098,
+    "readout_seed": 738200098,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 99,
+    "role": "formal",
+    "seed": 738000099,
+    "sipm_seed": 738100099,
+    "readout_seed": 738200099,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 100,
+    "role": "formal",
+    "seed": 738000100,
+    "sipm_seed": 738100100,
+    "readout_seed": 738200100,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 101,
+    "role": "formal",
+    "seed": 738000101,
+    "sipm_seed": 738100101,
+    "readout_seed": 738200101,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 102,
+    "role": "formal",
+    "seed": 738000102,
+    "sipm_seed": 738100102,
+    "readout_seed": 738200102,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 103,
+    "role": "formal",
+    "seed": 738000103,
+    "sipm_seed": 738100103,
+    "readout_seed": 738200103,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 104,
+    "role": "formal",
+    "seed": 738000104,
+    "sipm_seed": 738100104,
+    "readout_seed": 738200104,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 105,
+    "role": "formal",
+    "seed": 738000105,
+    "sipm_seed": 738100105,
+    "readout_seed": 738200105,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 106,
+    "role": "formal",
+    "seed": 738000106,
+    "sipm_seed": 738100106,
+    "readout_seed": 738200106,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 107,
+    "role": "formal",
+    "seed": 738000107,
+    "sipm_seed": 738100107,
+    "readout_seed": 738200107,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 108,
+    "role": "formal",
+    "seed": 738000108,
+    "sipm_seed": 738100108,
+    "readout_seed": 738200108,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 109,
+    "role": "formal",
+    "seed": 738000109,
+    "sipm_seed": 738100109,
+    "readout_seed": 738200109,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 110,
+    "role": "formal",
+    "seed": 738000110,
+    "sipm_seed": 738100110,
+    "readout_seed": 738200110,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 111,
+    "role": "formal",
+    "seed": 738000111,
+    "sipm_seed": 738100111,
+    "readout_seed": 738200111,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 112,
+    "role": "formal",
+    "seed": 738000112,
+    "sipm_seed": 738100112,
+    "readout_seed": 738200112,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 113,
+    "role": "formal",
+    "seed": 738000113,
+    "sipm_seed": 738100113,
+    "readout_seed": 738200113,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 114,
+    "role": "formal",
+    "seed": 738000114,
+    "sipm_seed": 738100114,
+    "readout_seed": 738200114,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 115,
+    "role": "formal",
+    "seed": 738000115,
+    "sipm_seed": 738100115,
+    "readout_seed": 738200115,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 116,
+    "role": "formal",
+    "seed": 738000116,
+    "sipm_seed": 738100116,
+    "readout_seed": 738200116,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 117,
+    "role": "formal",
+    "seed": 738000117,
+    "sipm_seed": 738100117,
+    "readout_seed": 738200117,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 118,
+    "role": "formal",
+    "seed": 738000118,
+    "sipm_seed": 738100118,
+    "readout_seed": 738200118,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 119,
+    "role": "formal",
+    "seed": 738000119,
+    "sipm_seed": 738100119,
+    "readout_seed": 738200119,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 120,
+    "role": "formal",
+    "seed": 738000120,
+    "sipm_seed": 738100120,
+    "readout_seed": 738200120,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 121,
+    "role": "formal",
+    "seed": 738000121,
+    "sipm_seed": 738100121,
+    "readout_seed": 738200121,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 122,
+    "role": "formal",
+    "seed": 738000122,
+    "sipm_seed": 738100122,
+    "readout_seed": 738200122,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 123,
+    "role": "formal",
+    "seed": 738000123,
+    "sipm_seed": 738100123,
+    "readout_seed": 738200123,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 124,
+    "role": "formal",
+    "seed": 738000124,
+    "sipm_seed": 738100124,
+    "readout_seed": 738200124,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 125,
+    "role": "formal",
+    "seed": 738000125,
+    "sipm_seed": 738100125,
+    "readout_seed": 738200125,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 126,
+    "role": "formal",
+    "seed": 738000126,
+    "sipm_seed": 738100126,
+    "readout_seed": 738200126,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 127,
+    "role": "formal",
+    "seed": 738000127,
+    "sipm_seed": 738100127,
+    "readout_seed": 738200127,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 128,
+    "role": "formal",
+    "seed": 738000128,
+    "sipm_seed": 738100128,
+    "readout_seed": 738200128,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 129,
+    "role": "formal",
+    "seed": 738000129,
+    "sipm_seed": 738100129,
+    "readout_seed": 738200129,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 130,
+    "role": "formal",
+    "seed": 738000130,
+    "sipm_seed": 738100130,
+    "readout_seed": 738200130,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 131,
+    "role": "formal",
+    "seed": 738000131,
+    "sipm_seed": 738100131,
+    "readout_seed": 738200131,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 132,
+    "role": "formal",
+    "seed": 738000132,
+    "sipm_seed": 738100132,
+    "readout_seed": 738200132,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 133,
+    "role": "formal",
+    "seed": 738000133,
+    "sipm_seed": 738100133,
+    "readout_seed": 738200133,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 134,
+    "role": "formal",
+    "seed": 738000134,
+    "sipm_seed": 738100134,
+    "readout_seed": 738200134,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 135,
+    "role": "formal",
+    "seed": 738000135,
+    "sipm_seed": 738100135,
+    "readout_seed": 738200135,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 136,
+    "role": "formal",
+    "seed": 738000136,
+    "sipm_seed": 738100136,
+    "readout_seed": 738200136,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 137,
+    "role": "formal",
+    "seed": 738000137,
+    "sipm_seed": 738100137,
+    "readout_seed": 738200137,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 138,
+    "role": "formal",
+    "seed": 738000138,
+    "sipm_seed": 738100138,
+    "readout_seed": 738200138,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 139,
+    "role": "formal",
+    "seed": 738000139,
+    "sipm_seed": 738100139,
+    "readout_seed": 738200139,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 140,
+    "role": "formal",
+    "seed": 738000140,
+    "sipm_seed": 738100140,
+    "readout_seed": 738200140,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 141,
+    "role": "formal",
+    "seed": 738000141,
+    "sipm_seed": 738100141,
+    "readout_seed": 738200141,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 142,
+    "role": "formal",
+    "seed": 738000142,
+    "sipm_seed": 738100142,
+    "readout_seed": 738200142,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 143,
+    "role": "formal",
+    "seed": 738000143,
+    "sipm_seed": 738100143,
+    "readout_seed": 738200143,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 144,
+    "role": "formal",
+    "seed": 738000144,
+    "sipm_seed": 738100144,
+    "readout_seed": 738200144,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 145,
+    "role": "formal",
+    "seed": 738000145,
+    "sipm_seed": 738100145,
+    "readout_seed": 738200145,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 146,
+    "role": "formal",
+    "seed": 738000146,
+    "sipm_seed": 738100146,
+    "readout_seed": 738200146,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 147,
+    "role": "formal",
+    "seed": 738000147,
+    "sipm_seed": 738100147,
+    "readout_seed": 738200147,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 148,
+    "role": "formal",
+    "seed": 738000148,
+    "sipm_seed": 738100148,
+    "readout_seed": 738200148,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 149,
+    "role": "formal",
+    "seed": 738000149,
+    "sipm_seed": 738100149,
+    "readout_seed": 738200149,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 150,
+    "role": "formal",
+    "seed": 738000150,
+    "sipm_seed": 738100150,
+    "readout_seed": 738200150,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 151,
+    "role": "formal",
+    "seed": 738000151,
+    "sipm_seed": 738100151,
+    "readout_seed": 738200151,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 152,
+    "role": "formal",
+    "seed": 738000152,
+    "sipm_seed": 738100152,
+    "readout_seed": 738200152,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 153,
+    "role": "formal",
+    "seed": 738000153,
+    "sipm_seed": 738100153,
+    "readout_seed": 738200153,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 154,
+    "role": "formal",
+    "seed": 738000154,
+    "sipm_seed": 738100154,
+    "readout_seed": 738200154,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 155,
+    "role": "formal",
+    "seed": 738000155,
+    "sipm_seed": 738100155,
+    "readout_seed": 738200155,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 156,
+    "role": "formal",
+    "seed": 738000156,
+    "sipm_seed": 738100156,
+    "readout_seed": 738200156,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 157,
+    "role": "formal",
+    "seed": 738000157,
+    "sipm_seed": 738100157,
+    "readout_seed": 738200157,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 158,
+    "role": "formal",
+    "seed": 738000158,
+    "sipm_seed": 738100158,
+    "readout_seed": 738200158,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 159,
+    "role": "formal",
+    "seed": 738000159,
+    "sipm_seed": 738100159,
+    "readout_seed": 738200159,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 160,
+    "role": "formal",
+    "seed": 738000160,
+    "sipm_seed": 738100160,
+    "readout_seed": 738200160,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 161,
+    "role": "formal",
+    "seed": 738000161,
+    "sipm_seed": 738100161,
+    "readout_seed": 738200161,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 162,
+    "role": "formal",
+    "seed": 738000162,
+    "sipm_seed": 738100162,
+    "readout_seed": 738200162,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 163,
+    "role": "formal",
+    "seed": 738000163,
+    "sipm_seed": 738100163,
+    "readout_seed": 738200163,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 164,
+    "role": "formal",
+    "seed": 738000164,
+    "sipm_seed": 738100164,
+    "readout_seed": 738200164,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 165,
+    "role": "formal",
+    "seed": 738000165,
+    "sipm_seed": 738100165,
+    "readout_seed": 738200165,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 166,
+    "role": "formal",
+    "seed": 738000166,
+    "sipm_seed": 738100166,
+    "readout_seed": 738200166,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 167,
+    "role": "formal",
+    "seed": 738000167,
+    "sipm_seed": 738100167,
+    "readout_seed": 738200167,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 168,
+    "role": "formal",
+    "seed": 738000168,
+    "sipm_seed": 738100168,
+    "readout_seed": 738200168,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 169,
+    "role": "formal",
+    "seed": 738000169,
+    "sipm_seed": 738100169,
+    "readout_seed": 738200169,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 170,
+    "role": "formal",
+    "seed": 738000170,
+    "sipm_seed": 738100170,
+    "readout_seed": 738200170,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 171,
+    "role": "formal",
+    "seed": 738000171,
+    "sipm_seed": 738100171,
+    "readout_seed": 738200171,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 172,
+    "role": "formal",
+    "seed": 738000172,
+    "sipm_seed": 738100172,
+    "readout_seed": 738200172,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 173,
+    "role": "formal",
+    "seed": 738000173,
+    "sipm_seed": 738100173,
+    "readout_seed": 738200173,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 174,
+    "role": "formal",
+    "seed": 738000174,
+    "sipm_seed": 738100174,
+    "readout_seed": 738200174,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 175,
+    "role": "formal",
+    "seed": 738000175,
+    "sipm_seed": 738100175,
+    "readout_seed": 738200175,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 176,
+    "role": "formal",
+    "seed": 738000176,
+    "sipm_seed": 738100176,
+    "readout_seed": 738200176,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 177,
+    "role": "formal",
+    "seed": 738000177,
+    "sipm_seed": 738100177,
+    "readout_seed": 738200177,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 178,
+    "role": "formal",
+    "seed": 738000178,
+    "sipm_seed": 738100178,
+    "readout_seed": 738200178,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 179,
+    "role": "formal",
+    "seed": 738000179,
+    "sipm_seed": 738100179,
+    "readout_seed": 738200179,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 180,
+    "role": "formal",
+    "seed": 738000180,
+    "sipm_seed": 738100180,
+    "readout_seed": 738200180,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 181,
+    "role": "formal",
+    "seed": 738000181,
+    "sipm_seed": 738100181,
+    "readout_seed": 738200181,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 182,
+    "role": "formal",
+    "seed": 738000182,
+    "sipm_seed": 738100182,
+    "readout_seed": 738200182,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 183,
+    "role": "formal",
+    "seed": 738000183,
+    "sipm_seed": 738100183,
+    "readout_seed": 738200183,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 184,
+    "role": "formal",
+    "seed": 738000184,
+    "sipm_seed": 738100184,
+    "readout_seed": 738200184,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 185,
+    "role": "formal",
+    "seed": 738000185,
+    "sipm_seed": 738100185,
+    "readout_seed": 738200185,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 186,
+    "role": "formal",
+    "seed": 738000186,
+    "sipm_seed": 738100186,
+    "readout_seed": 738200186,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 187,
+    "role": "formal",
+    "seed": 738000187,
+    "sipm_seed": 738100187,
+    "readout_seed": 738200187,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 188,
+    "role": "formal",
+    "seed": 738000188,
+    "sipm_seed": 738100188,
+    "readout_seed": 738200188,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 189,
+    "role": "formal",
+    "seed": 738000189,
+    "sipm_seed": 738100189,
+    "readout_seed": 738200189,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 190,
+    "role": "formal",
+    "seed": 738000190,
+    "sipm_seed": 738100190,
+    "readout_seed": 738200190,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 191,
+    "role": "formal",
+    "seed": 738000191,
+    "sipm_seed": 738100191,
+    "readout_seed": 738200191,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 192,
+    "role": "formal",
+    "seed": 738000192,
+    "sipm_seed": 738100192,
+    "readout_seed": 738200192,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 193,
+    "role": "formal",
+    "seed": 738000193,
+    "sipm_seed": 738100193,
+    "readout_seed": 738200193,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 194,
+    "role": "formal",
+    "seed": 738000194,
+    "sipm_seed": 738100194,
+    "readout_seed": 738200194,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 195,
+    "role": "formal",
+    "seed": 738000195,
+    "sipm_seed": 738100195,
+    "readout_seed": 738200195,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 196,
+    "role": "formal",
+    "seed": 738000196,
+    "sipm_seed": 738100196,
+    "readout_seed": 738200196,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 197,
+    "role": "formal",
+    "seed": 738000197,
+    "sipm_seed": 738100197,
+    "readout_seed": 738200197,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 198,
+    "role": "formal",
+    "seed": 738000198,
+    "sipm_seed": 738100198,
+    "readout_seed": 738200198,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 199,
+    "role": "formal",
+    "seed": 738000199,
+    "sipm_seed": 738100199,
+    "readout_seed": 738200199,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 200,
+    "role": "formal",
+    "seed": 738000200,
+    "sipm_seed": 738100200,
+    "readout_seed": 738200200,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 201,
+    "role": "formal",
+    "seed": 738000201,
+    "sipm_seed": 738100201,
+    "readout_seed": 738200201,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 202,
+    "role": "formal",
+    "seed": 738000202,
+    "sipm_seed": 738100202,
+    "readout_seed": 738200202,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 203,
+    "role": "formal",
+    "seed": 738000203,
+    "sipm_seed": 738100203,
+    "readout_seed": 738200203,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 204,
+    "role": "formal",
+    "seed": 738000204,
+    "sipm_seed": 738100204,
+    "readout_seed": 738200204,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 205,
+    "role": "formal",
+    "seed": 738000205,
+    "sipm_seed": 738100205,
+    "readout_seed": 738200205,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 206,
+    "role": "formal",
+    "seed": 738000206,
+    "sipm_seed": 738100206,
+    "readout_seed": 738200206,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 207,
+    "role": "formal",
+    "seed": 738000207,
+    "sipm_seed": 738100207,
+    "readout_seed": 738200207,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 208,
+    "role": "formal",
+    "seed": 738000208,
+    "sipm_seed": 738100208,
+    "readout_seed": 738200208,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 209,
+    "role": "formal",
+    "seed": 738000209,
+    "sipm_seed": 738100209,
+    "readout_seed": 738200209,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 210,
+    "role": "formal",
+    "seed": 738000210,
+    "sipm_seed": 738100210,
+    "readout_seed": 738200210,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 211,
+    "role": "formal",
+    "seed": 738000211,
+    "sipm_seed": 738100211,
+    "readout_seed": 738200211,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 212,
+    "role": "formal",
+    "seed": 738000212,
+    "sipm_seed": 738100212,
+    "readout_seed": 738200212,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 213,
+    "role": "formal",
+    "seed": 738000213,
+    "sipm_seed": 738100213,
+    "readout_seed": 738200213,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 214,
+    "role": "formal",
+    "seed": 738000214,
+    "sipm_seed": 738100214,
+    "readout_seed": 738200214,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 215,
+    "role": "formal",
+    "seed": 738000215,
+    "sipm_seed": 738100215,
+    "readout_seed": 738200215,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 216,
+    "role": "formal",
+    "seed": 738000216,
+    "sipm_seed": 738100216,
+    "readout_seed": 738200216,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 217,
+    "role": "formal",
+    "seed": 738000217,
+    "sipm_seed": 738100217,
+    "readout_seed": 738200217,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 218,
+    "role": "formal",
+    "seed": 738000218,
+    "sipm_seed": 738100218,
+    "readout_seed": 738200218,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 219,
+    "role": "formal",
+    "seed": 738000219,
+    "sipm_seed": 738100219,
+    "readout_seed": 738200219,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 220,
+    "role": "formal",
+    "seed": 738000220,
+    "sipm_seed": 738100220,
+    "readout_seed": 738200220,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 221,
+    "role": "formal",
+    "seed": 738000221,
+    "sipm_seed": 738100221,
+    "readout_seed": 738200221,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 222,
+    "role": "formal",
+    "seed": 738000222,
+    "sipm_seed": 738100222,
+    "readout_seed": 738200222,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 223,
+    "role": "formal",
+    "seed": 738000223,
+    "sipm_seed": 738100223,
+    "readout_seed": 738200223,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 224,
+    "role": "formal",
+    "seed": 738000224,
+    "sipm_seed": 738100224,
+    "readout_seed": 738200224,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 225,
+    "role": "formal",
+    "seed": 738000225,
+    "sipm_seed": 738100225,
+    "readout_seed": 738200225,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 226,
+    "role": "formal",
+    "seed": 738000226,
+    "sipm_seed": 738100226,
+    "readout_seed": 738200226,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 227,
+    "role": "formal",
+    "seed": 738000227,
+    "sipm_seed": 738100227,
+    "readout_seed": 738200227,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 228,
+    "role": "formal",
+    "seed": 738000228,
+    "sipm_seed": 738100228,
+    "readout_seed": 738200228,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 229,
+    "role": "formal",
+    "seed": 738000229,
+    "sipm_seed": 738100229,
+    "readout_seed": 738200229,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 230,
+    "role": "formal",
+    "seed": 738000230,
+    "sipm_seed": 738100230,
+    "readout_seed": 738200230,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 231,
+    "role": "formal",
+    "seed": 738000231,
+    "sipm_seed": 738100231,
+    "readout_seed": 738200231,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 232,
+    "role": "formal",
+    "seed": 738000232,
+    "sipm_seed": 738100232,
+    "readout_seed": 738200232,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 233,
+    "role": "formal",
+    "seed": 738000233,
+    "sipm_seed": 738100233,
+    "readout_seed": 738200233,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 234,
+    "role": "formal",
+    "seed": 738000234,
+    "sipm_seed": 738100234,
+    "readout_seed": 738200234,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 235,
+    "role": "formal",
+    "seed": 738000235,
+    "sipm_seed": 738100235,
+    "readout_seed": 738200235,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 236,
+    "role": "formal",
+    "seed": 738000236,
+    "sipm_seed": 738100236,
+    "readout_seed": 738200236,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 237,
+    "role": "formal",
+    "seed": 738000237,
+    "sipm_seed": 738100237,
+    "readout_seed": 738200237,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 238,
+    "role": "formal",
+    "seed": 738000238,
+    "sipm_seed": 738100238,
+    "readout_seed": 738200238,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 239,
+    "role": "formal",
+    "seed": 738000239,
+    "sipm_seed": 738100239,
+    "readout_seed": 738200239,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 240,
+    "role": "formal",
+    "seed": 738000240,
+    "sipm_seed": 738100240,
+    "readout_seed": 738200240,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 241,
+    "role": "formal",
+    "seed": 738000241,
+    "sipm_seed": 738100241,
+    "readout_seed": 738200241,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 242,
+    "role": "formal",
+    "seed": 738000242,
+    "sipm_seed": 738100242,
+    "readout_seed": 738200242,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 243,
+    "role": "formal",
+    "seed": 738000243,
+    "sipm_seed": 738100243,
+    "readout_seed": 738200243,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 244,
+    "role": "formal",
+    "seed": 738000244,
+    "sipm_seed": 738100244,
+    "readout_seed": 738200244,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 245,
+    "role": "formal",
+    "seed": 738000245,
+    "sipm_seed": 738100245,
+    "readout_seed": 738200245,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 246,
+    "role": "formal",
+    "seed": 738000246,
+    "sipm_seed": 738100246,
+    "readout_seed": 738200246,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 247,
+    "role": "formal",
+    "seed": 738000247,
+    "sipm_seed": 738100247,
+    "readout_seed": 738200247,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 248,
+    "role": "formal",
+    "seed": 738000248,
+    "sipm_seed": 738100248,
+    "readout_seed": 738200248,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 249,
+    "role": "formal",
+    "seed": 738000249,
+    "sipm_seed": 738100249,
+    "readout_seed": 738200249,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 250,
+    "role": "formal",
+    "seed": 738000250,
+    "sipm_seed": 738100250,
+    "readout_seed": 738200250,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 251,
+    "role": "formal",
+    "seed": 738000251,
+    "sipm_seed": 738100251,
+    "readout_seed": 738200251,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 252,
+    "role": "formal",
+    "seed": 738000252,
+    "sipm_seed": 738100252,
+    "readout_seed": 738200252,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 253,
+    "role": "formal",
+    "seed": 738000253,
+    "sipm_seed": 738100253,
+    "readout_seed": 738200253,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 254,
+    "role": "formal",
+    "seed": 738000254,
+    "sipm_seed": 738100254,
+    "readout_seed": 738200254,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 255,
+    "role": "formal",
+    "seed": 738000255,
+    "sipm_seed": 738100255,
+    "readout_seed": 738200255,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 256,
+    "role": "formal",
+    "seed": 738000256,
+    "sipm_seed": 738100256,
+    "readout_seed": 738200256,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 257,
+    "role": "formal",
+    "seed": 738000257,
+    "sipm_seed": 738100257,
+    "readout_seed": 738200257,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 258,
+    "role": "formal",
+    "seed": 738000258,
+    "sipm_seed": 738100258,
+    "readout_seed": 738200258,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 259,
+    "role": "formal",
+    "seed": 738000259,
+    "sipm_seed": 738100259,
+    "readout_seed": 738200259,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 260,
+    "role": "formal",
+    "seed": 738000260,
+    "sipm_seed": 738100260,
+    "readout_seed": 738200260,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 261,
+    "role": "formal",
+    "seed": 738000261,
+    "sipm_seed": 738100261,
+    "readout_seed": 738200261,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 262,
+    "role": "formal",
+    "seed": 738000262,
+    "sipm_seed": 738100262,
+    "readout_seed": 738200262,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 263,
+    "role": "formal",
+    "seed": 738000263,
+    "sipm_seed": 738100263,
+    "readout_seed": 738200263,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 264,
+    "role": "formal",
+    "seed": 738000264,
+    "sipm_seed": 738100264,
+    "readout_seed": 738200264,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 265,
+    "role": "formal",
+    "seed": 738000265,
+    "sipm_seed": 738100265,
+    "readout_seed": 738200265,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 266,
+    "role": "formal",
+    "seed": 738000266,
+    "sipm_seed": 738100266,
+    "readout_seed": 738200266,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 267,
+    "role": "formal",
+    "seed": 738000267,
+    "sipm_seed": 738100267,
+    "readout_seed": 738200267,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 268,
+    "role": "formal",
+    "seed": 738000268,
+    "sipm_seed": 738100268,
+    "readout_seed": 738200268,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 269,
+    "role": "formal",
+    "seed": 738000269,
+    "sipm_seed": 738100269,
+    "readout_seed": 738200269,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 270,
+    "role": "formal",
+    "seed": 738000270,
+    "sipm_seed": 738100270,
+    "readout_seed": 738200270,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 271,
+    "role": "formal",
+    "seed": 738000271,
+    "sipm_seed": 738100271,
+    "readout_seed": 738200271,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 272,
+    "role": "formal",
+    "seed": 738000272,
+    "sipm_seed": 738100272,
+    "readout_seed": 738200272,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 273,
+    "role": "formal",
+    "seed": 738000273,
+    "sipm_seed": 738100273,
+    "readout_seed": 738200273,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 274,
+    "role": "formal",
+    "seed": 738000274,
+    "sipm_seed": 738100274,
+    "readout_seed": 738200274,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 275,
+    "role": "formal",
+    "seed": 738000275,
+    "sipm_seed": 738100275,
+    "readout_seed": 738200275,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 276,
+    "role": "formal",
+    "seed": 738000276,
+    "sipm_seed": 738100276,
+    "readout_seed": 738200276,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 277,
+    "role": "formal",
+    "seed": 738000277,
+    "sipm_seed": 738100277,
+    "readout_seed": 738200277,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 278,
+    "role": "formal",
+    "seed": 738000278,
+    "sipm_seed": 738100278,
+    "readout_seed": 738200278,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 279,
+    "role": "formal",
+    "seed": 738000279,
+    "sipm_seed": 738100279,
+    "readout_seed": 738200279,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 280,
+    "role": "formal",
+    "seed": 738000280,
+    "sipm_seed": 738100280,
+    "readout_seed": 738200280,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 281,
+    "role": "formal",
+    "seed": 738000281,
+    "sipm_seed": 738100281,
+    "readout_seed": 738200281,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 282,
+    "role": "formal",
+    "seed": 738000282,
+    "sipm_seed": 738100282,
+    "readout_seed": 738200282,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 283,
+    "role": "formal",
+    "seed": 738000283,
+    "sipm_seed": 738100283,
+    "readout_seed": 738200283,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 284,
+    "role": "formal",
+    "seed": 738000284,
+    "sipm_seed": 738100284,
+    "readout_seed": 738200284,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 285,
+    "role": "formal",
+    "seed": 738000285,
+    "sipm_seed": 738100285,
+    "readout_seed": 738200285,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 286,
+    "role": "formal",
+    "seed": 738000286,
+    "sipm_seed": 738100286,
+    "readout_seed": 738200286,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 287,
+    "role": "formal",
+    "seed": 738000287,
+    "sipm_seed": 738100287,
+    "readout_seed": 738200287,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 288,
+    "role": "formal",
+    "seed": 738000288,
+    "sipm_seed": 738100288,
+    "readout_seed": 738200288,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 289,
+    "role": "formal",
+    "seed": 738000289,
+    "sipm_seed": 738100289,
+    "readout_seed": 738200289,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 290,
+    "role": "formal",
+    "seed": 738000290,
+    "sipm_seed": 738100290,
+    "readout_seed": 738200290,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 291,
+    "role": "formal",
+    "seed": 738000291,
+    "sipm_seed": 738100291,
+    "readout_seed": 738200291,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 292,
+    "role": "formal",
+    "seed": 738000292,
+    "sipm_seed": 738100292,
+    "readout_seed": 738200292,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 293,
+    "role": "formal",
+    "seed": 738000293,
+    "sipm_seed": 738100293,
+    "readout_seed": 738200293,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 294,
+    "role": "formal",
+    "seed": 738000294,
+    "sipm_seed": 738100294,
+    "readout_seed": 738200294,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 295,
+    "role": "formal",
+    "seed": 738000295,
+    "sipm_seed": 738100295,
+    "readout_seed": 738200295,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 296,
+    "role": "formal",
+    "seed": 738000296,
+    "sipm_seed": 738100296,
+    "readout_seed": 738200296,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 297,
+    "role": "formal",
+    "seed": 738000297,
+    "sipm_seed": 738100297,
+    "readout_seed": 738200297,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 298,
+    "role": "formal",
+    "seed": 738000298,
+    "sipm_seed": 738100298,
+    "readout_seed": 738200298,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 299,
+    "role": "formal",
+    "seed": 738000299,
+    "sipm_seed": 738100299,
+    "readout_seed": 738200299,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 300,
+    "role": "formal",
+    "seed": 738000300,
+    "sipm_seed": 738100300,
+    "readout_seed": 738200300,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 301,
+    "role": "formal",
+    "seed": 738000301,
+    "sipm_seed": 738100301,
+    "readout_seed": 738200301,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 302,
+    "role": "formal",
+    "seed": 738000302,
+    "sipm_seed": 738100302,
+    "readout_seed": 738200302,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 303,
+    "role": "formal",
+    "seed": 738000303,
+    "sipm_seed": 738100303,
+    "readout_seed": 738200303,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 304,
+    "role": "formal",
+    "seed": 738000304,
+    "sipm_seed": 738100304,
+    "readout_seed": 738200304,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 305,
+    "role": "formal",
+    "seed": 738000305,
+    "sipm_seed": 738100305,
+    "readout_seed": 738200305,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 306,
+    "role": "formal",
+    "seed": 738000306,
+    "sipm_seed": 738100306,
+    "readout_seed": 738200306,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 307,
+    "role": "formal",
+    "seed": 738000307,
+    "sipm_seed": 738100307,
+    "readout_seed": 738200307,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 308,
+    "role": "formal",
+    "seed": 738000308,
+    "sipm_seed": 738100308,
+    "readout_seed": 738200308,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 309,
+    "role": "formal",
+    "seed": 738000309,
+    "sipm_seed": 738100309,
+    "readout_seed": 738200309,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 310,
+    "role": "formal",
+    "seed": 738000310,
+    "sipm_seed": 738100310,
+    "readout_seed": 738200310,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 311,
+    "role": "formal",
+    "seed": 738000311,
+    "sipm_seed": 738100311,
+    "readout_seed": 738200311,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 312,
+    "role": "formal",
+    "seed": 738000312,
+    "sipm_seed": 738100312,
+    "readout_seed": 738200312,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 313,
+    "role": "formal",
+    "seed": 738000313,
+    "sipm_seed": 738100313,
+    "readout_seed": 738200313,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 314,
+    "role": "formal",
+    "seed": 738000314,
+    "sipm_seed": 738100314,
+    "readout_seed": 738200314,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 315,
+    "role": "formal",
+    "seed": 738000315,
+    "sipm_seed": 738100315,
+    "readout_seed": 738200315,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 316,
+    "role": "formal",
+    "seed": 738000316,
+    "sipm_seed": 738100316,
+    "readout_seed": 738200316,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 317,
+    "role": "formal",
+    "seed": 738000317,
+    "sipm_seed": 738100317,
+    "readout_seed": 738200317,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 318,
+    "role": "formal",
+    "seed": 738000318,
+    "sipm_seed": 738100318,
+    "readout_seed": 738200318,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 319,
+    "role": "formal",
+    "seed": 738000319,
+    "sipm_seed": 738100319,
+    "readout_seed": 738200319,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 320,
+    "role": "formal",
+    "seed": 738000320,
+    "sipm_seed": 738100320,
+    "readout_seed": 738200320,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 321,
+    "role": "formal",
+    "seed": 738000321,
+    "sipm_seed": 738100321,
+    "readout_seed": 738200321,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 322,
+    "role": "formal",
+    "seed": 738000322,
+    "sipm_seed": 738100322,
+    "readout_seed": 738200322,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 323,
+    "role": "formal",
+    "seed": 738000323,
+    "sipm_seed": 738100323,
+    "readout_seed": 738200323,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 324,
+    "role": "formal",
+    "seed": 738000324,
+    "sipm_seed": 738100324,
+    "readout_seed": 738200324,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 325,
+    "role": "formal",
+    "seed": 738000325,
+    "sipm_seed": 738100325,
+    "readout_seed": 738200325,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 326,
+    "role": "formal",
+    "seed": 738000326,
+    "sipm_seed": 738100326,
+    "readout_seed": 738200326,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 327,
+    "role": "formal",
+    "seed": 738000327,
+    "sipm_seed": 738100327,
+    "readout_seed": 738200327,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 328,
+    "role": "formal",
+    "seed": 738000328,
+    "sipm_seed": 738100328,
+    "readout_seed": 738200328,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 329,
+    "role": "formal",
+    "seed": 738000329,
+    "sipm_seed": 738100329,
+    "readout_seed": 738200329,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 330,
+    "role": "formal",
+    "seed": 738000330,
+    "sipm_seed": 738100330,
+    "readout_seed": 738200330,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 331,
+    "role": "formal",
+    "seed": 738000331,
+    "sipm_seed": 738100331,
+    "readout_seed": 738200331,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 332,
+    "role": "formal",
+    "seed": 738000332,
+    "sipm_seed": 738100332,
+    "readout_seed": 738200332,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 333,
+    "role": "formal",
+    "seed": 738000333,
+    "sipm_seed": 738100333,
+    "readout_seed": 738200333,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 334,
+    "role": "formal",
+    "seed": 738000334,
+    "sipm_seed": 738100334,
+    "readout_seed": 738200334,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 335,
+    "role": "formal",
+    "seed": 738000335,
+    "sipm_seed": 738100335,
+    "readout_seed": 738200335,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 336,
+    "role": "formal",
+    "seed": 738000336,
+    "sipm_seed": 738100336,
+    "readout_seed": 738200336,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 337,
+    "role": "formal",
+    "seed": 738000337,
+    "sipm_seed": 738100337,
+    "readout_seed": 738200337,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 338,
+    "role": "formal",
+    "seed": 738000338,
+    "sipm_seed": 738100338,
+    "readout_seed": 738200338,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 339,
+    "role": "formal",
+    "seed": 738000339,
+    "sipm_seed": 738100339,
+    "readout_seed": 738200339,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 340,
+    "role": "formal",
+    "seed": 738000340,
+    "sipm_seed": 738100340,
+    "readout_seed": 738200340,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 341,
+    "role": "formal",
+    "seed": 738000341,
+    "sipm_seed": 738100341,
+    "readout_seed": 738200341,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 342,
+    "role": "formal",
+    "seed": 738000342,
+    "sipm_seed": 738100342,
+    "readout_seed": 738200342,
+    "source_energy_MeV": 8.0
+  },
+  {
+    "id": 343,
+    "role": "formal",
+    "seed": 738000343,
+    "sipm_seed": 738100343,
+    "readout_seed": 738200343,
+    "source_energy_MeV": 8.0
+  }
+]
