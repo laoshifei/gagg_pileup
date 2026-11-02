@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "partitions": [
+    0,
+    9
+  ],
+  "bootstrap_ids": [
+    8,
+    511,
+    999
+  ],
+  "exact_arrays": 12,
+  "all_selected_summaries_equal": true,
+  "calibrations": 20
+}

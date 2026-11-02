@@ -1,0 +1,45 @@
+{
+  "created_utc": "2026-11-02T08:55:17.525192+00:00",
+  "base_commit": "c421480749bc08ae8899839c74dfd8fb1c1469e6",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_mean_shape_stability.py\n?? pileup/analysis/alpha_mean_shape_stability_study.py\n?? pileup/analysis/test_alpha_mean_shape_stability.py\n?? pileup/experiments/alpha_mean_shape_stability_20261102/\n",
+  "scope": "Conditional stability of incremental isolated mean correction;truth-labelled diagnostics,not energy/efficiency validation",
+  "data": "Only128 previous mean/profile-training mothers,32per source group;reuse1024 digitizations (8each) at phase0. No64 confirmation mothers or32noise-fold strong mothers used in fitting/scoring",
+  "exposure": "Old baseline/prior were already trained on these mothers;only the new correction is cross-fitted. Method chosen afterL93 failure;not independent confirmation",
+  "recipe": "ExactlyL93:4ns smoothing,2ns causal guard,8ns rise,160ns end taper to1600ns,support shrink,zero complete area,logq0 interpolation,global positivity scale. No hyperparameter search",
+  "cross_validation": "4folds stratified by4source groups,8mothers/group/fold;96train/32heldout. Ten fixed path-hash partitions,first primary;all8repeats of a mother stay together",
+  "bootstrap": "1000 whole-mother resamples within each primary group/fold stratum;duplicates retain fold. Refit all4corrections each resample. Percentile intervals are conditional sensitivity estimates,not guaranteed population coverage",
+  "bootstrap_seed_base": 737100000,
+  "partitions": 10,
+  "bootstraps": 1000,
+  "metrics": "Strong-mother8repeat residual along old fixed nominal8/40/200ns weak-logE operators;mean and per-mother squared projection. Also4group mean-waveform and individual-mother waveform MSE",
+  "uncertainty": "Refit bootstrap includes variation in sampled mother means and learned correction,conditional on fixed old baseline,operator,ADC phase and finite8repeat records. No independent within-mother noise resampling or microphysical systematics",
+  "decision": "Development stability only:8/40ns primary projection MSEratio<1 and refit percentile upper<1;atleast8of10partitions have ratio<1;all4primary group-mean waveform MSEratios<=1.1;allobserved scales>=.5. Passing only motivates new isolated confirmation,never direct pair expansion",
+  "variance": "ReportW=mean within-mother sample variance,B=var(mother means)-W/8 without clipping. Planning normal95%halfwidth10 usesceil(1.96^2*var(mother means)/100);infinite-repeat floor clipsBonlyforplanning",
+  "repeat_count": 8,
+  "formal_new_digitizations": 0,
+  "new_ROOT": 0,
+  "energy_fits": 0,
+  "nominal_true_energy_MeV": [
+    7.5,
+    0.25
+  ],
+  "projection_units": "100delta ln E,not relative energy percent",
+  "phases_ns": [
+    0.0
+  ],
+  "positivity_phases_ns": [
+    0.0,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "positivity_energy_points": 81,
+  "workers": 8,
+  "BLAS_threads": 1,
+  "pilot_bootstraps": 8,
+  "cost_limit_seconds": 900.0,
+  "literature": "ReuseL91/Fixsen methodology boundaries andL92/L93project evidence;resampling design is project analysis,not a cited detector-performance claim",
+  "default_changed": false,
+  "remote_upload_authorized": false,
+  "resumed_before_freeze": true
+}

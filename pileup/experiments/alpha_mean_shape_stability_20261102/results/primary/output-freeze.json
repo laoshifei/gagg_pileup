@@ -1,0 +1,15 @@
+{
+  "pileup/experiments/alpha_mean_shape_stability_20261102/results/primary/summary.json": "e87d64ef3ab5de62ccbdff24adf531af5822704852f9ba4922673d1e13e1844c",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/results/primary/partitions.json": "531ce152d98c06bae4e3ccfbc56d30e4bb3b8a71dcbdab3a3a1361c7ece654d3",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/results/primary/bootstrap.json": "4bbbb20a5dd300433e4589d0b7e214644907be31bd85a4d1de0a57b6d2498886",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition06.npz": "44114819ffa4654943ccf5e65f1dc1d40ec8ca7aeb678f46c005c994d6b433f5",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition09.npz": "8950158a654a226662d15599a6ab3bbd10c9f6272231a38ab855cdd93a7bebce",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition02.npz": "33237047a9c2176e9179d90aac3e91937d7b1224b29ff365dcbe279495d1dce2",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition03.npz": "e335819f5e1ba2ff8e4fc3c80d0141c199bfb1cdb84c639c8b5a1d8c3d73095b",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition04.npz": "da6646962fad925d122070b81af5a62fb986b3558a6a7fff53735751a3da1ef3",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition01.npz": "68746b8a2b459a89c3c22ab331d16d4447f5ece22f5cd3ef1509ff8be401411c",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition07.npz": "372a2c7a0dfb1319ad970a25f27f1731b158521ee50ec504b2014d1f82876c2d",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition05.npz": "a38cbe7428650bd3610dd71a9492562063a323b3f8f21fce6a5e16da76202e16",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition08.npz": "8afba21f148d6604218af98026e3f3724385d911888db81da27eb20c273134e9",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/results/primary/partition00.npz": "e42118b0f8c3f16a9731ecee3e3ce691268696d64bb3b43e9b2d1c9884b9a855"
+}

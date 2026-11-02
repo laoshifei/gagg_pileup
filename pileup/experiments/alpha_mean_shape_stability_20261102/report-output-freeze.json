@@ -1,0 +1,17 @@
+{
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/figures/fig_0007_115_1_crossfit.png": "6532d981894432ecf5e0d24063d5e8de58d27162b87e58a28b9ab4b02be0db94",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/figures/fig_0007_116_1_training_uncertainty.png": "e548148b157d615e59433bda9377f3c91ba3332a15cf03a18d38f1465e0a6afc",
+  "jupyter/artifacts/alpha_mean_shape_stability_20261102/figures/fig_0007_117_1_mother_budget.png": "79f540b4e8f5b5257baff39e14916f84d1a9ff8f1d33c20ca6c762687717ca6d",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/pooled-mean-control.json": "35206d1368f1bcf8d36f8c171caf03c9d18a80936f1810faf4d51b388e0482f8",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/README.md": "985d20b932e643a4d51f4f6fb7b8462f78185557bf859f9885ce1a18c5dad375",
+  "README.md": "bffbd1502d15f91bd31b264f6570cae02f317c34a41f7479c1e2996b4d1c2446",
+  "docs/literature-use.md": "909edd4b5e985209343f7cb0caf7f5e4481bd8bdfe1b65760d95d5c7b9c145a5",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "6b7ab69a62840ce286bc54274ce1a4e2fe461af34552ffee2c800edda953e5ed",
+  "jupyter/Research_Plan_20260921.ipynb": "0ad93418e5245f1bf3ad5036b27c4dc7fb352c640b93eb7fd1d69fa356525b55",
+  "jupyter/Run_Catalog.ipynb": "b1ba9a7afee538e6710b61bdfa75cf4f834e845085fb8b53dbd2cea25a8e4ed5",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/tables/bootstrap_projection.csv": "0a4909bb3e6b497532828ff027d66048512a4411aefa010408af61f06502cd55",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/tables/partition_projection.csv": "62ebc0c3d664f7e421d47d0e1600d84b1d9c6bda9dc9a25660277b3adff82162",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/tables/primary_projection.csv": "0994941f277c710cfbcd9475f027d2ade4bc7a49ddf732c1b7339955abb49b96",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/tables/primary_waveform.csv": "9fc7bf1598df70bc53a07bd3eb768e179d8e6f78a87a4a1c70def22d6c80d141",
+  "pileup/experiments/alpha_mean_shape_stability_20261102/tables/variance_planning.csv": "7fdcfbb29ecca8ead752e59aa7d459e061359fc50c9ede049adcef5f2f9685f0"
+}

@@ -1,0 +1,7 @@
+{
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "numpy": "1.26.4",
+  "scipy": "1.15.3",
+  "workers": 8,
+  "BLAS_threads": 1
+}

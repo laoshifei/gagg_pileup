@@ -1,0 +1,62 @@
+{
+  "test_alpha_mean_shape_stability": {
+    "source": "pileup/analysis/test_alpha_mean_shape_stability.py",
+    "sha256": "ad675566e19acc4fde726a4c6fffb1e7db9bf2bdc1b86ca25b8f5d53ddb910b7"
+  },
+  "alpha_mean_shape_stability": {
+    "source": "pileup/analysis/alpha_mean_shape_stability.py",
+    "sha256": "fb899c1c5d901b472d124293be11a56fe03877cd0b9b0899bed8fb4feb7f6918"
+  },
+  "alpha_mean_shape_correction": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_mean_shape_correction.py",
+    "sha256": "46243bddf2430099eb987cd1ec7daa049d077249bc0960a76dc875f4854857a7"
+  },
+  "alpha_pair_spatial_recovery": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_spatial_recovery.py",
+    "sha256": "7db31e4865a3617449797583b01038d4ac603ac024c2af7346c9a119902faf0e"
+  },
+  "alpha_pair_causal_recovery": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_causal_recovery.py",
+    "sha256": "7a5aab97527d7493d22a5c318dfce512c1648972eaf2ede4de73f3f7169cdb91"
+  },
+  "alpha_pair_recovery_forward": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_recovery_forward.py",
+    "sha256": "762b327c8095f4bbf3fc2a0e0a0658b132b5c9c8f1d8fd3aef8829daa383857f"
+  },
+  "alpha_pair_deconvolution": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_deconvolution.py",
+    "sha256": "4b0990decc29c9d556c2b0900d3d504511afbe111a801a48ff52aad8a9469150"
+  },
+  "sipm_readout": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/sipm_readout.py",
+    "sha256": "aa19a0be943719ad2a6a9464359b4f217e49bb1cd0aa1335ce2b09ef9c096d5b"
+  },
+  "alpha_mean_shape_stability_study": {
+    "source": "pileup/analysis/alpha_mean_shape_stability_study.py",
+    "sha256": "498ba1838887e7db3f7bc798050e34f2026ba739d274508910e2336379ca1759"
+  },
+  "alpha_pair_recovery_energy": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_recovery_energy.py",
+    "sha256": "10b7e574283066324a72d70ee74ffde3f2f880677005e53fa2ddfb3e3943f356"
+  },
+  "alpha_pair_energy_calibrated": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_energy_calibrated.py",
+    "sha256": "6920d06e0eeebcfa7d71181fb0ccd279601ab116e6f4108151f762a14bf46c38"
+  },
+  "alpha_pair_energy_oracle": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_energy_oracle.py",
+    "sha256": "9bbe5f9813c6400b41ef7e56feeb21fae7488b8d6b02f7bf39c27f975996e85d"
+  },
+  "alpha_pair_energy_noise": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_energy_noise.py",
+    "sha256": "9787a4950839b01de6c06ec538f6780e869d45f8b1fe42fe9bf84802a19528a9"
+  },
+  "alpha_pair_model_sampler": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_model_sampler.py",
+    "sha256": "91029c428d1a30338cff425ee67b7fac8de4246bd932c86619f4fe45052cf61a"
+  },
+  "alpha_pair_energy_covariance": {
+    "source": "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/alpha_pair_energy_covariance.py",
+    "sha256": "5d23740aea10096038810253b31a0a8307fe6e32b1fa8eaa013b5e7e38de4b32"
+  }
+}

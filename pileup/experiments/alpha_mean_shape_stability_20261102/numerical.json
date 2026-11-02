@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "full_recipe_exactly_reproduces_L93": true,
+  "cached_positivity_matches_scalar": true,
+  "max_vectorized_difference_mV": 8.881784197001252e-16,
+  "original_model_unchanged": true
+}

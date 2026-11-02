@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "hash_checks": {
+    "design_files": 296,
+    "results/primary/output-freeze.json": 13,
+    "report-source-freeze.json": 4,
+    "report-output-freeze.json": 15
+  },
+  "unit_tests": 4,
+  "partitions": 10,
+  "refit_bootstraps": 1000,
+  "all_bootstrap_identities_isolated": true,
+  "all_partition_metrics_recomputed": true,
+  "exact_replay_arrays": 12,
+  "selected_summary_replays": 5,
+  "pilot_equal": true,
+  "full_L93_recipe_equal": true,
+  "pooled_mean_counterexample_verified": true,
+  "formal_calibrations": 4040,
+  "total_study_calibrations": 4093,
+  "new_digitizations": 0,
+  "new_ROOT": 0,
+  "energy_fits": 0,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": {
+      "preserved_cells": 185,
+      "added_cells": 8,
+      "new_images": 3
+    },
+    "Research_Plan_20260921.ipynb": {
+      "preserved_cells": 103,
+      "added_cells": 1,
+      "new_images": 0
+    },
+    "Run_Catalog.ipynb": {
+      "preserved_cells": 64,
+      "added_cells": 1,
+      "new_images": 0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Synthetic equal-fold mean subtraction;not an extra detector candidate",
+  "old_mean": 0.0,
+  "corrected_pooled_mean": -5.551115123125783e-17,
+  "corrected_to_old_mse": 1.777777777777778,
+  "algebra": "Each held-out residual subtracts the other three fold means;pooled mean is identically zero,while MSE can increase"
+}
