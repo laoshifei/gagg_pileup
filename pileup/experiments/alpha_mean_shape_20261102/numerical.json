@@ -1,0 +1,37 @@
+{
+  "max_complete_area_change_mV_ns": 8.526512829121202e-14,
+  "max_pre_event_mV": 0.0,
+  "minimum_isolated_mV": 0.0,
+  "shared_controls": [
+    {
+      "gap_ns": 8.0,
+      "shared_minus_isolated_difference_mV": 1.4210854715202004e-14,
+      "returned_charge_equal": true,
+      "model_min_component_mV": 0.0
+    },
+    {
+      "gap_ns": 40.0,
+      "shared_minus_isolated_difference_mV": 1.4210854715202004e-14,
+      "returned_charge_equal": true,
+      "model_min_component_mV": 0.0
+    },
+    {
+      "gap_ns": 200.0,
+      "shared_minus_isolated_difference_mV": 1.4210854715202004e-14,
+      "returned_charge_equal": true,
+      "model_min_component_mV": 0.0
+    },
+    {
+      "gap_ns": 1200.0,
+      "shared_minus_isolated_difference_mV": 1.7763568394002505e-15,
+      "returned_charge_equal": true,
+      "model_min_component_mV": 0.0
+    }
+  ],
+  "gradient_relative_errors": [
+    1.4319787130592017e-06,
+    1.4987935223101545e-09
+  ],
+  "zero_correction_identity_mV": 0.0,
+  "passed": true
+}

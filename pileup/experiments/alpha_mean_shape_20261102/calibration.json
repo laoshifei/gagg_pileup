@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "group": 0,
+      "mothers": 32,
+      "geometric_mean_q0": 721.8236984019464,
+      "removed_area_per_q0": 0.07855184703836667,
+      "final_area_per_q0": 0.0
+    },
+    {
+      "group": 1,
+      "mothers": 32,
+      "geometric_mean_q0": 2725.5930175487692,
+      "removed_area_per_q0": -0.030686810825043084,
+      "final_area_per_q0": -5.204170427930421e-18
+    },
+    {
+      "group": 2,
+      "mothers": 32,
+      "geometric_mean_q0": 10085.726177390085,
+      "removed_area_per_q0": -0.02789205143736183,
+      "final_area_per_q0": 0.0
+    },
+    {
+      "group": 3,
+      "mothers": 32,
+      "geometric_mean_q0": 16737.574598585605,
+      "removed_area_per_q0": -0.024392366615790362,
+      "final_area_per_q0": 1.734723475976807e-18
+    }
+  ],
+  "scale": 1.0,
+  "smoothing_ns": 4.0,
+  "minimum_allowed_scale": 0.5,
+  "passed": true,
+  "true_E_used_only_for_training": true,
+  "area_preserving": true,
+  "shared_charge_map_unchanged": true
+}

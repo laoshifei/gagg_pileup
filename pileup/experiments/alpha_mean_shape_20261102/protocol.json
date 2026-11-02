@@ -1,0 +1,63 @@
+{
+  "created_utc": "2026-11-02T08:25:45.585369+00:00",
+  "commit": "6d8146a358fc90f027374d90d7fc9168f52990ab",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_mean_shape_correction.py\n?? pileup/analysis/alpha_mean_shape_study.py\n?? pileup/analysis/test_alpha_mean_shape_correction.py\n?? pileup/experiments/alpha_mean_shape_20261102/\n",
+  "preceding_push": "origin/main6d8146a before this new work",
+  "scope": "Conditional mean SHAPE validation only; knownK/t. Single-energy fits and truth-assisted forward pairs; no pair-energy fit or blind reconstruction claim",
+  "calibration": "128 existing profile/mean-training mothers,32 each of4source energies;8new independent digitizations each;one phase0",
+  "validation": "64 different historical confirmation mothers,16per group,SHA256 path selection excluding32recent causal/spatial control mothers;4phasesx8repeats. Never train/select on validation",
+  "correction": "Normalize each mother mean residual by frozen q0(true E_dep);equal mother mean per energy group;Gaussian4ns smoothing;2ns causal guard then8ns onset ramp,160ns end taper to1600ns;old-template support weight reference/(reference+.01peak)",
+  "area": "Subtract old positive-template-weighted area mode;zero full2ns-grid sum for every knot. Linear interpolation in logq0,endpoint clamping;time interpolation preserves full area at fractional phases. No posthoc clipping",
+  "energy": "Old q0(E),isolated returned Q(E),charge-to-light mapping and spatial shared-minus-isolated correction unchanged. Shape-only empirical anchor is a project hypothesis,not altered microscopic light-time simulation",
+  "positivity": "One global scale<=1 set only by old model and training correction on81logE points x4phases;99%of admissible bound ifneeded. Minimum allowedscale=.5;no validation tuning",
+  "fitting": "Same voltage-only initial E and fixed baseline GLS weights for old/corrected;same scalar bounded solver. Each8individuals plus8repeat mean;knownonset/K1;truth files forbidden in fit workers",
+  "projection": "Use frozen nominal old-model influences fromL92;diagnostic at true E,100delta ln E units;phase0strong mother means;not nonlinear pair-energy error",
+  "single_gates": {
+    "mean_energy_bias_percent": 5.0,
+    "single_rmse_ratio": 1.1,
+    "phase_bias_span_pp": 1.0,
+    "mean_waveform_mse_ratio": 1.1,
+    "weak_projection_abs_mean_ratio": 0.7,
+    "weak_projection_floor_100logE": 10.0,
+    "max_nonconverged": 0
+  },
+  "shared_gates": {
+    "weak_area_error_pp": 5.0,
+    "mean_component_mse_ratio": 1.1
+  },
+  "gate_scope": "Prespecified engineering point estimates;not literature thresholds or independent confirmation",
+  "stages": [
+    "prepare",
+    "pilot",
+    "train",
+    "calibrate",
+    "numerical",
+    "single",
+    "fit",
+    "single_report",
+    "pair_pilot onlyif singles pass",
+    "pair",
+    "pair_report",
+    "replay",
+    "report"
+  ],
+  "observation": "4096ns digitization;first2048ns/1024samples;2nsperiod,.5nsaperture;first active photon at128+phase ns;actual photon times/positions/energies retained",
+  "phases_ns": [
+    0.0,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "repeats": 8,
+  "training_digitizations": 1024,
+  "validation_single_digitizations": 2048,
+  "conditional_pair_digitizations": 1920,
+  "workers": 8,
+  "BLAS_threads": 1,
+  "cost_limit_seconds": 900.0,
+  "randomness": "Independent repeat seeds;common seeds across phases/gaps change consumption,not identical avalanches. Shared/isolated truth components use separate digitizations",
+  "source_rate": "One/two controlled optical mothers;no Poisson scan. Historical ROOT RunInfo and macros preserved",
+  "literature": "ReuseL91/Fixsen and L92 project evidence;no new external paper claims",
+  "no_new_ROOT": true,
+  "default_changed": false
+}

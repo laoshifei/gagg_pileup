@@ -1,0 +1,15 @@
+{
+  "jupyter/artifacts/alpha_mean_shape_20261102/figures/fig_0007_109_1_mean_shape.png": "f2b030be52ef8c76ca071d518fc8bbdfca65c68b123465f47534a383e628eef8",
+  "jupyter/artifacts/alpha_mean_shape_20261102/figures/fig_0007_110_1_energy_phases.png": "40558e8eaf4860bfa1b12218d199583b9a5bca2ab3e8490f17c40b223abc9d0e",
+  "jupyter/artifacts/alpha_mean_shape_20261102/figures/fig_0007_111_1_residuals.png": "32fad720744f44008dbf46f46547ba87fa777cf185593f0c42394dd23d1e7efc",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "650048785dda94bf3a01b93fb3ff76d2d0452be4142ee92efe81c535ee5e8bc8",
+  "jupyter/Research_Plan_20260921.ipynb": "479fa57a6c47006ed9c40c46610ce05ec3ca89d88a04a36902f06d4ced056d8f",
+  "jupyter/Run_Catalog.ipynb": "8a4e28bf8f78bef1b1ac5404014c783212397a103a0e32a8335888c00d1c5a2f",
+  "docs/literature-use.md": "ed15a11c824247ea0fbb48ed76d7506545f6150662208598146610d515852803",
+  "README.md": "c6e816e8e940de0860b2f5cfd5194ac2e34ec28d0a90138b613005c6a35be572",
+  "pileup/experiments/alpha_mean_shape_20261102/README.md": "3faf462d0aceee50f76335718c579b1c11f580874196481643124dea98e7f086",
+  "pileup/experiments/alpha_mean_shape_20261102/tables/single_energy.csv": "dd00fba8a3d6bd0d1e532f03294f6232b7251ce2e11d0a428488c8800c1c38ec",
+  "pileup/experiments/alpha_mean_shape_20261102/tables/single_fit_details.csv": "dc6fbbf04100cfd8a39c6ece1ed6b1e8a30b0f2eff14ffe8db40209913eee26d",
+  "pileup/experiments/alpha_mean_shape_20261102/tables/single_projection.csv": "6489bb28db7b8696d6a94cb242985322e63cb42ef04d4ce42a822de7e39946b3",
+  "pileup/experiments/alpha_mean_shape_20261102/tables/single_waveform.csv": "9dee5088813d587fca297e36f17cd008ff7f5ad75c63eab95dea5ff7412c010d"
+}

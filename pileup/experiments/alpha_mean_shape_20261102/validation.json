@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "hash_checks": {
+    "design-freeze.json": 38,
+    "input-freeze.json": 1153,
+    "model-freeze.json": 3,
+    "train-input-freeze.json": 256,
+    "single-input-freeze.json": 512,
+    "fit-output-freeze.json": 256,
+    "report-source-freeze.json": 4,
+    "report-output-freeze.json": 13
+  },
+  "unit_tests": 4,
+  "exact_pilot_and_replay_arrays": 12,
+  "formal_fits": 4608,
+  "fit_pilot_equal_except_timing": true,
+  "voltage_only_input_guards": true,
+  "shared_expansion_stopped": true,
+  "no_new_ROOT": true,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": {
+      "old_cells_unchanged": 176,
+      "added_cells": 9,
+      "new_images": 3
+    },
+    "Research_Plan_20260921.ipynb": {
+      "old_cells_unchanged": 102,
+      "added_cells": 1,
+      "new_images": 0
+    },
+    "Run_Catalog.ipynb": {
+      "old_cells_unchanged": 63,
+      "added_cells": 1,
+      "new_images": 0
+    }
+  },
+  "formal_digitizations": 3072,
+  "total_digitizations": 3080,
+  "pilot_fits": 36
+}

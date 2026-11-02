@@ -1,0 +1,8 @@
+{
+  "passed": false,
+  "failures": [
+    "weak projection gap8"
+  ],
+  "point_estimate_engineering_gate": true,
+  "next": "Stop before shared expansion; retain isolated failures"
+}

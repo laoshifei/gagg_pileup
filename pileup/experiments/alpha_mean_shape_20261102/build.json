@@ -1,0 +1,15 @@
+{
+  "command": [
+    "g++",
+    "-O3",
+    "-std=c++17",
+    "-fPIC",
+    "-shared",
+    "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/sipm_age_mean.cpp",
+    "pileup/experiments/alpha_mean_shape_20261102/source/pileup/analysis/sipm_age_mean_jacobian.cpp",
+    "-o",
+    "pileup/experiments/alpha_mean_shape_20261102/bin/age.so"
+  ],
+  "binary_sha256": "daabebd738d12299aec480dd5dca96f14c4905d0a943cfe35de09be3f2b6e4a0",
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0"
+}

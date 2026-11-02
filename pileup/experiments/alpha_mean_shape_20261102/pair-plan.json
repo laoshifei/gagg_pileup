@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 0,
+    "kind": "pair",
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      176,
+      128
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736300000
+  },
+  {
+    "id": 1,
+    "kind": "pair",
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      176,
+      128
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736300000
+  },
+  {
+    "id": 2,
+    "kind": "pair",
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      176,
+      128
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736300000
+  },
+  {
+    "id": 3,
+    "kind": "pair",
+    "block": 0,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      176,
+      128
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736300000
+  },
+  {
+    "id": 4,
+    "kind": "pair",
+    "block": 0,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      128,
+      176
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736300000
+  },
+  {
+    "id": 5,
+    "kind": "pair",
+    "block": 1,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      177,
+      129
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736301000
+  },
+  {
+    "id": 6,
+    "kind": "pair",
+    "block": 1,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      177,
+      129
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736301000
+  },
+  {
+    "id": 7,
+    "kind": "pair",
+    "block": 1,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      177,
+      129
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736301000
+  },
+  {
+    "id": 8,
+    "kind": "pair",
+    "block": 1,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      177,
+      129
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736301000
+  },
+  {
+    "id": 9,
+    "kind": "pair",
+    "block": 1,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      129,
+      177
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736301000
+  },
+  {
+    "id": 10,
+    "kind": "pair",
+    "block": 2,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      178,
+      130
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736302000
+  },
+  {
+    "id": 11,
+    "kind": "pair",
+    "block": 2,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      178,
+      130
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736302000
+  },
+  {
+    "id": 12,
+    "kind": "pair",
+    "block": 2,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      178,
+      130
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736302000
+  },
+  {
+    "id": 13,
+    "kind": "pair",
+    "block": 2,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      178,
+      130
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736302000
+  },
+  {
+    "id": 14,
+    "kind": "pair",
+    "block": 2,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      130,
+      178
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736302000
+  },
+  {
+    "id": 15,
+    "kind": "pair",
+    "block": 3,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      179,
+      131
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736303000
+  },
+  {
+    "id": 16,
+    "kind": "pair",
+    "block": 3,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      179,
+      131
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736303000
+  },
+  {
+    "id": 17,
+    "kind": "pair",
+    "block": 3,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      179,
+      131
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736303000
+  },
+  {
+    "id": 18,
+    "kind": "pair",
+    "block": 3,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      179,
+      131
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736303000
+  },
+  {
+    "id": 19,
+    "kind": "pair",
+    "block": 3,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      131,
+      179
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736303000
+  },
+  {
+    "id": 20,
+    "kind": "pair",
+    "block": 4,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      180,
+      132
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736304000
+  },
+  {
+    "id": 21,
+    "kind": "pair",
+    "block": 4,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      180,
+      132
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736304000
+  },
+  {
+    "id": 22,
+    "kind": "pair",
+    "block": 4,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      180,
+      132
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736304000
+  },
+  {
+    "id": 23,
+    "kind": "pair",
+    "block": 4,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      180,
+      132
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736304000
+  },
+  {
+    "id": 24,
+    "kind": "pair",
+    "block": 4,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      132,
+      180
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736304000
+  },
+  {
+    "id": 25,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      181,
+      133
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736305000
+  },
+  {
+    "id": 26,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      181,
+      133
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736305000
+  },
+  {
+    "id": 27,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      181,
+      133
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736305000
+  },
+  {
+    "id": 28,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      181,
+      133
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736305000
+  },
+  {
+    "id": 29,
+    "kind": "pair",
+    "block": 5,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      133,
+      181
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736305000
+  },
+  {
+    "id": 30,
+    "kind": "pair",
+    "block": 6,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      182,
+      134
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736306000
+  },
+  {
+    "id": 31,
+    "kind": "pair",
+    "block": 6,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      182,
+      134
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736306000
+  },
+  {
+    "id": 32,
+    "kind": "pair",
+    "block": 6,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      182,
+      134
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736306000
+  },
+  {
+    "id": 33,
+    "kind": "pair",
+    "block": 6,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      182,
+      134
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736306000
+  },
+  {
+    "id": 34,
+    "kind": "pair",
+    "block": 6,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      134,
+      182
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736306000
+  },
+  {
+    "id": 35,
+    "kind": "pair",
+    "block": 7,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      183,
+      135
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736307000
+  },
+  {
+    "id": 36,
+    "kind": "pair",
+    "block": 7,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      183,
+      135
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736307000
+  },
+  {
+    "id": 37,
+    "kind": "pair",
+    "block": 7,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      183,
+      135
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736307000
+  },
+  {
+    "id": 38,
+    "kind": "pair",
+    "block": 7,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      183,
+      135
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736307000
+  },
+  {
+    "id": 39,
+    "kind": "pair",
+    "block": 7,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      135,
+      183
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736307000
+  },
+  {
+    "id": 40,
+    "kind": "pair",
+    "block": 8,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      184,
+      136
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736308000
+  },
+  {
+    "id": 41,
+    "kind": "pair",
+    "block": 8,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      184,
+      136
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736308000
+  },
+  {
+    "id": 42,
+    "kind": "pair",
+    "block": 8,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      184,
+      136
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736308000
+  },
+  {
+    "id": 43,
+    "kind": "pair",
+    "block": 8,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      184,
+      136
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736308000
+  },
+  {
+    "id": 44,
+    "kind": "pair",
+    "block": 8,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      136,
+      184
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736308000
+  },
+  {
+    "id": 45,
+    "kind": "pair",
+    "block": 9,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      185,
+      137
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736309000
+  },
+  {
+    "id": 46,
+    "kind": "pair",
+    "block": 9,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      185,
+      137
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736309000
+  },
+  {
+    "id": 47,
+    "kind": "pair",
+    "block": 9,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      185,
+      137
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736309000
+  },
+  {
+    "id": 48,
+    "kind": "pair",
+    "block": 9,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      185,
+      137
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736309000
+  },
+  {
+    "id": 49,
+    "kind": "pair",
+    "block": 9,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      137,
+      185
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736309000
+  },
+  {
+    "id": 50,
+    "kind": "pair",
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      186,
+      138
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736310000
+  },
+  {
+    "id": 51,
+    "kind": "pair",
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      186,
+      138
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736310000
+  },
+  {
+    "id": 52,
+    "kind": "pair",
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      186,
+      138
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736310000
+  },
+  {
+    "id": 53,
+    "kind": "pair",
+    "block": 10,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      186,
+      138
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736310000
+  },
+  {
+    "id": 54,
+    "kind": "pair",
+    "block": 10,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      138,
+      186
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736310000
+  },
+  {
+    "id": 55,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      187,
+      139
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736311000
+  },
+  {
+    "id": 56,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      187,
+      139
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736311000
+  },
+  {
+    "id": 57,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      187,
+      139
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736311000
+  },
+  {
+    "id": 58,
+    "kind": "pair",
+    "block": 11,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      187,
+      139
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736311000
+  },
+  {
+    "id": 59,
+    "kind": "pair",
+    "block": 11,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      139,
+      187
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736311000
+  },
+  {
+    "id": 60,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      188,
+      140
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736312000
+  },
+  {
+    "id": 61,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      188,
+      140
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736312000
+  },
+  {
+    "id": 62,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      188,
+      140
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736312000
+  },
+  {
+    "id": 63,
+    "kind": "pair",
+    "block": 12,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      188,
+      140
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736312000
+  },
+  {
+    "id": 64,
+    "kind": "pair",
+    "block": 12,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      140,
+      188
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736312000
+  },
+  {
+    "id": 65,
+    "kind": "pair",
+    "block": 13,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      189,
+      141
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736313000
+  },
+  {
+    "id": 66,
+    "kind": "pair",
+    "block": 13,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      189,
+      141
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736313000
+  },
+  {
+    "id": 67,
+    "kind": "pair",
+    "block": 13,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      189,
+      141
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736313000
+  },
+  {
+    "id": 68,
+    "kind": "pair",
+    "block": 13,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      189,
+      141
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736313000
+  },
+  {
+    "id": 69,
+    "kind": "pair",
+    "block": 13,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      141,
+      189
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736313000
+  },
+  {
+    "id": 70,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      190,
+      142
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736314000
+  },
+  {
+    "id": 71,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      190,
+      142
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736314000
+  },
+  {
+    "id": 72,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      190,
+      142
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736314000
+  },
+  {
+    "id": 73,
+    "kind": "pair",
+    "block": 14,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      190,
+      142
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736314000
+  },
+  {
+    "id": 74,
+    "kind": "pair",
+    "block": 14,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      142,
+      190
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736314000
+  },
+  {
+    "id": 75,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      191,
+      143
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 736315000
+  },
+  {
+    "id": 76,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      191,
+      143
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736315000
+  },
+  {
+    "id": 77,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      191,
+      143
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736315000
+  },
+  {
+    "id": 78,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      191,
+      143
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 736315000
+  },
+  {
+    "id": 79,
+    "kind": "pair",
+    "block": 15,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      143,
+      191
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 736315000
+  }
+]
