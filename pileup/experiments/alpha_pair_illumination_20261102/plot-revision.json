@@ -1,0 +1,5 @@
+{
+  "reason": "Move figure0007-77-1 panel(a) legend away from a lower uncertainty whisker. No values, statistics, protocol or simulation changed. Frozen original report implementation retained.",
+  "original_figures": "jupyter/run_records/alpha_pair_illumination_20261102/figures-v1",
+  "current_plot_entrypoint": "pileup/experiments/alpha_pair_illumination_20261102/run_plots.py"
+}

@@ -1,0 +1,46 @@
+{
+  "created_utc": "2026-11-02T01:02:31.834108+00:00",
+  "commit": "c07ac6d0f4df948b3602c9649da3e159275570a2",
+  "git_status": "?? pileup/analysis/alpha_pair_illumination_controls.py\n?? pileup/experiments/alpha_pair_illumination_20261102/\n",
+  "scope": "Known-input mechanistic diagnostic; same eight historical optical mothers and four pairs. No inference, new optical transport or independent performance confirmation.",
+  "intervention": {
+    "original": "Unchanged input",
+    "shuffled": "Joint XY permutation within each mother's active-area photons; exact marginal cell counts retained; removes time/energy-position association",
+    "uniform": "Independent uniform XY inside active area; time/energy pair and active-area membership retained, spatial marginal and association changed",
+    "outside": "All fields of outside-area photons retained",
+    "layout_rng": "SeedSequence([713010001,parent,layout,arm_index])"
+  },
+  "design": {
+    "mother_pairs": 4,
+    "conditions": 5,
+    "arms": [
+      "original",
+      "shuffled",
+      "uniform"
+    ],
+    "layouts": 4,
+    "digitizer_seeds_per_layout": 8,
+    "production_digitizations": 11520,
+    "controls": "joint plus both singles, recovery on/off for each arm; independent digital seeds by pair/layout/repeat; same seeds across arms/orders/gaps",
+    "coupling": "Photon uniforms remain paired while altered firings change secondary RNG consumption; no identical-avalanche assumption",
+    "time_window_ns": 4096,
+    "observed_window_ns": 2048,
+    "workers": 4,
+    "blas_threads": 1
+  },
+  "endpoint": "Equal-mother mean of 100*(weak shared area / same-arm isolated area - 1), integrated first2048ns aperture signals. Own-arm denominator prevents isolated-response changes masquerading as shared suppression.",
+  "primary": "Original vs uniform at8/40ns; shuffled,200/1200ns and reverse40ns are mechanistic controls, all retained.",
+  "models": "Frozen previous anchored uniform prediction; additionally prespecified truth-photon-time/PDE weighted uniform age diagnostic at1/.5ns, never used as blind input or tuned to simulations.",
+  "gates": {
+    "pilot_projected_seconds": 900.0,
+    "recovery_off_abs_percentage_points": 3.0,
+    "uniform_effect_at_short_gaps_percentage_points": 3.0,
+    "inherited_uniform_model_abs_error_percentage_points": 5.0,
+    "empirical_grid_change_percentage_points": 1.0
+  },
+  "uncertainty": "10000 paired nested resamples of mother pair, layout block and digital seed; four exposed mother pairs only. Descriptive intervals, no independent transport/systematic coverage.",
+  "decision": "Spatial contribution supported on selected mothers if uniform reduces short-gap suppression by>=3pp with paired interval above zero and recovery-off controls pass. Passing transformed inputs does not validate the model on original inputs. No automatic expansion to E fits.",
+  "no_new_ROOT": true,
+  "default_changed": false,
+  "library": "Configured shared paper library unavailable; reuse project L86 restrictions, no new external literature claim."
+}

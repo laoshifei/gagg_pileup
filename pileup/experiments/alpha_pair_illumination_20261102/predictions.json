@@ -1,0 +1,286 @@
+{
+  "rows": [
+    {
+      "case": 0,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "block": 0,
+      "energy_dep_MeV": [
+        7.588702201843262,
+        0.22558186948299408
+      ],
+      "legacy_1.0_percent": -8.4168848355207,
+      "photon_1.0_percent": -8.945014202307878,
+      "legacy_0.5_percent": -8.417220284647986,
+      "photon_0.5_percent": -8.944815063926193
+    },
+    {
+      "case": 1,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "block": 0,
+      "energy_dep_MeV": [
+        7.588702201843262,
+        0.22558186948299408
+      ],
+      "legacy_1.0_percent": -8.274467397951035,
+      "photon_1.0_percent": -8.811386644115803,
+      "legacy_0.5_percent": -8.274885230837182,
+      "photon_0.5_percent": -8.811965809803224
+    },
+    {
+      "case": 2,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "block": 0,
+      "energy_dep_MeV": [
+        7.588702201843262,
+        0.22558186948299408
+      ],
+      "legacy_1.0_percent": -4.297434809093648,
+      "photon_1.0_percent": -4.607960033287107,
+      "legacy_0.5_percent": -4.297671135895865,
+      "photon_0.5_percent": -4.608194771636354
+    },
+    {
+      "case": 3,
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "block": 0,
+      "energy_dep_MeV": [
+        7.588702201843262,
+        0.22558186948299408
+      ],
+      "legacy_1.0_percent": -0.23571559786281782,
+      "photon_1.0_percent": -0.2478100974993458,
+      "legacy_0.5_percent": -0.2357324177720055,
+      "photon_0.5_percent": -0.24776885150759043
+    },
+    {
+      "case": 4,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "block": 0,
+      "energy_dep_MeV": [
+        0.22558186948299408,
+        7.588702201843262
+      ],
+      "legacy_1.0_percent": -6.496863636621342,
+      "photon_1.0_percent": -6.883055955511752,
+      "legacy_0.5_percent": -6.49712103389235,
+      "photon_0.5_percent": -6.880415620266733
+    },
+    {
+      "case": 5,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "block": 10,
+      "energy_dep_MeV": [
+        7.572389602661133,
+        0.22983290255069733
+      ],
+      "legacy_1.0_percent": -8.395987616684952,
+      "photon_1.0_percent": -8.990996299846,
+      "legacy_0.5_percent": -8.396322267335288,
+      "photon_0.5_percent": -8.990865932964587
+    },
+    {
+      "case": 6,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "block": 10,
+      "energy_dep_MeV": [
+        7.572389602661133,
+        0.22983290255069733
+      ],
+      "legacy_1.0_percent": -8.25414200205483,
+      "photon_1.0_percent": -8.936110561315003,
+      "legacy_0.5_percent": -8.254558844567939,
+      "photon_0.5_percent": -8.935784726353567
+    },
+    {
+      "case": 7,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "block": 10,
+      "energy_dep_MeV": [
+        7.572389602661133,
+        0.22983290255069733
+      ],
+      "legacy_1.0_percent": -4.286308067133415,
+      "photon_1.0_percent": -4.644170540129034,
+      "legacy_0.5_percent": -4.286543804577425,
+      "photon_0.5_percent": -4.643864713759482
+    },
+    {
+      "case": 8,
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "block": 10,
+      "energy_dep_MeV": [
+        7.572389602661133,
+        0.22983290255069733
+      ],
+      "legacy_1.0_percent": -0.23506382688956995,
+      "photon_1.0_percent": -0.25742956168917086,
+      "legacy_0.5_percent": -0.23508060115974283,
+      "photon_0.5_percent": -0.25741365703926267
+    },
+    {
+      "case": 9,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "block": 10,
+      "energy_dep_MeV": [
+        0.22983290255069733,
+        7.572389602661133
+      ],
+      "legacy_1.0_percent": -6.480710887404673,
+      "photon_1.0_percent": -6.776810285216461,
+      "legacy_0.5_percent": -6.480967672495841,
+      "photon_0.5_percent": -6.778681567773415
+    },
+    {
+      "case": 10,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "block": 20,
+      "energy_dep_MeV": [
+        7.596920490264893,
+        0.2454456239938736
+      ],
+      "legacy_1.0_percent": -8.424551132503954,
+      "photon_1.0_percent": -9.06110401530633,
+      "legacy_0.5_percent": -8.424886807024468,
+      "photon_0.5_percent": -9.059963052482455
+    },
+    {
+      "case": 11,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "block": 20,
+      "energy_dep_MeV": [
+        7.596920490264893,
+        0.2454456239938736
+      ],
+      "legacy_1.0_percent": -8.282018879442965,
+      "photon_1.0_percent": -8.91671375086288,
+      "legacy_0.5_percent": -8.282437062467075,
+      "photon_0.5_percent": -8.916614409425328
+    },
+    {
+      "case": 12,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "block": 20,
+      "energy_dep_MeV": [
+        7.596920490264893,
+        0.2454456239938736
+      ],
+      "legacy_1.0_percent": -4.301642456595278,
+      "photon_1.0_percent": -4.669754679665106,
+      "legacy_0.5_percent": -4.301879001475695,
+      "photon_0.5_percent": -4.669771719143312
+    },
+    {
+      "case": 13,
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "block": 20,
+      "energy_dep_MeV": [
+        7.596920490264893,
+        0.2454456239938736
+      ],
+      "legacy_1.0_percent": -0.23597267250253795,
+      "photon_1.0_percent": -0.26963966919559823,
+      "legacy_0.5_percent": -0.23598951178352978,
+      "photon_0.5_percent": -0.26966008698032784
+    },
+    {
+      "case": 14,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "block": 20,
+      "energy_dep_MeV": [
+        0.2454456239938736,
+        7.596920490264893
+      ],
+      "legacy_1.0_percent": -6.502847419122948,
+      "photon_1.0_percent": -6.955352660594083,
+      "legacy_0.5_percent": -6.503104987573282,
+      "photon_0.5_percent": -6.955675199683798
+    },
+    {
+      "case": 15,
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "block": 30,
+      "energy_dep_MeV": [
+        7.5793070793151855,
+        0.2038930505514145
+      ],
+      "legacy_1.0_percent": -8.408116442914759,
+      "photon_1.0_percent": -9.027185934202297,
+      "legacy_0.5_percent": -8.408451633764248,
+      "photon_0.5_percent": -9.026645485594475
+    },
+    {
+      "case": 16,
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "block": 30,
+      "energy_dep_MeV": [
+        7.5793070793151855,
+        0.2038930505514145
+      ],
+      "legacy_1.0_percent": -8.2658310333524,
+      "photon_1.0_percent": -8.920295996054318,
+      "legacy_0.5_percent": -8.266248465761095,
+      "photon_0.5_percent": -8.921073579529015
+    },
+    {
+      "case": 17,
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "block": 30,
+      "energy_dep_MeV": [
+        7.5793070793151855,
+        0.2038930505514145
+      ],
+      "legacy_1.0_percent": -4.292623296264342,
+      "photon_1.0_percent": -4.665788481479927,
+      "legacy_0.5_percent": -4.292859373702629,
+      "photon_0.5_percent": -4.666176603169847
+    },
+    {
+      "case": 18,
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "block": 30,
+      "energy_dep_MeV": [
+        7.5793070793151855,
+        0.2038930505514145
+      ],
+      "legacy_1.0_percent": -0.23542173964975488,
+      "photon_1.0_percent": -0.2686531844993012,
+      "legacy_0.5_percent": -0.2354385374308099,
+      "photon_0.5_percent": -0.2686745058127382
+    },
+    {
+      "case": 19,
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "block": 30,
+      "energy_dep_MeV": [
+        0.2038930505514145,
+        7.5793070793151855
+      ],
+      "legacy_1.0_percent": -6.490020252623596,
+      "photon_1.0_percent": -6.868641467160874,
+      "legacy_0.5_percent": -6.490277453715565,
+      "photon_0.5_percent": -6.86652646604784
+    }
+  ],
+  "legacy_max_difference_percentage_points": 0.0,
+  "photon_model": "Truth on-area photon counts/time/energy, full-recovery PDE weighting, uniform age expectation, no fitted scale or isolated anchor. Diagnostic only; dark history/neighbour XT closure remain approximate."
+}

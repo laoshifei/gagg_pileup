@@ -1,0 +1,307 @@
+{
+  "passed": true,
+  "frozen_hashes": 134,
+  "photon_arrays_checked": 96,
+  "preserved": "Times, energies, all outside photons and per-photon active membership exact; shuffled cell counts exact; seeds reproduce transforms",
+  "baseline_replays": [
+    {
+      "case": 1,
+      "first_two_repeats_exact": true
+    },
+    {
+      "case": 4,
+      "first_two_repeats_exact": true
+    }
+  ],
+  "baseline_digitizations": 24,
+  "spatial": [
+    {
+      "block": 0,
+      "arm": "original",
+      "layout": 0,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "original",
+      "layout": 1,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "original",
+      "layout": 2,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "original",
+      "layout": 3,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "shuffled",
+      "layout": 0,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "shuffled",
+      "layout": 1,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "shuffled",
+      "layout": 2,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "shuffled",
+      "layout": 3,
+      "overlap": 2.171235310770196
+    },
+    {
+      "block": 0,
+      "arm": "uniform",
+      "layout": 0,
+      "overlap": 1.011305662468454
+    },
+    {
+      "block": 0,
+      "arm": "uniform",
+      "layout": 1,
+      "overlap": 1.0209428814079984
+    },
+    {
+      "block": 0,
+      "arm": "uniform",
+      "layout": 2,
+      "overlap": 0.9915794799515738
+    },
+    {
+      "block": 0,
+      "arm": "uniform",
+      "layout": 3,
+      "overlap": 0.992482969227156
+    },
+    {
+      "block": 10,
+      "arm": "original",
+      "layout": 0,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "original",
+      "layout": 1,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "original",
+      "layout": 2,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "original",
+      "layout": 3,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "shuffled",
+      "layout": 0,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "shuffled",
+      "layout": 1,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "shuffled",
+      "layout": 2,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "shuffled",
+      "layout": 3,
+      "overlap": 2.194682003823654
+    },
+    {
+      "block": 10,
+      "arm": "uniform",
+      "layout": 0,
+      "overlap": 1.0125878972582478
+    },
+    {
+      "block": 10,
+      "arm": "uniform",
+      "layout": 1,
+      "overlap": 0.9857482180538124
+    },
+    {
+      "block": 10,
+      "arm": "uniform",
+      "layout": 2,
+      "overlap": 0.9963692675785624
+    },
+    {
+      "block": 10,
+      "arm": "uniform",
+      "layout": 3,
+      "overlap": 0.9967998506674032
+    },
+    {
+      "block": 20,
+      "arm": "original",
+      "layout": 0,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "original",
+      "layout": 1,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "original",
+      "layout": 2,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "original",
+      "layout": 3,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "shuffled",
+      "layout": 0,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "shuffled",
+      "layout": 1,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "shuffled",
+      "layout": 2,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "shuffled",
+      "layout": 3,
+      "overlap": 2.177511061690563
+    },
+    {
+      "block": 20,
+      "arm": "uniform",
+      "layout": 0,
+      "overlap": 1.0090185780387635
+    },
+    {
+      "block": 20,
+      "arm": "uniform",
+      "layout": 1,
+      "overlap": 0.9924814929711736
+    },
+    {
+      "block": 20,
+      "arm": "uniform",
+      "layout": 2,
+      "overlap": 1.0077366334598805
+    },
+    {
+      "block": 20,
+      "arm": "uniform",
+      "layout": 3,
+      "overlap": 1.017094828885726
+    },
+    {
+      "block": 30,
+      "arm": "original",
+      "layout": 0,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "original",
+      "layout": 1,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "original",
+      "layout": 2,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "original",
+      "layout": 3,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "shuffled",
+      "layout": 0,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "shuffled",
+      "layout": 1,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "shuffled",
+      "layout": 2,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "shuffled",
+      "layout": 3,
+      "overlap": 2.0883605801662544
+    },
+    {
+      "block": 30,
+      "arm": "uniform",
+      "layout": 0,
+      "overlap": 0.9963629046010338
+    },
+    {
+      "block": 30,
+      "arm": "uniform",
+      "layout": 1,
+      "overlap": 0.9928094316896022
+    },
+    {
+      "block": 30,
+      "arm": "uniform",
+      "layout": 2,
+      "overlap": 1.0005343728014107
+    },
+    {
+      "block": 30,
+      "arm": "uniform",
+      "layout": 3,
+      "overlap": 0.9768960529992773
+    }
+  ]
+}

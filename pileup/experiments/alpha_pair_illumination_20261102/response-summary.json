@@ -1,0 +1,533 @@
+{
+  "groups": [
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "mothers": 4,
+      "layouts": 4,
+      "repeats": 8,
+      "arms": {
+        "original": {
+          "on_percent": -15.736718365404803,
+          "on_ci95": [
+            -16.822295309662643,
+            -14.551255249922662
+          ],
+          "off_percent": -0.05200483341210038,
+          "off_ci95": [
+            -1.3653884119877968,
+            1.2864686062666795
+          ],
+          "legacy_error_pp": 7.325333358498712,
+          "legacy_error_ci95": [
+            6.1431972087947795,
+            8.405024639620947
+          ],
+          "photon_error_pp": 6.730643252489177,
+          "photon_error_ci95": [
+            5.54139025879656,
+            7.830202625402386
+          ],
+          "isolated_weak_gain_percent": 0.0,
+          "isolated_strong_gain_percent": 0.0
+        },
+        "shuffled": {
+          "on_percent": -15.687303511145704,
+          "on_ci95": [
+            -16.791432497599704,
+            -14.498229297738895
+          ],
+          "off_percent": -0.05200483341210038,
+          "off_ci95": [
+            -1.3653884119877968,
+            1.2864686062666795
+          ],
+          "legacy_error_pp": 7.275918504239613,
+          "legacy_error_ci95": [
+            6.088877526630417,
+            8.375139868004924
+          ],
+          "photon_error_pp": 6.681228398230077,
+          "photon_error_ci95": [
+            5.486387034280248,
+            7.790386904417689
+          ],
+          "isolated_weak_gain_percent": 0.006332801128577925,
+          "isolated_strong_gain_percent": -0.04112433975313745
+        },
+        "uniform": {
+          "on_percent": -9.373517554675956,
+          "on_ci95": [
+            -10.533376832011133,
+            -8.193162972658309
+          ],
+          "off_percent": -0.05200483341210038,
+          "off_ci95": [
+            -1.3653884119877968,
+            1.2864686062666795
+          ],
+          "legacy_error_pp": 0.9621325477698655,
+          "legacy_error_ci95": [
+            -0.21302562034663708,
+            2.116039807930848
+          ],
+          "photon_error_pp": 0.36744244176033014,
+          "photon_error_ci95": [
+            -0.8178893840078175,
+            1.5357193256082151
+          ],
+          "isolated_weak_gain_percent": 0.38622386778511264,
+          "isolated_strong_gain_percent": 8.027007485214
+        }
+      },
+      "uniform_minus_original_pp": 6.363200810728847,
+      "uniform_minus_original_ci95": [
+        5.817342220966797,
+        6.910143606474436
+      ],
+      "shuffled_minus_original_pp": 0.04941485425909953,
+      "shuffled_minus_original_ci95": [
+        -0.3425539820885892,
+        0.42366066411373593
+      ],
+      "uniform_minus_shuffled_pp": 6.313785956469747,
+      "uniform_minus_shuffled_ci95": [
+        5.83408505256688,
+        6.772265813231561
+      ],
+      "uniform_effect_minus_off_effect_pp": 6.363200810728847,
+      "uniform_effect_minus_off_effect_ci95": [
+        5.817342220966797,
+        6.910143606474436
+      ],
+      "legacy_percent": -8.411385006906091,
+      "photon_percent": -9.006075112915626,
+      "photon_grid_change_pp": -0.000502729173698313
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "mothers": 4,
+      "layouts": 4,
+      "repeats": 8,
+      "arms": {
+        "original": {
+          "on_percent": -15.369665314220493,
+          "on_ci95": [
+            -16.735306492780342,
+            -13.974976248331412
+          ],
+          "off_percent": -0.399204078181703,
+          "off_ci95": [
+            -1.5789963405565433,
+            0.8164054585314734
+          ],
+          "legacy_error_pp": 7.100550486020184,
+          "legacy_error_ci95": [
+            5.7091123790364,
+            8.467401311305071
+          ],
+          "photon_error_pp": 6.473538576133491,
+          "photon_error_ci95": [
+            5.055716844463123,
+            7.87036274159741
+          ],
+          "isolated_weak_gain_percent": 0.0,
+          "isolated_strong_gain_percent": 0.0
+        },
+        "shuffled": {
+          "on_percent": -15.592909855849632,
+          "on_ci95": [
+            -16.86059301466355,
+            -14.41103398010229
+          ],
+          "off_percent": -0.399204078181703,
+          "off_ci95": [
+            -1.5789963405565433,
+            0.8164054585314734
+          ],
+          "legacy_error_pp": 7.323795027649323,
+          "legacy_error_ci95": [
+            6.143942302318803,
+            8.585160643833404
+          ],
+          "photon_error_pp": 6.69678311776263,
+          "photon_error_ci95": [
+            5.493669247556552,
+            8.002996871061308
+          ],
+          "isolated_weak_gain_percent": 0.0116880706263367,
+          "isolated_strong_gain_percent": -0.04112433975313745
+        },
+        "uniform": {
+          "on_percent": -9.182795126838776,
+          "on_ci95": [
+            -10.362436001658025,
+            -7.968513637971053
+          ],
+          "off_percent": -0.399204078181703,
+          "off_ci95": [
+            -1.5789963405565433,
+            0.8164054585314734
+          ],
+          "legacy_error_pp": 0.913680298638468,
+          "legacy_error_ci95": [
+            -0.30468588812952063,
+            2.092521758973551
+          ],
+          "photon_error_pp": 0.28666838875177447,
+          "photon_error_ci95": [
+            -0.9520574909201184,
+            1.5023177143080295
+          ],
+          "isolated_weak_gain_percent": 0.3865025534804112,
+          "isolated_strong_gain_percent": 8.027007485214
+        }
+      },
+      "uniform_minus_original_pp": 6.186870187381716,
+      "uniform_minus_original_ci95": [
+        5.694142994155212,
+        6.646268276740879
+      ],
+      "shuffled_minus_original_pp": -0.2232445416291391,
+      "shuffled_minus_original_ci95": [
+        -0.7828397549797939,
+        0.34333260892271433
+      ],
+      "uniform_minus_shuffled_pp": 6.410114729010855,
+      "uniform_minus_shuffled_ci95": [
+        5.941005964853174,
+        6.888470324579397
+      ],
+      "uniform_effect_minus_off_effect_pp": 6.186870187381716,
+      "uniform_effect_minus_off_effect_ci95": [
+        5.694142994155212,
+        6.646268276740879
+      ],
+      "legacy_percent": -8.269114828200308,
+      "photon_percent": -8.896126738087002,
+      "photon_grid_change_pp": 0.00023289319078223514
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "mothers": 4,
+      "layouts": 4,
+      "repeats": 8,
+      "arms": {
+        "original": {
+          "on_percent": -7.949133653983542,
+          "on_ci95": [
+            -9.088792396732616,
+            -6.843829046181929
+          ],
+          "off_percent": 0.5751040959571435,
+          "off_ci95": [
+            -0.6902451452994667,
+            1.8220101744438284
+          ],
+          "legacy_error_pp": 3.654631496711871,
+          "legacy_error_ci95": [
+            2.548374811658007,
+            4.7937604421440945
+          ],
+          "photon_error_pp": 3.302215220343249,
+          "photon_error_ci95": [
+            2.187768238561986,
+            4.453559754114855
+          ],
+          "isolated_weak_gain_percent": 0.0,
+          "isolated_strong_gain_percent": 0.0
+        },
+        "shuffled": {
+          "on_percent": -8.01597318230078,
+          "on_ci95": [
+            -9.195442773267645,
+            -6.861973263803163
+          ],
+          "off_percent": 0.5751040959571435,
+          "off_ci95": [
+            -0.6902451452994667,
+            1.8220101744438284
+          ],
+          "legacy_error_pp": 3.7214710250291088,
+          "legacy_error_ci95": [
+            2.565057638088732,
+            4.903608590667707
+          ],
+          "photon_error_pp": 3.3690547486604867,
+          "photon_error_ci95": [
+            2.2020639917033966,
+            4.558697634388691
+          ],
+          "isolated_weak_gain_percent": 0.0033108054920821806,
+          "isolated_strong_gain_percent": -0.04112433975313745
+        },
+        "uniform": {
+          "on_percent": -3.98665617140814,
+          "on_ci95": [
+            -5.297893111840476,
+            -2.8068327378607356
+          ],
+          "off_percent": 0.5751040959571435,
+          "off_ci95": [
+            -0.6902451452994667,
+            1.8220101744438284
+          ],
+          "legacy_error_pp": -0.30784598586353074,
+          "legacy_error_ci95": [
+            -1.489268847391646,
+            1.0047020440801695
+          ],
+          "photon_error_pp": -0.6602622622321528,
+          "photon_error_ci95": [
+            -1.855770972914242,
+            0.6616734684714848
+          ],
+          "isolated_weak_gain_percent": 0.3784063157652173,
+          "isolated_strong_gain_percent": 8.027007485214
+        }
+      },
+      "uniform_minus_original_pp": 3.9624774825754017,
+      "uniform_minus_original_ci95": [
+        3.5431321285199235,
+        4.382504710454092
+      ],
+      "shuffled_minus_original_pp": -0.06683952831723783,
+      "shuffled_minus_original_ci95": [
+        -0.4820155639417542,
+        0.294911005519238
+      ],
+      "uniform_minus_shuffled_pp": 4.0293170108926395,
+      "uniform_minus_shuffled_ci95": [
+        3.6433898895658454,
+        4.417154136471196
+      ],
+      "uniform_effect_minus_off_effect_pp": 3.9624774825754017,
+      "uniform_effect_minus_off_effect_ci95": [
+        3.5431321285199235,
+        4.382504710454092
+      ],
+      "legacy_percent": -4.294502157271671,
+      "photon_percent": -4.646918433640293,
+      "photon_grid_change_pp": 8.351828695651875e-05
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "mothers": 4,
+      "layouts": 4,
+      "repeats": 8,
+      "arms": {
+        "original": {
+          "on_percent": -0.9438232726896395,
+          "on_ci95": [
+            -2.2102480400461193,
+            0.45004773641047746
+          ],
+          "off_percent": -0.4163241321991362,
+          "off_ci95": [
+            -1.6587533971302528,
+            0.9036910384967196
+          ],
+          "legacy_error_pp": 0.7082798134634694,
+          "legacy_error_ci95": [
+            -0.6854345634166699,
+            1.9749340291779423
+          ],
+          "photon_error_pp": 0.6829401444687855,
+          "photon_error_ci95": [
+            -0.7158746951800775,
+            1.9518945950490443
+          ],
+          "isolated_weak_gain_percent": 0.0,
+          "isolated_strong_gain_percent": 0.0
+        },
+        "shuffled": {
+          "on_percent": -0.8599272819783427,
+          "on_ci95": [
+            -2.1109020557445386,
+            0.46878935676936667
+          ],
+          "off_percent": -0.4163241321991362,
+          "off_ci95": [
+            -1.6587533971302528,
+            0.9036910384967196
+          ],
+          "legacy_error_pp": 0.6243838227521725,
+          "legacy_error_ci95": [
+            -0.7046211020004777,
+            1.875222470021671
+          ],
+          "photon_error_pp": 0.5990441537574887,
+          "photon_error_ci95": [
+            -0.7337445712181222,
+            1.8537813121085698
+          ],
+          "isolated_weak_gain_percent": 0.025370402449692575,
+          "isolated_strong_gain_percent": -0.04112433975313745
+        },
+        "uniform": {
+          "on_percent": -0.5870797749584128,
+          "on_ci95": [
+            -1.8232316143303087,
+            0.735583468990081
+          ],
+          "off_percent": -0.4163241321991362,
+          "off_ci95": [
+            -1.6587533971302528,
+            0.9036910384967196
+          ],
+          "legacy_error_pp": 0.35153631573224264,
+          "legacy_error_ci95": [
+            -0.9710821165234315,
+            1.5881003047226427
+          ],
+          "photon_error_pp": 0.32619664673755877,
+          "photon_error_ci95": [
+            -1.0001243592055753,
+            1.5642223911974489
+          ],
+          "isolated_weak_gain_percent": 0.4453464752902869,
+          "isolated_strong_gain_percent": 8.027007485214
+        }
+      },
+      "uniform_minus_original_pp": 0.3567434977312267,
+      "uniform_minus_original_ci95": [
+        0.05491674618036209,
+        0.6496910385811028
+      ],
+      "shuffled_minus_original_pp": 0.08389599071129683,
+      "shuffled_minus_original_ci95": [
+        -0.17537596138044048,
+        0.33812485252514296
+      ],
+      "uniform_minus_shuffled_pp": 0.2728475070199299,
+      "uniform_minus_shuffled_ci95": [
+        -0.006060875882516388,
+        0.5586670670259102
+      ],
+      "uniform_effect_minus_off_effect_pp": 0.3567434977312267,
+      "uniform_effect_minus_off_effect_ci95": [
+        0.05491674618036209,
+        0.6496910385811028
+      ],
+      "legacy_percent": -0.23554345922617015,
+      "photon_percent": -0.260883128220854,
+      "photon_grid_change_pp": -3.8528858742337135e-06
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "mothers": 4,
+      "layouts": 4,
+      "repeats": 8,
+      "arms": {
+        "original": {
+          "on_percent": -11.948591502650075,
+          "on_ci95": [
+            -13.312411253930856,
+            -10.497928119274091
+          ],
+          "off_percent": 0.17474823872516976,
+          "off_ci95": [
+            -0.9042203253612445,
+            1.3716354528068493
+          ],
+          "legacy_error_pp": 5.455980953706936,
+          "legacy_error_ci95": [
+            4.002202813451147,
+            6.825290814427145
+          ],
+          "photon_error_pp": 5.077626410529282,
+          "photon_error_ci95": [
+            3.596673472717888,
+            6.483440281464586
+          ],
+          "isolated_weak_gain_percent": 0.0,
+          "isolated_strong_gain_percent": 0.0
+        },
+        "shuffled": {
+          "on_percent": -11.92989379906601,
+          "on_ci95": [
+            -13.08667011586494,
+            -10.699387220187017
+          ],
+          "off_percent": 0.17474823872516976,
+          "off_ci95": [
+            -0.9042203253612445,
+            1.3716354528068493
+          ],
+          "legacy_error_pp": 5.437283250122871,
+          "legacy_error_ci95": [
+            4.2044665184295225,
+            6.598344059719134
+          ],
+          "photon_error_pp": 5.058928706945217,
+          "photon_error_ci95": [
+            3.8161875176550755,
+            6.243292360311217
+          ],
+          "isolated_weak_gain_percent": 0.016371095756001486,
+          "isolated_strong_gain_percent": -0.03321425050951676
+        },
+        "uniform": {
+          "on_percent": -6.622618735596236,
+          "on_ci95": [
+            -7.617792041226866,
+            -5.549465216994174
+          ],
+          "off_percent": 0.17474823872516976,
+          "off_ci95": [
+            -0.9042203253612445,
+            1.3716354528068493
+          ],
+          "legacy_error_pp": 0.13000818665309666,
+          "legacy_error_ci95": [
+            -0.944180996711649,
+            1.125613725840342
+          ],
+          "photon_error_pp": -0.24834635652455717,
+          "photon_error_ci95": [
+            -1.3393905688455012,
+            0.7652800731050208
+          ],
+          "isolated_weak_gain_percent": 0.39988974555739687,
+          "isolated_strong_gain_percent": 8.038381309410614
+        }
+      },
+      "uniform_minus_original_pp": 5.325972767053839,
+      "uniform_minus_original_ci95": [
+        4.616618173725037,
+        6.0349796916344784
+      ],
+      "shuffled_minus_original_pp": 0.018697703584065195,
+      "shuffled_minus_original_ci95": [
+        -0.6907556680150811,
+        0.6951399750799099
+      ],
+      "uniform_minus_shuffled_pp": 5.307275063469774,
+      "uniform_minus_shuffled_ci95": [
+        4.791246739411281,
+        5.874696281469378
+      ],
+      "uniform_effect_minus_off_effect_pp": 5.325972767053839,
+      "uniform_effect_minus_off_effect_ci95": [
+        4.616618173725037,
+        6.0349796916344784
+      ],
+      "legacy_percent": -6.492610548943139,
+      "photon_percent": -6.870965092120793,
+      "photon_grid_change_pp": -0.0006403786778461651
+    }
+  ],
+  "recovery_off_control_passed": true,
+  "empirical_grid_passed": true,
+  "spatial_contribution_supported_on_selected_mothers": true,
+  "inherited_model_passes_uniform_point_gate": true,
+  "scope": "Four historically exposed mother pairs, paired nested descriptive intervals; transformed inputs do not validate original inputs or establish independent reconstruction performance.",
+  "default_changed": false,
+  "energy_inference": false,
+  "new_ROOT": 0,
+  "production_digitizations": 11520
+}
