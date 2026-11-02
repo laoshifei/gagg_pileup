@@ -1,0 +1,39 @@
+{
+  "checks": [
+    {
+      "name": "weak_single",
+      "tangent_identity_error": 4.440892098500626e-16
+    },
+    {
+      "name": "high_single",
+      "tangent_identity_error": 2.220446049250313e-16
+    },
+    {
+      "name": "pair_8",
+      "tangent_identity_error": 6.916689443414725e-14,
+      "singular_values": [
+        144.15525175403354,
+        0.7077616654796108
+      ]
+    },
+    {
+      "name": "pair_40",
+      "tangent_identity_error": 5.806466418789569e-14,
+      "singular_values": [
+        144.05918755727515,
+        1.339253876541879
+      ]
+    },
+    {
+      "name": "pair_200",
+      "tangent_identity_error": 1.304512053934559e-14,
+      "singular_values": [
+        143.59030649304174,
+        3.271145860369494
+      ]
+    }
+  ],
+  "passed": true,
+  "fixed_reference": true,
+  "truth_E_used_for_diagnostic_residual_only": true
+}

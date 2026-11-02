@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "tests": 4,
+  "command": "OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python3 -B -m unittest pileup.analysis.test_alpha_single_residual_sources -v",
+  "working_directory": "pileup/experiments/alpha_single_residual_sources_20261102/source",
+  "coverage": [
+    "balanced random effects and negative variance retention",
+    "opposite-half target separation",
+    "future-sample masking",
+    "grouped ridge prediction"
+  ],
+  "record": "Actual frozen-source unittest run completed with exit0 before production analysis"
+}

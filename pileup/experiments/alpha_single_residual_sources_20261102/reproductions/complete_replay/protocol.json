@@ -1,0 +1,68 @@
+{
+  "created_utc": "2026-11-02T07:03:50.403918+00:00",
+  "git_head": "5c48ce08757adb42b2b81889f476515c5a966bd2",
+  "git_status": " M docs/literature-use.md\n?? pileup/analysis/alpha_single_residual_sources.py\n?? pileup/analysis/alpha_single_residual_sources_study.py\n?? pileup/analysis/test_alpha_single_residual_sources.py\n?? pileup/experiments/alpha_single_residual_sources_20261102/\n",
+  "purpose": "Distinguish conditional mean error, persistent mother variation and within-mother digitization; test observable-prefix prediction of persistent strong isolated residual",
+  "selection": "SHA256(735000:ROOT path) ordered first32 fold1 mothers at each source energy1.625/8MeV; first16train,next16validation. Source energy is not E_dep; no outcome selection",
+  "mothers": 64,
+  "repeats": 16,
+  "digitizations": 1024,
+  "workers": 8,
+  "blas_threads": 1,
+  "source_rate": "No Poisson scan; exactly one stored optical mother per offline4096ns waveform. Historical RunInfo/macros archived verbatim",
+  "observation": "First2048ns,1024 samples,2ns period,0.5ns aperture at each period start; onset128ns,phase0; no ADC quantization/clipping",
+  "physical_model": "Unchanged95/351ns f=.3 mean anchor,29ns recovery proxy,14400cells,12x12 frozen spatial prior. Actual old optical photons replayed with original times/positions/energies",
+  "residual": "Event-ancestor signal minus causal isolated mean at true E_dep; full analog minus background and mean retained separately. Ancestry is diagnostic truth",
+  "variance": "r_mk=b+u_m+epsilon_mk, conditional on group/fixed phase. Between sample variance of repeat means minus within/R; retain negative estimates;4000 mother-cluster bootstrap, fixed repeats",
+  "conditioning": "Subtract each mother model at its actual E_dep before grouping. Remaining E-dependent mean error/geometry can contribute to estimated between term; not a pure microscopic optical-variance identification",
+  "projections": "Frozen GLS influence at nominal7.5MeV strong/.25MeV weak,128ns onset and gaps8/40/200ns. Same operator across mothers;100delta lnE units, not percent energy error or physical resolution",
+  "nominal_energy_MeV": {
+    "high": 7.5,
+    "weak": 0.25
+  },
+  "gaps_ns": [
+    8.0,
+    40.0,
+    200.0
+  ],
+  "prediction": "Train only16strong mothers; validation16strong mothers. One noisy observed prefix predicts mean ancestor-residual projection of the opposite8repeat half. This isolates persistent mother response; target still has finite-repeat noise",
+  "features": "Known onset/K=1; prefix-only unit-voltage least-squares E fit,logE plus4 normalized residual block means. No true E/source energy/photons/ancestry features. Prefix8/40/200ns or full1920ns after onset",
+  "horizons_ns": [
+    8.0,
+    40.0,
+    200.0,
+    1920.0
+  ],
+  "prediction_candidates": [
+    "training_mean",
+    "voltage_energy_only",
+    "voltage_energy_plus_shape"
+  ],
+  "regression": "Standardize inside training fold; ridge penalties .01/.1/1/10 chosen by leave-one-mother-out MSE on16training mothers. Repeats stay grouped; no validation choice",
+  "comparisons": "Gap-matched uncontaminated prefix primary; full isolated window secondary information control unavailable in an overlapping pair. Fixed narrow source groups do not test general energy-spectrum transfer",
+  "prediction_gate": {
+    "shape_mse_ratio_to_mean": 0.9,
+    "ratio_ci95_upper": 1.0,
+    "shape_mse_ratio_to_energy": 0.95
+  },
+  "gate_scope": "Engineering gate for a subsequent pair-model study only; no default replacement. Pass requires each criterion at both8/40ns. Thresholds are project proposals, not literature guarantees",
+  "pilot": {
+    "ids": [
+      0,
+      32
+    ],
+    "repeats": 4,
+    "projected_seconds_limit": 900.0,
+    "safety_factor": 1.5
+  },
+  "replay": {
+    "ids": [
+      1,
+      33
+    ],
+    "repeats": 2
+  },
+  "no_new_ROOT": true,
+  "default_changed": false,
+  "literature": "ProjectL91 and existing source/review hashes; no new literature claim"
+}

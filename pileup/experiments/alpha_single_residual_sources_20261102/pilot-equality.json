@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "exact_arrays": true,
+  "repeats_per_mother": 4,
+  "ids": [
+    0,
+    32
+  ]
+}

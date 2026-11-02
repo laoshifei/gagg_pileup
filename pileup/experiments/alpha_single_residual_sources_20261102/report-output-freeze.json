@@ -1,0 +1,13 @@
+{
+  "jupyter/artifacts/alpha_single_residual_sources_20261102/figures/fig_0007_104_1_residual_sources.png": "1ba76803a82568f8d70655cac231c91bc4511353525a1459728fb507d041a2ee",
+  "jupyter/artifacts/alpha_single_residual_sources_20261102/figures/fig_0007_105_1_projected_sources.png": "7d578b8aa34aabd0f47e7205e6310173a878a7e4582e4a6fd7c1fcf5e017a850",
+  "jupyter/artifacts/alpha_single_residual_sources_20261102/figures/fig_0007_106_1_predictability.png": "58b2da646ec3546a707f60bb7564ed3bed9ba9fbe651417bcdd4a39b8613a5e5",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "2ed98faaea4574d06a355ffe495628200cae1a7542bf8b2e727ed94536b7c188",
+  "jupyter/Research_Plan_20260921.ipynb": "54bf1cc21f9dba1eaa76397ac4b1cad49351ccf9fc5f262c42f3822bd7bdce2d",
+  "jupyter/Run_Catalog.ipynb": "f6e5f04c4f59ded2cb4c06bdb1580e1eca68d90ad1e2469d13a78fd35cb8513e",
+  "docs/literature-use.md": "0aa85a6cd270b787e35d2a00e2cbf8178238f9c89406f70fd1ece7778445c10d",
+  "pileup/experiments/alpha_single_residual_sources_20261102/README.md": "bcb1532f1acb72eedb01b1b9547e5b60fa1b3ea506e30f61c37e4d6e3f550aa0",
+  "pileup/experiments/alpha_single_residual_sources_20261102/tables/isolated_energy.csv": "a854e116296a13e40374d618b6d2b8a7dec63e5046be269c9fdb617f575fabc1",
+  "pileup/experiments/alpha_single_residual_sources_20261102/tables/prediction.csv": "5f97dfcc47a5fc950476033711dee5c4660018687b55540f65e87d8a7cdebe99",
+  "pileup/experiments/alpha_single_residual_sources_20261102/tables/variance_sources.csv": "c70ebfc21b344527f65d32df4db16f2581db03d08a366b646542315a9aaa6c50"
+}

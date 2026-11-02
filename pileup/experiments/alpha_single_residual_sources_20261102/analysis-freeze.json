@@ -1,0 +1,7 @@
+{
+  "pileup/experiments/alpha_single_residual_sources_20261102/result-summary.json": "45961eeb7a070b1800f3243ef9d0512f42349d808cac0a347bea4e8be84923e0",
+  "pileup/experiments/alpha_single_residual_sources_20261102/regression-models.json": "b4f1626dd0bb4975323cb5d81893deb6327e308b93e1a7d82b3a4c3d8ce2d34a",
+  "pileup/experiments/alpha_single_residual_sources_20261102/projection-controls.json": "47128bd1cd9db568b5ce50ab5ee1772a0e5d5420cce9ea41912e14daf8f6ff20",
+  "jupyter/artifacts/alpha_single_residual_sources_20261102/analysis.npz": "f84a81e79f6cccdfadb4edd650821864be658c931e44efaf37a54fdefca0e328",
+  "jupyter/artifacts/alpha_single_residual_sources_20261102/influences.npz": "5f9e03f4f0ed32660f717929d0191e3dc233613823ce011ffad40cb688b721e4"
+}

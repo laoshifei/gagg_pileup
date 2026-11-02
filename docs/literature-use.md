@@ -2417,3 +2417,57 @@ Bretz、Hebbeker、Kemp（2020），*Extending the dynamic range of SiPMs by und
 **文献核验层级**：依据L89、项目冻结模型和本轮代数/数值对照。配置的共享库/media/sf_works/papers仍不可用，未新增外部论文结论、核原文或改变审核状态。共享库恢复后，定点核对强脉冲条件形状、相关噪声与弱脉冲可辨识性的既有精读依据。
 
 位置：`pileup/experiments/alpha_pair_residual_projection_20261102/`，根目录可复用模块`alpha_pair_residual_projection.py`、`alpha_pair_residual_projection_study.py`、`alpha_pair_residual_projection_report.py`；本地codex_0007第93–98节、图0007-94-1至97-1、研究计划第31节。
+
+
+<a id="strong-residual-literature-20261102"></a>
+## L91 — 2026-11-02：文献复核后，先检验强孤立残差的来源与可预测性
+
+**本轮采用。** L90的真值残差删除定位了误差来源，尚不能证明可以从观测电压估计它。下一项优先区分条件均值偏差、固定光学母实现差异与母内数字化涨落，再决定是否增加形状参数。L54的16/32维低秩协方差未通过整体推进条件，L83的噪声更新未改变成功标签，均保留为反例；不把“再做PCA”当作已经有效的新算法。
+
+**来源与可核实位置。** 用户确认文献库现位于`/mnt/d/works/papers`，本地AGENTS路径同步更新。以下题目、作者、DOI和页码据已有精读笔记；PDF页码从本地文件第1页计，本轮未重新核原PDF。详细阅读记录和完整作者表保存于本地evidence.json。
+
+| 文献、笔记及原文 | 相关证据与条件 | 原有采用意见与缺口 |
+| --- | --- | --- |
+| D. J. Fixsen, S. H. Moseley, B. Cabrera, E. Figueroa-Feliciano (2004), *Pulse estimation in nonlinear detectors with nonstationary noise*；[DOI](https://doi.org/10.1016/j.nima.2003.11.313)；[精读笔记](/mnt/d/works/papers/sources/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.md)；[原PDF](/mnt/d/works/papers/raw/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.pdf) | PDF2 §2–4、式1–2：能量相关均值与完整逆协方差的局部最小二乘。非线性TES模拟0.5–5 eV，每能量5000次含非平稳噪声重复；不是PCA截断。 | AI草稿，尚无本篇专门人工确认。采样/事件率、协方差稳定性和标定/评价独立性未充分给出；不能当作GAGG实测或堆积恢复证明。原目标没有log-det，不称完整参数相关高斯似然。 |
+| S. E. Busch等 (2016), *Progress Towards Improved Analysis of TES X-ray Data Using Principal Component Analysis*；[DOI](https://doi.org/10.1007/s10909-015-1357-z)；[精读笔记](/mnt/d/works/papers/sources/2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis.md)；[原PDF](/mnt/d/works/papers/raw/2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis.pdf) | PDF3 §2、PDF4图4、PDF5图5：PCA变化方向仍需能量标定，旋转不自动白化。Mo/Au TES、55Fe、1 MS/s，选择Mn Kα单事件并剔除堆积。PDF6图6–7最佳Mn Kα FWHM为3.19±0.14→1.56±0.13 eV，低能Al Kα没有同样收益。 | [第658项原始意见](/mnt/d/works/papers/global-review.md:13229)仅认可特定TES实例与能区，不认可普遍两倍收益、实时/高率或GAGG性能；其余仍待审核。噪声量级、持续事件率、独立测试和具体权重实现有缺口。 |
+| J. Z. Zhang, H. Y. Wu, W. Jiang, Z. H. Wang, R. R. Fan, X. C. Ruan (2024), *Development of a pile-up pulse recovery algorithm for the LaBr3 detector*；[DOI](https://doi.org/10.1016/j.nima.2024.169273)；[精读笔记](/mnt/d/works/papers/sources/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.md)；[原PDF](/mnt/d/works/papers/raw/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.pdf) | PDF2–3式2–5、图2–3：孤立幅度相关模板与失配伪脉冲。2×2英寸LaBr3(Ce)+R6233 PMT、500 MHz/14 bit/32 μs，宽约40 ns。模拟σ=7 ADC约1.5 keV、10⁶–10⁸/s；实测快中子最高约4×10⁶/s。 | AI草稿；B23-052问题归并未新增人工确认。合成/拟合共用模板，线性叠加不含SiPM共享微胞恢复；效率、间隔和高率数值均不外推。PMT饱和解释仍需验证。 |
+
+**项目拟议方法，尚未执行。** 在既有开发池按母ROOT身份做训练/选择划分或交叉拟合，排除当前四对诊断母，保持既有280/280/320母池的历史角色；已暴露评价集不称全新确认。同母独立数字化分解`r_mk=b(E_dep,t)+u_m(t)+ε_mk(t)`，控制能量、相位、窗口并计入有限重复误差，同时报告波形残差与弱E方向投影。该随机效应记账是项目假设，待数据检验，不是文献已验证的GAGG模型。优先复用现有ROOT；缺重复时先测离线数字化成本。
+
+若有跨母稳定的条件均值偏差，先验证均值修正；若有稳定形状结构，再测试从观测电压估计它的能力及受约束候选。PCA方差排序不等于能量信息排序。不可观测的随机变化应进入不确定性模型；同一形状变化不能同时重复计入基础协方差与低秩项。线性高斯形状参数的边缘化只是协方差重表达，本身不增加信息。共同微胞中孤立形状如何迁移也须验证，不能默认自由线性叠加。
+
+**验证顺序。** 冻结开发阈值、样本/种子、候选数和预算后，比较当前空间基线、证据支持的均值修正或一个新形状/协方差候选。先做孤立强/弱和强→弱8/40 ns，保留200/1200 ns及弱→强40 ns；在已知K/t下并列报告E_dep偏差、RMSE、误差宽度、严格整对±10%成功、边界、未收敛。另用允许增峰的单脉冲控制检查虚假弱分量；已知K=2结果不能测盲误拆分。通过开发门后再冻结方案、作新母事件确认，继而放开K/t及计数率并报告漏检、误拆分/误合并、效率和能谱选择偏差。
+
+**证据层级与待办。** 本轮只读本地主题/审核索引、相关方法/概念页、三篇sources笔记及global-review原始意见；检索助手使用`--no-cache`，未写共享库。当前PDF提取/渲染工具不可用，页码和公式定位沿用旧精读，未宣称重读原文或完成算法复现。拟用于论文核心方法时，定点核对Fixsen式1–2、Busch PDF3/5的权重与标定缺口；若需新增精读，留作共享库独立任务。没有新拟合、数字化、ROOT或默认算法替换。
+
+位置：本地`jupyter/codex_0007_SiPM_Energy_Calibration.ipynb`第99–102节、`jupyter/Research_Plan_20260921.ipynb`第32节；证据哈希、修改前副本及验证位于`jupyter/run_records/paper_search_strong_shape_20261102/`。原计算与图像保持，不新增Notebook或图号。
+
+
+<a id="single-residual-sources-20261102"></a>
+## L92 — 2026-11-02：强孤立残差的母间差异与有限形状可预测性
+
+**项目结果。** 强孤立残差沿8/40 ns弱能量方向的平均投影为+41.65/+24.92（单位100δlnE），母事件重采样95%区间均在零以上。按B/(B+W/8)估计，8次数字化平均时母间差异仍占投影方差的70.16%/85.43%。这同时支持存在平均响应偏差和不能靠同母重复平均消除的差异；B还可能包含未去净的能量趋势/几何效应，不能全部归为纯光子统计。
+
+| 弱方向间隔 | 平均投影及95%区间 | 母内方差 W | 校正后母间方差 B | 8次平均的母间方差占比 |
+| --- | --- | --- | --- | --- |
+| 8 ns | +41.65 [20.33, 65.01] | 12440.71 | 3656.84 | 70.16% |
+| 40 ns | +24.92 [9.22, 41.75] | 2838.79 | 2080.23 | 85.43% |
+| 200 ns | +10.59 [4.34, 16.64] | 467.86 | 300.20 | 83.70% |
+
+平均投影单位100δlnE，方差单位(100δlnE)²；不是相对E百分比或实际双脉冲误差。B由母均值样本方差减W/16估计；母间份额是B/(B+W/8)，不包含平均偏差平方。负方差估计保留在完整表中。
+
+**可预测性。** 8/40 ns可用前段中，加入四个形状特征相对仅电压能量代理的MSE比为0.9942/0.9751，相对训练均值基线的配对95%区间均跨1；两项主要条件均未通过事先冻结的推进门。没有证据据此增加逐事件形状自由度或替换默认重建，也没有证明其他特征/非线性模型必然无效。
+
+| 间隔 | 仅能量/均值 MSE比 | 能量＋形状/均值 MSE比及95%区间 | 能量＋形状/仅能量 MSE比 | 通过 |
+| --- | --- | --- | --- | --- |
+| 8 ns | 0.9098 | 0.9045 [0.7772, 1.1349] | 0.9942 | 否 |
+| 40 ns | 0.7065 | 0.6890 [0.5749, 1.0831] | 0.9751 | 否 |
+| 200 ns | 0.9235 | 0.9881 [0.9771, 0.9978] | 1.0700 | 否 |
+
+16强母训练、16强母保留评价，逐母留一选择ridge；同母重复不跨训练/评价。已知K=1/时刻，只从弱到达前完整孔径的电压拟合能量并提取四个残差块；另一半8重复均值是诊断目标，不共享同次数字化噪声。目标仍有有限重复误差，单位100δlnE，MSE比不是能量恢复效率。完整孤立窗为另一种压缩特征对照，不是可辨识性上界。上述失败只约束本轮特征和预测器，不证明所有形状方法无效。
+
+**数据与核验。** 64母来自旧noise fold1（强/弱各32），与均值训练、空间先验及最近诊断母不重叠，但已用于历史噪声标定，不能称新输运确认。源能量8/1.625 MeV；E_dep分别7.546795–7.624476/0.218865–0.298181 MeV。固定相位、每母16重复，1024正式数字化，先导8与重放4另列；完整4096 ns数字化，观测2048 ns/2 ns。四项针对性测试、原RunInfo/能量标签、重放逐数组相等、残差闭合及投影恒等式通过。4096次前段能量拟合未收敛0、边界18；全部保留。另在新目录完整复算，摘要逐值相同；两遍合计2072次实际数字化，统计不重复计数。
+
+**采用与下一步。** 沿用L91三篇既有精读及审核边界，没有新增外部论文主张。当前证据优先支持在新的开发划分检验条件均值b(E,t)与时间对齐，覆盖更多沉积能量、保持孤立能标和共享响应，再以同输入/预算验证双脉冲能量。母差异及数字化涨落保留在误差模型中，不与低秩项重复计数。本轮未修改物理/平均响应参数、未新增双脉冲能量拟合或默认算法；盲漏检、误拆并、效率与能谱选择偏差未测。
+
+位置：`pileup/experiments/alpha_single_residual_sources_20261102/`及可复用模块`pileup/analysis/alpha_single_residual_sources.py`、`alpha_single_residual_sources_study.py`、`alpha_single_residual_sources_report.py`；本地codex_0007第103–107节、图0007-104-1至106-1，研究计划第33节与Run_Catalog同步。实际原宏/RunInfo、种子、来源哈希及冻结源码随实验记录。

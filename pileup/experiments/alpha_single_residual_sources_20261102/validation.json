@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "checks": {
+    "design-freeze.json": 34,
+    "input-freeze.json": 384,
+    "waveform-freeze.json": 128,
+    "feature-freeze.json": 64,
+    "analysis-freeze.json": 5,
+    "report-source-freeze.json": 6,
+    "report-output-freeze.json": 11,
+    "compiled_binary_matches_build_record": true,
+    "cost_provenance_projection_and_partial_replay_checks": true,
+    "complete_replay_equal_arrays": 448,
+    "complete_replay_summary_equal": true,
+    "prespecified_failed_prediction_gate_preserved": true,
+    "feature_workers_truth_guard": 64,
+    "mother_split_and_historical_roles": true,
+    "notebooks": {
+      "codex_0007_SiPM_Energy_Calibration.ipynb": {
+        "before": 168,
+        "after": 176,
+        "old_outputs_preserved": true,
+        "executed_new_display_cells": 3
+      },
+      "Research_Plan_20260921.ipynb": {
+        "before": 101,
+        "after": 102,
+        "old_outputs_preserved": true,
+        "executed_new_display_cells": 0
+      },
+      "Run_Catalog.ipynb": {
+        "before": 62,
+        "after": 63,
+        "old_outputs_preserved": true,
+        "executed_new_display_cells": 0
+      }
+    },
+    "new_fixed_figure_ids": [
+      "0007-104-1",
+      "0007-105-1",
+      "0007-106-1"
+    ],
+    "literature_append_only": true,
+    "formal_digitizations": 1024,
+    "actual_digitizations_including_all_checks": 2072,
+    "new_ROOT": 0
+  }
+}

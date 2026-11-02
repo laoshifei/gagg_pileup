@@ -1,0 +1,9 @@
+{
+  "strength": 2.5151480980698926,
+  "recovery_ns": 29.0,
+  "cells": 14400,
+  "role": "Calibrated once on fold0 true component charges",
+  "training_frames": 900,
+  "objective": "Stratum-balanced mean fractional Q MSE",
+  "boundary": false
+}

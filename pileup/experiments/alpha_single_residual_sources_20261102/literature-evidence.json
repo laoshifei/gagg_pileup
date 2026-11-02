@@ -1,0 +1,166 @@
+{
+  "recorded_at_utc": "2026-11-02T06:42:48.015356+00:00",
+  "task": "paper-search: 接下来应该做什么；先检验强孤立残差来源与可预测性",
+  "library_root": "/mnt/d/works/papers",
+  "library_path_authority": "用户本轮明确回复 /mnt/d/works/papers",
+  "git_head_before": "5c48ce08757adb42b2b81889f476515c5a966bd2",
+  "git_state_before": "clean; main ahead of origin/main by 1",
+  "papers": [
+    {
+      "key": "Fixsen2004",
+      "stem": "2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise",
+      "title": "Pulse estimation in nonlinear detectors with nonstationary noise",
+      "authors": [
+        "D. J. Fixsen",
+        "S. H. Moseley",
+        "B. Cabrera",
+        "E. Figueroa-Feliciano"
+      ],
+      "year": 2004,
+      "doi": "10.1016/j.nima.2003.11.313",
+      "positions_from_existing_note": "PDF2, sections 2–4, equations 1–2; PDF3 simulation and PDF3–4 discussion",
+      "review_status": "AI精读草稿，待人工审核；未见本篇科学结论的专门人工确认。",
+      "note": "/mnt/d/works/papers/sources/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.md",
+      "pdf": "/mnt/d/works/papers/raw/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.pdf",
+      "note_sha256": "ee5758a7c16f7bf82bc6b4930c6e5e9bb3a8099af4c3bc5ef45843b186f12701",
+      "pdf_read_this_turn": false
+    },
+    {
+      "key": "Busch2016",
+      "stem": "2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis",
+      "title": "Progress Towards Improved Analysis of TES X-ray Data Using Principal Component Analysis",
+      "authors": [
+        "S. E. Busch",
+        "J. S. Adams",
+        "S. R. Bandler",
+        "J. A. Chervenak",
+        "M. E. Eckart",
+        "F. M. Finkbeiner",
+        "D. J. Fixsen",
+        "R. L. Kelley",
+        "C. A. Kilbourne",
+        "S.-J. Lee",
+        "S. H. Moseley",
+        "J.-P. Porst",
+        "F. S. Porter",
+        "J. E. Sadleir",
+        "S. J. Smith"
+      ],
+      "year": 2016,
+      "doi": "10.1007/s10909-015-1357-z",
+      "positions_from_existing_note": "PDF3 section 2; PDF4 figure 4; PDF5 figure 5; PDF6 figures 6–7; PDF7 discussion",
+      "review_status": "第658项仅限定确认特定TES能区的方法实例；其余内容与缺口仍待审核。已读global-review.md原始答复。",
+      "note": "/mnt/d/works/papers/sources/2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis.md",
+      "pdf": "/mnt/d/works/papers/raw/2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis.pdf",
+      "note_sha256": "fab30dc01f34b4292661422d73d702e565d45af3e788255e88b2c06bdc4ad6c9",
+      "pdf_read_this_turn": false
+    },
+    {
+      "key": "Zhang2024",
+      "stem": "2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector",
+      "title": "Development of a pile-up pulse recovery algorithm for the LaBr3 detector",
+      "authors": [
+        "J. Z. Zhang",
+        "H. Y. Wu",
+        "W. Jiang",
+        "Z. H. Wang",
+        "R. R. Fan",
+        "X. C. Ruan"
+      ],
+      "year": 2024,
+      "doi": "10.1016/j.nima.2024.169273",
+      "positions_from_existing_note": "PDF2–3 equations 2–5 and figures 2–3; source note sections 3–6 for simulation and validation conditions",
+      "review_status": "AI精读草稿，待人工审核；B23-052归并记录保留同模板、效率及PMT条件限制，未新增人工确认。",
+      "note": "/mnt/d/works/papers/sources/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.md",
+      "pdf": "/mnt/d/works/papers/raw/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.pdf",
+      "note_sha256": "6e75ca98b6165297b2ccbfe1f00e3ee2385f90088041209b13574bbc8a80f7f9",
+      "pdf_read_this_turn": false
+    }
+  ],
+  "queries": [
+    {
+      "method": "knowledge_index.py --no-cache search-topic",
+      "query": "PCA",
+      "limit": 8,
+      "result_topics": 2
+    },
+    {
+      "method": "knowledge_index.py --no-cache search-review --context",
+      "query": "Busch",
+      "limit": 3,
+      "review_item": 658
+    },
+    {
+      "method": "rg navigation and source-content search",
+      "terms": [
+        "PCA",
+        "principal component",
+        "covariance",
+        "shape",
+        "nuisance",
+        "subspace",
+        "模板",
+        "协方差",
+        "形状"
+      ]
+    }
+  ],
+  "reading_scope": "据既有精读笔记，查相关方法/结果/限制及global-review原始意见；未查看原PDF，不冒充新全文精读。",
+  "pdf_tools": "pdftotext/pdftoppm及当前Python的常见PDF包不可用；尝试未取得PDF文本或页图。",
+  "read_only_library": true,
+  "network_used": false,
+  "new_simulation_or_fitting": false,
+  "input_sha256": {
+    "/mnt/d/works/papers/sources/2004_Fixsen_NIMA_Pulse-estimation-in-nonlinear-detectors-with-nonstationary-noise.md": "ee5758a7c16f7bf82bc6b4930c6e5e9bb3a8099af4c3bc5ef45843b186f12701",
+    "/mnt/d/works/papers/sources/2016_Busch_JLTP_Progress-towards-improved-analysis-of-TES-X-ray-data-using-principal-component-analysis.md": "fab30dc01f34b4292661422d73d702e565d45af3e788255e88b2c06bdc4ad6c9",
+    "/mnt/d/works/papers/sources/2024_Zhang_NIMA_Development-of-a-pile-up-pulse-recovery-algorithm-for-the-LaBr3-detector.md": "6e75ca98b6165297b2ccbfe1f00e3ee2385f90088041209b13574bbc8a80f7f9",
+    "/mnt/d/works/papers/AGENTS.md": "c94c58f3cb22f6612f4a22aa8961df21f782bb7289796302c93c63141b743b60",
+    "/mnt/d/works/papers/index.md": "ea78f90f874808359846f3b3a248f445ebd5512cdcdf30ea5980b26f188fb1cc",
+    "/mnt/d/works/papers/vocabulary.json": "a0fbbabbd660d741e8d61da883583dcf62b94c5d54511e85879e4d336b64edae",
+    "/mnt/d/works/papers/topic-index.md": "0e6be560a2168a03a2455a0a5a3548c7ec8a950a13ea5ccbf361744904153c04",
+    "/mnt/d/works/papers/review-index.md": "05c87c1a6edf8db398997c5364c5b8a794141c85f143a5ace9032247a4c6f152",
+    "/mnt/d/works/papers/global-review.md": "620d2b396e91d7a538e0de48b1a2e7243ad49000f45f57be80f79e91db958ce5",
+    "/mnt/d/works/papers/methods/数字脉冲处理与堆积恢复.md": "68de97cc2d51101631c81cc8e98918e186cd2319086a8439e865caf2787a203d",
+    "/mnt/d/works/papers/methods/脉冲形状甄别与粒子鉴别.md": "bdfcd1be6d483c9aaf7959ae4a3aef20285a7c269b3f9f595875143e4de13f60",
+    "/mnt/d/works/papers/concepts/闪烁体的光产额与能量分辨率.md": "8bf4f0780371a33d520a35105fc5dda340387448c8eeac54749891de24f20d33",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_residual_projection_20261102/result-summary.json": "6cb30eaf3f42a824ac69005617ad578655048afd2876106b373daf82ebebc024",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_residual_projection_20261102/validation.json": "8cedd407f5dc3e764d6ac7353369f54792f401d68294f5deed099f48032ced41",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_residual_projection_20261102/noise-calibration.json": "a46e5e0b4bdefcbb5d186faeb7e1d0e2869052262aacb0352800181795e0d50a",
+    "/home/xc/GAGG_pileup/pileup/experiments/alpha_pair_energy_calibrated_20261030/mother-split.json": "940d9f3b9c19a530ef3ddfea2ee9e2750d4a6934fd1affb1bb61485a43657d1f",
+    "/home/xc/GAGG_pileup/pileup/analysis/alpha_pair_energy_calibrated.py": "6920d06e0eeebcfa7d71181fb0ccd279601ab116e6f4108151f762a14bf46c38"
+  },
+  "before": {
+    "AGENTS.md": {
+      "sha256": "3068cce49cef100976810b1135a2b2493b7ddbc0d7c9787a7f599cd76345a687",
+      "backup": "jupyter/run_records/paper_search_strong_shape_20261102/before/AGENTS.md"
+    },
+    "docs/literature-use.md": {
+      "sha256": "f5d784e0abd812c39846905261fb2f68c9a3a4696b5632b885410f990293c3dc",
+      "backup": "jupyter/run_records/paper_search_strong_shape_20261102/before/docs/literature-use.md"
+    },
+    "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": {
+      "sha256": "9ec29f2ad720d458007b1f70b66274e500afe9535ef4536d6db5136c91adc7d7",
+      "backup": "jupyter/run_records/paper_search_strong_shape_20261102/before/jupyter/codex_0007_SiPM_Energy_Calibration.ipynb"
+    },
+    "jupyter/Research_Plan_20260921.ipynb": {
+      "sha256": "39d9ed87f0b6d39a77e9dcf603e505086df4d8d8df55e8e7cf5b491689a5fdac",
+      "backup": "jupyter/run_records/paper_search_strong_shape_20261102/before/jupyter/Research_Plan_20260921.ipynb"
+    }
+  },
+  "after_sha256": {
+    "AGENTS.md": "4caa06ab743f98eb5c3bbc98b0e2ff51deed85de8705bf73306775aa32ad4d88",
+    "docs/literature-use.md": "750f6ccc7bf61eca4f0ca02a0a32e3793b1cedda49a1934b2781c40eefa147b2",
+    "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "4d79ad106acc777790ee8336cc39730c2ebb324b32577b3ec4d08ef1f0877c33",
+    "jupyter/Research_Plan_20260921.ipynb": "8e238899b65dcd357559cdedc374ec72458a1e3c00d64242c7f625b6e92d4d34"
+  },
+  "append_only_notebook_cells": {
+    "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": {
+      "before": 164,
+      "after": 168
+    },
+    "jupyter/Research_Plan_20260921.ipynb": {
+      "before": 100,
+      "after": 101
+    }
+  }
+}

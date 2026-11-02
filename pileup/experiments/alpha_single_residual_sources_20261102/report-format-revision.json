@@ -1,0 +1,30 @@
+{
+  "reason": "Git staged whitespace check flagged CSV CRLF; export now explicitly uses LF",
+  "numerical_change": false,
+  "source_snapshot_v1_retained": true,
+  "executed_display_cells": "original frozen report v1; figures and notebook outputs unchanged",
+  "actual_table_rewrite": "format_tables.py; parsed rows exactly equal",
+  "rows": [
+    {
+      "path": "pileup/experiments/alpha_single_residual_sources_20261102/tables/isolated_energy.csv",
+      "old_sha256": "806862ec845899c9132775a1f5638a48a8e7b863e5d608c5a6a4327e21a6ea89",
+      "new_sha256": "a854e116296a13e40374d618b6d2b8a7dec63e5046be269c9fdb617f575fabc1",
+      "all_parsed_rows_equal": true,
+      "original": "jupyter/run_records/alpha_single_residual_sources_20261102/report_format_before/isolated_energy.csv"
+    },
+    {
+      "path": "pileup/experiments/alpha_single_residual_sources_20261102/tables/prediction.csv",
+      "old_sha256": "110a7b3de43178a1c344db8aa036522420912ba69f554ffa3392f233fe1913d6",
+      "new_sha256": "5f97dfcc47a5fc950476033711dee5c4660018687b55540f65e87d8a7cdebe99",
+      "all_parsed_rows_equal": true,
+      "original": "jupyter/run_records/alpha_single_residual_sources_20261102/report_format_before/prediction.csv"
+    },
+    {
+      "path": "pileup/experiments/alpha_single_residual_sources_20261102/tables/variance_sources.csv",
+      "old_sha256": "f4ad76d223fbd6f6d187881ebb11182456a224489366c49f35db02d59a4cc5ef",
+      "new_sha256": "c70ebfc21b344527f65d32df4db16f2581db03d08a366b646542315a9aaa6c50",
+      "all_parsed_rows_equal": true,
+      "original": "jupyter/run_records/alpha_single_residual_sources_20261102/report_format_before/variance_sources.csv"
+    }
+  ]
+}

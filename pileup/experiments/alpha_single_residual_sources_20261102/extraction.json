@@ -1,0 +1,514 @@
+[
+  {
+    "id": 0,
+    "root": "g4/data/20261023_18h14m19s.root",
+    "first_active_ns": 5028.472,
+    "active_photons": 1990,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 1,
+    "root": "g4/data/20261023_18h14m45s.root",
+    "first_active_ns": 5028.372,
+    "active_photons": 2103,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 2,
+    "root": "g4/data/20261023_18h13m57s.root",
+    "first_active_ns": 5028.536,
+    "active_photons": 2088,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 3,
+    "root": "g4/data/20261023_18h14m53s.root",
+    "first_active_ns": 5028.394,
+    "active_photons": 2122,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 4,
+    "root": "g4/data/20261023_18h13m56s.root",
+    "first_active_ns": 5028.317,
+    "active_photons": 2126,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 5,
+    "root": "g4/data/20261023_18h13m04s.root",
+    "first_active_ns": 5028.274,
+    "active_photons": 1869,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 6,
+    "root": "g4/data/20261023_16h52m51s.root",
+    "first_active_ns": 5028.344,
+    "active_photons": 2135,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 7,
+    "root": "g4/data/20261023_18h15m23s.root",
+    "first_active_ns": 5028.308,
+    "active_photons": 2318,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 8,
+    "root": "g4/data/20261023_18h14m35s.root",
+    "first_active_ns": 5028.378,
+    "active_photons": 2130,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 9,
+    "root": "g4/data/20261023_18h14m20s.root",
+    "first_active_ns": 5028.283,
+    "active_photons": 1998,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 10,
+    "root": "g4/data/20261023_17h54m05s.root",
+    "first_active_ns": 5028.589,
+    "active_photons": 1962,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 11,
+    "root": "g4/data/20261023_17h54m25s.root",
+    "first_active_ns": 5028.578,
+    "active_photons": 1932,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 12,
+    "root": "g4/data/20261023_16h52m41s.root",
+    "first_active_ns": 5028.639,
+    "active_photons": 2037,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 13,
+    "root": "g4/data/20261023_18h15m38s.root",
+    "first_active_ns": 5028.292,
+    "active_photons": 2219,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 14,
+    "root": "g4/data/20261023_18h13m29s.root",
+    "first_active_ns": 5028.264,
+    "active_photons": 2104,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 15,
+    "root": "g4/data/20261023_16h52m26s.root",
+    "first_active_ns": 5028.3,
+    "active_photons": 2031,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 16,
+    "root": "g4/data/20261023_18h15m19s.root",
+    "first_active_ns": 5028.274,
+    "active_photons": 2079,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 17,
+    "root": "g4/data/20261023_16h52m43s.root",
+    "first_active_ns": 5028.327,
+    "active_photons": 1918,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 18,
+    "root": "g4/data/20261023_18h13m20s.root",
+    "first_active_ns": 5028.309,
+    "active_photons": 1914,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 19,
+    "root": "g4/data/20261023_18h14m34s.root",
+    "first_active_ns": 5028.583,
+    "active_photons": 2147,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 20,
+    "root": "g4/data/20261023_18h15m11s.root",
+    "first_active_ns": 5028.279,
+    "active_photons": 1908,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 21,
+    "root": "g4/data/20261023_18h13m37s.root",
+    "first_active_ns": 5028.299,
+    "active_photons": 2128,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 22,
+    "root": "g4/data/20261023_18h14m55s.root",
+    "first_active_ns": 5028.604,
+    "active_photons": 2126,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 23,
+    "root": "g4/data/20261023_16h52m25s.root",
+    "first_active_ns": 5028.542,
+    "active_photons": 2142,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 24,
+    "root": "g4/data/20261023_18h15m02s.root",
+    "first_active_ns": 5028.388,
+    "active_photons": 2180,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 25,
+    "root": "g4/data/20261023_18h14m28s.root",
+    "first_active_ns": 5028.33,
+    "active_photons": 2167,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 26,
+    "root": "g4/data/20261023_18h14m27s.root",
+    "first_active_ns": 5028.361,
+    "active_photons": 2079,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 27,
+    "root": "g4/data/20261023_18h15m31s.root",
+    "first_active_ns": 5028.356,
+    "active_photons": 1843,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 28,
+    "root": "g4/data/20261023_18h13m18s.root",
+    "first_active_ns": 5028.285,
+    "active_photons": 2083,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 29,
+    "root": "g4/data/20261023_18h15m03s.root",
+    "first_active_ns": 5028.488,
+    "active_photons": 1779,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 30,
+    "root": "g4/data/20261023_18h14m11s.root",
+    "first_active_ns": 5028.266,
+    "active_photons": 2248,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 31,
+    "root": "g4/data/20261023_18h13m48s.root",
+    "first_active_ns": 5028.325,
+    "active_photons": 1908,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 32,
+    "root": "g4/data/20261023_15h43m29s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 55562,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 33,
+    "root": "g4/data/20261022_18h49m11s.root",
+    "first_active_ns": 5012.762,
+    "active_photons": 55095,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 34,
+    "root": "g4/data/20261022_18h58m26s.root",
+    "first_active_ns": 5012.765,
+    "active_photons": 55047,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 35,
+    "root": "g4/data/20261023_15h44m28s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 55197,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 36,
+    "root": "g4/data/20261023_15h42m47s.root",
+    "first_active_ns": 5012.761,
+    "active_photons": 54540,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 37,
+    "root": "g4/data/20261023_15h40m32s.root",
+    "first_active_ns": 5012.762,
+    "active_photons": 55358,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 38,
+    "root": "g4/data/20261022_18h53m59s.root",
+    "first_active_ns": 5012.768,
+    "active_photons": 55120,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 39,
+    "root": "g4/data/20261023_15h41m18s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 54707,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 40,
+    "root": "g4/data/20261023_15h42m22s.root",
+    "first_active_ns": 5012.761,
+    "active_photons": 55043,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 41,
+    "root": "g4/data/20261022_18h52m11s.root",
+    "first_active_ns": 5012.759,
+    "active_photons": 54799,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 42,
+    "root": "g4/data/20261022_18h57m25s.root",
+    "first_active_ns": 5012.772,
+    "active_photons": 55065,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 43,
+    "root": "g4/data/20261022_18h50m25s.root",
+    "first_active_ns": 5012.765,
+    "active_photons": 54606,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 44,
+    "root": "g4/data/20261022_18h56m56s.root",
+    "first_active_ns": 5012.772,
+    "active_photons": 54716,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 45,
+    "root": "g4/data/20261022_18h55m38s.root",
+    "first_active_ns": 5012.761,
+    "active_photons": 54675,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 46,
+    "root": "g4/data/20261022_18h47m49s.root",
+    "first_active_ns": 5012.764,
+    "active_photons": 54327,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 47,
+    "root": "g4/data/20261023_15h43m37s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 54937,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 48,
+    "root": "g4/data/20261023_15h43m51s.root",
+    "first_active_ns": 5012.763,
+    "active_photons": 54788,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 49,
+    "root": "g4/data/20261023_15h43m48s.root",
+    "first_active_ns": 5012.766,
+    "active_photons": 55069,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 50,
+    "root": "g4/data/20261023_15h40m36s.root",
+    "first_active_ns": 5012.768,
+    "active_photons": 54972,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 51,
+    "root": "g4/data/20261022_18h54m48s.root",
+    "first_active_ns": 5012.758,
+    "active_photons": 55086,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 52,
+    "root": "g4/data/20261023_15h44m20s.root",
+    "first_active_ns": 5012.763,
+    "active_photons": 54708,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 53,
+    "root": "g4/data/20261023_15h44m18s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 54831,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 54,
+    "root": "g4/data/20261022_18h55m25s.root",
+    "first_active_ns": 5012.759,
+    "active_photons": 54975,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 55,
+    "root": "g4/data/20261022_18h55m53s.root",
+    "first_active_ns": 5012.757,
+    "active_photons": 54942,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 56,
+    "root": "g4/data/20261023_15h41m12s.root",
+    "first_active_ns": 5012.759,
+    "active_photons": 54447,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 57,
+    "root": "g4/data/20261022_18h49m47s.root",
+    "first_active_ns": 5012.76,
+    "active_photons": 54876,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 58,
+    "root": "g4/data/20261022_18h59m02s.root",
+    "first_active_ns": 5012.757,
+    "active_photons": 55471,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 59,
+    "root": "g4/data/20261022_18h53m36s.root",
+    "first_active_ns": 5012.761,
+    "active_photons": 54829,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 60,
+    "root": "g4/data/20261023_15h40m22s.root",
+    "first_active_ns": 5012.764,
+    "active_photons": 54901,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 61,
+    "root": "g4/data/20261023_15h43m59s.root",
+    "first_active_ns": 5012.761,
+    "active_photons": 54731,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 62,
+    "root": "g4/data/20261023_15h43m02s.root",
+    "first_active_ns": 5012.765,
+    "active_photons": 55311,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  },
+  {
+    "id": 63,
+    "root": "g4/data/20261022_18h51m32s.root",
+    "first_active_ns": 5012.767,
+    "active_photons": 55370,
+    "original_window_ns": 20000.0,
+    "aligned_clock": "First active-area photon at128ns; original RunInfo separately preserved"
+  }
+]

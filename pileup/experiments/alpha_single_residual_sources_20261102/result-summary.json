@@ -1,0 +1,777 @@
+{
+  "variance": [
+    {
+      "group": "weak",
+      "kind": "event_signal",
+      "projection": "isolated_logE",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 1.1628216254309103,
+      "mean_ci95": [
+        -0.0296130088586363,
+        2.415895710860646
+      ],
+      "within_variance": 20.67052569147786,
+      "within_ci95": [
+        17.660781930333417,
+        24.508607388774177
+      ],
+      "between_variance_unclipped": 11.163037545506725,
+      "between_ci95": [
+        6.031928750816765,
+        15.62749268932171
+      ],
+      "mean16_variance": 12.45494540122409,
+      "within_fraction_single": 0.6493311960585868,
+      "between_fraction_mean8": 0.8120431153849672,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 0.0
+    },
+    {
+      "group": "weak",
+      "kind": "full_voltage",
+      "projection": "isolated_logE",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 1.2388654563962742,
+      "mean_ci95": [
+        0.08235020128779147,
+        2.4745780636082517
+      ],
+      "within_variance": 20.825800974090296,
+      "within_ci95": [
+        17.858680395155577,
+        24.48178913447239
+      ],
+      "between_variance_unclipped": 11.334666265744845,
+      "between_ci95": [
+        6.201957765547303,
+        15.724189997430871
+      ],
+      "mean16_variance": 12.636278826625489,
+      "within_fraction_single": 0.6475590301217604,
+      "between_fraction_mean8": 0.813226760821597,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 0.0
+    },
+    {
+      "group": "high",
+      "kind": "event_signal",
+      "projection": "isolated_logE",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": -0.25960754037726635,
+      "mean_ci95": [
+        -0.3828846747499349,
+        -0.14464348684435324
+      ],
+      "within_variance": 0.23708501149231315,
+      "within_ci95": [
+        0.20745781367823607,
+        0.26774735276195255
+      ],
+      "between_variance_unclipped": 0.11076993818284626,
+      "between_ci95": [
+        0.051571515529589614,
+        0.17067559354021072
+      ],
+      "mean16_variance": 0.12558775140111583,
+      "within_fraction_single": 0.6815628517395323,
+      "between_fraction_mean8": 0.7889284052460735,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 1.2732925824820995e-11
+    },
+    {
+      "group": "high",
+      "kind": "event_signal",
+      "projection": "weak_logE_gap8",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 41.6483376280505,
+      "mean_ci95": [
+        20.32510726821703,
+        65.01307852169641
+      ],
+      "within_variance": 12440.707544162302,
+      "within_ci95": [
+        11208.727621507878,
+        13835.067292282924
+      ],
+      "between_variance_unclipped": 3656.8378561942363,
+      "between_ci95": [
+        1607.0418921160954,
+        5890.80002809517
+      ],
+      "mean16_variance": 4434.38207770438,
+      "within_fraction_single": 0.7728325800458222,
+      "between_fraction_mean8": 0.7016288501135077,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 1.2732925824820995e-11
+    },
+    {
+      "group": "high",
+      "kind": "event_signal",
+      "projection": "weak_logE_gap40",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 24.91812439958308,
+      "mean_ci95": [
+        9.220079973776736,
+        41.753589781443225
+      ],
+      "within_variance": 2838.791983503596,
+      "within_ci95": [
+        2508.5001096619094,
+        3184.4419744741035
+      ],
+      "between_variance_unclipped": 2080.2320516831833,
+      "between_ci95": [
+        886.2937576714152,
+        3272.702283947117
+      ],
+      "mean16_variance": 2257.656550652158,
+      "within_fraction_single": 0.5771047189843228,
+      "between_fraction_mean8": 0.8542763092040984,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 1.2732925824820995e-11
+    },
+    {
+      "group": "high",
+      "kind": "event_signal",
+      "projection": "weak_logE_gap200",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 10.590231301244271,
+      "mean_ci95": [
+        4.335977831872656,
+        16.64342355434719
+      ],
+      "within_variance": 467.8585186195097,
+      "within_ci95": [
+        414.9169029291391,
+        521.7246853096624
+      ],
+      "between_variance_unclipped": 300.19694709139225,
+      "between_ci95": [
+        172.4266371199071,
+        424.80106310622403
+      ],
+      "mean16_variance": 329.4381045051116,
+      "within_fraction_single": 0.6091467862759965,
+      "between_fraction_mean8": 0.8369509446557486,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 1.2732925824820995e-11
+    },
+    {
+      "group": "high",
+      "kind": "full_voltage",
+      "projection": "isolated_logE",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": -0.25782217393923523,
+      "mean_ci95": [
+        -0.3812344398931147,
+        -0.1375382186268445
+      ],
+      "within_variance": 0.23703844223711584,
+      "within_ci95": [
+        0.20694509598964303,
+        0.2672490861585437
+      ],
+      "between_variance_unclipped": 0.11100851065311426,
+      "between_ci95": [
+        0.05323957818095381,
+        0.1686680371531176
+      ],
+      "mean16_variance": 0.125823413292934,
+      "within_fraction_single": 0.6810530598492984,
+      "between_fraction_mean8": 0.7893191120561556,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 4.547473508864641e-12
+    },
+    {
+      "group": "high",
+      "kind": "full_voltage",
+      "projection": "weak_logE_gap8",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 41.507092062672086,
+      "mean_ci95": [
+        19.061839920202992,
+        64.89560755948214
+      ],
+      "within_variance": 12442.478908623549,
+      "within_ci95": [
+        11144.85430834328,
+        13830.067765443097
+      ],
+      "between_variance_unclipped": 3662.1833464712686,
+      "between_ci95": [
+        1562.7697542695269,
+        5842.882764270798
+      ],
+      "mean16_variance": 4439.83827826024,
+      "within_fraction_single": 0.7726010463018116,
+      "between_fraction_mean8": 0.7019047651883242,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 4.547473508864641e-12
+    },
+    {
+      "group": "high",
+      "kind": "full_voltage",
+      "projection": "weak_logE_gap40",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 24.9391322478711,
+      "mean_ci95": [
+        9.466154271643752,
+        41.79141594980502
+      ],
+      "within_variance": 2841.7708342700503,
+      "within_ci95": [
+        2512.2866579316346,
+        3174.802283441295
+      ],
+      "between_variance_unclipped": 2080.5089070169693,
+      "between_ci95": [
+        902.6115684353615,
+        3280.7901833734168
+      ],
+      "mean16_variance": 2258.1195841588474,
+      "within_fraction_single": 0.5773281860504372,
+      "between_fraction_mean8": 0.8541622773557604,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 4.547473508864641e-12
+    },
+    {
+      "group": "high",
+      "kind": "full_voltage",
+      "projection": "weak_logE_gap200",
+      "mothers": 32,
+      "repeats": 16,
+      "mean": 10.622194387594146,
+      "mean_ci95": [
+        4.54784917192294,
+        16.824097421347556
+      ],
+      "within_variance": 469.2491562762988,
+      "within_ci95": [
+        417.1429299607241,
+        523.133742909478
+      ],
+      "between_variance_unclipped": 298.88666516919847,
+      "between_ci95": [
+        164.95540769151162,
+        421.5884860157377
+      ],
+      "mean16_variance": 328.21473743646715,
+      "within_fraction_single": 0.6108934685447347,
+      "between_fraction_mean8": 0.8359465134171191,
+      "units": "mean:100 delta ln E; variance:(100 delta ln E)^2",
+      "moment_identity_error": 4.547473508864641e-12
+    }
+  ],
+  "isolated_energy": [
+    {
+      "group": "weak",
+      "role": "train",
+      "horizon_ns": 8.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 1.4982522484576486,
+      "rmse_percent": 32.115115409310825,
+      "error_sd_percent": 32.142988425560425,
+      "within10_count": 52,
+      "boundary": 8,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "train",
+      "horizon_ns": 40.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 3.895767189817548,
+      "rmse_percent": 14.694550506114311,
+      "error_sd_percent": 14.196481201733397,
+      "within10_count": 141,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "train",
+      "horizon_ns": 200.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 1.5620808693509864,
+      "rmse_percent": 7.203332378543503,
+      "error_sd_percent": 7.045694717308703,
+      "within10_count": 210,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "train",
+      "horizon_ns": 1920.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 1.4406958989506118,
+      "rmse_percent": 6.250349410743938,
+      "error_sd_percent": 6.093958225975182,
+      "within10_count": 229,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "validation",
+      "horizon_ns": 8.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 5.910989892830666,
+      "rmse_percent": 38.1789986531927,
+      "error_sd_percent": 37.79253017704974,
+      "within10_count": 42,
+      "boundary": 10,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "validation",
+      "horizon_ns": 40.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.7511733448368054,
+      "rmse_percent": 14.774553143467626,
+      "error_sd_percent": 14.784349005138003,
+      "within10_count": 132,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "validation",
+      "horizon_ns": 200.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 1.6775746310838415,
+      "rmse_percent": 8.146233906674107,
+      "error_sd_percent": 7.987244432970352,
+      "within10_count": 201,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "weak",
+      "role": "validation",
+      "horizon_ns": 1920.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": 1.5971021074271938,
+      "rmse_percent": 7.015980965144159,
+      "error_sd_percent": 6.845165164509166,
+      "within10_count": 220,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "train",
+      "horizon_ns": 8.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -1.3070780687149537,
+      "rmse_percent": 3.7365050094534817,
+      "error_sd_percent": 3.5072877916527956,
+      "within10_count": 253,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "train",
+      "horizon_ns": 40.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.19951206636219074,
+      "rmse_percent": 1.5714569418611797,
+      "error_sd_percent": 1.561793834160933,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "train",
+      "horizon_ns": 200.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.3860512245524694,
+      "rmse_percent": 0.9602707383224318,
+      "error_sd_percent": 0.8809744866937617,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "train",
+      "horizon_ns": 1920.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.30268628546415544,
+      "rmse_percent": 0.7238579532223145,
+      "error_sd_percent": 0.6588223163505639,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "validation",
+      "horizon_ns": 8.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.9751416092086488,
+      "rmse_percent": 3.5731973550134266,
+      "error_sd_percent": 3.444296549623267,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "validation",
+      "horizon_ns": 40.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.5160152826373277,
+      "rmse_percent": 1.8293490235179277,
+      "error_sd_percent": 1.758500916779618,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "validation",
+      "horizon_ns": 200.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.5299879381724099,
+      "rmse_percent": 1.0593158066035713,
+      "error_sd_percent": 0.9190004533038946,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    },
+    {
+      "group": "high",
+      "role": "validation",
+      "horizon_ns": 1920.0,
+      "mothers": 16,
+      "repeat_fits": 256,
+      "bias_percent": -0.41020182315058284,
+      "rmse_percent": 0.8017407511475347,
+      "error_sd_percent": 0.6902054546680358,
+      "within10_count": 256,
+      "boundary": 0,
+      "nonconverged": 0,
+      "estimator": "Single-prefix unit-voltage LS diagnostic,known onset/K=1; not default full GLS"
+    }
+  ],
+  "prediction": [
+    {
+      "gap_ns": 8.0,
+      "horizon_ns": 8.0,
+      "accessible_before_weak": true,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 0.9044670344209679,
+        "ci95": [
+          0.7772343337275374,
+          1.1349053193380898
+        ],
+        "candidate_rmse": 66.03951474342921,
+        "baseline_rmse": 69.43964663840578
+      },
+      "shape_vs_energy": {
+        "ratio": 0.9941643388065767,
+        "ci95": [
+          0.8994296705911111,
+          1.1094646022651218
+        ],
+        "candidate_rmse": 66.03951474342921,
+        "baseline_rmse": 66.23305434694741
+      },
+      "energy_vs_mean": {
+        "ratio": 0.9097761799691145,
+        "ci95": [
+          0.8056995689430048,
+          1.0921399390548987
+        ],
+        "candidate_rmse": 66.23305434694741,
+        "baseline_rmse": 69.43964663840578
+      },
+      "gate_passed": false,
+      "baseline_training_mean": 43.15952840345826,
+      "validation_target_mean": 40.13714685264273,
+      "opposite_half_target_noise_variance": 1358.3505964414837,
+      "baseline_bias": 3.0223815508155285,
+      "energy_predictor_bias": 0.5896557534254052,
+      "shape_predictor_bias": -2.7703925751634886,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    },
+    {
+      "gap_ns": 8.0,
+      "horizon_ns": 1920.0,
+      "accessible_before_weak": false,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 1.0017039705774664,
+        "ci95": [
+          0.9873851316723701,
+          1.0180897836714877
+        ],
+        "candidate_rmse": 69.49878301485748,
+        "baseline_rmse": 69.43964663840578
+      },
+      "shape_vs_energy": {
+        "ratio": 1.0016078983458907,
+        "ci95": [
+          0.9874053296037155,
+          1.0165304503465742
+        ],
+        "candidate_rmse": 69.49878301485748,
+        "baseline_rmse": 69.4429768147445
+      },
+      "energy_vs_mean": {
+        "ratio": 1.0000959180051738,
+        "ci95": [
+          0.9996675472723391,
+          1.0005150606710649
+        ],
+        "candidate_rmse": 69.4429768147445,
+        "baseline_rmse": 69.43964663840578
+      },
+      "gate_passed": false,
+      "baseline_training_mean": 43.15952840345826,
+      "validation_target_mean": 40.13714685264273,
+      "opposite_half_target_noise_variance": 1358.3505964414837,
+      "baseline_bias": 3.0223815508155285,
+      "energy_predictor_bias": 3.0149022461665016,
+      "shape_predictor_bias": 2.3906421898515564,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    },
+    {
+      "gap_ns": 40.0,
+      "horizon_ns": 40.0,
+      "accessible_before_weak": true,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 0.6889637303712244,
+        "ci95": [
+          0.5749318721418942,
+          1.0830893979101033
+        ],
+        "candidate_rmse": 42.79023873776707,
+        "baseline_rmse": 51.55212000648033
+      },
+      "shape_vs_energy": {
+        "ratio": 0.9751109993883365,
+        "ci95": [
+          0.8944394398810204,
+          1.089822437722214
+        ],
+        "candidate_rmse": 42.79023873776707,
+        "baseline_rmse": 43.332892738850575
+      },
+      "energy_vs_mean": {
+        "ratio": 0.7065490296011374,
+        "ci95": [
+          0.5484928091101067,
+          1.1799866012076126
+        ],
+        "candidate_rmse": 43.332892738850575,
+        "baseline_rmse": 51.55212000648033
+      },
+      "gate_passed": false,
+      "baseline_training_mean": 17.092404224510776,
+      "validation_target_mean": 32.74384457465539,
+      "opposite_half_target_noise_variance": 346.09425630548003,
+      "baseline_bias": -15.65144035014462,
+      "energy_predictor_bias": -11.141352540905473,
+      "shape_predictor_bias": -11.763526150819523,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    },
+    {
+      "gap_ns": 40.0,
+      "horizon_ns": 1920.0,
+      "accessible_before_weak": false,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 0.975577381246374,
+        "ci95": [
+          0.9593437352959681,
+          0.9922474015324003
+        ],
+        "candidate_rmse": 50.91870983050737,
+        "baseline_rmse": 51.55212000648033
+      },
+      "shape_vs_energy": {
+        "ratio": 0.9782992062598448,
+        "ci95": [
+          0.9624197834667215,
+          0.9953252409351923
+        ],
+        "candidate_rmse": 50.91870983050737,
+        "baseline_rmse": 51.480355876672306
+      },
+      "energy_vs_mean": {
+        "ratio": 0.9972177990168503,
+        "ci95": [
+          0.9956521334020204,
+          0.9985478124992136
+        ],
+        "candidate_rmse": 51.480355876672306,
+        "baseline_rmse": 51.55212000648033
+      },
+      "gate_passed": false,
+      "baseline_training_mean": 17.092404224510776,
+      "validation_target_mean": 32.74384457465539,
+      "opposite_half_target_noise_variance": 346.09425630548003,
+      "baseline_bias": -15.65144035014462,
+      "energy_predictor_bias": -15.62657244867274,
+      "shape_predictor_bias": -15.422946567476957,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    },
+    {
+      "gap_ns": 200.0,
+      "horizon_ns": 200.0,
+      "accessible_before_weak": true,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 0.9881342861987752,
+        "ci95": [
+          0.9770899065537877,
+          0.9978312835321452
+        ],
+        "candidate_rmse": 19.479815255494536,
+        "baseline_rmse": 19.596424987398468
+      },
+      "shape_vs_energy": {
+        "ratio": 1.0700095065418334,
+        "ci95": [
+          1.0270873279286437,
+          1.1026165144490485
+        ],
+        "candidate_rmse": 19.479815255494536,
+        "baseline_rmse": 18.831764551018562
+      },
+      "energy_vs_mean": {
+        "ratio": 0.9234817823182984,
+        "ci95": [
+          0.890578312640754,
+          0.9650069552253898
+        ],
+        "candidate_rmse": 18.831764551018562,
+        "baseline_rmse": 19.596424987398468
+      },
+      "gate_passed": false,
+      "baseline_training_mean": 9.528034997366724,
+      "validation_target_mean": 11.652427605121813,
+      "opposite_half_target_noise_variance": 58.54827774602046,
+      "baseline_bias": -2.1243926077550888,
+      "energy_predictor_bias": -1.855764463273483,
+      "shape_predictor_bias": -2.1284617521858284,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    },
+    {
+      "gap_ns": 200.0,
+      "horizon_ns": 1920.0,
+      "accessible_before_weak": false,
+      "training_mothers": 16,
+      "validation_mothers": 16,
+      "repeat_predictions": 256,
+      "shape_vs_mean": {
+        "ratio": 0.8188284406290806,
+        "ci95": [
+          0.7558049591046405,
+          0.8878842971222494
+        ],
+        "candidate_rmse": 17.73263638591639,
+        "baseline_rmse": 19.596424987398468
+      },
+      "shape_vs_energy": {
+        "ratio": 0.8180941733426746,
+        "ci95": [
+          0.7539334067819368,
+          0.8879977249125699
+        ],
+        "candidate_rmse": 17.73263638591639,
+        "baseline_rmse": 19.60521724326494
+      },
+      "energy_vs_mean": {
+        "ratio": 1.0008975339396513,
+        "ci95": [
+          1.000138351404375,
+          1.001589025951002
+        ],
+        "candidate_rmse": 19.60521724326494,
+        "baseline_rmse": 19.596424987398468
+      },
+      "gate_passed": true,
+      "baseline_training_mean": 9.528034997366724,
+      "validation_target_mean": 11.652427605121813,
+      "opposite_half_target_noise_variance": 58.54827774602046,
+      "baseline_bias": -2.1243926077550888,
+      "energy_predictor_bias": -2.1290145531188767,
+      "shape_predictor_bias": -1.2661734050824154,
+      "units": "Target and prediction:100 delta ln E; not nonlinear relative E error"
+    }
+  ],
+  "decision": {
+    "primary_both_gaps_passed": false,
+    "action": "Do not promote this prefix shape predictor; inspect remaining mean/variance limits before a new pair model",
+    "no_blind_performance_measured": true,
+    "default_changed": false
+  },
+  "exact_voltage_closure_mV": 1.7763568394002505e-15,
+  "mother_count": 64,
+  "formal_digitizations": 1024,
+  "limitations": [
+    "Historical noise-pool reuse; validation only for this new predictor",
+    "Only two narrow source-energy groups; source energy is not deposited energy",
+    "Known onset/K=1; opposite-half target is persistent mother response with finite averaging noise",
+    "Full isolated-window features unavailable in an overlapping pair",
+    "Fixed nominal logE linear projections are not actual pair-energy reconstruction",
+    "No physical/mean parameter changes; covariance/predictor uncertainty not propagated into real energy fits"
+  ]
+}
