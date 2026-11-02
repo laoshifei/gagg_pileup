@@ -1,0 +1,9 @@
+{
+  "reason": "The first full charge-map calculation reached the parent-process target check, where the inherited np.trapezoid call lacked the documented NumPy1.26 adapter. Apply the same existing adapter in the parent before dispatch; checkpoint deterministic map points to preserve work. No model, profile, seeds or evaluation outcomes changed.",
+  "failure": "AttributeError: module numpy has no attribute trapezoid",
+  "actual_runner": "run_v3.py",
+  "preceding_revisions_preserved": [
+    "run.py",
+    "run_v2.py"
+  ]
+}

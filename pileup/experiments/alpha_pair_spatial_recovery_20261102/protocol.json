@@ -1,0 +1,51 @@
+{
+  "created_utc": "2026-11-02T01:52:34.318736+00:00",
+  "commit": "3a4d028574fc7bd6ef28c6a95bcc75ff5634c251",
+  "git_status": "?? pileup/analysis/alpha_pair_spatial_recovery.py\n?? pileup/analysis/alpha_pair_spatial_study.py\n?? pileup/experiments/alpha_pair_spatial_recovery_20261102/\n",
+  "scope": "Pure alpha, known-input response diagnostics; single E fits know t, pairs use true E/t for forward scoring only. No pair energy fit or blind recovery claim.",
+  "development": "128 historical fold0 mothers,32 per source-energy group, sorted by ROOT path before outputs. Equal mother weighting of PDE-weighted cell probabilities; no evaluation positions used to estimate profile.",
+  "evaluation": "16 different previously exposed20261026 mothers, four per energy group, block5/15/25/35; disjoint from prior16 causal controls and from128 profile mothers. Retrospective parameter holdout, not fresh optical confirmation.",
+  "spatial": "Energy-independent D4-symmetric illumination prior;6x6 and12x12 exact cell tiles. Equal-illumination tiles combined without altering their independent age equations. No effective-cell or strength fit.",
+  "approximation": "Same95/351ns fraction0.3 light shape,29ns recovery,14400cells and regionwise prompt-XT mean field; no explicit neighbour transport between regions or dark occupancy in expectation.",
+  "calibration": "81 charge-to-light knots250..40000full-PDE equivalents integrated6144ns; invert the SAME spatial operator used for pairs, target inherited isolated Q(E_dep).",
+  "primary": "spatial12",
+  "variants": {
+    "spatial6": [
+      6,
+      1.0
+    ],
+    "spatial12": [
+      12,
+      1.0
+    ],
+    "spatial12_fine": [
+      12,
+      0.5
+    ]
+  },
+  "primary_dt_ns": 1.0,
+  "secondary_dt_ns": 0.5,
+  "single": "64 parent/phase controls x8 repeats=512 digitizations. Old isolated-voltage anchor retained exactly by construction; mean-E fit from voltage only and frozen metric. Add raw truth-time spatial forward single response to exercise the spatial operator.",
+  "pairs": "20cases x8repeats x(shared+2isolated) x(recovery on/off)=960 digitizations, only after single gates pass.",
+  "raw_diagnostic": "Actual accepted photon times and full-PDE weights, but frozen development spatial prior; diagnostic truth inputs, not reconstruction regressors.",
+  "gates": {
+    "single_group_mean_energy_percent": 5.0,
+    "single_phase_span_pp": 1.0,
+    "raw_single_group_area_error_percent": 5.0,
+    "shared_weak_area_error_pp": 5.0,
+    "recovery_off_abs_pp": 3.0,
+    "spatial_grid_change_pp": 1.0,
+    "time_grid_change_pp": 1.0,
+    "pre_event_mV": 1e-10,
+    "numerical_uniform_abs": 1e-09,
+    "gradient_relative": 1e-05,
+    "stage_projected_seconds": 900.0
+  },
+  "decision": "No pair expansion if single gate fails. If pair response gates pass, plan separate E-fit study; do not claim new inference from response agreement.",
+  "inference_boundary": "Primary component predictor receives E/t and fixed profiles/models only. Evaluation photon truth is confined to digitization and separately labeled raw diagnostics.",
+  "workers": 4,
+  "BLAS_threads": 1,
+  "no_new_ROOT": true,
+  "default_changed": false,
+  "literature": "Reuse project L87 limitations; configured shared library unavailable, no new external paper assertion."
+}

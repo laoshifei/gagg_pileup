@@ -1,0 +1,158 @@
+{
+  "created_utc": "2026-11-02T02:26:18.251514+00:00",
+  "passed": true,
+  "frozen_file_counts": {
+    "source-config-freeze.json": 38,
+    "input-freeze.json": 273,
+    "model-freeze.json": 4,
+    "prediction-freeze.json": 37,
+    "runner-v2-freeze.json": 3,
+    "runner-v3-freeze.json": 3,
+    "report-freeze.json": 3
+  },
+  "preceding_illumination_delivery_unchanged": {
+    "source_configuration_reports": 50,
+    "local_artifacts": 279
+  },
+  "data_split": {
+    "development": 128,
+    "evaluation": 16,
+    "previous_controls": 16,
+    "all_legacy_development": 560,
+    "evaluation_disjoint_from_all": true,
+    "historically_exposed_evaluation": true
+  },
+  "numerical": {
+    "uniform_limit_max_abs": 2.2737367544323206e-13,
+    "gradient_max_relative": 6.6916466111418e-11,
+    "grouped_vs_explicit_tiles_max_abs": 1.1368683772161603e-13,
+    "isolated_anchor_max_difference_mV": 0.0,
+    "pre_event_max_mV": 0.0,
+    "charge_map_relative_errors": [
+      4.684010733724264e-06,
+      1.4169126426377687e-05,
+      4.116513824925505e-05,
+      5.954552010511982e-05
+    ],
+    "passing_limitations": "Anchor invariance is by construction; raw single response still requires physical checking.",
+    "passed": true
+  },
+  "statistics": {
+    "passed": true,
+    "constant_response_ci": [
+      -15.000000000000002,
+      -15.000000000000002
+    ],
+    "known_model_error_ci": {
+      "uniform": [
+        7.000000000000002,
+        7.000000000000002
+      ],
+      "spatial": [
+        1.7763568394002505e-15,
+        1.7763568394002505e-15
+      ]
+    }
+  },
+  "single_gate_passed": true,
+  "shared_gate_passed": true,
+  "single_pilot_exact": true,
+  "pair_pilot_exact": true,
+  "exact_replay_reports": {
+    "single": {
+      "tasks": 1,
+      "seconds": 0.5629445379890967,
+      "workers": 4,
+      "digitizations": 8,
+      "checks": [
+        {
+          "id": 3,
+          "parent": 5,
+          "fitted_energy_MeV": 0.26320164398623874,
+          "cost": 264.07153504793615,
+          "converged": true,
+          "seconds": 0.11159757200221065,
+          "covariance_seed_energy_MeV": [
+            0.25965414456713604
+          ],
+          "true_energy_input_to_fit": false,
+          "dropped_photons": 0,
+          "kind": "single",
+          "physical_arrays_exact": true
+        }
+      ],
+      "passed": true
+    },
+    "pair": {
+      "tasks": 2,
+      "seconds": 7.5575737670005765,
+      "workers": 4,
+      "digitizations": 96,
+      "checks": [
+        {
+          "id": 1,
+          "seconds": 7.184526461001951,
+          "digitizations": 48,
+          "kind": "pair",
+          "physical_arrays_exact": true
+        },
+        {
+          "id": 4,
+          "seconds": 7.199813950006501,
+          "digitizations": 48,
+          "kind": "pair",
+          "physical_arrays_exact": true
+        }
+      ],
+      "passed": true
+    }
+  },
+  "total_digitizations": 1590,
+  "formal_digitizations": 1472,
+  "pilot_digitizations": 14,
+  "replay_digitizations": 104,
+  "pair_energy_inference": false,
+  "default_changed": false,
+  "new_ROOT": 0,
+  "notebooks": [
+    {
+      "path": "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb",
+      "original_cells": 140,
+      "final_cells": 147,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "new_forbidden_links": 0,
+      "sha256": "7c2a9d8f14c44fc4adf23933b0cecb788406a7e8d0565bba8757f84dca57b652"
+    },
+    {
+      "path": "jupyter/Research_Plan_20260921.ipynb",
+      "original_cells": 97,
+      "final_cells": 98,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "new_forbidden_links": 0,
+      "sha256": "888705447bd24e8240585a3dfab809a7c19d29ac0c590a5bc8bdb722a48847d6"
+    },
+    {
+      "path": "jupyter/Run_Catalog.ipynb",
+      "original_cells": 59,
+      "final_cells": 60,
+      "prior_cells_and_outputs_exact": true,
+      "metadata_exact": true,
+      "new_forbidden_links": 0,
+      "sha256": "ae5caa46a4f6cb8f322ed7f99cadba3fd2d7b895743018b230e58222fcbf01dc"
+    }
+  ],
+  "syntax_checked_python_files": 26,
+  "figures_visually_reviewed": [
+    "0007-82-1",
+    "0007-83-1",
+    "0007-84-1",
+    "0007-85-1"
+  ],
+  "visual_review": "All four figures inspected individually; fixed captions, axes, units and legends readable.",
+  "candidate_executable_files": 0,
+  "git_diff_check_passed": true,
+  "push_scope": "Prior five commits pushed to3a4d028 before this new local study; no subsequent push.",
+  "limitations": "Response checks only, four historically exposed evaluation pairs; prior/systematic uncertainty not propagated. Isolated energy anchor is invariant by construction; raw truth-time checks are oracle diagnostics."
+}

@@ -1,0 +1,418 @@
+{
+  "rows": [
+    {
+      "kind": "single",
+      "id": 0,
+      "predictions": {
+        "uniform": 5052.077624079156,
+        "spatial6": 5032.825511137402,
+        "spatial12": 5031.421985508055,
+        "spatial12_fine": 5031.679149820245
+      },
+      "parent": 5,
+      "seconds": 1.6319289789971663
+    },
+    {
+      "kind": "single",
+      "id": 4,
+      "predictions": {
+        "uniform": 4442.957513114278,
+        "spatial6": 4427.4325961434615,
+        "spatial12": 4426.300198211992,
+        "spatial12_fine": 4426.503425894233
+      },
+      "parent": 15,
+      "seconds": 1.60929744700843
+    },
+    {
+      "kind": "single",
+      "id": 8,
+      "predictions": {
+        "uniform": 5436.655515039,
+        "spatial6": 5413.299598171787,
+        "spatial12": 5411.598011345208,
+        "spatial12_fine": 5411.825198906963
+      },
+      "parent": 25,
+      "seconds": 1.6182066909968853
+    },
+    {
+      "kind": "single",
+      "id": 12,
+      "predictions": {
+        "uniform": 4522.2192093232425,
+        "spatial6": 4507.053995003684,
+        "spatial12": 4505.947624349854,
+        "spatial12_fine": 4506.1386477044325
+      },
+      "parent": 35,
+      "seconds": 1.6284559960040497
+    },
+    {
+      "kind": "single",
+      "id": 16,
+      "predictions": {
+        "uniform": 18941.16823566732,
+        "spatial6": 18681.431318822117,
+        "spatial12": 18662.77095641957,
+        "spatial12_fine": 18663.70831581856
+      },
+      "parent": 85,
+      "seconds": 2.4429122720030136
+    },
+    {
+      "kind": "single",
+      "id": 20,
+      "predictions": {
+        "uniform": 19319.41486448152,
+        "spatial6": 19051.491358920463,
+        "spatial12": 19032.246924602692,
+        "spatial12_fine": 19033.216811029764
+      },
+      "parent": 95,
+      "seconds": 2.485467847000109
+    },
+    {
+      "kind": "single",
+      "id": 24,
+      "predictions": {
+        "uniform": 19062.393424680336,
+        "spatial6": 18791.849650476262,
+        "spatial12": 18772.42530293811,
+        "spatial12_fine": 18773.320151607935
+      },
+      "parent": 105,
+      "seconds": 2.4555763630050933
+    },
+    {
+      "kind": "single",
+      "id": 28,
+      "predictions": {
+        "uniform": 19253.381755719725,
+        "spatial6": 18987.325335624904,
+        "spatial12": 18968.20966810519,
+        "spatial12_fine": 18969.23654592536
+      },
+      "parent": 115,
+      "seconds": 2.4521138400014024
+    },
+    {
+      "kind": "single",
+      "id": 32,
+      "predictions": {
+        "uniform": 72000.49554065955,
+        "spatial6": 68751.79418765177,
+        "spatial12": 68528.11038372762,
+        "spatial12_fine": 68531.6579948352
+      },
+      "parent": 165,
+      "seconds": 2.634453541992116
+    },
+    {
+      "kind": "single",
+      "id": 36,
+      "predictions": {
+        "uniform": 72682.64501117688,
+        "spatial6": 69376.11096166326,
+        "spatial12": 69148.53450715197,
+        "spatial12_fine": 69151.96454211288
+      },
+      "parent": 175,
+      "seconds": 2.624566454993328
+    },
+    {
+      "kind": "single",
+      "id": 40,
+      "predictions": {
+        "uniform": 71570.2678140556,
+        "spatial6": 68350.51812053092,
+        "spatial12": 68128.73944710041,
+        "spatial12_fine": 68132.54664499781
+      },
+      "parent": 185,
+      "seconds": 2.6169274730054894
+    },
+    {
+      "kind": "single",
+      "id": 44,
+      "predictions": {
+        "uniform": 71273.1076586541,
+        "spatial6": 68078.7429138302,
+        "spatial12": 67858.68141924127,
+        "spatial12_fine": 67862.36845418732
+      },
+      "parent": 195,
+      "seconds": 2.6283404280111426
+    },
+    {
+      "kind": "single",
+      "id": 48,
+      "predictions": {
+        "uniform": 123319.15143979785,
+        "spatial6": 115035.21966208963,
+        "spatial12": 114479.51814782807,
+        "spatial12_fine": 114485.80145429383
+      },
+      "parent": 245,
+      "seconds": 2.612728687003255
+    },
+    {
+      "kind": "single",
+      "id": 52,
+      "predictions": {
+        "uniform": 123017.32417519882,
+        "spatial6": 114701.92517442351,
+        "spatial12": 114144.31711160588,
+        "spatial12_fine": 114150.4548476621
+      },
+      "parent": 255,
+      "seconds": 2.6011951340042287
+    },
+    {
+      "kind": "single",
+      "id": 56,
+      "predictions": {
+        "uniform": 122806.37248771152,
+        "spatial6": 114563.77370692647,
+        "spatial12": 114010.81977515365,
+        "spatial12_fine": 114016.85534277139
+      },
+      "parent": 265,
+      "seconds": 2.6228939139982685
+    },
+    {
+      "kind": "single",
+      "id": 60,
+      "predictions": {
+        "uniform": 123312.60838515189,
+        "spatial6": 115020.94431528737,
+        "spatial12": 114464.79060582836,
+        "spatial12_fine": 114470.94430734983
+      },
+      "parent": 275,
+      "seconds": 2.611003087993595
+    },
+    {
+      "kind": "pair",
+      "id": 0,
+      "predictions": {
+        "uniform": -8.430920193776492,
+        "spatial6": -15.126493882914938,
+        "spatial12": -15.599190705374454,
+        "spatial12_fine": -15.599765436491463
+      },
+      "seconds": 8.423943184010568
+    },
+    {
+      "kind": "pair",
+      "id": 1,
+      "predictions": {
+        "uniform": -8.288217260789587,
+        "spatial6": -14.684119566217602,
+        "spatial12": -15.133384263108995,
+        "spatial12_fine": -15.13411309355276
+      },
+      "seconds": 8.431171585005359
+    },
+    {
+      "kind": "pair",
+      "id": 2,
+      "predictions": {
+        "uniform": -4.305039366099839,
+        "spatial6": -8.274775132718004,
+        "spatial12": -8.565877317340275,
+        "spatial12_fine": -8.566322120899395
+      },
+      "seconds": 8.332419590005884
+    },
+    {
+      "kind": "pair",
+      "id": 3,
+      "predictions": {
+        "uniform": -0.23617214178409673,
+        "spatial6": -0.5117279605136194,
+        "spatial12": -0.5333167940624772,
+        "spatial12_fine": -0.5333542141348402
+      },
+      "seconds": 7.934721883997554
+    },
+    {
+      "kind": "pair",
+      "id": 4,
+      "predictions": {
+        "uniform": -6.507772854206417,
+        "spatial6": -11.720779631641332,
+        "spatial12": -12.089824018732864,
+        "spatial12_fine": -12.090263411226642
+      },
+      "seconds": 8.674328619992593
+    },
+    {
+      "kind": "pair",
+      "id": 5,
+      "predictions": {
+        "uniform": -8.431909093182743,
+        "spatial6": -15.137779549953379,
+        "spatial12": -15.611261801620147,
+        "spatial12_fine": -15.611837224910218
+      },
+      "seconds": 8.653707977005979
+    },
+    {
+      "kind": "pair",
+      "id": 6,
+      "predictions": {
+        "uniform": -8.28908061702236,
+        "spatial6": -14.694837482041745,
+        "spatial12": -15.144857650694055,
+        "spatial12_fine": -15.145587050640064
+      },
+      "seconds": 8.650824178999756
+    },
+    {
+      "kind": "pair",
+      "id": 7,
+      "predictions": {
+        "uniform": -4.305435961630888,
+        "spatial6": -8.281430163480275,
+        "spatial12": -8.573054503397026,
+        "spatial12_fine": -8.57349968148684
+      },
+      "seconds": 8.63082621099602
+    },
+    {
+      "kind": "pair",
+      "id": 8,
+      "predictions": {
+        "uniform": -0.2361844120969736,
+        "spatial6": -0.5121855897349148,
+        "spatial12": -0.5338167689191597,
+        "spatial12_fine": -0.5338542127367063
+      },
+      "seconds": 7.827670108003076
+    },
+    {
+      "kind": "pair",
+      "id": 9,
+      "predictions": {
+        "uniform": -6.508477123010992,
+        "spatial6": -11.729329071359807,
+        "spatial12": -12.098973983105221,
+        "spatial12_fine": -12.099413922438496
+      },
+      "seconds": 8.286295244994108
+    },
+    {
+      "kind": "pair",
+      "id": 10,
+      "predictions": {
+        "uniform": -8.395944732562278,
+        "spatial6": -15.053935014644049,
+        "spatial12": -15.524003326511737,
+        "spatial12_fine": -15.524575087060711
+      },
+      "seconds": 8.28616936999606
+    },
+    {
+      "kind": "pair",
+      "id": 11,
+      "predictions": {
+        "uniform": -8.254340926722692,
+        "spatial6": -14.615067621685707,
+        "spatial12": -15.06186963673527,
+        "spatial12_fine": -15.062595183144934
+      },
+      "seconds": 8.224575354004628
+    },
+    {
+      "kind": "pair",
+      "id": 12,
+      "predictions": {
+        "uniform": -4.286601660039158,
+        "spatial6": -8.2309211077235,
+        "spatial12": -8.520094530754708,
+        "spatial12_fine": -8.520537108050164
+      },
+      "seconds": 8.180214997002622
+    },
+    {
+      "kind": "pair",
+      "id": 13,
+      "predictions": {
+        "uniform": -0.23510768204717536,
+        "spatial6": -0.508562803736845,
+        "spatial12": -0.5299724692604313,
+        "spatial12_fine": -0.5300096798364407
+      },
+      "seconds": 7.821490280999569
+    },
+    {
+      "kind": "pair",
+      "id": 14,
+      "predictions": {
+        "uniform": -6.4808245009883025,
+        "spatial6": -11.664631256529113,
+        "spatial12": -12.031624384273288,
+        "spatial12_fine": -12.032061487000211
+      },
+      "seconds": 8.261423964009737
+    },
+    {
+      "kind": "pair",
+      "id": 15,
+      "predictions": {
+        "uniform": -8.45080625065716,
+        "spatial6": -15.16538549767068,
+        "spatial12": -15.639398272026583,
+        "spatial12_fine": -15.639974534336009
+      },
+      "seconds": 8.282094530994073
+    },
+    {
+      "kind": "pair",
+      "id": 16,
+      "predictions": {
+        "uniform": -8.307502416318012,
+        "spatial6": -14.721138925370225,
+        "spatial12": -15.171631876953228,
+        "spatial12_fine": -15.172362452141176
+      },
+      "seconds": 8.497325862001162
+    },
+    {
+      "kind": "pair",
+      "id": 17,
+      "predictions": {
+        "uniform": -4.31555803405248,
+        "spatial6": -8.298340812230443,
+        "spatial12": -8.590423082091093,
+        "spatial12_fine": -8.590869072373374
+      },
+      "seconds": 8.421708494992345
+    },
+    {
+      "kind": "pair",
+      "id": 18,
+      "predictions": {
+        "uniform": -0.2367824398295415,
+        "spatial6": -0.5134365442880595,
+        "spatial12": -0.5351181086239221,
+        "spatial12_fine": -0.535155643523777
+      },
+      "seconds": 8.058487928006798
+    },
+    {
+      "kind": "pair",
+      "id": 19,
+      "predictions": {
+        "uniform": -6.5231104004705776,
+        "spatial6": -11.75092766754241,
+        "spatial12": -12.121002646591283,
+        "spatial12_fine": -12.12144321578883
+      },
+      "seconds": 8.56311358899984
+    }
+  ],
+  "seconds": 51.67987668099522,
+  "inputs": "Primary anchored models take E/t only. Raw single model additionally takes accepted truth photons time/energy, never individual spatial cells. No fit to control outputs."
+}

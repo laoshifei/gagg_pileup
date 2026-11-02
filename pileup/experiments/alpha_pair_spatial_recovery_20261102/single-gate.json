@@ -1,0 +1,84 @@
+{
+  "passed": true,
+  "failures": [],
+  "groups": [
+    {
+      "condition": "weak",
+      "mothers": 4,
+      "energy_bias_percent": 1.2605939476781431,
+      "phase_bias_percent": [
+        1.265717182556314,
+        1.2596737441922663,
+        1.2577827296255395,
+        1.259202134338452
+      ],
+      "phase_span_pp": 0.00793445293077455,
+      "raw_area_errors": {
+        "uniform": 0.6796341440054782,
+        "spatial6": 0.3031925693403825,
+        "spatial12": 0.2757464941191612,
+        "spatial12_fine": 0.28029236442396743
+      }
+    },
+    {
+      "condition": "low",
+      "mothers": 4,
+      "energy_bias_percent": 0.4282520813828239,
+      "phase_bias_percent": [
+        0.42742900633330194,
+        0.42887634250362294,
+        0.4295502744077029,
+        0.4271527022866678
+      ],
+      "phase_span_pp": 0.0023975721210350853,
+      "raw_area_errors": {
+        "uniform": 1.8722985151048643,
+        "spatial6": 0.4565346195447073,
+        "spatial12": 0.35484159425653583,
+        "spatial12_fine": 0.3599354388209852
+      }
+    },
+    {
+      "condition": "mid",
+      "mothers": 4,
+      "energy_bias_percent": -0.3767393812267088,
+      "phase_bias_percent": [
+        -0.3737186822271893,
+        -0.3804768440386297,
+        -0.3806615329441154,
+        -0.3721004656969007
+      ],
+      "phase_span_pp": 0.008561067247214726,
+      "raw_area_errors": {
+        "uniform": 5.3758299433225245,
+        "spatial6": 0.6229139797340688,
+        "spatial12": 0.29561577182090626,
+        "spatial12_fine": 0.30092136676190817
+      }
+    },
+    {
+      "condition": "high",
+      "mothers": 4,
+      "energy_bias_percent": 0.002876846318695947,
+      "phase_bias_percent": [
+        0.0072045972372591915,
+        -0.004003122704906992,
+        -0.0017908208827771555,
+        0.010096731625208744
+      ],
+      "phase_span_pp": 0.014099854330115735,
+      "raw_area_errors": {
+        "uniform": 7.988200325735727,
+        "spatial6": 0.7225015809772972,
+        "spatial12": 0.23515887576575634,
+        "spatial12_fine": 0.24055541678128511
+      }
+    }
+  ],
+  "parents": 16,
+  "phases": 4,
+  "digitizations": 512,
+  "source_input_model_hashes": 315,
+  "pilot_arrays_exact": true,
+  "limitation": "Isolated anchored voltage invariant by construction; raw truth-time diagnostic additionally exercises spatial operator. Four exposed mothers per group, not individual resolution or fresh confirmation."
+}

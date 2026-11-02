@@ -1,0 +1,254 @@
+{
+  "passed": true,
+  "failures": [],
+  "groups": [
+    {
+      "condition": "high_weak",
+      "gap_ns": 8.0,
+      "mothers": 4,
+      "repeats": 8,
+      "actual_percent": -15.536719394198379,
+      "actual_ci95": [
+        -17.049540988264578,
+        -13.862673961016538
+      ],
+      "recovery_off_percent": 0.06243989276432382,
+      "models": {
+        "uniform": {
+          "prediction_percent": -8.427395067544667,
+          "error_pp": 7.109324326653711,
+          "error_ci95": [
+            5.435683090782491,
+            8.624440685991058
+          ]
+        },
+        "spatial6": {
+          "prediction_percent": -15.120898486295761,
+          "error_pp": 0.41582090790261717,
+          "error_ci95": [
+            -1.2544520966329713,
+            1.9294183316976454
+          ]
+        },
+        "spatial12": {
+          "prediction_percent": -15.59346352638323,
+          "error_pp": -0.05674413218485164,
+          "error_ci95": [
+            -1.7275493605528072,
+            1.4556062264177758
+          ]
+        },
+        "spatial12_fine": {
+          "prediction_percent": -15.5940380706996,
+          "error_pp": -0.05731867650122169,
+          "error_ci95": [
+            -1.7281246422673164,
+            1.455030001814305
+          ]
+        }
+      },
+      "spatial_grid_max_abs_pp": 0.47401277435590217,
+      "time_grid_max_abs_pp": 0.000576262309426312
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 40.0,
+      "mothers": 4,
+      "repeats": 8,
+      "actual_percent": -15.669327369977982,
+      "actual_ci95": [
+        -17.277323389715303,
+        -13.892658646007074
+      ],
+      "recovery_off_percent": -0.3730209208648416,
+      "models": {
+        "uniform": {
+          "prediction_percent": -8.284785305213163,
+          "error_pp": 7.384542064764819,
+          "error_ci95": [
+            5.62175918472335,
+            8.984556929782174
+          ]
+        },
+        "spatial6": {
+          "prediction_percent": -14.678790898828819,
+          "error_pp": 0.9905364711491629,
+          "error_ci95": [
+            -0.7566571976101192,
+            2.5821645959070527
+          ]
+        },
+        "spatial12": {
+          "prediction_percent": -15.127935856872888,
+          "error_pp": 0.5413915131050935,
+          "error_ci95": [
+            -1.2050792307511886,
+            2.1319127574878998
+          ]
+        },
+        "spatial12_fine": {
+          "prediction_percent": -15.128664444869734,
+          "error_pp": 0.5406629251082471,
+          "error_ci95": [
+            -1.2058080737833903,
+            2.1311827734803117
+          ]
+        }
+      },
+      "spatial_grid_max_abs_pp": 0.4504929515830032,
+      "time_grid_max_abs_pp": 0.000730575187947835
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 200.0,
+      "mothers": 4,
+      "repeats": 8,
+      "actual_percent": -7.987708240277655,
+      "actual_ci95": [
+        -9.24134846161313,
+        -6.822551632426593
+      ],
+      "recovery_off_percent": 0.7076292577107846,
+      "models": {
+        "uniform": {
+          "prediction_percent": -4.303158755455591,
+          "error_pp": 3.684549484822064,
+          "error_ci95": [
+            2.5178755445251686,
+            4.939409488832555
+          ]
+        },
+        "spatial6": {
+          "prediction_percent": -8.271366804038056,
+          "error_pp": -0.283658563760401,
+          "error_ci95": [
+            -1.4540097787072974,
+            0.9743246885687438
+          ]
+        },
+        "spatial12": {
+          "prediction_percent": -8.562362358395776,
+          "error_pp": -0.5746541181181204,
+          "error_ci95": [
+            -1.7457233520745825,
+            0.6830972239003495
+          ]
+        },
+        "spatial12_fine": {
+          "prediction_percent": -8.562806995702443,
+          "error_pp": -0.5750987554247882,
+          "error_ci95": [
+            -1.7461688337900123,
+            0.682652137574586
+          ]
+        }
+      },
+      "spatial_grid_max_abs_pp": 0.29208226986065,
+      "time_grid_max_abs_pp": 0.0004459902822819828
+    },
+    {
+      "condition": "high_weak",
+      "gap_ns": 1200.0,
+      "mothers": 4,
+      "repeats": 8,
+      "actual_percent": -1.617962044645152,
+      "actual_ci95": [
+        -2.7426210799064963,
+        -0.36100821340657996
+      ],
+      "recovery_off_percent": -1.3221374157138617,
+      "models": {
+        "uniform": {
+          "prediction_percent": -0.2360616689394468,
+          "error_pp": 1.3819003757057051,
+          "error_ci95": [
+            0.12536352461045627,
+            2.506302863105483
+          ]
+        },
+        "spatial6": {
+          "prediction_percent": -0.5114782245683597,
+          "error_pp": 1.1064838200767921,
+          "error_ci95": [
+            -0.14913712321703998,
+            2.2304786647169905
+          ]
+        },
+        "spatial12": {
+          "prediction_percent": -0.5330560352164976,
+          "error_pp": 1.0849060094286544,
+          "error_ci95": [
+            -0.17063914167402028,
+            2.2088664340581365
+          ]
+        },
+        "spatial12_fine": {
+          "prediction_percent": -0.533093437557941,
+          "error_pp": 1.084868607087211,
+          "error_ci95": [
+            -0.17067645991372565,
+            2.2088289855513503
+          ]
+        }
+      },
+      "spatial_grid_max_abs_pp": 0.021681564335862546,
+      "time_grid_max_abs_pp": 3.7534899854918535e-05
+    },
+    {
+      "condition": "weak_high",
+      "gap_ns": 40.0,
+      "mothers": 4,
+      "repeats": 8,
+      "actual_percent": -13.164496037183618,
+      "actual_ci95": [
+        -14.467364969135327,
+        -11.919312857513848
+      ],
+      "recovery_off_percent": -0.7471487437095137,
+      "models": {
+        "uniform": {
+          "prediction_percent": -6.505046219669072,
+          "error_pp": 6.659449817514545,
+          "error_ci95": [
+            5.420061479894213,
+            7.9523306438909485
+          ]
+        },
+        "spatial6": {
+          "prediction_percent": -11.716416906768167,
+          "error_pp": 1.4480791304154508,
+          "error_ci95": [
+            0.2158427837579781,
+            2.7293887821104916
+          ]
+        },
+        "spatial12": {
+          "prediction_percent": -12.085356258175665,
+          "error_pp": 1.0791397790079529,
+          "error_ci95": [
+            -0.15274980025080245,
+            2.3596698387564374
+          ]
+        },
+        "spatial12_fine": {
+          "prediction_percent": -12.085795509113545,
+          "error_pp": 1.0787005280700726,
+          "error_ci95": [
+            -0.15318873928395257,
+            2.359229709909851
+          ]
+        }
+      },
+      "spatial_grid_max_abs_pp": 0.3700749790488729,
+      "time_grid_max_abs_pp": 0.00044056919754709156
+    }
+  ],
+  "primary": "spatial12",
+  "source_input_model_hashes": 315,
+  "pilot_arrays_exact": true,
+  "production_digitizations": 960,
+  "default_changed": false,
+  "pair_energy_inference": false,
+  "new_ROOT": 0,
+  "uncertainty": "10000 paired mother/digitizer nested resamples; frozen128-mother prior uncertainty not propagated; four historically exposed evaluation mother pairs only."
+}

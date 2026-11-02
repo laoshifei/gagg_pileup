@@ -1,0 +1,1469 @@
+{
+  "rows": [
+    {
+      "variant": "spatial6",
+      "light_pe": 250.0,
+      "charge_pe": 257.052740292574,
+      "seconds": 0.41073971599689685
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 266.3738013508613,
+      "charge_pe": 273.84132264047435,
+      "seconds": 0.4026716340013081
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 283.82000818443254,
+      "charge_pe": 291.72313666979187,
+      "seconds": 0.3945625150081469
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 302.4088579180792,
+      "charge_pe": 310.7689338598801,
+      "seconds": 0.4093982339982176
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 322.2151881832452,
+      "charge_pe": 331.0539861919684,
+      "seconds": 0.40333389000443276
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 343.3187381174167,
+      "charge_pe": 352.6583672130605,
+      "seconds": 0.40715391100093257
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 365.80446938926855,
+      "charge_pe": 375.6672495459876,
+      "seconds": 0.4060279609984718
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 389.7629082494171,
+      "charge_pe": 400.1712196711793,
+      "seconds": 0.41297358500014525
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 415.2905099838565,
+      "charge_pe": 426.26661082856083,
+      "seconds": 0.43750014099350665
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 442.49004723735084,
+      "charge_pe": 454.05585490864576,
+      "seconds": 0.44126207700173836
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 471.4710237701414,
+      "charge_pe": 483.6478542198475,
+      "seconds": 0.4415688770095585
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 502.35011531373954,
+      "charge_pe": 515.1583740337039,
+      "seconds": 0.44533774600131437
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 535.2516393006574,
+      "charge_pe": 548.7104568203796,
+      "seconds": 0.4491239159979159
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 570.3080553591843,
+      "charge_pe": 584.4348590927942,
+      "seconds": 0.4542048250004882
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 607.6604985881737,
+      "charge_pe": 622.4705117781432,
+      "seconds": 0.45758508099243045
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 647.4593477587662,
+      "charge_pe": 662.9650050295375,
+      "seconds": 0.4583194560109405
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 689.8648307306074,
+      "charge_pe": 706.0750983770114,
+      "seconds": 0.4654111239942722
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 735.0476695199218,
+      "charge_pe": 751.967257095086,
+      "seconds": 0.45551014300144743
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 783.1897676164521,
+      "charge_pe": 800.8182156322814,
+      "seconds": 0.4646750259998953
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 834.4849423163683,
+      "charge_pe": 852.8155689051977,
+      "seconds": 0.4627167469880078
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 889.1397050194613,
+      "charge_pe": 908.1583922045523,
+      "seconds": 0.46057203100644983
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 947.3740926320698,
+      "charge_pe": 967.0578903916287,
+      "seconds": 0.46147668299090583
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1009.42255342291,
+      "charge_pe": 1029.7380769791764,
+      "seconds": 0.45729927500360645
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1075.5348908982128,
+      "charge_pe": 1096.4364835896015,
+      "seconds": 0.4640375789895188
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1145.9772694961637,
+      "charge_pe": 1167.404900163487,
+      "seconds": 0.4839781850023428
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1221.0332861494944,
+      "charge_pe": 1242.9101461515459,
+      "seconds": 0.47170652699423954
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1301.0051120302996,
+      "charge_pe": 1323.2348727614444,
+      "seconds": 0.4871683229866903
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1386.2147090736566,
+      "charge_pe": 1408.678396145885,
+      "seconds": 0.49257500999374315
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1477.0051261777116,
+      "charge_pe": 1499.5575612085845,
+      "seconds": 0.4697006399946986
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1573.7418802986629,
+      "charge_pe": 1596.2076354688948,
+      "seconds": 0.46350797299237456
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1676.8144280008282,
+      "charge_pe": 1698.9832321627907,
+      "seconds": 0.46338022699637804
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1786.6377333862035,
+      "charge_pe": 1808.2592614670014,
+      "seconds": 0.4674797049956396
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 1903.6539387158791,
+      "charge_pe": 1924.4319084136919,
+      "seconds": 0.4727351760084275
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2028.3341444491516,
+      "charge_pe": 2047.9196357155029,
+      "seconds": 0.4729775679879822
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2161.1803058666706,
+      "charge_pe": 2179.1642093454266,
+      "seconds": 0.4765986679994967
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2302.7272539132896,
+      "charge_pe": 2318.631744314282,
+      "seconds": 0.47503058599249925
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2453.5448483964524,
+      "charge_pe": 2466.813767662653,
+      "seconds": 0.4687339909869479
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2614.2402722087436,
+      "charge_pe": 2624.228295236768,
+      "seconds": 0.47258776301168837
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2785.4604758110113,
+      "charge_pe": 2791.4209183532776,
+      "seconds": 0.46755773000768386
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 2967.8947818174324,
+      "charge_pe": 2968.9658959809562,
+      "seconds": 0.47142031000112183
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 3162.2776601683795,
+      "charge_pe": 3157.467247584522,
+      "seconds": 0.4727714049950009
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 3369.3916850638307,
+      "charge_pe": 3357.5598412942604,
+      "seconds": 0.4899862860038411
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 3590.0706855617514,
+      "charge_pe": 3569.9104715938806,
+      "seconds": 0.48922559499624185
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 3825.203102525503,
+      "charge_pe": 3795.2189202673067,
+      "seconds": 0.48336192799615674
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 4075.7355654353073,
+      "charge_pe": 4034.2189939247774,
+      "seconds": 0.48601586298900656
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 4342.676703463621,
+      "charge_pe": 4287.679531049962,
+      "seconds": 0.4716518359928159
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 4627.101206157724,
+      "charge_pe": 4556.405371186724,
+      "seconds": 0.47897849000582937
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 4930.154150077559,
+      "charge_pe": 4841.23827862789,
+      "seconds": 0.4796707700006664
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 5253.055608807533,
+      "charge_pe": 5143.057812791823,
+      "seconds": 0.4854442210053094
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 5597.105564902104,
+      "charge_pe": 5462.782137387241,
+      "seconds": 0.48203601500426885
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 5963.689143540134,
+      "charge_pe": 5801.368760481674,
+      "seconds": 0.4851063990063267
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 6354.282188958587,
+      "charge_pe": 6159.815197713095,
+      "seconds": 0.48269760500988923
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 6770.4572061158915,
+      "charge_pe": 6539.15955112075,
+      "seconds": 0.4855570630024886
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 7213.889691505682,
+      "charge_pe": 6940.480996421704,
+      "seconds": 0.47408387198811397
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 7686.364878608645,
+      "charge_pe": 7364.900172019977,
+      "seconds": 0.48906393999641296
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 8189.784925138947,
+      "charge_pe": 7813.579463595474,
+      "seconds": 0.49382219499966595
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 8726.176571020955,
+      "charge_pe": 8287.723178766804,
+      "seconds": 0.5002599650033517
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 9297.699297926716,
+      "charge_pe": 8788.577607033667,
+      "seconds": 0.503605231991969
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 9906.654023223886,
+      "charge_pe": 9317.43096095522,
+      "seconds": 0.48959973800810985
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 10555.492363335816,
+      "charge_pe": 9875.613195281137,
+      "seconds": 0.48325740500877146
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 11246.826503806984,
+      "charge_pe": 10464.495701485446,
+      "seconds": 0.4664072540035704
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 11983.439715810724,
+      "charge_pe": 11085.490875827614,
+      "seconds": 0.47368996299337596
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 12768.297561437566,
+      "charge_pe": 11740.051559642348,
+      "seconds": 0.46407405100762844
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 13604.559832876219,
+      "charge_pe": 12429.67035101144,
+      "seconds": 0.468542681002873
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 14495.593273553925,
+      "charge_pe": 13155.878787271586,
+      "seconds": 0.46443920899764635
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 15444.985132450127,
+      "charge_pe": 13920.246397946874,
+      "seconds": 0.46621568499540444
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 16456.557606153092,
+      "charge_pe": 14724.379627663406,
+      "seconds": 0.47713315999135375
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 17534.38322680174,
+      "charge_pe": 15569.920628416063,
+      "seconds": 0.4752157679904485
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 18682.80125786383,
+      "charge_pe": 16458.545920244247,
+      "seconds": 0.48010136699303985
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 19906.43516375939,
+      "charge_pe": 17391.964918976573,
+      "seconds": 0.46880312099528965
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 21210.21122366016,
+      "charge_pe": 18371.91832927754,
+      "seconds": 0.4768741890002275
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 22599.378364404223,
+      "charge_pe": 19400.176400841934,
+      "seconds": 0.480881996001699
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 24079.529292371084,
+      "charge_pe": 20478.537045295194,
+      "seconds": 0.47662059299182147
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 25656.623009393184,
+      "charge_pe": 21608.823811241182,
+      "seconds": 0.47983312800351996
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 27337.008803352186,
+      "charge_pe": 22792.883715001426,
+      "seconds": 0.4786890819959808
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 29127.451810043505,
+      "charge_pe": 24032.584924945182,
+      "seconds": 0.47895640599017497
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 31035.160249221233,
+      "charge_pe": 25329.814297935514,
+      "seconds": 0.49341590800031554
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 33067.81444447279,
+      "charge_pe": 26686.474767286858,
+      "seconds": 0.4998481689981418
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 35233.59774375659,
+      "charge_pe": 28104.48258271206,
+      "seconds": 0.4974257080029929
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 37541.22946508634,
+      "charge_pe": 29585.764403960355,
+      "seconds": 0.48074626400193665
+    },
+    {
+      "variant": "spatial6",
+      "light_pe": 40000.0,
+      "charge_pe": 31132.25425113663,
+      "seconds": 0.47095474098750856
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 250.0,
+      "charge_pe": 257.0273587131258,
+      "seconds": 1.7035263840080006
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 266.3738013508613,
+      "charge_pe": 273.81252705867655,
+      "seconds": 1.6818593030038755
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 283.82000818443254,
+      "charge_pe": 291.69046932196915,
+      "seconds": 1.6867459659988526
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 302.4088579180792,
+      "charge_pe": 310.7318759033341,
+      "seconds": 1.7401182710018475
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 322.2151881832452,
+      "charge_pe": 331.0119496173613,
+      "seconds": 1.966657804994611
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 343.3187381174167,
+      "charge_pe": 352.61068569872407,
+      "seconds": 1.938599057000829
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 365.80446938926855,
+      "charge_pe": 375.61316811837344,
+      "seconds": 1.9477453110011993
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 389.7629082494171,
+      "charge_pe": 400.109883018783,
+      "seconds": 1.971644897988881
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 415.2905099838565,
+      "charge_pe": 426.1970500977782,
+      "seconds": 2.1130737859930377
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 442.49004723735084,
+      "charge_pe": 453.97697278895134,
+      "seconds": 2.1100404239987256
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 471.4710237701414,
+      "charge_pe": 483.5584081021835,
+      "seconds": 2.1437000849982724
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 502.35011531373954,
+      "charge_pe": 515.0569569997901,
+      "seconds": 2.1312432440026896
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 535.2516393006574,
+      "charge_pe": 548.5954761915386,
+      "seconds": 1.9298299060028512
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 570.3080553591843,
+      "charge_pe": 584.3045122345446,
+      "seconds": 1.9179466600035084
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 607.6604985881737,
+      "charge_pe": 622.3227588209393,
+      "seconds": 1.9194931509991875
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 647.4593477587662,
+      "charge_pe": 662.797538126332,
+      "seconds": 1.7895174360019155
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 689.8648307306074,
+      "charge_pe": 705.8853070744228,
+      "seconds": 1.6677370990073541
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 735.0476695199218,
+      "charge_pe": 751.7521893465427,
+      "seconds": 1.6734454730030848
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 783.1897676164521,
+      "charge_pe": 800.5745339282587,
+      "seconds": 1.6613672540115658
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 834.4849423163683,
+      "charge_pe": 852.5395009371415,
+      "seconds": 1.663204598997254
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 889.1397050194613,
+      "charge_pe": 907.8456754150409,
+      "seconds": 1.6262491499946918
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 947.3740926320698,
+      "charge_pe": 966.703709693313,
+      "seconds": 1.6207887140044477
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1009.42255342291,
+      "charge_pe": 1029.3369948488646,
+      "seconds": 1.645229025001754
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1075.5348908982128,
+      "charge_pe": 1095.982361661119,
+      "seconds": 1.642402987999958
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1145.9772694961637,
+      "charge_pe": 1166.8908113535115,
+      "seconds": 1.6222092459938722
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1221.0332861494944,
+      "charge_pe": 1242.3282762562565,
+      "seconds": 1.6291775870049605
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1301.0051120302996,
+      "charge_pe": 1322.5764103585345,
+      "seconds": 1.6207593159924727
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1386.2147090736566,
+      "charge_pe": 1407.9334095262263,
+      "seconds": 1.6094846079940908
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1477.0051261777116,
+      "charge_pe": 1498.714860944865,
+      "seconds": 1.661020881991135
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1573.7418802986629,
+      "charge_pe": 1595.254621105197,
+      "seconds": 1.651644015990314
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1676.8144280008282,
+      "charge_pe": 1697.905721379908,
+      "seconds": 1.6553893700038316
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1786.6377333862035,
+      "charge_pe": 1807.0412999441703,
+      "seconds": 1.702314601992839
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 1903.6539387158791,
+      "charge_pe": 1923.0555584694184,
+      "seconds": 1.7119216990104178
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2028.3341444491516,
+      "charge_pe": 2046.3647416698072,
+      "seconds": 1.7055899080005474
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2161.1803058666706,
+      "charge_pe": 2177.4081374049356,
+      "seconds": 1.6936899090069346
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2302.7272539132896,
+      "charge_pe": 2316.649094642521,
+      "seconds": 1.715471819989034
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2453.5448483964524,
+      "charge_pe": 2464.576056163381,
+      "seconds": 1.6386657810071483
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2614.2402722087436,
+      "charge_pe": 2621.7036024516797,
+      "seconds": 1.627532425991376
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2785.4604758110113,
+      "charge_pe": 2788.5735027607175,
+      "seconds": 1.6319632410013583
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 2967.8947818174324,
+      "charge_pe": 2965.755768884158,
+      "seconds": 1.6119348210049793
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 3162.2776601683795,
+      "charge_pe": 3153.849706701324,
+      "seconds": 1.6350220900058048
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 3369.3916850638307,
+      "charge_pe": 3353.48496011142,
+      "seconds": 1.6511166190030053
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 3590.0706855617514,
+      "charge_pe": 3565.3225415342004,
+      "seconds": 1.6137069320102455
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 3825.203102525503,
+      "charge_pe": 3790.055842744416,
+      "seconds": 1.63893938199908
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 4075.7355654353073,
+      "charge_pe": 4028.411619435799,
+      "seconds": 1.5887052489997586
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 4342.676703463621,
+      "charge_pe": 4281.150942589129,
+      "seconds": 1.581517177997739
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 4627.101206157724,
+      "charge_pe": 4549.070109461541,
+      "seconds": 1.5901092519925442
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 4930.154150077559,
+      "charge_pe": 4833.001506832385,
+      "seconds": 1.5887407240079483
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 5253.055608807533,
+      "charge_pe": 5133.814419047743,
+      "seconds": 1.646413128997665
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 5597.105564902104,
+      "charge_pe": 5452.415773411711,
+      "seconds": 1.6347476830123924
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 5963.689143540134,
+      "charge_pe": 5789.750815587001,
+      "seconds": 1.6485807709977962
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 6354.282188958587,
+      "charge_pe": 6146.803707897785,
+      "seconds": 1.647458864012151
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 6770.4572061158915,
+      "charge_pe": 6524.598043775959,
+      "seconds": 1.5416961729933973
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 7213.889691505682,
+      "charge_pe": 6924.197272058387,
+      "seconds": 1.5279976809979416
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 7686.364878608645,
+      "charge_pe": 7346.705025420728,
+      "seconds": 1.5379279210028471
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 8189.784925138947,
+      "charge_pe": 7793.2653479109085,
+      "seconds": 1.5410599949973403
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 8726.176571020955,
+      "charge_pe": 8265.062817306109,
+      "seconds": 1.553917276993161
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 9297.699297926716,
+      "charge_pe": 8763.322558835684,
+      "seconds": 1.5527929910022067
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 9906.654023223886,
+      "charge_pe": 9289.31014766053,
+      "seconds": 1.5564880310121225
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 10555.492363335816,
+      "charge_pe": 9844.33139834233,
+      "seconds": 1.5528350609965855
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 11246.826503806984,
+      "charge_pe": 10429.73204033395,
+      "seconds": 1.5437789519928629
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 11983.439715810724,
+      "charge_pe": 11046.897279238061,
+      "seconds": 1.5398016570106847
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 12768.297561437566,
+      "charge_pe": 11697.251244170699,
+      "seconds": 1.5310702499991748
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 13604.559832876219,
+      "charge_pe": 12382.256321997418,
+      "seconds": 1.54887436098943
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 14495.593273553925,
+      "charge_pe": 13103.412379449255,
+      "seconds": 1.5462787349970313
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 15444.985132450127,
+      "charge_pe": 13862.255874152304,
+      "seconds": 1.5617885120009305
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 16456.557606153092,
+      "charge_pe": 14660.358855412462,
+      "seconds": 1.5375085629930254
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 17534.38322680174,
+      "charge_pe": 15499.327855186604,
+      "seconds": 1.550284480996197
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 18682.80125786383,
+      "charge_pe": 16380.802669068247,
+      "seconds": 1.6186886750074336
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 19906.43516375939,
+      "charge_pe": 17306.455026354943,
+      "seconds": 1.6373051700065844
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 21210.21122366016,
+      "charge_pe": 18277.98714739613,
+      "seconds": 1.6226419749873457
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 22599.378364404223,
+      "charge_pe": 19297.13018551274,
+      "seconds": 1.635163040002226
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 24079.529292371084,
+      "charge_pe": 20365.64254989903,
+      "seconds": 1.5827266020060051
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 25656.623009393184,
+      "charge_pe": 21485.308105143617,
+      "seconds": 1.5758468440035358
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 27337.008803352186,
+      "charge_pe": 22657.934242409687,
+      "seconds": 1.5764140499959467
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 29127.451810043505,
+      "charge_pe": 23885.34981695727,
+      "seconds": 1.5723031689994968
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 31035.160249221233,
+      "charge_pe": 25169.402946627917,
+      "seconds": 1.5437213469995186
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 33067.81444447279,
+      "charge_pe": 26511.958666170794,
+      "seconds": 1.5500156180060003
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 35233.59774375659,
+      "charge_pe": 27914.896432890157,
+      "seconds": 1.5478796559909824
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 37541.22946508634,
+      "charge_pe": 29380.10748002617,
+      "seconds": 1.5538288589887088
+    },
+    {
+      "variant": "spatial12",
+      "light_pe": 40000.0,
+      "charge_pe": 30909.492015525728,
+      "seconds": 1.5574180149997119
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 250.0,
+      "charge_pe": 257.02736349673404,
+      "seconds": 6.180254631006392
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 266.3738013508613,
+      "charge_pe": 273.81253249184147,
+      "seconds": 6.208143197000027
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 283.82000818443254,
+      "charge_pe": 291.69047549306504,
+      "seconds": 6.180501202004962
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 302.4088579180792,
+      "charge_pe": 310.73188291279365,
+      "seconds": 6.181298843002878
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 322.2151881832452,
+      "charge_pe": 331.01195757932703,
+      "seconds": 6.378052915999433
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 343.3187381174167,
+      "charge_pe": 352.6106947429301,
+      "seconds": 6.384750811004778
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 365.80446938926855,
+      "charge_pe": 375.61317839228366,
+      "seconds": 6.401001959995483
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 389.7629082494171,
+      "charge_pe": 400.1098946900263,
+      "seconds": 6.551128938997863
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 415.2905099838565,
+      "charge_pe": 426.1970633569199,
+      "seconds": 6.365965232005692
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 442.49004723735084,
+      "charge_pe": 453.9769878526492,
+      "seconds": 6.35192653699778
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 471.4710237701414,
+      "charge_pe": 483.5584252167789,
+      "seconds": 6.342108940996695
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 502.35011531373954,
+      "charge_pe": 515.0569764454001,
+      "seconds": 6.249705264999648
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 535.2516393006574,
+      "charge_pe": 548.5954982867141,
+      "seconds": 6.370515446003992
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 570.3080553591843,
+      "charge_pe": 584.304537341577,
+      "seconds": 6.366093471995555
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 607.6604985881737,
+      "charge_pe": 622.322787351908,
+      "seconds": 6.347217324000667
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 647.4593477587662,
+      "charge_pe": 662.7975705499907,
+      "seconds": 6.332142350001959
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 689.8648307306074,
+      "charge_pe": 705.8853439240514,
+      "seconds": 6.2013238219951745
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 735.0476695199218,
+      "charge_pe": 751.7522312288929,
+      "seconds": 6.201652439995087
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 783.1897676164521,
+      "charge_pe": 800.5745815337542,
+      "seconds": 6.226092809010879
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 834.4849423163683,
+      "charge_pe": 852.5395550515045,
+      "seconds": 6.20409817500331
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 889.1397050194613,
+      "charge_pe": 907.8457369325508,
+      "seconds": 6.7900863730028505
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 947.3740926320698,
+      "charge_pe": 966.7037796319278,
+      "seconds": 6.790021044987952
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1009.42255342291,
+      "charge_pe": 1029.3370743674652,
+      "seconds": 6.862398473007488
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1075.5348908982128,
+      "charge_pe": 1095.9824520791856,
+      "seconds": 6.785887543999706
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1145.9772694961637,
+      "charge_pe": 1166.8909141735608,
+      "seconds": 6.323148537994712
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1221.0332861494944,
+      "charge_pe": 1242.3283931894584,
+      "seconds": 6.387693676006165
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1301.0051120302996,
+      "charge_pe": 1322.576543353928,
+      "seconds": 6.33837618000689
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1386.2147090736566,
+      "charge_pe": 1407.933560804071,
+      "seconds": 6.379501867995714
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1477.0051261777116,
+      "charge_pe": 1498.715033034696,
+      "seconds": 6.534355372990831
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1573.7418802986629,
+      "charge_pe": 1595.254816889266,
+      "seconds": 6.605823284990038
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1676.8144280008282,
+      "charge_pe": 1697.9059441427578,
+      "seconds": 6.542988157001673
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1786.6377333862035,
+      "charge_pe": 1807.0415534292163,
+      "seconds": 6.485191485990072
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 1903.6539387158791,
+      "charge_pe": 1923.0558469435252,
+      "seconds": 6.3940598120098
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2028.3341444491516,
+      "charge_pe": 2046.3650699969821,
+      "seconds": 6.430448156999773
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2161.1803058666706,
+      "charge_pe": 2177.408511130416,
+      "seconds": 6.438102337997407
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2302.7272539132896,
+      "charge_pe": 2316.649520088712,
+      "seconds": 6.5055808820034144
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2453.5448483964524,
+      "charge_pe": 2464.57654053928,
+      "seconds": 6.34101138501137
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2614.2402722087436,
+      "charge_pe": 2621.704153977671,
+      "seconds": 6.323226376000093
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2785.4604758110113,
+      "charge_pe": 2788.5741308108286,
+      "seconds": 6.281374758997117
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 2967.8947818174324,
+      "charge_pe": 2965.7564841481785,
+      "seconds": 6.186158229000284
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 3162.2776601683795,
+      "charge_pe": 3153.8505213694825,
+      "seconds": 6.232014231005451
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 3369.3916850638307,
+      "charge_pe": 3353.4858880846355,
+      "seconds": 6.2451139650074765
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 3590.0706855617514,
+      "charge_pe": 3565.3235986633345,
+      "seconds": 6.225632036002935
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 3825.203102525503,
+      "charge_pe": 3790.0570471023307,
+      "seconds": 6.345816304004984
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 4075.7355654353073,
+      "charge_pe": 4028.412991626508,
+      "seconds": 7.604491259990027
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 4342.676703463621,
+      "charge_pe": 4281.152506098817,
+      "seconds": 7.66929471900221
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 4627.101206157724,
+      "charge_pe": 4549.071891056718,
+      "seconds": 7.8354100349970395
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 4930.154150077559,
+      "charge_pe": 4833.003537011153,
+      "seconds": 8.554013251006836
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 5253.055608807533,
+      "charge_pe": 5133.816732550584,
+      "seconds": 10.459211009001592
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 5597.105564902104,
+      "charge_pe": 5452.418409799058,
+      "seconds": 10.439529918003245
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 5963.689143540134,
+      "charge_pe": 5789.753819891448,
+      "seconds": 10.427001176998601
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 6354.282188958587,
+      "charge_pe": 6146.807131359551,
+      "seconds": 10.520981667999877
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 6770.4572061158915,
+      "charge_pe": 6524.601944671057,
+      "seconds": 10.319791587986401
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 7213.889691505682,
+      "charge_pe": 6924.201716629649,
+      "seconds": 10.335662243000115
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 7686.364878608645,
+      "charge_pe": 7346.710088922757,
+      "seconds": 10.25809634399775
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 8189.784925138947,
+      "charge_pe": 7793.271115780825,
+      "seconds": 10.04078600401408
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 8726.176571020955,
+      "charge_pe": 8265.069386472742,
+      "seconds": 9.890399199997773
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 9297.699297926716,
+      "charge_pe": 8763.330039180837,
+      "seconds": 9.968481035000877
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 9906.654023223886,
+      "charge_pe": 9289.318663646602,
+      "seconds": 9.858946845997707
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 10555.492363335816,
+      "charge_pe": 9844.341090821468,
+      "seconds": 10.110032199008856
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 11246.826503806984,
+      "charge_pe": 10429.743068554722,
+      "seconds": 10.729913435003255
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 11983.439715810724,
+      "charge_pe": 11046.909823066237,
+      "seconds": 10.789517598008388
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 12768.297561437566,
+      "charge_pe": 11697.265506541506,
+      "seconds": 10.70731713999703
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 13604.559832876219,
+      "charge_pe": 12382.272531617367,
+      "seconds": 10.804769376001786
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 14495.593273553925,
+      "charge_pe": 13103.430793765992,
+      "seconds": 7.483116256989888
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 15444.985132450127,
+      "charge_pe": 13862.276782611903,
+      "seconds": 7.5127891859883675
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 16456.557606153092,
+      "charge_pe": 14660.382583023747,
+      "seconds": 7.4870287439989625
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 17534.38322680174,
+      "charge_pe": 15499.354766412904,
+      "seconds": 6.97307825399912
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 18682.80125786383,
+      "charge_pe": 16380.833172067469,
+      "seconds": 6.9057466689992
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 19906.43516375939,
+      "charge_pe": 17306.48957758939,
+      "seconds": 6.7805611719959415
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 21210.21122366016,
+      "charge_pe": 18278.026256634148,
+      "seconds": 6.725911266999901
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 22599.378364404223,
+      "charge_pe": 19297.174421245025,
+      "seconds": 6.680137292001746
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 24079.529292371084,
+      "charge_pe": 20365.692545193077,
+      "seconds": 11.618848368001636
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 25656.623009393184,
+      "charge_pe": 21485.364563960728,
+      "seconds": 11.954479248001007
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 27337.008803352186,
+      "charge_pe": 22657.99794640993,
+      "seconds": 12.016752490002546
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 29127.451810043505,
+      "charge_pe": 23885.42163281881,
+      "seconds": 13.093944387001102
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 31035.160249221233,
+      "charge_pe": 25169.483833908183,
+      "seconds": 11.719255926000187
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 33067.81444447279,
+      "charge_pe": 26512.049685738417,
+      "seconds": 11.730060351008433
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 35233.59774375659,
+      "charge_pe": 27914.99875595783,
+      "seconds": 11.518429207993904
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 37541.22946508634,
+      "charge_pe": 29380.222397815898,
+      "seconds": 10.513107778999256
+    },
+    {
+      "variant": "spatial12_fine",
+      "light_pe": 40000.0,
+      "charge_pe": 30909.620949599514,
+      "seconds": 7.353747586996178
+    }
+  ],
+  "seconds": 207.21844446899195,
+  "target_charge_range": [
+    426.7340958274416,
+    19551.962938793753
+  ],
+  "tuned_parameters": 0,
+  "input_boundary": "Only frozen development spatial prior, inherited isolated calibration and fixed light shape; no evaluation photon arrays read by calibration workers."
+}

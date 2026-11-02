@@ -1,0 +1,362 @@
+[
+  {
+    "id": 0,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 715105000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 1,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715105000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 2,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715105000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 3,
+    "kind": "pair",
+    "block": 5,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      245,
+      5
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715105000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 4,
+    "kind": "pair",
+    "block": 5,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      5,
+      245
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715105000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 5,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 715115000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 6,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715115000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 7,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715115000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 8,
+    "kind": "pair",
+    "block": 15,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      255,
+      15
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715115000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 9,
+    "kind": "pair",
+    "block": 15,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      15,
+      255
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715115000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 10,
+    "kind": "pair",
+    "block": 25,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 715125000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 11,
+    "kind": "pair",
+    "block": 25,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715125000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 12,
+    "kind": "pair",
+    "block": 25,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715125000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 13,
+    "kind": "pair",
+    "block": 25,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      265,
+      25
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715125000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 14,
+    "kind": "pair",
+    "block": 25,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      25,
+      265
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715125000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 15,
+    "kind": "pair",
+    "block": 35,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "repeats": 8,
+    "seed_base": 715135000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 16,
+    "kind": "pair",
+    "block": 35,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715135000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 17,
+    "kind": "pair",
+    "block": 35,
+    "condition": "high_weak",
+    "gap_ns": 200.0,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715135000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 18,
+    "kind": "pair",
+    "block": 35,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "parents": [
+      275,
+      35
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "repeats": 8,
+    "seed_base": 715135000,
+    "window_ns": 4096.0
+  },
+  {
+    "id": 19,
+    "kind": "pair",
+    "block": 35,
+    "condition": "weak_high",
+    "gap_ns": 40.0,
+    "parents": [
+      35,
+      275
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "repeats": 8,
+    "seed_base": 715135000,
+    "window_ns": 4096.0
+  }
+]

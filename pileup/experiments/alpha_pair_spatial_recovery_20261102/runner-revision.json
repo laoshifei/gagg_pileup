@@ -1,0 +1,6 @@
+{
+  "reason": "Initial calibration cost pilot computed a numpy.bool_ gate flag; JSON metadata serialization failed before charge-map production. The revised wrapper converts NumPy scalar metadata to native scalars only. Physical model, development profile, arrays, seeds and frozen source remain unchanged.",
+  "failure": "TypeError: Object of type bool_ is not JSON serializable",
+  "working_module_fix": "Explicit float conversion of projected cost",
+  "actual_runner": "run_v2.py"
+}
