@@ -1,0 +1,21 @@
+{
+  "command": [
+    "bash",
+    "--noprofile",
+    "--norc",
+    "-c",
+    "set -e\nsource /opt/root/root63410/bin/thisroot.sh\nsource /opt/geant4/geant4-v1132/bin/geant4.sh\nexec ./gagg ../macros/run_single_alpha_sipm.mac\n"
+  ],
+  "cwd": "g4/build",
+  "source_energy_MeV": 5.486,
+  "seed": 261010201,
+  "native_sipm_seed": 261010301,
+  "native_readout_seed": 261010401,
+  "window_ns": 20000,
+  "primary_time_ns": 5000,
+  "macro": "pileup/experiments/alpha_transport_environment_20261102/macros/main_single_alpha.mac",
+  "macro_sha256": "52daec8bdd2a92df7c46073244e074ffaac6351f21d0adcc5437ff2427a5d9dd",
+  "binary_sha256": "aac0832d09f3f0ef38e5aac101d7afdbcdf0f6fb2ab44aea0cdd211304395324",
+  "new_independent_mothers": 0,
+  "purpose": "Operational check of the existing README single-alpha macro; not a new physics sample"
+}

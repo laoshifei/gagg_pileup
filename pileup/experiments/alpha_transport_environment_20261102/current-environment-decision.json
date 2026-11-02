@@ -1,0 +1,11 @@
+{
+  "user_direction": "Use the current environment;do not require the old environment",
+  "main_build_working": true,
+  "current_same_seed_reproducible": true,
+  "old_environment_bitwise_matching": false,
+  "old_16_controls_preserved": true,
+  "new_native_ROOT_count": 20,
+  "new_independent_mothers": 0,
+  "next": "UseGeant4 11.3.2/ROOT6.34.10 for future work and record the migration;establish current-environment response controls before interpreting old-model transfer as independent confirmation",
+  "confirmation_design_status": "336-mother design remains a draft for a separate current-environment campaign;no such fresh sample generated"
+}

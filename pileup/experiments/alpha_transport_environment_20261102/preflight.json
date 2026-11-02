@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "projected_seconds": 25.200000000000003,
+  "structure_verified": true,
+  "physics_matching_not_used_for_cost_gate": true,
+  "root": "g4/data/20261102_17h21m17s.root"
+}

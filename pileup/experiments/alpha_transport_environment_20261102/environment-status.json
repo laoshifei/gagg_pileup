@@ -1,0 +1,12 @@
+{
+  "main_build_working": true,
+  "current_same_seed_reproducible": true,
+  "documented_command_passed": true,
+  "native_root_count": 21,
+  "independent_new_mothers": 0,
+  "old_environment_exact_matching": false,
+  "fresh_confirmation_run": false,
+  "current_environment": "Geant4 11.3.2 / ROOT 6.34.10 / g++ 11.4.0, Ubuntu/WSL",
+  "next": "Current-environment response controls and a separate frozen-model transfer experiment",
+  "historical_decision_record": "current-environment-decision.json"
+}

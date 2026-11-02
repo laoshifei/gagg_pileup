@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "design_files": 84,
+  "extra_frozen_files": 55,
+  "native_roots": 21,
+  "preserved_reference_roots": 16,
+  "current_exact_arrays": 28,
+  "minimum_launch_spacing_seconds": 1.0572762489318848,
+  "main_source_files": 39,
+  "notebook_cells": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": 199,
+    "Research_Plan_20260921.ipynb": 105,
+    "Run_Catalog.ipynb": 66
+  },
+  "python_tests_passed": 2,
+  "main_ctest_passed": true,
+  "snapshot_ctest_passed": true,
+  "figures_visually_checked": 2,
+  "notebook_append_execution": "Executed after local socket sandbox restriction; old cells preserved",
+  "validator_sha256": "b94b67bae18054e6d3b4d5c3084647a3d645c1c0dc0282bdd394b75deb82afea"
+}

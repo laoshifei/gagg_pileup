@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-11-02T09:21:10.500569+00:00",
+  "base_commit": "b2735eaf7c54c5893b758dbc44006f8644743e70",
+  "git_status": "?? 01a194fd-6d98-7981-a531-dd09fac9b56a-wsl\n?? pileup/analysis/alpha_transport_environment.py\n?? pileup/analysis/alpha_transport_environment_study.py\n?? pileup/analysis/test_alpha_transport_environment.py\n?? pileup/experiments/alpha_transport_environment_20261102/\n",
+  "purpose": "Resolve software-environment transfer before independent strong-mother confirmation",
+  "data": "16 exact old seeds,4per source energy1.625/2.5/5.486/8MeV;deterministic path-hash selection from128L93training mothers",
+  "old_environment": "Geant4 11.4.2,ROOT6.40.04,Fedora;old executable cannot load on current libc/Qt",
+  "current_environment": "Geant4 11.3.2,ROOT6.34.10,Ubuntu/WSL;all39physics-source files exactly preserved",
+  "changes": "Only dependency/build environment and macro output/config paths;no physical parameter or algorithm adjustment",
+  "windows": "One20us WaveformEvent and SiPMEvent per ROOT;one central normal alpha at5us;actual original macro retained",
+  "primary_gate": "Every seed: initial RNGstate equal,E_dep and generated scintillation count exactly equal,and sorted full photon records (integerps/float32bitpatterns) exactly equal. A conservative same-seed reproducibility check,not a statistical equivalence test",
+  "secondary": "Ordered photon equality;native SiPM voltage/charge comparison. Native electronics mismatch alone does not identify optical transport cause",
+  "stop": "Do not release336fresh strong mothers if primary transport gate fails;dependency changes cannot be mistaken for an independent same-environment confirmation",
+  "inferential_scope": "16paired engineering controls,not16independent new optical mothers;different environments may decorrelate RNGpaths without population bias. No detector-efficiency or energy-reconstruction claim",
+  "preflight_id": 12,
+  "cost_limit_seconds": 900.0,
+  "max_workers": 4,
+  "launch_spacing_seconds": 1.05,
+  "output": "Only g4/data/YYYYMMDD_HHhMMmSSs.root;no overwrite;logs and analysis remain under jupyter",
+  "no_new_offline_digitization": true,
+  "mean_model_frozen": true,
+  "default_changed": false
+}

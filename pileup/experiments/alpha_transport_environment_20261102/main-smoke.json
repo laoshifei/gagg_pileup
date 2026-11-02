@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "root": "g4/data/20261102_17h40m14s.root",
+  "root_sha256": "67800c38fa1ed04a2d468a766cd7e68c52a281b1cadd2165cc2bb136ea806998",
+  "root_bytes": 2041191,
+  "macro": "pileup/experiments/alpha_transport_environment_20261102/macros/main_single_alpha.mac",
+  "seed": 261010201,
+  "source_energy_MeV": 5.486,
+  "edep_MeV": 4.937784671783447,
+  "photons": 38156,
+  "samples": 10000,
+  "started_epoch": 1793612413.4986696,
+  "seconds": 1.401902675628662,
+  "log": "jupyter/run_records/alpha_transport_environment_20261102/logs/main_single_alpha.log",
+  "native_roots": 1,
+  "new_independent_mothers": 0
+}

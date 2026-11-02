@@ -1,0 +1,22 @@
+{
+  "binary_sha256": "aac0832d09f3f0ef38e5aac101d7afdbcdf0f6fb2ab44aea0cdd211304395324",
+  "ctest_passed": true,
+  "configure": [
+    "cmake",
+    "-S",
+    "pileup/experiments/alpha_transport_environment_20261102/source/g4",
+    "-B",
+    "pileup/experiments/alpha_transport_environment_20261102/build",
+    "-DCMAKE_BUILD_TYPE=Release",
+    "-DGeant4_DIR=/opt/geant4/geant4-v1132/lib/cmake/Geant4",
+    "-DROOT_DIR=/opt/root/root63410/cmake"
+  ],
+  "build": [
+    "cmake",
+    "--build",
+    "pileup/experiments/alpha_transport_environment_20261102/build",
+    "-j",
+    "4"
+  ],
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0"
+}

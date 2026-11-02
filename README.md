@@ -33,15 +33,20 @@ ROOT 原始数据、训练权重、分析数组、构建产物和本地研究笔
 
 ## 编译与运行
 
-需要 CMake、C++17 编译器、带 UI/可视化组件的 Geant4、ROOT 的 Core/RIO/Tree，以及 nlohmann_json ≥ 3.2（读取 SiPM 配置；优先使用独立 CMake 包，也支持 ROOT 自带头文件）。既有生产数据使用 Geant4 11.3.2、ROOT 6.34.10；2026-10-09 本机使用 Geant4 11.4.2、ROOT 6.40.04，主工程、两个冻结实验和阻止本领工具已重新构建。环境检查记录保存在本地 `jupyter/Run_Catalog.ipynb`，历史结果仍按各自的运行记录解释。
+需要 CMake、C++17 编译器、带 UI/可视化组件的 Geant4、ROOT 的 Core/RIO/Tree，以及 nlohmann_json ≥ 3.2（读取 SiPM 配置；优先使用独立 CMake 包，也支持 ROOT 自带头文件）。**2026-11-02 当前 Ubuntu/WSL 已用 Geant4 11.3.2、ROOT 6.34.10 和 g++ 11.4.0 重建主工程并跑通单α。** 2026-10-09 起的部分历史数据来自 Fedora 的 Geant4 11.4.2 / ROOT 6.40.04；历史条件以对应 RunInfo 和记录为准。旧构建目录已完整归档至 `.local_archive/build_migration_20261102/g4_build_from_previous_machine`。当前环境四例同种子重放的28组光子/电压数组逐项一致，跨环境不能逐事件精确复现；详见[迁移验证记录](pileup/experiments/alpha_transport_environment_20261102/README.md)。
 
-从项目根目录运行，先按本机安装方式加载 Geant4/ROOT 环境：
+从项目根目录执行以下本机已验证的构建和单α命令；其他机器按安装位置调整 `/opt` 前缀：
 
 ```bash
-cmake -S g4 -B g4/build
-cmake --build g4/build -j 2
+source /opt/root/root63410/bin/thisroot.sh
+source /opt/geant4/geant4-v1132/bin/geant4.sh
+cmake -S g4 -B g4/build -DCMAKE_BUILD_TYPE=Release \
+  -DGeant4_DIR=/opt/geant4/geant4-v1132/lib/cmake/Geant4 \
+  -DROOT_DIR=/opt/root/root63410/cmake
+cmake --build g4/build -j 4
+ctest --test-dir g4/build --output-on-failure
 cd g4/build
-./gagg ../macros/run_all_pileup.mac
+./gagg ../macros/run_single_alpha_sipm.mac
 ```
 
 未指定输出文件时，程序使用相对目录 `../data` 和秒级文件名 `YYYYMMDD_HHhMMmSSs.root`，因此上述运行方式将新结果写入 `g4/data/`；同名时等待下一秒。宏可用 `/gagg/run/outputFile` 指定相对于启动目录的 ROOT 路径；显式指定的已有同名文件会被拒绝覆盖。无参数运行 `./gagg` 会进入交互可视化模式。
@@ -369,3 +374,6 @@ ps 除以 1000 得到 ns。`edep_total_MeV` 是沉积能量真值，不是淬灭
 
 
 2026-11-02完成[均值修正的分组稳定性诊断](pileup/experiments/alpha_mean_shape_stability_20261102/README.md)：128个开发母、十组四折和1000次整母重采样重训练，8/40 ns逐母残差投影MSE比0.9497/0.9972，95%重训练分位范围均跨1；十种划分仅7/10与3/10改善，未通过稳定性门。合并留出均值接近零可能部分来自均值扣除的代数结构，不能单独证明泛化。8/40 ns八次平均的投影方差约82.6%/81.4%来自母间差异，下一步应优先增加独立母事件证据并冻结新确认设计。没有新数字化、ROOT、E拟合或默认升级；四项测试及12数组重放通过，结果见[采用记录L94](docs/literature-use.md#mean-shape-stability-20261102)与本地codex_0007第114–118节、三幅固定编号图。
+
+
+2026-11-02完成[当前Geant4环境重建与验证](pileup/experiments/alpha_transport_environment_20261102/README.md)：当前 Ubuntu/WSL 的 Geant4 11.3.2、ROOT 6.34.10 已完成主工程和实验快照构建。16条跨环境同种子对照全部正常输出；主工程在当前环境重跑四档各一例，28组光子/电压数组逐项一致。文档中的单α命令也已通过，共新增21个有效原生ROOT。 旧 Fedora 环境为 Geant4 11.4.2、ROOT 6.40.04。16对初始随机状态全部相同，但沉积能量、产生光子数、排序后的完整到达光子记录和原生信号均未逐事件精确复现。最大沉积能量差为0.10252 keV，到达光子数相对差为[-1.449%, +2.297%]。这些是同种子工程对照，不能据此断定总体响应有偏差，或把差异单独归因于Geant4版本；数据集、编译器和平台也发生了变化。 后续按用户要求采用当前环境，独立母事件的冻结模型确认另立环境迁移实验；当前336＋8设计尚未运行。详见[采用记录L95](docs/literature-use.md#transport-environment-20261102)及本地codex_0007第119–122节。

@@ -1,0 +1,123 @@
+{
+  "passed": true,
+  "manifests": [
+    {
+      "path": "pileup/experiments/alpha_component_ml_20261021/manifest.json",
+      "sha256": "7fcd9c8277c12017c98a28cee2e5356a3a79f28bc9f87e28ee7009b3b398b723"
+    },
+    {
+      "path": "pileup/experiments/alpha_correlated_global_20261020/manifest.json",
+      "sha256": "dd747224e4f58f9658f20ee606541480bee460651a426df2c8967a0f960c90b4"
+    },
+    {
+      "path": "pileup/experiments/alpha_full_signal_20261014/manifest.json",
+      "sha256": "e7d0bd23a237895263981d496f93a3def8e6843d9aaa1dc6b50cf79ae099d518"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_advanced_fit_20261020/manifest.json",
+      "sha256": "40f79ed44ce6d2d7875d2d3e97a1898d961c47b938216f668b8fb7341bacf216"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_brems_fit_20261015/manifest.json",
+      "sha256": "2ed7356c402792639c9972391ca8425a9e14d9f87a1ab4dd09148e192937e79a"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_context_calibration_20261016/manifest.json",
+      "sha256": "92de0443047deb4f056767886a4adf13df74df96500782eefe9762b2c3496886"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_full_prior_20261019/manifest.json",
+      "sha256": "b0229e72dde428064122e9d089530ec71c27a158e5d709018e242d39aec0469e"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_ml_20261016/manifest.json",
+      "sha256": "102362fbbc3430b03cab2b130d36186cc47b1c39a52a482362c81f7fc3f88ea5"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_model_selection_20261016/manifest.json",
+      "sha256": "619148ce407aa559fa3f3459bd3c2ccd6f5423d90f7faff7aafa4d9f1eb592b6"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_mono662_fit_20261015/manifest.json",
+      "sha256": "cf8e44bebb001eef6d98ec1c6471343469412436a7cd3029e722cd072003b22e"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_profile_fit_20261016/manifest.json",
+      "sha256": "4543742655097f3df8beb60f46c83a4e240819f3c881256869ab2f79aab0f1dc"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_regularized_fit_20261015/manifest.json",
+      "sha256": "a7ab33ceb655745766b6c9e83e9478c8c76269097fcd584f62ae722475a99be4"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_shared_tau_20261020/manifest.json",
+      "sha256": "fb75eed99c10c21dc319203f896e4cb07fc81a9546d017a0fb56259b11de8b05"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_short_window_20261019/manifest.json",
+      "sha256": "5c8a93e7dff0ab651cbf8a89f9613afcd217b0890a53ecadc9e618a0a59d04cc"
+    },
+    {
+      "path": "pileup/experiments/alpha_gamma_short_window_gamma_extension_20261019/manifest.json",
+      "sha256": "0610d081bff12144a82f47ff9bed963c199d9d75f7b8a1edf7a3e7a7f972124d"
+    },
+    {
+      "path": "pileup/experiments/alpha_local_capacity_20261020/manifest.json",
+      "sha256": "5c33f337fc99a961b67f447d000a18daafb1cc05d2c5e76911c662b2582ab3dc"
+    },
+    {
+      "path": "pileup/experiments/alpha_local_model_selection_20261020/manifest.json",
+      "sha256": "452888a4abf8e4573c3bfc4808549df0d7f30e2bfffcb67a8315891dc3610e47"
+    },
+    {
+      "path": "pileup/experiments/alpha_ml_comparison_20261014/manifest.json",
+      "sha256": "d31f2c8524685d0b0575b635ef2531cb2f1cd37fbd7dd2df2cdb9cc28edbfc99"
+    },
+    {
+      "path": "pileup/experiments/alpha_ml_low_rate_20261015/manifest.json",
+      "sha256": "3b37c3e1476225c448fc25b68d57efa9820347f0e6512fdd2ecaa04cb35ed048"
+    },
+    {
+      "path": "pileup/experiments/alpha_ml_multimethod_20261014/manifest.json",
+      "sha256": "582a7fc21eed2680b844d4d79a2b4e748770aa548f2b89033213be770a1877d0"
+    },
+    {
+      "path": "pileup/experiments/alpha_ml_refresh_20261021/manifest.json",
+      "sha256": "4a95ead70d91e4c41532f567f444de69f7695542caadcdad56ed30af74d13046"
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_conditional_20261022/manifest.json",
+      "sha256": "7cc67efa72ab7aea83e0ec870ba0c37f5a5f6a4d441475fdcb6a19999eb63b8e"
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_curriculum_20261021/manifest.json",
+      "sha256": "4666ddc7eeea1413583bca2f5b8ef819ea4629b67d597e1d1360a1ce570e1fb9"
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_joint_confirmation_20261026/manifest.json",
+      "sha256": "1d92b75133d11e04abfbc62788f6a1d4acdf2bba799bcf9844abb4d3711f87de"
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_residual_20261023/manifest.json",
+      "sha256": "b3b3cffadddbce9f66d5db0f7262ed6d8c3730275f4451a23cdcbea1779e5419"
+    },
+    {
+      "path": "pileup/experiments/alpha_pair_resolution_20261022/manifest.json",
+      "sha256": "d145aa55fb43b23d3ef8763e561d412e1a8f95244ae9ec469ed52ed28d6a1fff"
+    },
+    {
+      "path": "pileup/experiments/alpha_s13360_intermediate_rates_20261014/manifest.json",
+      "sha256": "45f9e0868730183c56dca5005c7ed3648bf43428cc85a9cb58ca412aa4467784"
+    },
+    {
+      "path": "pileup/experiments/alpha_s13360_rate_fit_20261013/manifest.json",
+      "sha256": "eb0fec9b8958ab542ad262d6c77457c78e6f16853473cf6abc329414824457bc"
+    },
+    {
+      "path": "pileup/experiments/sipm_energy_guardband_20261029/manifest.json",
+      "sha256": "22bb5efd83d5d4f38e305ecb4aec557f94ade03e798f6e6547ba882cdf83343e"
+    }
+  ],
+  "streams": 1032,
+  "new_mothers_run": 0
+}
