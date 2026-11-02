@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "digitization_rows": [
+    {
+      "id": 0,
+      "kind": "pair",
+      "seconds": 1.0395402060094057,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 1,
+      "kind": "pair",
+      "seconds": 1.026910474000033,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 2,
+      "kind": "pair",
+      "seconds": 1.0212932139984332,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 3,
+      "kind": "pair",
+      "seconds": 1.0380273110058624,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 4,
+      "kind": "pair",
+      "seconds": 0.9893471680115908,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 5,
+      "kind": "pair",
+      "seconds": 0.9373901119979564,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "prediction_rows": [
+    {
+      "id": 0,
+      "seconds": 3.027497383998707,
+      "direct_checked": true,
+      "max_direct_difference_mV": 2.842170943040401e-14
+    },
+    {
+      "id": 1,
+      "seconds": 3.072845478003728,
+      "direct_checked": true,
+      "max_direct_difference_mV": 5.684341886080802e-14
+    },
+    {
+      "id": 2,
+      "seconds": 3.0157435160072055,
+      "direct_checked": true,
+      "max_direct_difference_mV": 1.1368683772161603e-13
+    },
+    {
+      "id": 3,
+      "seconds": 3.018220159006887,
+      "direct_checked": true,
+      "max_direct_difference_mV": 5.684341886080802e-14
+    },
+    {
+      "id": 4,
+      "seconds": 2.895397658008733,
+      "direct_checked": true,
+      "max_direct_difference_mV": 3.552713678800501e-15
+    },
+    {
+      "id": 5,
+      "seconds": 2.749043771007564,
+      "direct_checked": true,
+      "max_direct_difference_mV": 7.105427357601002e-15
+    }
+  ],
+  "estimates": {
+    "digitization_seconds": 623.7241236056434,
+    "prediction_seconds": 368.7414573604474
+  },
+  "digitizations": 36,
+  "pilot_mothers": [
+    0,
+    6
+  ],
+  "no_formal_sample_used": true
+}

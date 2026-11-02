@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "target_root": "/tmp/gagg_shared_repro_c81rbsng/project",
+  "frozen_verification": {
+    "design-freeze.json": 97,
+    "model-freeze.json": 10
+  },
+  "existing_target_refused": true,
+  "new_ROOTs": 0
+}

@@ -1,0 +1,9 @@
+{
+  "command": "python3 -B -m unittest pileup.analysis.test_alpha_current_shared -v",
+  "exit_code": 0,
+  "passed": 2,
+  "names": [
+    "test_independent_blocks_and_phase_membership",
+    "test_reuse_rejects_charge_change"
+  ]
+}

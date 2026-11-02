@@ -1,0 +1,5126 @@
+{
+  "rows": [
+    {
+      "id": 0,
+      "kind": "pair",
+      "seconds": 4.038273619997199,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 1,
+      "kind": "pair",
+      "seconds": 3.9838315779925324,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 2,
+      "kind": "pair",
+      "seconds": 4.060605710998061,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 3,
+      "kind": "pair",
+      "seconds": 3.982833432004554,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 4,
+      "kind": "pair",
+      "seconds": 4.138503003006917,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 5,
+      "kind": "pair",
+      "seconds": 4.067042911003227,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 6,
+      "kind": "pair",
+      "seconds": 4.043317932999344,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 7,
+      "kind": "pair",
+      "seconds": 3.8833885450003436,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 8,
+      "kind": "pair",
+      "seconds": 4.364611345008598,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 9,
+      "kind": "pair",
+      "seconds": 4.567682819004403,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 10,
+      "kind": "pair",
+      "seconds": 4.493306249001762,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 11,
+      "kind": "pair",
+      "seconds": 4.394772822008235,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 12,
+      "kind": "pair",
+      "seconds": 4.347344769004849,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 13,
+      "kind": "pair",
+      "seconds": 4.8260470800014446,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 14,
+      "kind": "pair",
+      "seconds": 4.513344667997444,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 15,
+      "kind": "pair",
+      "seconds": 4.759058404000825,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 16,
+      "kind": "pair",
+      "seconds": 4.571557312010555,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 17,
+      "kind": "pair",
+      "seconds": 4.600067725012195,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 18,
+      "kind": "pair",
+      "seconds": 4.683629334002035,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 19,
+      "kind": "pair",
+      "seconds": 4.4393130550015485,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 20,
+      "kind": "pair",
+      "seconds": 4.588772205010173,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 21,
+      "kind": "pair",
+      "seconds": 4.694807385007152,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 22,
+      "kind": "pair",
+      "seconds": 4.425027725010295,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 23,
+      "kind": "pair",
+      "seconds": 4.527792103996035,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 24,
+      "kind": "pair",
+      "seconds": 4.441586742002983,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 25,
+      "kind": "pair",
+      "seconds": 4.404690780007513,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 26,
+      "kind": "pair",
+      "seconds": 4.438022483009263,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 27,
+      "kind": "pair",
+      "seconds": 4.447126433995436,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 28,
+      "kind": "pair",
+      "seconds": 4.369789409000077,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 29,
+      "kind": "pair",
+      "seconds": 4.526798642997164,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 30,
+      "kind": "pair",
+      "seconds": 4.368331816003774,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 31,
+      "kind": "pair",
+      "seconds": 4.394601652005804,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 32,
+      "kind": "pair",
+      "seconds": 3.938138773009996,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 33,
+      "kind": "pair",
+      "seconds": 3.8426801890018396,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 34,
+      "kind": "pair",
+      "seconds": 3.9398055040073814,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 35,
+      "kind": "pair",
+      "seconds": 3.760849501006305,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 36,
+      "kind": "pair",
+      "seconds": 3.8649489090021234,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 37,
+      "kind": "pair",
+      "seconds": 3.673835861001862,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 38,
+      "kind": "pair",
+      "seconds": 3.929453609001939,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 39,
+      "kind": "pair",
+      "seconds": 3.9783219630044186,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 40,
+      "kind": "pair",
+      "seconds": 4.052050940998015,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 41,
+      "kind": "pair",
+      "seconds": 4.076301714012516,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 42,
+      "kind": "pair",
+      "seconds": 4.026060368996696,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 43,
+      "kind": "pair",
+      "seconds": 4.211358715998358,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 44,
+      "kind": "pair",
+      "seconds": 4.239865137002198,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 45,
+      "kind": "pair",
+      "seconds": 4.143983326997841,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 46,
+      "kind": "pair",
+      "seconds": 4.237499944007141,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 47,
+      "kind": "pair",
+      "seconds": 4.281770576999406,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 48,
+      "kind": "pair",
+      "seconds": 3.8452915090019815,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 49,
+      "kind": "pair",
+      "seconds": 4.081001815007767,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 50,
+      "kind": "pair",
+      "seconds": 3.934596008999506,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 51,
+      "kind": "pair",
+      "seconds": 3.9709411399962846,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 52,
+      "kind": "pair",
+      "seconds": 3.9432289010001114,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 53,
+      "kind": "pair",
+      "seconds": 3.751980590997846,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 54,
+      "kind": "pair",
+      "seconds": 4.001931512000738,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 55,
+      "kind": "pair",
+      "seconds": 3.887659075000556,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 56,
+      "kind": "pair",
+      "seconds": 4.243616410996765,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 57,
+      "kind": "pair",
+      "seconds": 4.691170113990665,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 58,
+      "kind": "pair",
+      "seconds": 4.493664034991525,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 59,
+      "kind": "pair",
+      "seconds": 4.290770348001388,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 60,
+      "kind": "pair",
+      "seconds": 4.317255419009598,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 61,
+      "kind": "pair",
+      "seconds": 4.243528546008747,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 62,
+      "kind": "pair",
+      "seconds": 4.474691405004705,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 63,
+      "kind": "pair",
+      "seconds": 4.4185499509912916,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 64,
+      "kind": "pair",
+      "seconds": 3.9575200079998467,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 65,
+      "kind": "pair",
+      "seconds": 3.909704364996287,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 66,
+      "kind": "pair",
+      "seconds": 3.9542084029963007,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 67,
+      "kind": "pair",
+      "seconds": 4.036738445996889,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 68,
+      "kind": "pair",
+      "seconds": 4.040777865011478,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 69,
+      "kind": "pair",
+      "seconds": 4.053549615011434,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 70,
+      "kind": "pair",
+      "seconds": 3.881832683997345,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 71,
+      "kind": "pair",
+      "seconds": 3.8600016010022955,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 72,
+      "kind": "pair",
+      "seconds": 3.8024666770070326,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 73,
+      "kind": "pair",
+      "seconds": 3.5256247270008316,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 74,
+      "kind": "pair",
+      "seconds": 3.7717501370061655,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 75,
+      "kind": "pair",
+      "seconds": 3.9793261849990813,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 76,
+      "kind": "pair",
+      "seconds": 3.544639151004958,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 77,
+      "kind": "pair",
+      "seconds": 3.992786546004936,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 78,
+      "kind": "pair",
+      "seconds": 4.064696023997385,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 79,
+      "kind": "pair",
+      "seconds": 4.0664613469998585,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 80,
+      "kind": "pair",
+      "seconds": 3.884797692007851,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 81,
+      "kind": "pair",
+      "seconds": 3.98366679699393,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 82,
+      "kind": "pair",
+      "seconds": 3.9206530769879464,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 83,
+      "kind": "pair",
+      "seconds": 3.8507194409903605,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 84,
+      "kind": "pair",
+      "seconds": 3.7918037209892645,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 85,
+      "kind": "pair",
+      "seconds": 3.677184329004376,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 86,
+      "kind": "pair",
+      "seconds": 3.577443615999073,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 87,
+      "kind": "pair",
+      "seconds": 3.7472801999974763,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 88,
+      "kind": "pair",
+      "seconds": 4.030157916000462,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 89,
+      "kind": "pair",
+      "seconds": 4.1565611620026175,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 90,
+      "kind": "pair",
+      "seconds": 4.13763219100656,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 91,
+      "kind": "pair",
+      "seconds": 4.167048888994032,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 92,
+      "kind": "pair",
+      "seconds": 4.337439195995103,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 93,
+      "kind": "pair",
+      "seconds": 4.115546087996336,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 94,
+      "kind": "pair",
+      "seconds": 4.304467947004014,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 95,
+      "kind": "pair",
+      "seconds": 4.364986430009594,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 96,
+      "kind": "pair",
+      "seconds": 4.4505528479930945,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 97,
+      "kind": "pair",
+      "seconds": 4.353925892995903,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 98,
+      "kind": "pair",
+      "seconds": 4.448025999998208,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 99,
+      "kind": "pair",
+      "seconds": 4.471749481002917,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 100,
+      "kind": "pair",
+      "seconds": 4.558610920998035,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 101,
+      "kind": "pair",
+      "seconds": 4.781996992009226,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 102,
+      "kind": "pair",
+      "seconds": 4.427615884007537,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 103,
+      "kind": "pair",
+      "seconds": 4.5038610710034845,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 104,
+      "kind": "pair",
+      "seconds": 4.22754934799741,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 105,
+      "kind": "pair",
+      "seconds": 4.159618749996298,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 106,
+      "kind": "pair",
+      "seconds": 4.173555340006715,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 107,
+      "kind": "pair",
+      "seconds": 4.1049772139958804,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 108,
+      "kind": "pair",
+      "seconds": 4.056679836998228,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 109,
+      "kind": "pair",
+      "seconds": 4.057865315000527,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 110,
+      "kind": "pair",
+      "seconds": 4.0759188610099955,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 111,
+      "kind": "pair",
+      "seconds": 3.86806596799579,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 112,
+      "kind": "pair",
+      "seconds": 3.8703308810072485,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 113,
+      "kind": "pair",
+      "seconds": 4.00023740499455,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 114,
+      "kind": "pair",
+      "seconds": 3.8910337230045116,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 115,
+      "kind": "pair",
+      "seconds": 3.9462868130067363,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 116,
+      "kind": "pair",
+      "seconds": 4.1325275330018485,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 117,
+      "kind": "pair",
+      "seconds": 3.963086812000256,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 118,
+      "kind": "pair",
+      "seconds": 4.300249840001925,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 119,
+      "kind": "pair",
+      "seconds": 4.158982127002673,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 120,
+      "kind": "pair",
+      "seconds": 4.2261200249922695,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 121,
+      "kind": "pair",
+      "seconds": 4.210222657988197,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 122,
+      "kind": "pair",
+      "seconds": 4.041419939996558,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 123,
+      "kind": "pair",
+      "seconds": 3.9657100979966344,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 124,
+      "kind": "pair",
+      "seconds": 3.9847448540094774,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 125,
+      "kind": "pair",
+      "seconds": 3.971756640006788,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 126,
+      "kind": "pair",
+      "seconds": 4.1720654780074256,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 127,
+      "kind": "pair",
+      "seconds": 3.9424596400058363,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 128,
+      "kind": "pair",
+      "seconds": 4.119203901005676,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 129,
+      "kind": "pair",
+      "seconds": 4.328271171994857,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 130,
+      "kind": "pair",
+      "seconds": 4.27979995199712,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 131,
+      "kind": "pair",
+      "seconds": 4.284299833991099,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 132,
+      "kind": "pair",
+      "seconds": 4.374817856005393,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 133,
+      "kind": "pair",
+      "seconds": 4.420073407993186,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 134,
+      "kind": "pair",
+      "seconds": 4.325520732003497,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 135,
+      "kind": "pair",
+      "seconds": 4.48037656499946,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 136,
+      "kind": "pair",
+      "seconds": 4.24079695600085,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 137,
+      "kind": "pair",
+      "seconds": 4.282260806008708,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 138,
+      "kind": "pair",
+      "seconds": 4.3102260310115525,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 139,
+      "kind": "pair",
+      "seconds": 4.270457100996282,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 140,
+      "kind": "pair",
+      "seconds": 4.3073385169991525,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 141,
+      "kind": "pair",
+      "seconds": 4.436629461997654,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 142,
+      "kind": "pair",
+      "seconds": 4.315423280000687,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 143,
+      "kind": "pair",
+      "seconds": 4.518246617997647,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 144,
+      "kind": "pair",
+      "seconds": 3.9783182959945407,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 145,
+      "kind": "pair",
+      "seconds": 3.9551369800028624,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 146,
+      "kind": "pair",
+      "seconds": 3.8928365649917396,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 147,
+      "kind": "pair",
+      "seconds": 3.949179051996907,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 148,
+      "kind": "pair",
+      "seconds": 3.8014052340004127,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 149,
+      "kind": "pair",
+      "seconds": 4.007806554989656,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 150,
+      "kind": "pair",
+      "seconds": 3.9941231249977136,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 151,
+      "kind": "pair",
+      "seconds": 3.801669241001946,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 152,
+      "kind": "pair",
+      "seconds": 3.926251377008157,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 153,
+      "kind": "pair",
+      "seconds": 4.280791080003837,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 154,
+      "kind": "pair",
+      "seconds": 4.192045199000859,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 155,
+      "kind": "pair",
+      "seconds": 4.483082748003653,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 156,
+      "kind": "pair",
+      "seconds": 4.355953508988023,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 157,
+      "kind": "pair",
+      "seconds": 4.897043924007448,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 158,
+      "kind": "pair",
+      "seconds": 4.611642147996463,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 159,
+      "kind": "pair",
+      "seconds": 4.867439633992035,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 160,
+      "kind": "pair",
+      "seconds": 4.539744762994815,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 161,
+      "kind": "pair",
+      "seconds": 4.467468413000461,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 162,
+      "kind": "pair",
+      "seconds": 4.348138375004055,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 163,
+      "kind": "pair",
+      "seconds": 4.2682450379943475,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 164,
+      "kind": "pair",
+      "seconds": 4.305322606989648,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 165,
+      "kind": "pair",
+      "seconds": 4.5163510749989655,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 166,
+      "kind": "pair",
+      "seconds": 4.5314879799989285,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 167,
+      "kind": "pair",
+      "seconds": 4.580173654001555,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 168,
+      "kind": "pair",
+      "seconds": 4.784850160998758,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 169,
+      "kind": "pair",
+      "seconds": 4.784948878004798,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 170,
+      "kind": "pair",
+      "seconds": 4.7289242499973625,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 171,
+      "kind": "pair",
+      "seconds": 4.8537315180001315,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 172,
+      "kind": "pair",
+      "seconds": 4.745029956000508,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 173,
+      "kind": "pair",
+      "seconds": 4.526440141009516,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 174,
+      "kind": "pair",
+      "seconds": 4.421147528992151,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 175,
+      "kind": "pair",
+      "seconds": 4.424902982995263,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 176,
+      "kind": "pair",
+      "seconds": 4.047694356995635,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 177,
+      "kind": "pair",
+      "seconds": 4.145817952012294,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 178,
+      "kind": "pair",
+      "seconds": 4.091981032004696,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 179,
+      "kind": "pair",
+      "seconds": 4.052244122009142,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 180,
+      "kind": "pair",
+      "seconds": 4.348524008993991,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 181,
+      "kind": "pair",
+      "seconds": 4.170762828012812,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 182,
+      "kind": "pair",
+      "seconds": 4.276883133992669,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 183,
+      "kind": "pair",
+      "seconds": 4.077204069006257,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 184,
+      "kind": "pair",
+      "seconds": 3.923202907011728,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 185,
+      "kind": "pair",
+      "seconds": 3.918092935986351,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 186,
+      "kind": "pair",
+      "seconds": 3.7008105920103844,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 187,
+      "kind": "pair",
+      "seconds": 3.9177031019935384,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 188,
+      "kind": "pair",
+      "seconds": 4.05690881999908,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 189,
+      "kind": "pair",
+      "seconds": 3.8741703190025873,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 190,
+      "kind": "pair",
+      "seconds": 3.838596896006493,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 191,
+      "kind": "pair",
+      "seconds": 3.961693032004405,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 192,
+      "kind": "pair",
+      "seconds": 3.8063163479964714,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 193,
+      "kind": "pair",
+      "seconds": 3.7126878020062577,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 194,
+      "kind": "pair",
+      "seconds": 3.685192355012987,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 195,
+      "kind": "pair",
+      "seconds": 3.744592475995887,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 196,
+      "kind": "pair",
+      "seconds": 4.120925962008187,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 197,
+      "kind": "pair",
+      "seconds": 3.693049402005272,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 198,
+      "kind": "pair",
+      "seconds": 3.8303429590014275,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 199,
+      "kind": "pair",
+      "seconds": 3.9464002679887926,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 200,
+      "kind": "pair",
+      "seconds": 3.8952620220079552,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 201,
+      "kind": "pair",
+      "seconds": 3.9589997169969138,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 202,
+      "kind": "pair",
+      "seconds": 3.9264462099963566,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 203,
+      "kind": "pair",
+      "seconds": 3.8996364350023214,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 204,
+      "kind": "pair",
+      "seconds": 3.9698151289921952,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 205,
+      "kind": "pair",
+      "seconds": 3.8009658899973147,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 206,
+      "kind": "pair",
+      "seconds": 3.670890237990534,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 207,
+      "kind": "pair",
+      "seconds": 3.8858679440018022,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 208,
+      "kind": "pair",
+      "seconds": 3.68695757300884,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 209,
+      "kind": "pair",
+      "seconds": 3.7207796659931773,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 210,
+      "kind": "pair",
+      "seconds": 3.7522405050112866,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 211,
+      "kind": "pair",
+      "seconds": 3.8243610259960406,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 212,
+      "kind": "pair",
+      "seconds": 3.8757868070097174,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 213,
+      "kind": "pair",
+      "seconds": 3.965044084005058,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 214,
+      "kind": "pair",
+      "seconds": 3.718085255997721,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 215,
+      "kind": "pair",
+      "seconds": 3.808531522998237,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 216,
+      "kind": "pair",
+      "seconds": 3.768232085989439,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 217,
+      "kind": "pair",
+      "seconds": 3.714632724993862,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 218,
+      "kind": "pair",
+      "seconds": 3.838914638996357,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 219,
+      "kind": "pair",
+      "seconds": 3.7484754100005375,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 220,
+      "kind": "pair",
+      "seconds": 3.852976327005308,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 221,
+      "kind": "pair",
+      "seconds": 3.7594313040026464,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 222,
+      "kind": "pair",
+      "seconds": 3.9360278859967366,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 223,
+      "kind": "pair",
+      "seconds": 3.936377221994917,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 224,
+      "kind": "pair",
+      "seconds": 3.9706529999966733,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 225,
+      "kind": "pair",
+      "seconds": 4.220892618992366,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 226,
+      "kind": "pair",
+      "seconds": 4.145395225001266,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 227,
+      "kind": "pair",
+      "seconds": 4.121686133003095,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 228,
+      "kind": "pair",
+      "seconds": 4.383833870990202,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 229,
+      "kind": "pair",
+      "seconds": 4.445809703000123,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 230,
+      "kind": "pair",
+      "seconds": 4.596458822998102,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 231,
+      "kind": "pair",
+      "seconds": 4.4665855649946025,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 232,
+      "kind": "pair",
+      "seconds": 4.344687994002015,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 233,
+      "kind": "pair",
+      "seconds": 4.329563241000869,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 234,
+      "kind": "pair",
+      "seconds": 4.219136112005799,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 235,
+      "kind": "pair",
+      "seconds": 4.1361837219883455,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 236,
+      "kind": "pair",
+      "seconds": 4.345343512002728,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 237,
+      "kind": "pair",
+      "seconds": 4.37626828700013,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 238,
+      "kind": "pair",
+      "seconds": 4.57815684301022,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 239,
+      "kind": "pair",
+      "seconds": 4.557940657003201,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 240,
+      "kind": "pair",
+      "seconds": 4.373454795990256,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 241,
+      "kind": "pair",
+      "seconds": 4.609952610000619,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 242,
+      "kind": "pair",
+      "seconds": 4.495299718997558,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 243,
+      "kind": "pair",
+      "seconds": 4.581581759994151,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 244,
+      "kind": "pair",
+      "seconds": 4.192223803998786,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 245,
+      "kind": "pair",
+      "seconds": 4.1862159189913655,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 246,
+      "kind": "pair",
+      "seconds": 4.443416994996369,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 247,
+      "kind": "pair",
+      "seconds": 4.228747657005442,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 248,
+      "kind": "pair",
+      "seconds": 4.117184300994268,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 249,
+      "kind": "pair",
+      "seconds": 4.010425350992591,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 250,
+      "kind": "pair",
+      "seconds": 3.9988760050036944,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 251,
+      "kind": "pair",
+      "seconds": 4.2611947460100055,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 252,
+      "kind": "pair",
+      "seconds": 3.9563044350070413,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 253,
+      "kind": "pair",
+      "seconds": 4.117110593011603,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 254,
+      "kind": "pair",
+      "seconds": 4.290111171998433,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 255,
+      "kind": "pair",
+      "seconds": 3.9968714760034345,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 256,
+      "kind": "pair",
+      "seconds": 3.892194247993757,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 257,
+      "kind": "pair",
+      "seconds": 3.8575648089899914,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 258,
+      "kind": "pair",
+      "seconds": 3.809708557004342,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 259,
+      "kind": "pair",
+      "seconds": 3.7590859350020764,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 260,
+      "kind": "pair",
+      "seconds": 3.8600148339901352,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 261,
+      "kind": "pair",
+      "seconds": 3.79372742898704,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 262,
+      "kind": "pair",
+      "seconds": 4.039871736997156,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 263,
+      "kind": "pair",
+      "seconds": 3.8129796579887625,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 264,
+      "kind": "pair",
+      "seconds": 3.8118399040104123,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 265,
+      "kind": "pair",
+      "seconds": 3.8410955450090114,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 266,
+      "kind": "pair",
+      "seconds": 3.8886919930082513,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 267,
+      "kind": "pair",
+      "seconds": 3.9917849979974562,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 268,
+      "kind": "pair",
+      "seconds": 4.098916426009964,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 269,
+      "kind": "pair",
+      "seconds": 3.9578236779925646,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 270,
+      "kind": "pair",
+      "seconds": 3.8401456940046046,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 271,
+      "kind": "pair",
+      "seconds": 4.005582857003901,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 272,
+      "kind": "pair",
+      "seconds": 4.008437206997769,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 273,
+      "kind": "pair",
+      "seconds": 4.059273934995872,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 274,
+      "kind": "pair",
+      "seconds": 3.928648039000109,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 275,
+      "kind": "pair",
+      "seconds": 3.9927500579942716,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 276,
+      "kind": "pair",
+      "seconds": 4.114123408988235,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 277,
+      "kind": "pair",
+      "seconds": 3.8905805710091954,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 278,
+      "kind": "pair",
+      "seconds": 4.157209603989031,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 279,
+      "kind": "pair",
+      "seconds": 4.084216272996855,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 280,
+      "kind": "pair",
+      "seconds": 3.9922320529876743,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 281,
+      "kind": "pair",
+      "seconds": 3.9626019610004732,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 282,
+      "kind": "pair",
+      "seconds": 4.051890208997065,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 283,
+      "kind": "pair",
+      "seconds": 4.0728336660104105,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 284,
+      "kind": "pair",
+      "seconds": 4.10546463499486,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 285,
+      "kind": "pair",
+      "seconds": 4.41516866699385,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 286,
+      "kind": "pair",
+      "seconds": 4.108671135996701,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 287,
+      "kind": "pair",
+      "seconds": 4.019302699001855,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 288,
+      "kind": "pair",
+      "seconds": 3.929016783993575,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 289,
+      "kind": "pair",
+      "seconds": 3.9619409130100394,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 290,
+      "kind": "pair",
+      "seconds": 4.156800618002308,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 291,
+      "kind": "pair",
+      "seconds": 4.127466465011821,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 292,
+      "kind": "pair",
+      "seconds": 4.380814215997816,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 293,
+      "kind": "pair",
+      "seconds": 4.563850603997707,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 294,
+      "kind": "pair",
+      "seconds": 4.312009649001993,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 295,
+      "kind": "pair",
+      "seconds": 4.417851262987824,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 296,
+      "kind": "pair",
+      "seconds": 4.2693740780086955,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 297,
+      "kind": "pair",
+      "seconds": 4.285613016996649,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 298,
+      "kind": "pair",
+      "seconds": 4.243222802004311,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 299,
+      "kind": "pair",
+      "seconds": 4.236925530000008,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 300,
+      "kind": "pair",
+      "seconds": 4.171011726997676,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 301,
+      "kind": "pair",
+      "seconds": 4.3570259350090055,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 302,
+      "kind": "pair",
+      "seconds": 4.3230176599900005,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 303,
+      "kind": "pair",
+      "seconds": 4.231658670003526,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 304,
+      "kind": "pair",
+      "seconds": 4.2977749629935715,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 305,
+      "kind": "pair",
+      "seconds": 4.319046767006512,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 306,
+      "kind": "pair",
+      "seconds": 4.394658346995129,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 307,
+      "kind": "pair",
+      "seconds": 4.323123957001371,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 308,
+      "kind": "pair",
+      "seconds": 4.26847609700053,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 309,
+      "kind": "pair",
+      "seconds": 4.181507424989832,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 310,
+      "kind": "pair",
+      "seconds": 4.190604853996774,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 311,
+      "kind": "pair",
+      "seconds": 4.2081570779992035,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 312,
+      "kind": "pair",
+      "seconds": 4.132452021003701,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 313,
+      "kind": "pair",
+      "seconds": 4.231551214004867,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 314,
+      "kind": "pair",
+      "seconds": 4.415800558999763,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 315,
+      "kind": "pair",
+      "seconds": 4.13237924099667,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 316,
+      "kind": "pair",
+      "seconds": 4.246245237998664,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 317,
+      "kind": "pair",
+      "seconds": 4.322474419997889,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 318,
+      "kind": "pair",
+      "seconds": 4.335867492001853,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 319,
+      "kind": "pair",
+      "seconds": 4.431955631996971,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 320,
+      "kind": "pair",
+      "seconds": 4.265669793996494,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 321,
+      "kind": "pair",
+      "seconds": 4.133182555990061,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 322,
+      "kind": "pair",
+      "seconds": 4.148481662006816,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 323,
+      "kind": "pair",
+      "seconds": 4.104537632010761,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 324,
+      "kind": "pair",
+      "seconds": 4.02926041399769,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 325,
+      "kind": "pair",
+      "seconds": 3.8768434719968354,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 326,
+      "kind": "pair",
+      "seconds": 3.9195911010028794,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 327,
+      "kind": "pair",
+      "seconds": 3.7049612879927736,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 328,
+      "kind": "pair",
+      "seconds": 3.8788743810000597,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 329,
+      "kind": "pair",
+      "seconds": 3.670975761997397,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 330,
+      "kind": "pair",
+      "seconds": 3.942823898003553,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 331,
+      "kind": "pair",
+      "seconds": 3.7319336569926236,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 332,
+      "kind": "pair",
+      "seconds": 4.3448686440096935,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 333,
+      "kind": "pair",
+      "seconds": 4.303656891992432,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 334,
+      "kind": "pair",
+      "seconds": 4.467253662995063,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 335,
+      "kind": "pair",
+      "seconds": 4.396901997009991,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 336,
+      "kind": "pair",
+      "seconds": 4.256523378993734,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 337,
+      "kind": "pair",
+      "seconds": 4.167803669988643,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 338,
+      "kind": "pair",
+      "seconds": 4.434167920000618,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 339,
+      "kind": "pair",
+      "seconds": 4.5458354340080405,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 340,
+      "kind": "pair",
+      "seconds": 4.0235199489980005,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 341,
+      "kind": "pair",
+      "seconds": 4.2946256730065215,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 342,
+      "kind": "pair",
+      "seconds": 4.010381282001617,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 343,
+      "kind": "pair",
+      "seconds": 4.035354286999791,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 344,
+      "kind": "pair",
+      "seconds": 3.9926337270007934,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 345,
+      "kind": "pair",
+      "seconds": 3.86777028501092,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 346,
+      "kind": "pair",
+      "seconds": 3.9824433809990296,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 347,
+      "kind": "pair",
+      "seconds": 4.0289945190015715,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 348,
+      "kind": "pair",
+      "seconds": 3.802877078007441,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 349,
+      "kind": "pair",
+      "seconds": 4.036033246986335,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 350,
+      "kind": "pair",
+      "seconds": 4.086652932994184,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 351,
+      "kind": "pair",
+      "seconds": 3.9003846060077194,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 352,
+      "kind": "pair",
+      "seconds": 3.993243243996403,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 353,
+      "kind": "pair",
+      "seconds": 3.880512985997484,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 354,
+      "kind": "pair",
+      "seconds": 3.8425218049960677,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 355,
+      "kind": "pair",
+      "seconds": 4.023271993006347,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 356,
+      "kind": "pair",
+      "seconds": 3.9342086980032036,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 357,
+      "kind": "pair",
+      "seconds": 4.713535087998025,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 358,
+      "kind": "pair",
+      "seconds": 4.731584537003073,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 359,
+      "kind": "pair",
+      "seconds": 4.486563971004216,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 360,
+      "kind": "pair",
+      "seconds": 4.577136955995229,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 361,
+      "kind": "pair",
+      "seconds": 4.427567437989637,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 362,
+      "kind": "pair",
+      "seconds": 4.646125889994437,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 363,
+      "kind": "pair",
+      "seconds": 4.714371331996517,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 364,
+      "kind": "pair",
+      "seconds": 4.357948951001163,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 365,
+      "kind": "pair",
+      "seconds": 3.674361579003744,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 366,
+      "kind": "pair",
+      "seconds": 3.6685980839974945,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 367,
+      "kind": "pair",
+      "seconds": 3.75425525099854,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 368,
+      "kind": "pair",
+      "seconds": 3.661467337005888,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 369,
+      "kind": "pair",
+      "seconds": 3.4833208810014185,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 370,
+      "kind": "pair",
+      "seconds": 3.6845078199985437,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 371,
+      "kind": "pair",
+      "seconds": 3.901366085992777,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 372,
+      "kind": "pair",
+      "seconds": 3.7607333610067144,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 373,
+      "kind": "pair",
+      "seconds": 3.904989831004059,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 374,
+      "kind": "pair",
+      "seconds": 3.832981602012296,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 375,
+      "kind": "pair",
+      "seconds": 3.897610589003307,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 376,
+      "kind": "pair",
+      "seconds": 3.6138066690036794,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 377,
+      "kind": "pair",
+      "seconds": 3.8577224559994647,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 378,
+      "kind": "pair",
+      "seconds": 3.861302421995788,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 379,
+      "kind": "pair",
+      "seconds": 3.9940729230002034,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 380,
+      "kind": "pair",
+      "seconds": 3.663113955000881,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 381,
+      "kind": "pair",
+      "seconds": 3.919544225995196,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 382,
+      "kind": "pair",
+      "seconds": 4.013548543007346,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 383,
+      "kind": "pair",
+      "seconds": 4.08048441199935,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 384,
+      "kind": "pair",
+      "seconds": 3.766214859992033,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 385,
+      "kind": "pair",
+      "seconds": 4.032910655005253,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 386,
+      "kind": "pair",
+      "seconds": 4.070506160991499,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 387,
+      "kind": "pair",
+      "seconds": 4.6834157340053935,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 388,
+      "kind": "pair",
+      "seconds": 4.4421693369949935,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 389,
+      "kind": "pair",
+      "seconds": 4.697228547011036,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 390,
+      "kind": "pair",
+      "seconds": 4.600887375010643,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 391,
+      "kind": "pair",
+      "seconds": 4.534074342998792,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 392,
+      "kind": "pair",
+      "seconds": 4.5692139089951525,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 393,
+      "kind": "pair",
+      "seconds": 4.907753458988736,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 394,
+      "kind": "pair",
+      "seconds": 4.6090804759878665,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 395,
+      "kind": "pair",
+      "seconds": 4.248599676997401,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 396,
+      "kind": "pair",
+      "seconds": 4.358959381002933,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 397,
+      "kind": "pair",
+      "seconds": 4.354127377999248,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 398,
+      "kind": "pair",
+      "seconds": 4.274643319004099,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 399,
+      "kind": "pair",
+      "seconds": 4.334778051998001,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 400,
+      "kind": "pair",
+      "seconds": 4.30992510500073,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 401,
+      "kind": "pair",
+      "seconds": 4.4664713089878205,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 402,
+      "kind": "pair",
+      "seconds": 4.2836724189983215,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 403,
+      "kind": "pair",
+      "seconds": 4.129227757002809,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 404,
+      "kind": "pair",
+      "seconds": 4.277627798001049,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 405,
+      "kind": "pair",
+      "seconds": 4.247194515002775,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 406,
+      "kind": "pair",
+      "seconds": 4.202766704998794,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 407,
+      "kind": "pair",
+      "seconds": 4.381872633006424,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 408,
+      "kind": "pair",
+      "seconds": 4.20639032300096,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 409,
+      "kind": "pair",
+      "seconds": 4.222003800998209,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 410,
+      "kind": "pair",
+      "seconds": 4.210999338989495,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 411,
+      "kind": "pair",
+      "seconds": 4.163585945003433,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 412,
+      "kind": "pair",
+      "seconds": 4.233177362999413,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 413,
+      "kind": "pair",
+      "seconds": 3.904903294998803,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 414,
+      "kind": "pair",
+      "seconds": 4.013043779996224,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 415,
+      "kind": "pair",
+      "seconds": 4.1683378879970405,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 416,
+      "kind": "pair",
+      "seconds": 4.044918183994014,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 417,
+      "kind": "pair",
+      "seconds": 4.076302389992634,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 418,
+      "kind": "pair",
+      "seconds": 4.135120813007234,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 419,
+      "kind": "pair",
+      "seconds": 3.9675539329909952,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 420,
+      "kind": "pair",
+      "seconds": 4.101305211006547,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 421,
+      "kind": "pair",
+      "seconds": 3.949015137011884,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 422,
+      "kind": "pair",
+      "seconds": 3.9653307249973295,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 423,
+      "kind": "pair",
+      "seconds": 3.8493666729918914,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 424,
+      "kind": "pair",
+      "seconds": 3.837061886995798,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 425,
+      "kind": "pair",
+      "seconds": 3.739484527002787,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 426,
+      "kind": "pair",
+      "seconds": 3.696904184005689,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 427,
+      "kind": "pair",
+      "seconds": 3.813247951999074,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 428,
+      "kind": "pair",
+      "seconds": 3.600993396001286,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 429,
+      "kind": "pair",
+      "seconds": 3.7728050550067564,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 430,
+      "kind": "pair",
+      "seconds": 3.73813446200802,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 431,
+      "kind": "pair",
+      "seconds": 4.0077246540022315,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 432,
+      "kind": "pair",
+      "seconds": 3.776020264995168,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 433,
+      "kind": "pair",
+      "seconds": 3.7887359019950964,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 434,
+      "kind": "pair",
+      "seconds": 3.657686452002963,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 435,
+      "kind": "pair",
+      "seconds": 3.784174489992438,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 436,
+      "kind": "pair",
+      "seconds": 3.708583194995299,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 437,
+      "kind": "pair",
+      "seconds": 3.569162885003607,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 438,
+      "kind": "pair",
+      "seconds": 3.59363899899472,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 439,
+      "kind": "pair",
+      "seconds": 3.4851010510028573,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 440,
+      "kind": "pair",
+      "seconds": 3.6469127879972802,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 441,
+      "kind": "pair",
+      "seconds": 3.759104557990213,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 442,
+      "kind": "pair",
+      "seconds": 3.5633629160001874,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 443,
+      "kind": "pair",
+      "seconds": 3.5940702090010745,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 444,
+      "kind": "pair",
+      "seconds": 3.7639280499861343,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 445,
+      "kind": "pair",
+      "seconds": 3.668472153993207,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 446,
+      "kind": "pair",
+      "seconds": 3.7199582229950465,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 447,
+      "kind": "pair",
+      "seconds": 3.664089919999242,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 448,
+      "kind": "pair",
+      "seconds": 3.637876602995675,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 449,
+      "kind": "pair",
+      "seconds": 3.8291185310081346,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 450,
+      "kind": "pair",
+      "seconds": 3.6037553509959253,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 451,
+      "kind": "pair",
+      "seconds": 3.535716391997994,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 452,
+      "kind": "pair",
+      "seconds": 3.623372059999383,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 453,
+      "kind": "pair",
+      "seconds": 3.684845638999832,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 454,
+      "kind": "pair",
+      "seconds": 3.535411003002082,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 455,
+      "kind": "pair",
+      "seconds": 3.564299403995392,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 456,
+      "kind": "pair",
+      "seconds": 3.4938526729965815,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 457,
+      "kind": "pair",
+      "seconds": 3.503890263993526,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 458,
+      "kind": "pair",
+      "seconds": 3.3603169409907423,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 459,
+      "kind": "pair",
+      "seconds": 3.6488636519934516,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 460,
+      "kind": "pair",
+      "seconds": 3.705029930002638,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 461,
+      "kind": "pair",
+      "seconds": 3.761624374994426,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 462,
+      "kind": "pair",
+      "seconds": 3.6083983599964995,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 463,
+      "kind": "pair",
+      "seconds": 3.5307207229925552,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 464,
+      "kind": "pair",
+      "seconds": 3.686479550990043,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 465,
+      "kind": "pair",
+      "seconds": 3.714002657987294,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 466,
+      "kind": "pair",
+      "seconds": 3.677442753993091,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 467,
+      "kind": "pair",
+      "seconds": 3.512560710994876,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 468,
+      "kind": "pair",
+      "seconds": 3.6865307170082815,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 469,
+      "kind": "pair",
+      "seconds": 3.6327887899969937,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 470,
+      "kind": "pair",
+      "seconds": 3.593148220999865,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 471,
+      "kind": "pair",
+      "seconds": 3.4594076060020598,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 472,
+      "kind": "pair",
+      "seconds": 3.382146810996346,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 473,
+      "kind": "pair",
+      "seconds": 3.658444059008616,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 474,
+      "kind": "pair",
+      "seconds": 3.6547768080054084,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 475,
+      "kind": "pair",
+      "seconds": 3.4802386880037375,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 476,
+      "kind": "pair",
+      "seconds": 3.676437934002024,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 477,
+      "kind": "pair",
+      "seconds": 3.5227555879973806,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 478,
+      "kind": "pair",
+      "seconds": 3.589476207009284,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 479,
+      "kind": "pair",
+      "seconds": 3.6391311260085786,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 480,
+      "kind": "pair",
+      "seconds": 3.6831197740102652,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 481,
+      "kind": "pair",
+      "seconds": 3.5319073510036105,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 482,
+      "kind": "pair",
+      "seconds": 3.513094710011501,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 483,
+      "kind": "pair",
+      "seconds": 3.518824165003025,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 484,
+      "kind": "pair",
+      "seconds": 3.545190636999905,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 485,
+      "kind": "pair",
+      "seconds": 3.4077025139995385,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 486,
+      "kind": "pair",
+      "seconds": 3.5751466660003643,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 487,
+      "kind": "pair",
+      "seconds": 3.5347558109933743,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 488,
+      "kind": "pair",
+      "seconds": 3.622806840998237,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 489,
+      "kind": "pair",
+      "seconds": 3.7135424470034195,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 490,
+      "kind": "pair",
+      "seconds": 3.582917637002538,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 491,
+      "kind": "pair",
+      "seconds": 3.5137699469923973,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 492,
+      "kind": "pair",
+      "seconds": 3.669164462000481,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 493,
+      "kind": "pair",
+      "seconds": 3.757640504001756,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 494,
+      "kind": "pair",
+      "seconds": 3.6707199860102264,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 495,
+      "kind": "pair",
+      "seconds": 3.4793531359900953,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 496,
+      "kind": "pair",
+      "seconds": 3.674606878994382,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 497,
+      "kind": "pair",
+      "seconds": 3.539547145992401,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 498,
+      "kind": "pair",
+      "seconds": 3.613892160006799,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 499,
+      "kind": "pair",
+      "seconds": 3.3422240069921827,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 500,
+      "kind": "pair",
+      "seconds": 3.618766384999617,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 501,
+      "kind": "pair",
+      "seconds": 3.600578771001892,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 502,
+      "kind": "pair",
+      "seconds": 3.7575137139938306,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 503,
+      "kind": "pair",
+      "seconds": 3.8244240510102827,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 504,
+      "kind": "pair",
+      "seconds": 4.009618376992876,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 505,
+      "kind": "pair",
+      "seconds": 4.161609255999792,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 506,
+      "kind": "pair",
+      "seconds": 4.167487163998885,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 507,
+      "kind": "pair",
+      "seconds": 4.251422464993084,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 508,
+      "kind": "pair",
+      "seconds": 4.705197058006888,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 509,
+      "kind": "pair",
+      "seconds": 4.831384288001573,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 510,
+      "kind": "pair",
+      "seconds": 4.709130479008309,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 511,
+      "kind": "pair",
+      "seconds": 4.604049756002496,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 512,
+      "kind": "pair",
+      "seconds": 4.5308781119965715,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 513,
+      "kind": "pair",
+      "seconds": 4.53375442000106,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 514,
+      "kind": "pair",
+      "seconds": 4.432706166000571,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 515,
+      "kind": "pair",
+      "seconds": 4.297781025990844,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 516,
+      "kind": "pair",
+      "seconds": 4.28556225799548,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 517,
+      "kind": "pair",
+      "seconds": 4.35257140500471,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 518,
+      "kind": "pair",
+      "seconds": 4.448243630002253,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 519,
+      "kind": "pair",
+      "seconds": 4.90437480500259,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 520,
+      "kind": "pair",
+      "seconds": 4.712369051994756,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 521,
+      "kind": "pair",
+      "seconds": 4.72541733799153,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 522,
+      "kind": "pair",
+      "seconds": 4.983695053000702,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 523,
+      "kind": "pair",
+      "seconds": 4.962677552990499,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 524,
+      "kind": "pair",
+      "seconds": 5.401393036998343,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 525,
+      "kind": "pair",
+      "seconds": 5.174249004005105,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 526,
+      "kind": "pair",
+      "seconds": 5.172124638003879,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 527,
+      "kind": "pair",
+      "seconds": 6.270020479001687,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 528,
+      "kind": "pair",
+      "seconds": 6.444136028003413,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 529,
+      "kind": "pair",
+      "seconds": 6.053869331008173,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 530,
+      "kind": "pair",
+      "seconds": 5.953563898001448,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 531,
+      "kind": "pair",
+      "seconds": 5.879966068998328,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 532,
+      "kind": "pair",
+      "seconds": 5.935265074003837,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 533,
+      "kind": "pair",
+      "seconds": 6.227393235007185,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 534,
+      "kind": "pair",
+      "seconds": 5.910455688994261,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 535,
+      "kind": "pair",
+      "seconds": 4.825106174001121,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 536,
+      "kind": "pair",
+      "seconds": 5.4751235480071045,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 537,
+      "kind": "pair",
+      "seconds": 5.027969624992693,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 538,
+      "kind": "pair",
+      "seconds": 5.813251083003706,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 539,
+      "kind": "pair",
+      "seconds": 6.211194803006947,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 540,
+      "kind": "pair",
+      "seconds": 5.8767810050048865,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 541,
+      "kind": "pair",
+      "seconds": 5.551463301002514,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 542,
+      "kind": "pair",
+      "seconds": 6.0031477870070376,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 543,
+      "kind": "pair",
+      "seconds": 5.502903011001763,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 544,
+      "kind": "pair",
+      "seconds": 5.23991302200011,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 545,
+      "kind": "pair",
+      "seconds": 5.2307380470010685,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 546,
+      "kind": "pair",
+      "seconds": 5.588784189007129,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 547,
+      "kind": "pair",
+      "seconds": 4.922463823997532,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 548,
+      "kind": "pair",
+      "seconds": 5.6953659979917575,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 549,
+      "kind": "pair",
+      "seconds": 5.699415277005755,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 550,
+      "kind": "pair",
+      "seconds": 5.054669375997037,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 551,
+      "kind": "pair",
+      "seconds": 5.48372014099732,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 552,
+      "kind": "pair",
+      "seconds": 4.907358314987505,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 553,
+      "kind": "pair",
+      "seconds": 5.169210441992618,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 554,
+      "kind": "pair",
+      "seconds": 5.265074480994372,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 555,
+      "kind": "pair",
+      "seconds": 5.390730518993223,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 556,
+      "kind": "pair",
+      "seconds": 5.161443966993829,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 557,
+      "kind": "pair",
+      "seconds": 5.684205671001109,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 558,
+      "kind": "pair",
+      "seconds": 5.565455057003419,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 559,
+      "kind": "pair",
+      "seconds": 5.256020423999871,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 560,
+      "kind": "pair",
+      "seconds": 5.253585372993257,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 561,
+      "kind": "pair",
+      "seconds": 5.981865989990183,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 562,
+      "kind": "pair",
+      "seconds": 6.052415236990782,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 563,
+      "kind": "pair",
+      "seconds": 5.594504861001042,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 564,
+      "kind": "pair",
+      "seconds": 5.211643255010131,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 565,
+      "kind": "pair",
+      "seconds": 5.311618442006875,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 566,
+      "kind": "pair",
+      "seconds": 4.7193045080057345,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 567,
+      "kind": "pair",
+      "seconds": 4.8544410440081265,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 568,
+      "kind": "pair",
+      "seconds": 4.5831242889980786,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 569,
+      "kind": "pair",
+      "seconds": 5.031856105997576,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 570,
+      "kind": "pair",
+      "seconds": 4.900280287998612,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 571,
+      "kind": "pair",
+      "seconds": 4.346581049001543,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 572,
+      "kind": "pair",
+      "seconds": 5.220854504004819,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 573,
+      "kind": "pair",
+      "seconds": 4.964865839996492,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 574,
+      "kind": "pair",
+      "seconds": 5.154939694009954,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 575,
+      "kind": "pair",
+      "seconds": 4.821523514008732,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 576,
+      "kind": "pair",
+      "seconds": 4.541632929001935,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 577,
+      "kind": "pair",
+      "seconds": 5.049254505996942,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 578,
+      "kind": "pair",
+      "seconds": 4.759746003008331,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 579,
+      "kind": "pair",
+      "seconds": 5.311971236005775,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 580,
+      "kind": "pair",
+      "seconds": 4.772371236002073,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 581,
+      "kind": "pair",
+      "seconds": 5.0841905679990305,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 582,
+      "kind": "pair",
+      "seconds": 4.587567000999115,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 583,
+      "kind": "pair",
+      "seconds": 4.594865880993893,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 584,
+      "kind": "pair",
+      "seconds": 4.502704593993258,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 585,
+      "kind": "pair",
+      "seconds": 4.724909168013255,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 586,
+      "kind": "pair",
+      "seconds": 4.535112076002406,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 587,
+      "kind": "pair",
+      "seconds": 4.186829020996811,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 588,
+      "kind": "pair",
+      "seconds": 3.7444567729980918,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 589,
+      "kind": "pair",
+      "seconds": 3.861703952992684,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 590,
+      "kind": "pair",
+      "seconds": 3.9629507810022915,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 591,
+      "kind": "pair",
+      "seconds": 3.7403762830072083,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 592,
+      "kind": "pair",
+      "seconds": 3.8234351339924615,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 593,
+      "kind": "pair",
+      "seconds": 3.801008875001571,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 594,
+      "kind": "pair",
+      "seconds": 3.791642480005976,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 595,
+      "kind": "pair",
+      "seconds": 4.054474949007272,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 596,
+      "kind": "pair",
+      "seconds": 4.0076804340060335,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 597,
+      "kind": "pair",
+      "seconds": 3.844575774986879,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 598,
+      "kind": "pair",
+      "seconds": 4.005678111003363,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 599,
+      "kind": "pair",
+      "seconds": 4.033179446007125,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 600,
+      "kind": "pair",
+      "seconds": 3.984900887007825,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 601,
+      "kind": "pair",
+      "seconds": 3.917358663995401,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 602,
+      "kind": "pair",
+      "seconds": 3.798543273995165,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 603,
+      "kind": "pair",
+      "seconds": 3.929932683997322,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 604,
+      "kind": "pair",
+      "seconds": 3.8367234830075176,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 605,
+      "kind": "pair",
+      "seconds": 3.749164583001402,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 606,
+      "kind": "pair",
+      "seconds": 3.9027237949921982,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 607,
+      "kind": "pair",
+      "seconds": 3.8960402619995875,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 608,
+      "kind": "pair",
+      "seconds": 3.6582037070038496,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 609,
+      "kind": "pair",
+      "seconds": 3.822909455993795,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 610,
+      "kind": "pair",
+      "seconds": 3.9034536800027126,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 611,
+      "kind": "pair",
+      "seconds": 3.977763272996526,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 612,
+      "kind": "pair",
+      "seconds": 3.9471487720002187,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 613,
+      "kind": "pair",
+      "seconds": 4.000631954011624,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 614,
+      "kind": "pair",
+      "seconds": 4.4242416139895795,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 615,
+      "kind": "pair",
+      "seconds": 4.005940090006334,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 616,
+      "kind": "pair",
+      "seconds": 4.071737151010893,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 617,
+      "kind": "pair",
+      "seconds": 4.284196580993012,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 618,
+      "kind": "pair",
+      "seconds": 4.208393913999316,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 619,
+      "kind": "pair",
+      "seconds": 4.186305719995289,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 620,
+      "kind": "pair",
+      "seconds": 4.088138027989771,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 621,
+      "kind": "pair",
+      "seconds": 4.3016040719958255,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 622,
+      "kind": "pair",
+      "seconds": 4.0802001069969265,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 623,
+      "kind": "pair",
+      "seconds": 4.0860964200110175,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 624,
+      "kind": "pair",
+      "seconds": 4.0942441310035065,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 625,
+      "kind": "pair",
+      "seconds": 3.8549247560004005,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 626,
+      "kind": "pair",
+      "seconds": 3.9291350220009917,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 627,
+      "kind": "pair",
+      "seconds": 3.818759722998948,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 628,
+      "kind": "pair",
+      "seconds": 3.8382762630062643,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 629,
+      "kind": "pair",
+      "seconds": 3.800342747999821,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 630,
+      "kind": "pair",
+      "seconds": 3.825190786010353,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 631,
+      "kind": "pair",
+      "seconds": 4.3721080609975616,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 632,
+      "kind": "pair",
+      "seconds": 4.818482242000755,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 633,
+      "kind": "pair",
+      "seconds": 4.815719425998395,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 634,
+      "kind": "pair",
+      "seconds": 4.693732928993995,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 635,
+      "kind": "pair",
+      "seconds": 4.514121752989013,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 636,
+      "kind": "pair",
+      "seconds": 4.25058651001018,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 637,
+      "kind": "pair",
+      "seconds": 4.159590690003824,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 638,
+      "kind": "pair",
+      "seconds": 4.114858257002197,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 639,
+      "kind": "pair",
+      "seconds": 3.647472160999314,
+      "digitizations": 24,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "digitizations": 15360,
+  "seconds": 337.1696463840053
+}

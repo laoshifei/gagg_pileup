@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "exact_arrays": 18,
+  "digitizations": 22,
+  "single_energy_fits": 36,
+  "digital_rows": [
+    {
+      "id": 32,
+      "kind": "single",
+      "seconds": 0.04112632000760641,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 543,
+      "kind": "single",
+      "seconds": 0.4710142789990641,
+      "digitizations": 2,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 0,
+      "kind": "pair",
+      "seconds": 0.8614574940002058,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    },
+    {
+      "id": 639,
+      "kind": "pair",
+      "seconds": 0.8377281510038301,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "off_rows": [
+    {
+      "id": 636,
+      "kind": "pair",
+      "seconds": 0.6902583559858613,
+      "digitizations": 6,
+      "finite": true,
+      "pre_event_zero": true
+    }
+  ],
+  "fit_rows": [
+    {
+      "id": 32,
+      "seconds": 0.2489142529957462,
+      "fits": 18
+    },
+    {
+      "id": 543,
+      "seconds": 0.2330538969981717,
+      "fits": 18
+    }
+  ],
+  "outputs_equal_except_fit_timing": true
+}

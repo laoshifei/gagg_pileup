@@ -1,0 +1,162 @@
+{
+  "formal_mothers": 336,
+  "pilot_mothers": 8,
+  "new_ROOTs": 344,
+  "projection": [
+    {
+      "gap_ns": 8.0,
+      "mothers": 336,
+      "old_mean": 26.61713025864549,
+      "corrected_mean": 2.440743278152626,
+      "old_mse": 8664.930552693391,
+      "corrected_mse": 7964.189321157059,
+      "mse_ratio": 0.9191290423766275,
+      "mse_ratio_ci95": [
+        0.8738650583774613,
+        0.9708423157987338
+      ],
+      "old_mean_ci95": [
+        17.126706632893086,
+        36.0516853079459
+      ],
+      "corrected_mean_ci95": [
+        -7.049982005710712,
+        11.877056262343395
+      ],
+      "change_mean_ci95": [
+        -24.202833889584422,
+        -24.148290346450548
+      ],
+      "absolute_mean_limit": 18.63199118105184,
+      "passed": true,
+      "primary": true
+    },
+    {
+      "gap_ns": 40.0,
+      "mothers": 336,
+      "old_mean": 17.091071296684152,
+      "corrected_mean": 10.615822999713114,
+      "old_mse": 1983.7202128902798,
+      "corrected_mse": 1804.2901547860363,
+      "mse_ratio": 0.909548707051377,
+      "mse_ratio_ci95": [
+        0.8849183507552361,
+        0.9357725505160345
+      ],
+      "old_mean_ci95": [
+        12.618648378331287,
+        21.552756527182584
+      ],
+      "corrected_mean_ci95": [
+        6.14688590784715,
+        15.07532460946901
+      ],
+      "change_mean_ci95": [
+        -6.486517023532783,
+        -6.463096192280394
+      ],
+      "absolute_mean_limit": 11.963749907678906,
+      "passed": true,
+      "primary": true
+    },
+    {
+      "gap_ns": 200.0,
+      "mothers": 336,
+      "old_mean": 7.392893184142408,
+      "corrected_mean": 0.36494144291009883,
+      "old_mse": 310.3057119145451,
+      "corrected_mse": 255.7439111564057,
+      "mse_ratio": 0.8241675913037491,
+      "mse_ratio_ci95": [
+        0.7620920052769807,
+        0.8950304390252534
+      ],
+      "old_mean_ci95": [
+        5.6662604549668645,
+        9.121174971533497
+      ],
+      "corrected_mean_ci95": [
+        -1.3619359572643939,
+        2.094142013102534
+      ],
+      "change_mean_ci95": [
+        -7.032061929567727,
+        -7.024111345960284
+      ],
+      "absolute_mean_limit": 10.0,
+      "passed": true,
+      "primary": false
+    }
+  ],
+  "energy": [
+    {
+      "method": "old",
+      "kind": "individual",
+      "mothers": 336,
+      "rows": 2688,
+      "bias_percent": -0.2568978786297476,
+      "rmse_percent": 0.6568061659471127,
+      "error_sd_percent": 0.6045939189745625,
+      "strict10_count": 2688,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "method": "old",
+      "kind": "mean",
+      "mothers": 336,
+      "rows": 336,
+      "bias_percent": -0.25691929259497254,
+      "rmse_percent": 0.4707398989307245,
+      "error_sd_percent": 0.39503540715936114,
+      "strict10_count": 336,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "method": "corrected",
+      "kind": "individual",
+      "mothers": 336,
+      "rows": 2688,
+      "bias_percent": -0.26773029026330936,
+      "rmse_percent": 0.6635801950212956,
+      "error_sd_percent": 0.6072860676236206,
+      "strict10_count": 2688,
+      "boundary": 0,
+      "nonconverged": 0
+    },
+    {
+      "method": "corrected",
+      "kind": "mean",
+      "mothers": 336,
+      "rows": 336,
+      "bias_percent": -0.268065878929876,
+      "rmse_percent": 0.479426006401487,
+      "error_sd_percent": 0.3980723452448426,
+      "strict10_count": 336,
+      "boundary": 0,
+      "nonconverged": 0
+    }
+  ],
+  "waveform": [
+    {
+      "method": "old",
+      "mean_residual_mse_mV2": 0.9272616675559309,
+      "per_mother_residual_mse_mV2": 12.669639582351632
+    },
+    {
+      "method": "corrected",
+      "mean_residual_mse_mV2": 0.786024401296602,
+      "per_mother_residual_mse_mV2": 12.528936016507496
+    }
+  ],
+  "formal_digitizations": 2688,
+  "pilot_digitizations": 64,
+  "formal_fits": 6048,
+  "pilot_fits": 36,
+  "source_energy_MeV": 8.0,
+  "edep_range_MeV": [
+    7.539132118225098,
+    7.640351295471191
+  ]
+}

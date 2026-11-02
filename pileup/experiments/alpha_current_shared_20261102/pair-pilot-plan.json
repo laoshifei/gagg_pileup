@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "phase_ns": 0.0,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      128.0,
+      136.0
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  },
+  {
+    "id": 1,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 8.0,
+    "phase_ns": 1.5,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      129.5,
+      137.5
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  },
+  {
+    "id": 2,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "phase_ns": 0.0,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      128.0,
+      168.0
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  },
+  {
+    "id": 3,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 40.0,
+    "phase_ns": 1.5,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      129.5,
+      169.5
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  },
+  {
+    "id": 4,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "phase_ns": 0.0,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      128.0,
+      1328.0
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  },
+  {
+    "id": 5,
+    "kind": "pair",
+    "block": -1,
+    "condition": "high_weak",
+    "gap_ns": 1200.0,
+    "phase_ns": 1.5,
+    "parents": [
+      6,
+      0
+    ],
+    "times_ns": [
+      129.5,
+      1329.5
+    ],
+    "seed_base": 740700000,
+    "repeats": 2
+  }
+]

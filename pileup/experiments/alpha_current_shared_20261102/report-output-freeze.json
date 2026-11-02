@@ -1,0 +1,18 @@
+{
+  "jupyter/artifacts/alpha_current_shared_20261102/figures/fig_0007_131_1_energy.png": "0cfc7f1932805bd67ebf5b90796028f119b16f34e12967c40e0e63ee793feb16",
+  "jupyter/artifacts/alpha_current_shared_20261102/figures/fig_0007_132_1_waveforms.png": "d27b2cc76d12c29f8cf432e1e657b2437940412cfd6040ea266e960fb42cad85",
+  "jupyter/artifacts/alpha_current_shared_20261102/figures/fig_0007_133_1_shared_gates.png": "cd0eb5c51c4ab3fc0fd2d8ba0f43184ccba111b79a9de139f10b9508cb1c4c47",
+  "jupyter/artifacts/alpha_current_shared_20261102/figures/fig_0007_134_1_components.png": "0735c3c19b6f0291d3926380ae2cfdfd52c058b1ee615112812e08f87b3e19f9",
+  "pileup/experiments/alpha_current_shared_20261102/README.md": "9a5ff4b11d85cd790546d5a954a13906b4abee0869c9d92aadac386bad0f61d1",
+  "README.md": "8eedf69dfb6f41e383ddacdffbe74fc9d4dd28b72dbd6888869ae5e5bfc4687f",
+  "docs/literature-use.md": "2eab28ce3d7f2aaeab77a789311d29d86aa607b2f6e5bfe5ae00e8458a092ef6",
+  "pileup/experiments/alpha_current_shared_20261102/tables/recovery_off.csv": "50cdc2c1bb4dee1a96025eedb97ec51d79a3500b2e11116b778abb61a52b83d5",
+  "pileup/experiments/alpha_current_shared_20261102/tables/root_catalog.csv": "0562f7626c48b26fbf3a4e2d907565fe69fd201728765f9e2d2efe7c5c4da3c6",
+  "pileup/experiments/alpha_current_shared_20261102/tables/shared_details.csv": "2711df48ea579c8bfede1f6b70d6e06316f5261ff07fa3655902f4256704d065",
+  "pileup/experiments/alpha_current_shared_20261102/tables/shared_groups.csv": "2aa274221a9979a41c97a6a5226c097ec5202c2b8bd2f0697b4df76d38f3346c",
+  "pileup/experiments/alpha_current_shared_20261102/tables/single_energy.csv": "76f988950978661cf2bebfa5d8f2102116750f71eabeac1c5516661cec673fba",
+  "pileup/experiments/alpha_current_shared_20261102/tables/single_waveform.csv": "4bc68be71f4b1b5f1e53ee92f6050fa2d339894d7df4995d47f618b5b61de9d9",
+  "jupyter/codex_0007_SiPM_Energy_Calibration.ipynb": "d93a63ea23713f10d59d4b202ea9f8b288f2b9cfaccbfde7d425749c9864296d",
+  "jupyter/Research_Plan_20260921.ipynb": "a7028ebee8c9c5dda859bfcb417f7dfd42e4f81f8d2b96704cec62d829da5776",
+  "jupyter/Run_Catalog.ipynb": "3b458b1922345484941fc8c5caaa1b6661bc06e8a6e7511b523abbe75f112141"
+}

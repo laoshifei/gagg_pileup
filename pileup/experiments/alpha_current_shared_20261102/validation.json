@@ -1,0 +1,23 @@
+{
+  "design": {
+    "design-freeze.json": 97,
+    "model-freeze.json": 10
+  },
+  "passed": true,
+  "new_ROOTs": 136,
+  "formal_mothers": 128,
+  "pilot_mothers": 8,
+  "shared_executed": true,
+  "minimum_launch_spacing_seconds": 1.0511257648468018,
+  "total_offline_digitizations": 23610,
+  "formal_single_fits": 9216,
+  "pilot_single_fits": 72,
+  "replay_single_fits": 36,
+  "total_single_fits": 9324,
+  "notebooks": {
+    "codex_0007_SiPM_Energy_Calibration.ipynb": 220,
+    "Research_Plan_20260921.ipynb": 107,
+    "Run_Catalog.ipynb": 68
+  },
+  "fresh_rerun_inputs_verified": true
+}

@@ -1,0 +1,8706 @@
+[
+  {
+    "id": 0,
+    "kind": "single",
+    "parents": [
+      0
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300000,
+    "repeats": 8
+  },
+  {
+    "id": 1,
+    "kind": "single",
+    "parents": [
+      0
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300000,
+    "repeats": 8
+  },
+  {
+    "id": 2,
+    "kind": "single",
+    "parents": [
+      0
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300000,
+    "repeats": 8
+  },
+  {
+    "id": 3,
+    "kind": "single",
+    "parents": [
+      0
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300000,
+    "repeats": 8
+  },
+  {
+    "id": 4,
+    "kind": "single",
+    "parents": [
+      1
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300100,
+    "repeats": 8
+  },
+  {
+    "id": 5,
+    "kind": "single",
+    "parents": [
+      1
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300100,
+    "repeats": 8
+  },
+  {
+    "id": 6,
+    "kind": "single",
+    "parents": [
+      1
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300100,
+    "repeats": 8
+  },
+  {
+    "id": 7,
+    "kind": "single",
+    "parents": [
+      1
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300100,
+    "repeats": 8
+  },
+  {
+    "id": 8,
+    "kind": "single",
+    "parents": [
+      2
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300200,
+    "repeats": 8
+  },
+  {
+    "id": 9,
+    "kind": "single",
+    "parents": [
+      2
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300200,
+    "repeats": 8
+  },
+  {
+    "id": 10,
+    "kind": "single",
+    "parents": [
+      2
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300200,
+    "repeats": 8
+  },
+  {
+    "id": 11,
+    "kind": "single",
+    "parents": [
+      2
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300200,
+    "repeats": 8
+  },
+  {
+    "id": 12,
+    "kind": "single",
+    "parents": [
+      3
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300300,
+    "repeats": 8
+  },
+  {
+    "id": 13,
+    "kind": "single",
+    "parents": [
+      3
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300300,
+    "repeats": 8
+  },
+  {
+    "id": 14,
+    "kind": "single",
+    "parents": [
+      3
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300300,
+    "repeats": 8
+  },
+  {
+    "id": 15,
+    "kind": "single",
+    "parents": [
+      3
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300300,
+    "repeats": 8
+  },
+  {
+    "id": 16,
+    "kind": "single",
+    "parents": [
+      4
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300400,
+    "repeats": 8
+  },
+  {
+    "id": 17,
+    "kind": "single",
+    "parents": [
+      4
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300400,
+    "repeats": 8
+  },
+  {
+    "id": 18,
+    "kind": "single",
+    "parents": [
+      4
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300400,
+    "repeats": 8
+  },
+  {
+    "id": 19,
+    "kind": "single",
+    "parents": [
+      4
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300400,
+    "repeats": 8
+  },
+  {
+    "id": 20,
+    "kind": "single",
+    "parents": [
+      5
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300500,
+    "repeats": 8
+  },
+  {
+    "id": 21,
+    "kind": "single",
+    "parents": [
+      5
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300500,
+    "repeats": 8
+  },
+  {
+    "id": 22,
+    "kind": "single",
+    "parents": [
+      5
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300500,
+    "repeats": 8
+  },
+  {
+    "id": 23,
+    "kind": "single",
+    "parents": [
+      5
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300500,
+    "repeats": 8
+  },
+  {
+    "id": 24,
+    "kind": "single",
+    "parents": [
+      6
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300600,
+    "repeats": 8
+  },
+  {
+    "id": 25,
+    "kind": "single",
+    "parents": [
+      6
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300600,
+    "repeats": 8
+  },
+  {
+    "id": 26,
+    "kind": "single",
+    "parents": [
+      6
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300600,
+    "repeats": 8
+  },
+  {
+    "id": 27,
+    "kind": "single",
+    "parents": [
+      6
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 0,
+    "role": "pilot",
+    "seed_base": 740300600,
+    "repeats": 8
+  },
+  {
+    "id": 28,
+    "kind": "single",
+    "parents": [
+      7
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300700,
+    "repeats": 8
+  },
+  {
+    "id": 29,
+    "kind": "single",
+    "parents": [
+      7
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300700,
+    "repeats": 8
+  },
+  {
+    "id": 30,
+    "kind": "single",
+    "parents": [
+      7
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300700,
+    "repeats": 8
+  },
+  {
+    "id": 31,
+    "kind": "single",
+    "parents": [
+      7
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 1,
+    "role": "pilot",
+    "seed_base": 740300700,
+    "repeats": 8
+  },
+  {
+    "id": 32,
+    "kind": "single",
+    "parents": [
+      8
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740300800,
+    "repeats": 8
+  },
+  {
+    "id": 33,
+    "kind": "single",
+    "parents": [
+      8
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740300800,
+    "repeats": 8
+  },
+  {
+    "id": 34,
+    "kind": "single",
+    "parents": [
+      8
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740300800,
+    "repeats": 8
+  },
+  {
+    "id": 35,
+    "kind": "single",
+    "parents": [
+      8
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740300800,
+    "repeats": 8
+  },
+  {
+    "id": 36,
+    "kind": "single",
+    "parents": [
+      9
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740300900,
+    "repeats": 8
+  },
+  {
+    "id": 37,
+    "kind": "single",
+    "parents": [
+      9
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740300900,
+    "repeats": 8
+  },
+  {
+    "id": 38,
+    "kind": "single",
+    "parents": [
+      9
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740300900,
+    "repeats": 8
+  },
+  {
+    "id": 39,
+    "kind": "single",
+    "parents": [
+      9
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740300900,
+    "repeats": 8
+  },
+  {
+    "id": 40,
+    "kind": "single",
+    "parents": [
+      10
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740301000,
+    "repeats": 8
+  },
+  {
+    "id": 41,
+    "kind": "single",
+    "parents": [
+      10
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740301000,
+    "repeats": 8
+  },
+  {
+    "id": 42,
+    "kind": "single",
+    "parents": [
+      10
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740301000,
+    "repeats": 8
+  },
+  {
+    "id": 43,
+    "kind": "single",
+    "parents": [
+      10
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740301000,
+    "repeats": 8
+  },
+  {
+    "id": 44,
+    "kind": "single",
+    "parents": [
+      11
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740301100,
+    "repeats": 8
+  },
+  {
+    "id": 45,
+    "kind": "single",
+    "parents": [
+      11
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740301100,
+    "repeats": 8
+  },
+  {
+    "id": 46,
+    "kind": "single",
+    "parents": [
+      11
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740301100,
+    "repeats": 8
+  },
+  {
+    "id": 47,
+    "kind": "single",
+    "parents": [
+      11
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740301100,
+    "repeats": 8
+  },
+  {
+    "id": 48,
+    "kind": "single",
+    "parents": [
+      12
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740301200,
+    "repeats": 8
+  },
+  {
+    "id": 49,
+    "kind": "single",
+    "parents": [
+      12
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740301200,
+    "repeats": 8
+  },
+  {
+    "id": 50,
+    "kind": "single",
+    "parents": [
+      12
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740301200,
+    "repeats": 8
+  },
+  {
+    "id": 51,
+    "kind": "single",
+    "parents": [
+      12
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740301200,
+    "repeats": 8
+  },
+  {
+    "id": 52,
+    "kind": "single",
+    "parents": [
+      13
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740301300,
+    "repeats": 8
+  },
+  {
+    "id": 53,
+    "kind": "single",
+    "parents": [
+      13
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740301300,
+    "repeats": 8
+  },
+  {
+    "id": 54,
+    "kind": "single",
+    "parents": [
+      13
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740301300,
+    "repeats": 8
+  },
+  {
+    "id": 55,
+    "kind": "single",
+    "parents": [
+      13
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740301300,
+    "repeats": 8
+  },
+  {
+    "id": 56,
+    "kind": "single",
+    "parents": [
+      14
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740301400,
+    "repeats": 8
+  },
+  {
+    "id": 57,
+    "kind": "single",
+    "parents": [
+      14
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740301400,
+    "repeats": 8
+  },
+  {
+    "id": 58,
+    "kind": "single",
+    "parents": [
+      14
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740301400,
+    "repeats": 8
+  },
+  {
+    "id": 59,
+    "kind": "single",
+    "parents": [
+      14
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740301400,
+    "repeats": 8
+  },
+  {
+    "id": 60,
+    "kind": "single",
+    "parents": [
+      15
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740301500,
+    "repeats": 8
+  },
+  {
+    "id": 61,
+    "kind": "single",
+    "parents": [
+      15
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740301500,
+    "repeats": 8
+  },
+  {
+    "id": 62,
+    "kind": "single",
+    "parents": [
+      15
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740301500,
+    "repeats": 8
+  },
+  {
+    "id": 63,
+    "kind": "single",
+    "parents": [
+      15
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740301500,
+    "repeats": 8
+  },
+  {
+    "id": 64,
+    "kind": "single",
+    "parents": [
+      16
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740301600,
+    "repeats": 8
+  },
+  {
+    "id": 65,
+    "kind": "single",
+    "parents": [
+      16
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740301600,
+    "repeats": 8
+  },
+  {
+    "id": 66,
+    "kind": "single",
+    "parents": [
+      16
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740301600,
+    "repeats": 8
+  },
+  {
+    "id": 67,
+    "kind": "single",
+    "parents": [
+      16
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740301600,
+    "repeats": 8
+  },
+  {
+    "id": 68,
+    "kind": "single",
+    "parents": [
+      17
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740301700,
+    "repeats": 8
+  },
+  {
+    "id": 69,
+    "kind": "single",
+    "parents": [
+      17
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740301700,
+    "repeats": 8
+  },
+  {
+    "id": 70,
+    "kind": "single",
+    "parents": [
+      17
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740301700,
+    "repeats": 8
+  },
+  {
+    "id": 71,
+    "kind": "single",
+    "parents": [
+      17
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740301700,
+    "repeats": 8
+  },
+  {
+    "id": 72,
+    "kind": "single",
+    "parents": [
+      18
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740301800,
+    "repeats": 8
+  },
+  {
+    "id": 73,
+    "kind": "single",
+    "parents": [
+      18
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740301800,
+    "repeats": 8
+  },
+  {
+    "id": 74,
+    "kind": "single",
+    "parents": [
+      18
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740301800,
+    "repeats": 8
+  },
+  {
+    "id": 75,
+    "kind": "single",
+    "parents": [
+      18
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740301800,
+    "repeats": 8
+  },
+  {
+    "id": 76,
+    "kind": "single",
+    "parents": [
+      19
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740301900,
+    "repeats": 8
+  },
+  {
+    "id": 77,
+    "kind": "single",
+    "parents": [
+      19
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740301900,
+    "repeats": 8
+  },
+  {
+    "id": 78,
+    "kind": "single",
+    "parents": [
+      19
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740301900,
+    "repeats": 8
+  },
+  {
+    "id": 79,
+    "kind": "single",
+    "parents": [
+      19
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740301900,
+    "repeats": 8
+  },
+  {
+    "id": 80,
+    "kind": "single",
+    "parents": [
+      20
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740302000,
+    "repeats": 8
+  },
+  {
+    "id": 81,
+    "kind": "single",
+    "parents": [
+      20
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740302000,
+    "repeats": 8
+  },
+  {
+    "id": 82,
+    "kind": "single",
+    "parents": [
+      20
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740302000,
+    "repeats": 8
+  },
+  {
+    "id": 83,
+    "kind": "single",
+    "parents": [
+      20
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740302000,
+    "repeats": 8
+  },
+  {
+    "id": 84,
+    "kind": "single",
+    "parents": [
+      21
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740302100,
+    "repeats": 8
+  },
+  {
+    "id": 85,
+    "kind": "single",
+    "parents": [
+      21
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740302100,
+    "repeats": 8
+  },
+  {
+    "id": 86,
+    "kind": "single",
+    "parents": [
+      21
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740302100,
+    "repeats": 8
+  },
+  {
+    "id": 87,
+    "kind": "single",
+    "parents": [
+      21
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740302100,
+    "repeats": 8
+  },
+  {
+    "id": 88,
+    "kind": "single",
+    "parents": [
+      22
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740302200,
+    "repeats": 8
+  },
+  {
+    "id": 89,
+    "kind": "single",
+    "parents": [
+      22
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740302200,
+    "repeats": 8
+  },
+  {
+    "id": 90,
+    "kind": "single",
+    "parents": [
+      22
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740302200,
+    "repeats": 8
+  },
+  {
+    "id": 91,
+    "kind": "single",
+    "parents": [
+      22
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740302200,
+    "repeats": 8
+  },
+  {
+    "id": 92,
+    "kind": "single",
+    "parents": [
+      23
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740302300,
+    "repeats": 8
+  },
+  {
+    "id": 93,
+    "kind": "single",
+    "parents": [
+      23
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740302300,
+    "repeats": 8
+  },
+  {
+    "id": 94,
+    "kind": "single",
+    "parents": [
+      23
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740302300,
+    "repeats": 8
+  },
+  {
+    "id": 95,
+    "kind": "single",
+    "parents": [
+      23
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740302300,
+    "repeats": 8
+  },
+  {
+    "id": 96,
+    "kind": "single",
+    "parents": [
+      24
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740302400,
+    "repeats": 8
+  },
+  {
+    "id": 97,
+    "kind": "single",
+    "parents": [
+      24
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740302400,
+    "repeats": 8
+  },
+  {
+    "id": 98,
+    "kind": "single",
+    "parents": [
+      24
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740302400,
+    "repeats": 8
+  },
+  {
+    "id": 99,
+    "kind": "single",
+    "parents": [
+      24
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740302400,
+    "repeats": 8
+  },
+  {
+    "id": 100,
+    "kind": "single",
+    "parents": [
+      25
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740302500,
+    "repeats": 8
+  },
+  {
+    "id": 101,
+    "kind": "single",
+    "parents": [
+      25
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740302500,
+    "repeats": 8
+  },
+  {
+    "id": 102,
+    "kind": "single",
+    "parents": [
+      25
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740302500,
+    "repeats": 8
+  },
+  {
+    "id": 103,
+    "kind": "single",
+    "parents": [
+      25
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740302500,
+    "repeats": 8
+  },
+  {
+    "id": 104,
+    "kind": "single",
+    "parents": [
+      26
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740302600,
+    "repeats": 8
+  },
+  {
+    "id": 105,
+    "kind": "single",
+    "parents": [
+      26
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740302600,
+    "repeats": 8
+  },
+  {
+    "id": 106,
+    "kind": "single",
+    "parents": [
+      26
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740302600,
+    "repeats": 8
+  },
+  {
+    "id": 107,
+    "kind": "single",
+    "parents": [
+      26
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740302600,
+    "repeats": 8
+  },
+  {
+    "id": 108,
+    "kind": "single",
+    "parents": [
+      27
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740302700,
+    "repeats": 8
+  },
+  {
+    "id": 109,
+    "kind": "single",
+    "parents": [
+      27
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740302700,
+    "repeats": 8
+  },
+  {
+    "id": 110,
+    "kind": "single",
+    "parents": [
+      27
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740302700,
+    "repeats": 8
+  },
+  {
+    "id": 111,
+    "kind": "single",
+    "parents": [
+      27
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740302700,
+    "repeats": 8
+  },
+  {
+    "id": 112,
+    "kind": "single",
+    "parents": [
+      28
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740302800,
+    "repeats": 8
+  },
+  {
+    "id": 113,
+    "kind": "single",
+    "parents": [
+      28
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740302800,
+    "repeats": 8
+  },
+  {
+    "id": 114,
+    "kind": "single",
+    "parents": [
+      28
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740302800,
+    "repeats": 8
+  },
+  {
+    "id": 115,
+    "kind": "single",
+    "parents": [
+      28
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740302800,
+    "repeats": 8
+  },
+  {
+    "id": 116,
+    "kind": "single",
+    "parents": [
+      29
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740302900,
+    "repeats": 8
+  },
+  {
+    "id": 117,
+    "kind": "single",
+    "parents": [
+      29
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740302900,
+    "repeats": 8
+  },
+  {
+    "id": 118,
+    "kind": "single",
+    "parents": [
+      29
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740302900,
+    "repeats": 8
+  },
+  {
+    "id": 119,
+    "kind": "single",
+    "parents": [
+      29
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740302900,
+    "repeats": 8
+  },
+  {
+    "id": 120,
+    "kind": "single",
+    "parents": [
+      30
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740303000,
+    "repeats": 8
+  },
+  {
+    "id": 121,
+    "kind": "single",
+    "parents": [
+      30
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740303000,
+    "repeats": 8
+  },
+  {
+    "id": 122,
+    "kind": "single",
+    "parents": [
+      30
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740303000,
+    "repeats": 8
+  },
+  {
+    "id": 123,
+    "kind": "single",
+    "parents": [
+      30
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740303000,
+    "repeats": 8
+  },
+  {
+    "id": 124,
+    "kind": "single",
+    "parents": [
+      31
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740303100,
+    "repeats": 8
+  },
+  {
+    "id": 125,
+    "kind": "single",
+    "parents": [
+      31
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740303100,
+    "repeats": 8
+  },
+  {
+    "id": 126,
+    "kind": "single",
+    "parents": [
+      31
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740303100,
+    "repeats": 8
+  },
+  {
+    "id": 127,
+    "kind": "single",
+    "parents": [
+      31
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740303100,
+    "repeats": 8
+  },
+  {
+    "id": 128,
+    "kind": "single",
+    "parents": [
+      32
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740303200,
+    "repeats": 8
+  },
+  {
+    "id": 129,
+    "kind": "single",
+    "parents": [
+      32
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740303200,
+    "repeats": 8
+  },
+  {
+    "id": 130,
+    "kind": "single",
+    "parents": [
+      32
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740303200,
+    "repeats": 8
+  },
+  {
+    "id": 131,
+    "kind": "single",
+    "parents": [
+      32
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740303200,
+    "repeats": 8
+  },
+  {
+    "id": 132,
+    "kind": "single",
+    "parents": [
+      33
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740303300,
+    "repeats": 8
+  },
+  {
+    "id": 133,
+    "kind": "single",
+    "parents": [
+      33
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740303300,
+    "repeats": 8
+  },
+  {
+    "id": 134,
+    "kind": "single",
+    "parents": [
+      33
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740303300,
+    "repeats": 8
+  },
+  {
+    "id": 135,
+    "kind": "single",
+    "parents": [
+      33
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740303300,
+    "repeats": 8
+  },
+  {
+    "id": 136,
+    "kind": "single",
+    "parents": [
+      34
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740303400,
+    "repeats": 8
+  },
+  {
+    "id": 137,
+    "kind": "single",
+    "parents": [
+      34
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740303400,
+    "repeats": 8
+  },
+  {
+    "id": 138,
+    "kind": "single",
+    "parents": [
+      34
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740303400,
+    "repeats": 8
+  },
+  {
+    "id": 139,
+    "kind": "single",
+    "parents": [
+      34
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740303400,
+    "repeats": 8
+  },
+  {
+    "id": 140,
+    "kind": "single",
+    "parents": [
+      35
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740303500,
+    "repeats": 8
+  },
+  {
+    "id": 141,
+    "kind": "single",
+    "parents": [
+      35
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740303500,
+    "repeats": 8
+  },
+  {
+    "id": 142,
+    "kind": "single",
+    "parents": [
+      35
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740303500,
+    "repeats": 8
+  },
+  {
+    "id": 143,
+    "kind": "single",
+    "parents": [
+      35
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740303500,
+    "repeats": 8
+  },
+  {
+    "id": 144,
+    "kind": "single",
+    "parents": [
+      36
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740303600,
+    "repeats": 8
+  },
+  {
+    "id": 145,
+    "kind": "single",
+    "parents": [
+      36
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740303600,
+    "repeats": 8
+  },
+  {
+    "id": 146,
+    "kind": "single",
+    "parents": [
+      36
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740303600,
+    "repeats": 8
+  },
+  {
+    "id": 147,
+    "kind": "single",
+    "parents": [
+      36
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740303600,
+    "repeats": 8
+  },
+  {
+    "id": 148,
+    "kind": "single",
+    "parents": [
+      37
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740303700,
+    "repeats": 8
+  },
+  {
+    "id": 149,
+    "kind": "single",
+    "parents": [
+      37
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740303700,
+    "repeats": 8
+  },
+  {
+    "id": 150,
+    "kind": "single",
+    "parents": [
+      37
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740303700,
+    "repeats": 8
+  },
+  {
+    "id": 151,
+    "kind": "single",
+    "parents": [
+      37
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740303700,
+    "repeats": 8
+  },
+  {
+    "id": 152,
+    "kind": "single",
+    "parents": [
+      38
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740303800,
+    "repeats": 8
+  },
+  {
+    "id": 153,
+    "kind": "single",
+    "parents": [
+      38
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740303800,
+    "repeats": 8
+  },
+  {
+    "id": 154,
+    "kind": "single",
+    "parents": [
+      38
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740303800,
+    "repeats": 8
+  },
+  {
+    "id": 155,
+    "kind": "single",
+    "parents": [
+      38
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740303800,
+    "repeats": 8
+  },
+  {
+    "id": 156,
+    "kind": "single",
+    "parents": [
+      39
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 0,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740303900,
+    "repeats": 8
+  },
+  {
+    "id": 157,
+    "kind": "single",
+    "parents": [
+      39
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 0,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740303900,
+    "repeats": 8
+  },
+  {
+    "id": 158,
+    "kind": "single",
+    "parents": [
+      39
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 0,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740303900,
+    "repeats": 8
+  },
+  {
+    "id": 159,
+    "kind": "single",
+    "parents": [
+      39
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 0,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740303900,
+    "repeats": 8
+  },
+  {
+    "id": 160,
+    "kind": "single",
+    "parents": [
+      40
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740304000,
+    "repeats": 8
+  },
+  {
+    "id": 161,
+    "kind": "single",
+    "parents": [
+      40
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740304000,
+    "repeats": 8
+  },
+  {
+    "id": 162,
+    "kind": "single",
+    "parents": [
+      40
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740304000,
+    "repeats": 8
+  },
+  {
+    "id": 163,
+    "kind": "single",
+    "parents": [
+      40
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740304000,
+    "repeats": 8
+  },
+  {
+    "id": 164,
+    "kind": "single",
+    "parents": [
+      41
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740304100,
+    "repeats": 8
+  },
+  {
+    "id": 165,
+    "kind": "single",
+    "parents": [
+      41
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740304100,
+    "repeats": 8
+  },
+  {
+    "id": 166,
+    "kind": "single",
+    "parents": [
+      41
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740304100,
+    "repeats": 8
+  },
+  {
+    "id": 167,
+    "kind": "single",
+    "parents": [
+      41
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740304100,
+    "repeats": 8
+  },
+  {
+    "id": 168,
+    "kind": "single",
+    "parents": [
+      42
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740304200,
+    "repeats": 8
+  },
+  {
+    "id": 169,
+    "kind": "single",
+    "parents": [
+      42
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740304200,
+    "repeats": 8
+  },
+  {
+    "id": 170,
+    "kind": "single",
+    "parents": [
+      42
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740304200,
+    "repeats": 8
+  },
+  {
+    "id": 171,
+    "kind": "single",
+    "parents": [
+      42
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740304200,
+    "repeats": 8
+  },
+  {
+    "id": 172,
+    "kind": "single",
+    "parents": [
+      43
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740304300,
+    "repeats": 8
+  },
+  {
+    "id": 173,
+    "kind": "single",
+    "parents": [
+      43
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740304300,
+    "repeats": 8
+  },
+  {
+    "id": 174,
+    "kind": "single",
+    "parents": [
+      43
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740304300,
+    "repeats": 8
+  },
+  {
+    "id": 175,
+    "kind": "single",
+    "parents": [
+      43
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740304300,
+    "repeats": 8
+  },
+  {
+    "id": 176,
+    "kind": "single",
+    "parents": [
+      44
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740304400,
+    "repeats": 8
+  },
+  {
+    "id": 177,
+    "kind": "single",
+    "parents": [
+      44
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740304400,
+    "repeats": 8
+  },
+  {
+    "id": 178,
+    "kind": "single",
+    "parents": [
+      44
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740304400,
+    "repeats": 8
+  },
+  {
+    "id": 179,
+    "kind": "single",
+    "parents": [
+      44
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740304400,
+    "repeats": 8
+  },
+  {
+    "id": 180,
+    "kind": "single",
+    "parents": [
+      45
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740304500,
+    "repeats": 8
+  },
+  {
+    "id": 181,
+    "kind": "single",
+    "parents": [
+      45
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740304500,
+    "repeats": 8
+  },
+  {
+    "id": 182,
+    "kind": "single",
+    "parents": [
+      45
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740304500,
+    "repeats": 8
+  },
+  {
+    "id": 183,
+    "kind": "single",
+    "parents": [
+      45
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740304500,
+    "repeats": 8
+  },
+  {
+    "id": 184,
+    "kind": "single",
+    "parents": [
+      46
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740304600,
+    "repeats": 8
+  },
+  {
+    "id": 185,
+    "kind": "single",
+    "parents": [
+      46
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740304600,
+    "repeats": 8
+  },
+  {
+    "id": 186,
+    "kind": "single",
+    "parents": [
+      46
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740304600,
+    "repeats": 8
+  },
+  {
+    "id": 187,
+    "kind": "single",
+    "parents": [
+      46
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740304600,
+    "repeats": 8
+  },
+  {
+    "id": 188,
+    "kind": "single",
+    "parents": [
+      47
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740304700,
+    "repeats": 8
+  },
+  {
+    "id": 189,
+    "kind": "single",
+    "parents": [
+      47
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740304700,
+    "repeats": 8
+  },
+  {
+    "id": 190,
+    "kind": "single",
+    "parents": [
+      47
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740304700,
+    "repeats": 8
+  },
+  {
+    "id": 191,
+    "kind": "single",
+    "parents": [
+      47
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740304700,
+    "repeats": 8
+  },
+  {
+    "id": 192,
+    "kind": "single",
+    "parents": [
+      48
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740304800,
+    "repeats": 8
+  },
+  {
+    "id": 193,
+    "kind": "single",
+    "parents": [
+      48
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740304800,
+    "repeats": 8
+  },
+  {
+    "id": 194,
+    "kind": "single",
+    "parents": [
+      48
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740304800,
+    "repeats": 8
+  },
+  {
+    "id": 195,
+    "kind": "single",
+    "parents": [
+      48
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740304800,
+    "repeats": 8
+  },
+  {
+    "id": 196,
+    "kind": "single",
+    "parents": [
+      49
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740304900,
+    "repeats": 8
+  },
+  {
+    "id": 197,
+    "kind": "single",
+    "parents": [
+      49
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740304900,
+    "repeats": 8
+  },
+  {
+    "id": 198,
+    "kind": "single",
+    "parents": [
+      49
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740304900,
+    "repeats": 8
+  },
+  {
+    "id": 199,
+    "kind": "single",
+    "parents": [
+      49
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740304900,
+    "repeats": 8
+  },
+  {
+    "id": 200,
+    "kind": "single",
+    "parents": [
+      50
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740305000,
+    "repeats": 8
+  },
+  {
+    "id": 201,
+    "kind": "single",
+    "parents": [
+      50
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740305000,
+    "repeats": 8
+  },
+  {
+    "id": 202,
+    "kind": "single",
+    "parents": [
+      50
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740305000,
+    "repeats": 8
+  },
+  {
+    "id": 203,
+    "kind": "single",
+    "parents": [
+      50
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740305000,
+    "repeats": 8
+  },
+  {
+    "id": 204,
+    "kind": "single",
+    "parents": [
+      51
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740305100,
+    "repeats": 8
+  },
+  {
+    "id": 205,
+    "kind": "single",
+    "parents": [
+      51
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740305100,
+    "repeats": 8
+  },
+  {
+    "id": 206,
+    "kind": "single",
+    "parents": [
+      51
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740305100,
+    "repeats": 8
+  },
+  {
+    "id": 207,
+    "kind": "single",
+    "parents": [
+      51
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740305100,
+    "repeats": 8
+  },
+  {
+    "id": 208,
+    "kind": "single",
+    "parents": [
+      52
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740305200,
+    "repeats": 8
+  },
+  {
+    "id": 209,
+    "kind": "single",
+    "parents": [
+      52
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740305200,
+    "repeats": 8
+  },
+  {
+    "id": 210,
+    "kind": "single",
+    "parents": [
+      52
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740305200,
+    "repeats": 8
+  },
+  {
+    "id": 211,
+    "kind": "single",
+    "parents": [
+      52
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740305200,
+    "repeats": 8
+  },
+  {
+    "id": 212,
+    "kind": "single",
+    "parents": [
+      53
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740305300,
+    "repeats": 8
+  },
+  {
+    "id": 213,
+    "kind": "single",
+    "parents": [
+      53
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740305300,
+    "repeats": 8
+  },
+  {
+    "id": 214,
+    "kind": "single",
+    "parents": [
+      53
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740305300,
+    "repeats": 8
+  },
+  {
+    "id": 215,
+    "kind": "single",
+    "parents": [
+      53
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740305300,
+    "repeats": 8
+  },
+  {
+    "id": 216,
+    "kind": "single",
+    "parents": [
+      54
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740305400,
+    "repeats": 8
+  },
+  {
+    "id": 217,
+    "kind": "single",
+    "parents": [
+      54
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740305400,
+    "repeats": 8
+  },
+  {
+    "id": 218,
+    "kind": "single",
+    "parents": [
+      54
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740305400,
+    "repeats": 8
+  },
+  {
+    "id": 219,
+    "kind": "single",
+    "parents": [
+      54
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740305400,
+    "repeats": 8
+  },
+  {
+    "id": 220,
+    "kind": "single",
+    "parents": [
+      55
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740305500,
+    "repeats": 8
+  },
+  {
+    "id": 221,
+    "kind": "single",
+    "parents": [
+      55
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740305500,
+    "repeats": 8
+  },
+  {
+    "id": 222,
+    "kind": "single",
+    "parents": [
+      55
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740305500,
+    "repeats": 8
+  },
+  {
+    "id": 223,
+    "kind": "single",
+    "parents": [
+      55
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740305500,
+    "repeats": 8
+  },
+  {
+    "id": 224,
+    "kind": "single",
+    "parents": [
+      56
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740305600,
+    "repeats": 8
+  },
+  {
+    "id": 225,
+    "kind": "single",
+    "parents": [
+      56
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740305600,
+    "repeats": 8
+  },
+  {
+    "id": 226,
+    "kind": "single",
+    "parents": [
+      56
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740305600,
+    "repeats": 8
+  },
+  {
+    "id": 227,
+    "kind": "single",
+    "parents": [
+      56
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740305600,
+    "repeats": 8
+  },
+  {
+    "id": 228,
+    "kind": "single",
+    "parents": [
+      57
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740305700,
+    "repeats": 8
+  },
+  {
+    "id": 229,
+    "kind": "single",
+    "parents": [
+      57
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740305700,
+    "repeats": 8
+  },
+  {
+    "id": 230,
+    "kind": "single",
+    "parents": [
+      57
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740305700,
+    "repeats": 8
+  },
+  {
+    "id": 231,
+    "kind": "single",
+    "parents": [
+      57
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740305700,
+    "repeats": 8
+  },
+  {
+    "id": 232,
+    "kind": "single",
+    "parents": [
+      58
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740305800,
+    "repeats": 8
+  },
+  {
+    "id": 233,
+    "kind": "single",
+    "parents": [
+      58
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740305800,
+    "repeats": 8
+  },
+  {
+    "id": 234,
+    "kind": "single",
+    "parents": [
+      58
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740305800,
+    "repeats": 8
+  },
+  {
+    "id": 235,
+    "kind": "single",
+    "parents": [
+      58
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740305800,
+    "repeats": 8
+  },
+  {
+    "id": 236,
+    "kind": "single",
+    "parents": [
+      59
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740305900,
+    "repeats": 8
+  },
+  {
+    "id": 237,
+    "kind": "single",
+    "parents": [
+      59
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740305900,
+    "repeats": 8
+  },
+  {
+    "id": 238,
+    "kind": "single",
+    "parents": [
+      59
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740305900,
+    "repeats": 8
+  },
+  {
+    "id": 239,
+    "kind": "single",
+    "parents": [
+      59
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740305900,
+    "repeats": 8
+  },
+  {
+    "id": 240,
+    "kind": "single",
+    "parents": [
+      60
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740306000,
+    "repeats": 8
+  },
+  {
+    "id": 241,
+    "kind": "single",
+    "parents": [
+      60
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740306000,
+    "repeats": 8
+  },
+  {
+    "id": 242,
+    "kind": "single",
+    "parents": [
+      60
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740306000,
+    "repeats": 8
+  },
+  {
+    "id": 243,
+    "kind": "single",
+    "parents": [
+      60
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740306000,
+    "repeats": 8
+  },
+  {
+    "id": 244,
+    "kind": "single",
+    "parents": [
+      61
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740306100,
+    "repeats": 8
+  },
+  {
+    "id": 245,
+    "kind": "single",
+    "parents": [
+      61
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740306100,
+    "repeats": 8
+  },
+  {
+    "id": 246,
+    "kind": "single",
+    "parents": [
+      61
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740306100,
+    "repeats": 8
+  },
+  {
+    "id": 247,
+    "kind": "single",
+    "parents": [
+      61
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740306100,
+    "repeats": 8
+  },
+  {
+    "id": 248,
+    "kind": "single",
+    "parents": [
+      62
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740306200,
+    "repeats": 8
+  },
+  {
+    "id": 249,
+    "kind": "single",
+    "parents": [
+      62
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740306200,
+    "repeats": 8
+  },
+  {
+    "id": 250,
+    "kind": "single",
+    "parents": [
+      62
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740306200,
+    "repeats": 8
+  },
+  {
+    "id": 251,
+    "kind": "single",
+    "parents": [
+      62
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740306200,
+    "repeats": 8
+  },
+  {
+    "id": 252,
+    "kind": "single",
+    "parents": [
+      63
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740306300,
+    "repeats": 8
+  },
+  {
+    "id": 253,
+    "kind": "single",
+    "parents": [
+      63
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740306300,
+    "repeats": 8
+  },
+  {
+    "id": 254,
+    "kind": "single",
+    "parents": [
+      63
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740306300,
+    "repeats": 8
+  },
+  {
+    "id": 255,
+    "kind": "single",
+    "parents": [
+      63
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740306300,
+    "repeats": 8
+  },
+  {
+    "id": 256,
+    "kind": "single",
+    "parents": [
+      64
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740306400,
+    "repeats": 8
+  },
+  {
+    "id": 257,
+    "kind": "single",
+    "parents": [
+      64
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740306400,
+    "repeats": 8
+  },
+  {
+    "id": 258,
+    "kind": "single",
+    "parents": [
+      64
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740306400,
+    "repeats": 8
+  },
+  {
+    "id": 259,
+    "kind": "single",
+    "parents": [
+      64
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740306400,
+    "repeats": 8
+  },
+  {
+    "id": 260,
+    "kind": "single",
+    "parents": [
+      65
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740306500,
+    "repeats": 8
+  },
+  {
+    "id": 261,
+    "kind": "single",
+    "parents": [
+      65
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740306500,
+    "repeats": 8
+  },
+  {
+    "id": 262,
+    "kind": "single",
+    "parents": [
+      65
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740306500,
+    "repeats": 8
+  },
+  {
+    "id": 263,
+    "kind": "single",
+    "parents": [
+      65
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740306500,
+    "repeats": 8
+  },
+  {
+    "id": 264,
+    "kind": "single",
+    "parents": [
+      66
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740306600,
+    "repeats": 8
+  },
+  {
+    "id": 265,
+    "kind": "single",
+    "parents": [
+      66
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740306600,
+    "repeats": 8
+  },
+  {
+    "id": 266,
+    "kind": "single",
+    "parents": [
+      66
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740306600,
+    "repeats": 8
+  },
+  {
+    "id": 267,
+    "kind": "single",
+    "parents": [
+      66
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740306600,
+    "repeats": 8
+  },
+  {
+    "id": 268,
+    "kind": "single",
+    "parents": [
+      67
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740306700,
+    "repeats": 8
+  },
+  {
+    "id": 269,
+    "kind": "single",
+    "parents": [
+      67
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740306700,
+    "repeats": 8
+  },
+  {
+    "id": 270,
+    "kind": "single",
+    "parents": [
+      67
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740306700,
+    "repeats": 8
+  },
+  {
+    "id": 271,
+    "kind": "single",
+    "parents": [
+      67
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740306700,
+    "repeats": 8
+  },
+  {
+    "id": 272,
+    "kind": "single",
+    "parents": [
+      68
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740306800,
+    "repeats": 8
+  },
+  {
+    "id": 273,
+    "kind": "single",
+    "parents": [
+      68
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740306800,
+    "repeats": 8
+  },
+  {
+    "id": 274,
+    "kind": "single",
+    "parents": [
+      68
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740306800,
+    "repeats": 8
+  },
+  {
+    "id": 275,
+    "kind": "single",
+    "parents": [
+      68
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740306800,
+    "repeats": 8
+  },
+  {
+    "id": 276,
+    "kind": "single",
+    "parents": [
+      69
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740306900,
+    "repeats": 8
+  },
+  {
+    "id": 277,
+    "kind": "single",
+    "parents": [
+      69
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740306900,
+    "repeats": 8
+  },
+  {
+    "id": 278,
+    "kind": "single",
+    "parents": [
+      69
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740306900,
+    "repeats": 8
+  },
+  {
+    "id": 279,
+    "kind": "single",
+    "parents": [
+      69
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740306900,
+    "repeats": 8
+  },
+  {
+    "id": 280,
+    "kind": "single",
+    "parents": [
+      70
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740307000,
+    "repeats": 8
+  },
+  {
+    "id": 281,
+    "kind": "single",
+    "parents": [
+      70
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740307000,
+    "repeats": 8
+  },
+  {
+    "id": 282,
+    "kind": "single",
+    "parents": [
+      70
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740307000,
+    "repeats": 8
+  },
+  {
+    "id": 283,
+    "kind": "single",
+    "parents": [
+      70
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740307000,
+    "repeats": 8
+  },
+  {
+    "id": 284,
+    "kind": "single",
+    "parents": [
+      71
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 1,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740307100,
+    "repeats": 8
+  },
+  {
+    "id": 285,
+    "kind": "single",
+    "parents": [
+      71
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 1,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740307100,
+    "repeats": 8
+  },
+  {
+    "id": 286,
+    "kind": "single",
+    "parents": [
+      71
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 1,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740307100,
+    "repeats": 8
+  },
+  {
+    "id": 287,
+    "kind": "single",
+    "parents": [
+      71
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 1,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740307100,
+    "repeats": 8
+  },
+  {
+    "id": 288,
+    "kind": "single",
+    "parents": [
+      72
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740307200,
+    "repeats": 8
+  },
+  {
+    "id": 289,
+    "kind": "single",
+    "parents": [
+      72
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740307200,
+    "repeats": 8
+  },
+  {
+    "id": 290,
+    "kind": "single",
+    "parents": [
+      72
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740307200,
+    "repeats": 8
+  },
+  {
+    "id": 291,
+    "kind": "single",
+    "parents": [
+      72
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740307200,
+    "repeats": 8
+  },
+  {
+    "id": 292,
+    "kind": "single",
+    "parents": [
+      73
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740307300,
+    "repeats": 8
+  },
+  {
+    "id": 293,
+    "kind": "single",
+    "parents": [
+      73
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740307300,
+    "repeats": 8
+  },
+  {
+    "id": 294,
+    "kind": "single",
+    "parents": [
+      73
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740307300,
+    "repeats": 8
+  },
+  {
+    "id": 295,
+    "kind": "single",
+    "parents": [
+      73
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740307300,
+    "repeats": 8
+  },
+  {
+    "id": 296,
+    "kind": "single",
+    "parents": [
+      74
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740307400,
+    "repeats": 8
+  },
+  {
+    "id": 297,
+    "kind": "single",
+    "parents": [
+      74
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740307400,
+    "repeats": 8
+  },
+  {
+    "id": 298,
+    "kind": "single",
+    "parents": [
+      74
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740307400,
+    "repeats": 8
+  },
+  {
+    "id": 299,
+    "kind": "single",
+    "parents": [
+      74
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740307400,
+    "repeats": 8
+  },
+  {
+    "id": 300,
+    "kind": "single",
+    "parents": [
+      75
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740307500,
+    "repeats": 8
+  },
+  {
+    "id": 301,
+    "kind": "single",
+    "parents": [
+      75
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740307500,
+    "repeats": 8
+  },
+  {
+    "id": 302,
+    "kind": "single",
+    "parents": [
+      75
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740307500,
+    "repeats": 8
+  },
+  {
+    "id": 303,
+    "kind": "single",
+    "parents": [
+      75
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740307500,
+    "repeats": 8
+  },
+  {
+    "id": 304,
+    "kind": "single",
+    "parents": [
+      76
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740307600,
+    "repeats": 8
+  },
+  {
+    "id": 305,
+    "kind": "single",
+    "parents": [
+      76
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740307600,
+    "repeats": 8
+  },
+  {
+    "id": 306,
+    "kind": "single",
+    "parents": [
+      76
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740307600,
+    "repeats": 8
+  },
+  {
+    "id": 307,
+    "kind": "single",
+    "parents": [
+      76
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740307600,
+    "repeats": 8
+  },
+  {
+    "id": 308,
+    "kind": "single",
+    "parents": [
+      77
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740307700,
+    "repeats": 8
+  },
+  {
+    "id": 309,
+    "kind": "single",
+    "parents": [
+      77
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740307700,
+    "repeats": 8
+  },
+  {
+    "id": 310,
+    "kind": "single",
+    "parents": [
+      77
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740307700,
+    "repeats": 8
+  },
+  {
+    "id": 311,
+    "kind": "single",
+    "parents": [
+      77
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740307700,
+    "repeats": 8
+  },
+  {
+    "id": 312,
+    "kind": "single",
+    "parents": [
+      78
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740307800,
+    "repeats": 8
+  },
+  {
+    "id": 313,
+    "kind": "single",
+    "parents": [
+      78
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740307800,
+    "repeats": 8
+  },
+  {
+    "id": 314,
+    "kind": "single",
+    "parents": [
+      78
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740307800,
+    "repeats": 8
+  },
+  {
+    "id": 315,
+    "kind": "single",
+    "parents": [
+      78
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740307800,
+    "repeats": 8
+  },
+  {
+    "id": 316,
+    "kind": "single",
+    "parents": [
+      79
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740307900,
+    "repeats": 8
+  },
+  {
+    "id": 317,
+    "kind": "single",
+    "parents": [
+      79
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740307900,
+    "repeats": 8
+  },
+  {
+    "id": 318,
+    "kind": "single",
+    "parents": [
+      79
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740307900,
+    "repeats": 8
+  },
+  {
+    "id": 319,
+    "kind": "single",
+    "parents": [
+      79
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740307900,
+    "repeats": 8
+  },
+  {
+    "id": 320,
+    "kind": "single",
+    "parents": [
+      80
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740308000,
+    "repeats": 8
+  },
+  {
+    "id": 321,
+    "kind": "single",
+    "parents": [
+      80
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740308000,
+    "repeats": 8
+  },
+  {
+    "id": 322,
+    "kind": "single",
+    "parents": [
+      80
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740308000,
+    "repeats": 8
+  },
+  {
+    "id": 323,
+    "kind": "single",
+    "parents": [
+      80
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740308000,
+    "repeats": 8
+  },
+  {
+    "id": 324,
+    "kind": "single",
+    "parents": [
+      81
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740308100,
+    "repeats": 8
+  },
+  {
+    "id": 325,
+    "kind": "single",
+    "parents": [
+      81
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740308100,
+    "repeats": 8
+  },
+  {
+    "id": 326,
+    "kind": "single",
+    "parents": [
+      81
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740308100,
+    "repeats": 8
+  },
+  {
+    "id": 327,
+    "kind": "single",
+    "parents": [
+      81
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740308100,
+    "repeats": 8
+  },
+  {
+    "id": 328,
+    "kind": "single",
+    "parents": [
+      82
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740308200,
+    "repeats": 8
+  },
+  {
+    "id": 329,
+    "kind": "single",
+    "parents": [
+      82
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740308200,
+    "repeats": 8
+  },
+  {
+    "id": 330,
+    "kind": "single",
+    "parents": [
+      82
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740308200,
+    "repeats": 8
+  },
+  {
+    "id": 331,
+    "kind": "single",
+    "parents": [
+      82
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740308200,
+    "repeats": 8
+  },
+  {
+    "id": 332,
+    "kind": "single",
+    "parents": [
+      83
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740308300,
+    "repeats": 8
+  },
+  {
+    "id": 333,
+    "kind": "single",
+    "parents": [
+      83
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740308300,
+    "repeats": 8
+  },
+  {
+    "id": 334,
+    "kind": "single",
+    "parents": [
+      83
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740308300,
+    "repeats": 8
+  },
+  {
+    "id": 335,
+    "kind": "single",
+    "parents": [
+      83
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740308300,
+    "repeats": 8
+  },
+  {
+    "id": 336,
+    "kind": "single",
+    "parents": [
+      84
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740308400,
+    "repeats": 8
+  },
+  {
+    "id": 337,
+    "kind": "single",
+    "parents": [
+      84
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740308400,
+    "repeats": 8
+  },
+  {
+    "id": 338,
+    "kind": "single",
+    "parents": [
+      84
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740308400,
+    "repeats": 8
+  },
+  {
+    "id": 339,
+    "kind": "single",
+    "parents": [
+      84
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740308400,
+    "repeats": 8
+  },
+  {
+    "id": 340,
+    "kind": "single",
+    "parents": [
+      85
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740308500,
+    "repeats": 8
+  },
+  {
+    "id": 341,
+    "kind": "single",
+    "parents": [
+      85
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740308500,
+    "repeats": 8
+  },
+  {
+    "id": 342,
+    "kind": "single",
+    "parents": [
+      85
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740308500,
+    "repeats": 8
+  },
+  {
+    "id": 343,
+    "kind": "single",
+    "parents": [
+      85
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740308500,
+    "repeats": 8
+  },
+  {
+    "id": 344,
+    "kind": "single",
+    "parents": [
+      86
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740308600,
+    "repeats": 8
+  },
+  {
+    "id": 345,
+    "kind": "single",
+    "parents": [
+      86
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740308600,
+    "repeats": 8
+  },
+  {
+    "id": 346,
+    "kind": "single",
+    "parents": [
+      86
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740308600,
+    "repeats": 8
+  },
+  {
+    "id": 347,
+    "kind": "single",
+    "parents": [
+      86
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740308600,
+    "repeats": 8
+  },
+  {
+    "id": 348,
+    "kind": "single",
+    "parents": [
+      87
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740308700,
+    "repeats": 8
+  },
+  {
+    "id": 349,
+    "kind": "single",
+    "parents": [
+      87
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740308700,
+    "repeats": 8
+  },
+  {
+    "id": 350,
+    "kind": "single",
+    "parents": [
+      87
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740308700,
+    "repeats": 8
+  },
+  {
+    "id": 351,
+    "kind": "single",
+    "parents": [
+      87
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740308700,
+    "repeats": 8
+  },
+  {
+    "id": 352,
+    "kind": "single",
+    "parents": [
+      88
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740308800,
+    "repeats": 8
+  },
+  {
+    "id": 353,
+    "kind": "single",
+    "parents": [
+      88
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740308800,
+    "repeats": 8
+  },
+  {
+    "id": 354,
+    "kind": "single",
+    "parents": [
+      88
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740308800,
+    "repeats": 8
+  },
+  {
+    "id": 355,
+    "kind": "single",
+    "parents": [
+      88
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740308800,
+    "repeats": 8
+  },
+  {
+    "id": 356,
+    "kind": "single",
+    "parents": [
+      89
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740308900,
+    "repeats": 8
+  },
+  {
+    "id": 357,
+    "kind": "single",
+    "parents": [
+      89
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740308900,
+    "repeats": 8
+  },
+  {
+    "id": 358,
+    "kind": "single",
+    "parents": [
+      89
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740308900,
+    "repeats": 8
+  },
+  {
+    "id": 359,
+    "kind": "single",
+    "parents": [
+      89
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740308900,
+    "repeats": 8
+  },
+  {
+    "id": 360,
+    "kind": "single",
+    "parents": [
+      90
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740309000,
+    "repeats": 8
+  },
+  {
+    "id": 361,
+    "kind": "single",
+    "parents": [
+      90
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740309000,
+    "repeats": 8
+  },
+  {
+    "id": 362,
+    "kind": "single",
+    "parents": [
+      90
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740309000,
+    "repeats": 8
+  },
+  {
+    "id": 363,
+    "kind": "single",
+    "parents": [
+      90
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740309000,
+    "repeats": 8
+  },
+  {
+    "id": 364,
+    "kind": "single",
+    "parents": [
+      91
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740309100,
+    "repeats": 8
+  },
+  {
+    "id": 365,
+    "kind": "single",
+    "parents": [
+      91
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740309100,
+    "repeats": 8
+  },
+  {
+    "id": 366,
+    "kind": "single",
+    "parents": [
+      91
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740309100,
+    "repeats": 8
+  },
+  {
+    "id": 367,
+    "kind": "single",
+    "parents": [
+      91
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740309100,
+    "repeats": 8
+  },
+  {
+    "id": 368,
+    "kind": "single",
+    "parents": [
+      92
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740309200,
+    "repeats": 8
+  },
+  {
+    "id": 369,
+    "kind": "single",
+    "parents": [
+      92
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740309200,
+    "repeats": 8
+  },
+  {
+    "id": 370,
+    "kind": "single",
+    "parents": [
+      92
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740309200,
+    "repeats": 8
+  },
+  {
+    "id": 371,
+    "kind": "single",
+    "parents": [
+      92
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740309200,
+    "repeats": 8
+  },
+  {
+    "id": 372,
+    "kind": "single",
+    "parents": [
+      93
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740309300,
+    "repeats": 8
+  },
+  {
+    "id": 373,
+    "kind": "single",
+    "parents": [
+      93
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740309300,
+    "repeats": 8
+  },
+  {
+    "id": 374,
+    "kind": "single",
+    "parents": [
+      93
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740309300,
+    "repeats": 8
+  },
+  {
+    "id": 375,
+    "kind": "single",
+    "parents": [
+      93
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740309300,
+    "repeats": 8
+  },
+  {
+    "id": 376,
+    "kind": "single",
+    "parents": [
+      94
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740309400,
+    "repeats": 8
+  },
+  {
+    "id": 377,
+    "kind": "single",
+    "parents": [
+      94
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740309400,
+    "repeats": 8
+  },
+  {
+    "id": 378,
+    "kind": "single",
+    "parents": [
+      94
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740309400,
+    "repeats": 8
+  },
+  {
+    "id": 379,
+    "kind": "single",
+    "parents": [
+      94
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740309400,
+    "repeats": 8
+  },
+  {
+    "id": 380,
+    "kind": "single",
+    "parents": [
+      95
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740309500,
+    "repeats": 8
+  },
+  {
+    "id": 381,
+    "kind": "single",
+    "parents": [
+      95
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740309500,
+    "repeats": 8
+  },
+  {
+    "id": 382,
+    "kind": "single",
+    "parents": [
+      95
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740309500,
+    "repeats": 8
+  },
+  {
+    "id": 383,
+    "kind": "single",
+    "parents": [
+      95
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740309500,
+    "repeats": 8
+  },
+  {
+    "id": 384,
+    "kind": "single",
+    "parents": [
+      96
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740309600,
+    "repeats": 8
+  },
+  {
+    "id": 385,
+    "kind": "single",
+    "parents": [
+      96
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740309600,
+    "repeats": 8
+  },
+  {
+    "id": 386,
+    "kind": "single",
+    "parents": [
+      96
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740309600,
+    "repeats": 8
+  },
+  {
+    "id": 387,
+    "kind": "single",
+    "parents": [
+      96
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740309600,
+    "repeats": 8
+  },
+  {
+    "id": 388,
+    "kind": "single",
+    "parents": [
+      97
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740309700,
+    "repeats": 8
+  },
+  {
+    "id": 389,
+    "kind": "single",
+    "parents": [
+      97
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740309700,
+    "repeats": 8
+  },
+  {
+    "id": 390,
+    "kind": "single",
+    "parents": [
+      97
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740309700,
+    "repeats": 8
+  },
+  {
+    "id": 391,
+    "kind": "single",
+    "parents": [
+      97
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740309700,
+    "repeats": 8
+  },
+  {
+    "id": 392,
+    "kind": "single",
+    "parents": [
+      98
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740309800,
+    "repeats": 8
+  },
+  {
+    "id": 393,
+    "kind": "single",
+    "parents": [
+      98
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740309800,
+    "repeats": 8
+  },
+  {
+    "id": 394,
+    "kind": "single",
+    "parents": [
+      98
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740309800,
+    "repeats": 8
+  },
+  {
+    "id": 395,
+    "kind": "single",
+    "parents": [
+      98
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740309800,
+    "repeats": 8
+  },
+  {
+    "id": 396,
+    "kind": "single",
+    "parents": [
+      99
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740309900,
+    "repeats": 8
+  },
+  {
+    "id": 397,
+    "kind": "single",
+    "parents": [
+      99
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740309900,
+    "repeats": 8
+  },
+  {
+    "id": 398,
+    "kind": "single",
+    "parents": [
+      99
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740309900,
+    "repeats": 8
+  },
+  {
+    "id": 399,
+    "kind": "single",
+    "parents": [
+      99
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740309900,
+    "repeats": 8
+  },
+  {
+    "id": 400,
+    "kind": "single",
+    "parents": [
+      100
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740310000,
+    "repeats": 8
+  },
+  {
+    "id": 401,
+    "kind": "single",
+    "parents": [
+      100
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740310000,
+    "repeats": 8
+  },
+  {
+    "id": 402,
+    "kind": "single",
+    "parents": [
+      100
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740310000,
+    "repeats": 8
+  },
+  {
+    "id": 403,
+    "kind": "single",
+    "parents": [
+      100
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740310000,
+    "repeats": 8
+  },
+  {
+    "id": 404,
+    "kind": "single",
+    "parents": [
+      101
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740310100,
+    "repeats": 8
+  },
+  {
+    "id": 405,
+    "kind": "single",
+    "parents": [
+      101
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740310100,
+    "repeats": 8
+  },
+  {
+    "id": 406,
+    "kind": "single",
+    "parents": [
+      101
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740310100,
+    "repeats": 8
+  },
+  {
+    "id": 407,
+    "kind": "single",
+    "parents": [
+      101
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740310100,
+    "repeats": 8
+  },
+  {
+    "id": 408,
+    "kind": "single",
+    "parents": [
+      102
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740310200,
+    "repeats": 8
+  },
+  {
+    "id": 409,
+    "kind": "single",
+    "parents": [
+      102
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740310200,
+    "repeats": 8
+  },
+  {
+    "id": 410,
+    "kind": "single",
+    "parents": [
+      102
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740310200,
+    "repeats": 8
+  },
+  {
+    "id": 411,
+    "kind": "single",
+    "parents": [
+      102
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740310200,
+    "repeats": 8
+  },
+  {
+    "id": 412,
+    "kind": "single",
+    "parents": [
+      103
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 2,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740310300,
+    "repeats": 8
+  },
+  {
+    "id": 413,
+    "kind": "single",
+    "parents": [
+      103
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 2,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740310300,
+    "repeats": 8
+  },
+  {
+    "id": 414,
+    "kind": "single",
+    "parents": [
+      103
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 2,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740310300,
+    "repeats": 8
+  },
+  {
+    "id": 415,
+    "kind": "single",
+    "parents": [
+      103
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 2,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740310300,
+    "repeats": 8
+  },
+  {
+    "id": 416,
+    "kind": "single",
+    "parents": [
+      104
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740310400,
+    "repeats": 8
+  },
+  {
+    "id": 417,
+    "kind": "single",
+    "parents": [
+      104
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740310400,
+    "repeats": 8
+  },
+  {
+    "id": 418,
+    "kind": "single",
+    "parents": [
+      104
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740310400,
+    "repeats": 8
+  },
+  {
+    "id": 419,
+    "kind": "single",
+    "parents": [
+      104
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 0,
+    "role": "formal",
+    "seed_base": 740310400,
+    "repeats": 8
+  },
+  {
+    "id": 420,
+    "kind": "single",
+    "parents": [
+      105
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740310500,
+    "repeats": 8
+  },
+  {
+    "id": 421,
+    "kind": "single",
+    "parents": [
+      105
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740310500,
+    "repeats": 8
+  },
+  {
+    "id": 422,
+    "kind": "single",
+    "parents": [
+      105
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740310500,
+    "repeats": 8
+  },
+  {
+    "id": 423,
+    "kind": "single",
+    "parents": [
+      105
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 1,
+    "role": "formal",
+    "seed_base": 740310500,
+    "repeats": 8
+  },
+  {
+    "id": 424,
+    "kind": "single",
+    "parents": [
+      106
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740310600,
+    "repeats": 8
+  },
+  {
+    "id": 425,
+    "kind": "single",
+    "parents": [
+      106
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740310600,
+    "repeats": 8
+  },
+  {
+    "id": 426,
+    "kind": "single",
+    "parents": [
+      106
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740310600,
+    "repeats": 8
+  },
+  {
+    "id": 427,
+    "kind": "single",
+    "parents": [
+      106
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 2,
+    "role": "formal",
+    "seed_base": 740310600,
+    "repeats": 8
+  },
+  {
+    "id": 428,
+    "kind": "single",
+    "parents": [
+      107
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740310700,
+    "repeats": 8
+  },
+  {
+    "id": 429,
+    "kind": "single",
+    "parents": [
+      107
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740310700,
+    "repeats": 8
+  },
+  {
+    "id": 430,
+    "kind": "single",
+    "parents": [
+      107
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740310700,
+    "repeats": 8
+  },
+  {
+    "id": 431,
+    "kind": "single",
+    "parents": [
+      107
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 3,
+    "role": "formal",
+    "seed_base": 740310700,
+    "repeats": 8
+  },
+  {
+    "id": 432,
+    "kind": "single",
+    "parents": [
+      108
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740310800,
+    "repeats": 8
+  },
+  {
+    "id": 433,
+    "kind": "single",
+    "parents": [
+      108
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740310800,
+    "repeats": 8
+  },
+  {
+    "id": 434,
+    "kind": "single",
+    "parents": [
+      108
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740310800,
+    "repeats": 8
+  },
+  {
+    "id": 435,
+    "kind": "single",
+    "parents": [
+      108
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 4,
+    "role": "formal",
+    "seed_base": 740310800,
+    "repeats": 8
+  },
+  {
+    "id": 436,
+    "kind": "single",
+    "parents": [
+      109
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740310900,
+    "repeats": 8
+  },
+  {
+    "id": 437,
+    "kind": "single",
+    "parents": [
+      109
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740310900,
+    "repeats": 8
+  },
+  {
+    "id": 438,
+    "kind": "single",
+    "parents": [
+      109
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740310900,
+    "repeats": 8
+  },
+  {
+    "id": 439,
+    "kind": "single",
+    "parents": [
+      109
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 5,
+    "role": "formal",
+    "seed_base": 740310900,
+    "repeats": 8
+  },
+  {
+    "id": 440,
+    "kind": "single",
+    "parents": [
+      110
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740311000,
+    "repeats": 8
+  },
+  {
+    "id": 441,
+    "kind": "single",
+    "parents": [
+      110
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740311000,
+    "repeats": 8
+  },
+  {
+    "id": 442,
+    "kind": "single",
+    "parents": [
+      110
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740311000,
+    "repeats": 8
+  },
+  {
+    "id": 443,
+    "kind": "single",
+    "parents": [
+      110
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 6,
+    "role": "formal",
+    "seed_base": 740311000,
+    "repeats": 8
+  },
+  {
+    "id": 444,
+    "kind": "single",
+    "parents": [
+      111
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740311100,
+    "repeats": 8
+  },
+  {
+    "id": 445,
+    "kind": "single",
+    "parents": [
+      111
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740311100,
+    "repeats": 8
+  },
+  {
+    "id": 446,
+    "kind": "single",
+    "parents": [
+      111
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740311100,
+    "repeats": 8
+  },
+  {
+    "id": 447,
+    "kind": "single",
+    "parents": [
+      111
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 7,
+    "role": "formal",
+    "seed_base": 740311100,
+    "repeats": 8
+  },
+  {
+    "id": 448,
+    "kind": "single",
+    "parents": [
+      112
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740311200,
+    "repeats": 8
+  },
+  {
+    "id": 449,
+    "kind": "single",
+    "parents": [
+      112
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740311200,
+    "repeats": 8
+  },
+  {
+    "id": 450,
+    "kind": "single",
+    "parents": [
+      112
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740311200,
+    "repeats": 8
+  },
+  {
+    "id": 451,
+    "kind": "single",
+    "parents": [
+      112
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 8,
+    "role": "formal",
+    "seed_base": 740311200,
+    "repeats": 8
+  },
+  {
+    "id": 452,
+    "kind": "single",
+    "parents": [
+      113
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740311300,
+    "repeats": 8
+  },
+  {
+    "id": 453,
+    "kind": "single",
+    "parents": [
+      113
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740311300,
+    "repeats": 8
+  },
+  {
+    "id": 454,
+    "kind": "single",
+    "parents": [
+      113
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740311300,
+    "repeats": 8
+  },
+  {
+    "id": 455,
+    "kind": "single",
+    "parents": [
+      113
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 9,
+    "role": "formal",
+    "seed_base": 740311300,
+    "repeats": 8
+  },
+  {
+    "id": 456,
+    "kind": "single",
+    "parents": [
+      114
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740311400,
+    "repeats": 8
+  },
+  {
+    "id": 457,
+    "kind": "single",
+    "parents": [
+      114
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740311400,
+    "repeats": 8
+  },
+  {
+    "id": 458,
+    "kind": "single",
+    "parents": [
+      114
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740311400,
+    "repeats": 8
+  },
+  {
+    "id": 459,
+    "kind": "single",
+    "parents": [
+      114
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 10,
+    "role": "formal",
+    "seed_base": 740311400,
+    "repeats": 8
+  },
+  {
+    "id": 460,
+    "kind": "single",
+    "parents": [
+      115
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740311500,
+    "repeats": 8
+  },
+  {
+    "id": 461,
+    "kind": "single",
+    "parents": [
+      115
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740311500,
+    "repeats": 8
+  },
+  {
+    "id": 462,
+    "kind": "single",
+    "parents": [
+      115
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740311500,
+    "repeats": 8
+  },
+  {
+    "id": 463,
+    "kind": "single",
+    "parents": [
+      115
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 11,
+    "role": "formal",
+    "seed_base": 740311500,
+    "repeats": 8
+  },
+  {
+    "id": 464,
+    "kind": "single",
+    "parents": [
+      116
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740311600,
+    "repeats": 8
+  },
+  {
+    "id": 465,
+    "kind": "single",
+    "parents": [
+      116
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740311600,
+    "repeats": 8
+  },
+  {
+    "id": 466,
+    "kind": "single",
+    "parents": [
+      116
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740311600,
+    "repeats": 8
+  },
+  {
+    "id": 467,
+    "kind": "single",
+    "parents": [
+      116
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 12,
+    "role": "formal",
+    "seed_base": 740311600,
+    "repeats": 8
+  },
+  {
+    "id": 468,
+    "kind": "single",
+    "parents": [
+      117
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740311700,
+    "repeats": 8
+  },
+  {
+    "id": 469,
+    "kind": "single",
+    "parents": [
+      117
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740311700,
+    "repeats": 8
+  },
+  {
+    "id": 470,
+    "kind": "single",
+    "parents": [
+      117
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740311700,
+    "repeats": 8
+  },
+  {
+    "id": 471,
+    "kind": "single",
+    "parents": [
+      117
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 13,
+    "role": "formal",
+    "seed_base": 740311700,
+    "repeats": 8
+  },
+  {
+    "id": 472,
+    "kind": "single",
+    "parents": [
+      118
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740311800,
+    "repeats": 8
+  },
+  {
+    "id": 473,
+    "kind": "single",
+    "parents": [
+      118
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740311800,
+    "repeats": 8
+  },
+  {
+    "id": 474,
+    "kind": "single",
+    "parents": [
+      118
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740311800,
+    "repeats": 8
+  },
+  {
+    "id": 475,
+    "kind": "single",
+    "parents": [
+      118
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 14,
+    "role": "formal",
+    "seed_base": 740311800,
+    "repeats": 8
+  },
+  {
+    "id": 476,
+    "kind": "single",
+    "parents": [
+      119
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740311900,
+    "repeats": 8
+  },
+  {
+    "id": 477,
+    "kind": "single",
+    "parents": [
+      119
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740311900,
+    "repeats": 8
+  },
+  {
+    "id": 478,
+    "kind": "single",
+    "parents": [
+      119
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740311900,
+    "repeats": 8
+  },
+  {
+    "id": 479,
+    "kind": "single",
+    "parents": [
+      119
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 15,
+    "role": "formal",
+    "seed_base": 740311900,
+    "repeats": 8
+  },
+  {
+    "id": 480,
+    "kind": "single",
+    "parents": [
+      120
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740312000,
+    "repeats": 8
+  },
+  {
+    "id": 481,
+    "kind": "single",
+    "parents": [
+      120
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740312000,
+    "repeats": 8
+  },
+  {
+    "id": 482,
+    "kind": "single",
+    "parents": [
+      120
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740312000,
+    "repeats": 8
+  },
+  {
+    "id": 483,
+    "kind": "single",
+    "parents": [
+      120
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 16,
+    "role": "formal",
+    "seed_base": 740312000,
+    "repeats": 8
+  },
+  {
+    "id": 484,
+    "kind": "single",
+    "parents": [
+      121
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740312100,
+    "repeats": 8
+  },
+  {
+    "id": 485,
+    "kind": "single",
+    "parents": [
+      121
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740312100,
+    "repeats": 8
+  },
+  {
+    "id": 486,
+    "kind": "single",
+    "parents": [
+      121
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740312100,
+    "repeats": 8
+  },
+  {
+    "id": 487,
+    "kind": "single",
+    "parents": [
+      121
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 17,
+    "role": "formal",
+    "seed_base": 740312100,
+    "repeats": 8
+  },
+  {
+    "id": 488,
+    "kind": "single",
+    "parents": [
+      122
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740312200,
+    "repeats": 8
+  },
+  {
+    "id": 489,
+    "kind": "single",
+    "parents": [
+      122
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740312200,
+    "repeats": 8
+  },
+  {
+    "id": 490,
+    "kind": "single",
+    "parents": [
+      122
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740312200,
+    "repeats": 8
+  },
+  {
+    "id": 491,
+    "kind": "single",
+    "parents": [
+      122
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 18,
+    "role": "formal",
+    "seed_base": 740312200,
+    "repeats": 8
+  },
+  {
+    "id": 492,
+    "kind": "single",
+    "parents": [
+      123
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740312300,
+    "repeats": 8
+  },
+  {
+    "id": 493,
+    "kind": "single",
+    "parents": [
+      123
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740312300,
+    "repeats": 8
+  },
+  {
+    "id": 494,
+    "kind": "single",
+    "parents": [
+      123
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740312300,
+    "repeats": 8
+  },
+  {
+    "id": 495,
+    "kind": "single",
+    "parents": [
+      123
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 19,
+    "role": "formal",
+    "seed_base": 740312300,
+    "repeats": 8
+  },
+  {
+    "id": 496,
+    "kind": "single",
+    "parents": [
+      124
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740312400,
+    "repeats": 8
+  },
+  {
+    "id": 497,
+    "kind": "single",
+    "parents": [
+      124
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740312400,
+    "repeats": 8
+  },
+  {
+    "id": 498,
+    "kind": "single",
+    "parents": [
+      124
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740312400,
+    "repeats": 8
+  },
+  {
+    "id": 499,
+    "kind": "single",
+    "parents": [
+      124
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 20,
+    "role": "formal",
+    "seed_base": 740312400,
+    "repeats": 8
+  },
+  {
+    "id": 500,
+    "kind": "single",
+    "parents": [
+      125
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740312500,
+    "repeats": 8
+  },
+  {
+    "id": 501,
+    "kind": "single",
+    "parents": [
+      125
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740312500,
+    "repeats": 8
+  },
+  {
+    "id": 502,
+    "kind": "single",
+    "parents": [
+      125
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740312500,
+    "repeats": 8
+  },
+  {
+    "id": 503,
+    "kind": "single",
+    "parents": [
+      125
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 21,
+    "role": "formal",
+    "seed_base": 740312500,
+    "repeats": 8
+  },
+  {
+    "id": 504,
+    "kind": "single",
+    "parents": [
+      126
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740312600,
+    "repeats": 8
+  },
+  {
+    "id": 505,
+    "kind": "single",
+    "parents": [
+      126
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740312600,
+    "repeats": 8
+  },
+  {
+    "id": 506,
+    "kind": "single",
+    "parents": [
+      126
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740312600,
+    "repeats": 8
+  },
+  {
+    "id": 507,
+    "kind": "single",
+    "parents": [
+      126
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 22,
+    "role": "formal",
+    "seed_base": 740312600,
+    "repeats": 8
+  },
+  {
+    "id": 508,
+    "kind": "single",
+    "parents": [
+      127
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740312700,
+    "repeats": 8
+  },
+  {
+    "id": 509,
+    "kind": "single",
+    "parents": [
+      127
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740312700,
+    "repeats": 8
+  },
+  {
+    "id": 510,
+    "kind": "single",
+    "parents": [
+      127
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740312700,
+    "repeats": 8
+  },
+  {
+    "id": 511,
+    "kind": "single",
+    "parents": [
+      127
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 23,
+    "role": "formal",
+    "seed_base": 740312700,
+    "repeats": 8
+  },
+  {
+    "id": 512,
+    "kind": "single",
+    "parents": [
+      128
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740312800,
+    "repeats": 8
+  },
+  {
+    "id": 513,
+    "kind": "single",
+    "parents": [
+      128
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740312800,
+    "repeats": 8
+  },
+  {
+    "id": 514,
+    "kind": "single",
+    "parents": [
+      128
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740312800,
+    "repeats": 8
+  },
+  {
+    "id": 515,
+    "kind": "single",
+    "parents": [
+      128
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 24,
+    "role": "formal",
+    "seed_base": 740312800,
+    "repeats": 8
+  },
+  {
+    "id": 516,
+    "kind": "single",
+    "parents": [
+      129
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740312900,
+    "repeats": 8
+  },
+  {
+    "id": 517,
+    "kind": "single",
+    "parents": [
+      129
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740312900,
+    "repeats": 8
+  },
+  {
+    "id": 518,
+    "kind": "single",
+    "parents": [
+      129
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740312900,
+    "repeats": 8
+  },
+  {
+    "id": 519,
+    "kind": "single",
+    "parents": [
+      129
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 25,
+    "role": "formal",
+    "seed_base": 740312900,
+    "repeats": 8
+  },
+  {
+    "id": 520,
+    "kind": "single",
+    "parents": [
+      130
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740313000,
+    "repeats": 8
+  },
+  {
+    "id": 521,
+    "kind": "single",
+    "parents": [
+      130
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740313000,
+    "repeats": 8
+  },
+  {
+    "id": 522,
+    "kind": "single",
+    "parents": [
+      130
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740313000,
+    "repeats": 8
+  },
+  {
+    "id": 523,
+    "kind": "single",
+    "parents": [
+      130
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 26,
+    "role": "formal",
+    "seed_base": 740313000,
+    "repeats": 8
+  },
+  {
+    "id": 524,
+    "kind": "single",
+    "parents": [
+      131
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740313100,
+    "repeats": 8
+  },
+  {
+    "id": 525,
+    "kind": "single",
+    "parents": [
+      131
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740313100,
+    "repeats": 8
+  },
+  {
+    "id": 526,
+    "kind": "single",
+    "parents": [
+      131
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740313100,
+    "repeats": 8
+  },
+  {
+    "id": 527,
+    "kind": "single",
+    "parents": [
+      131
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 27,
+    "role": "formal",
+    "seed_base": 740313100,
+    "repeats": 8
+  },
+  {
+    "id": 528,
+    "kind": "single",
+    "parents": [
+      132
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740313200,
+    "repeats": 8
+  },
+  {
+    "id": 529,
+    "kind": "single",
+    "parents": [
+      132
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740313200,
+    "repeats": 8
+  },
+  {
+    "id": 530,
+    "kind": "single",
+    "parents": [
+      132
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740313200,
+    "repeats": 8
+  },
+  {
+    "id": 531,
+    "kind": "single",
+    "parents": [
+      132
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 28,
+    "role": "formal",
+    "seed_base": 740313200,
+    "repeats": 8
+  },
+  {
+    "id": 532,
+    "kind": "single",
+    "parents": [
+      133
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740313300,
+    "repeats": 8
+  },
+  {
+    "id": 533,
+    "kind": "single",
+    "parents": [
+      133
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740313300,
+    "repeats": 8
+  },
+  {
+    "id": 534,
+    "kind": "single",
+    "parents": [
+      133
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740313300,
+    "repeats": 8
+  },
+  {
+    "id": 535,
+    "kind": "single",
+    "parents": [
+      133
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 29,
+    "role": "formal",
+    "seed_base": 740313300,
+    "repeats": 8
+  },
+  {
+    "id": 536,
+    "kind": "single",
+    "parents": [
+      134
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740313400,
+    "repeats": 8
+  },
+  {
+    "id": 537,
+    "kind": "single",
+    "parents": [
+      134
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740313400,
+    "repeats": 8
+  },
+  {
+    "id": 538,
+    "kind": "single",
+    "parents": [
+      134
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740313400,
+    "repeats": 8
+  },
+  {
+    "id": 539,
+    "kind": "single",
+    "parents": [
+      134
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 30,
+    "role": "formal",
+    "seed_base": 740313400,
+    "repeats": 8
+  },
+  {
+    "id": 540,
+    "kind": "single",
+    "parents": [
+      135
+    ],
+    "times_ns": [
+      128.0
+    ],
+    "phase_ns": 0.0,
+    "group": 3,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740313500,
+    "repeats": 8
+  },
+  {
+    "id": 541,
+    "kind": "single",
+    "parents": [
+      135
+    ],
+    "times_ns": [
+      128.5
+    ],
+    "phase_ns": 0.5,
+    "group": 3,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740313500,
+    "repeats": 8
+  },
+  {
+    "id": 542,
+    "kind": "single",
+    "parents": [
+      135
+    ],
+    "times_ns": [
+      129.0
+    ],
+    "phase_ns": 1.0,
+    "group": 3,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740313500,
+    "repeats": 8
+  },
+  {
+    "id": 543,
+    "kind": "single",
+    "parents": [
+      135
+    ],
+    "times_ns": [
+      129.5
+    ],
+    "phase_ns": 1.5,
+    "group": 3,
+    "block": 31,
+    "role": "formal",
+    "seed_base": 740313500,
+    "repeats": 8
+  }
+]

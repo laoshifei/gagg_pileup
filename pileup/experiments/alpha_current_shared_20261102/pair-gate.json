@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "failures": [],
+  "no_pair_energy_fits": true,
+  "default_changed": false,
+  "next": "Freeze a paired known-K/time energy-fit comparison on these unchanged waveforms"
+}
